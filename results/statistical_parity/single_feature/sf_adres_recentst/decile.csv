@@ -1,0 +1,5731 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",13,2.57936507936508,"real"
+"2",1,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",14,2.72904483430799,"real"
+"3",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",2,5.26315789473684,"real"
+"4",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",26,8.63787375415282,"real"
+"5",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",199,14.3682310469314,"real"
+"6",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",32,6.83760683760684,"real"
+"7",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",87,7.76092774308653,"real"
+"8",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",35,13.7795275590551,"real"
+"9",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",32,7.60095011876485,"real"
+"10",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",38,8.11965811965812,"real"
+"11",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",113,8.45808383233533,"real"
+"12",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",55,10.7003891050584,"real"
+"13",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",5,2.25225225225225,"real"
+"14",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",15,5.24475524475525,"real"
+"15",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",76,18.6732186732187,"real"
+"16",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",130,22.0338983050847,"real"
+"17",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",19,4.88431876606684,"real"
+"18",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",38,9.76863753213368,"real"
+"19",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",93,13.7573964497041,"real"
+"20",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",28,5.41586073500967,"real"
+"21",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",37,7.56646216768916,"real"
+"22",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",37,13.3093525179856,"real"
+"23",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",58,16.7630057803468,"real"
+"24",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",40,12.1212121212121,"real"
+"25",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",43,10.6965174129353,"real"
+"26",2,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",29,5.75396825396825,"real"
+"27",2,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",35,6.82261208576998,"real"
+"28",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",23,7.64119601328904,"real"
+"29",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",191,13.7906137184116,"real"
+"30",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",38,8.11965811965812,"real"
+"31",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",101,9.00981266726137,"real"
+"32",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",27,10.6299212598425,"real"
+"33",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",29,6.88836104513064,"real"
+"34",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",49,10.4700854700855,"real"
+"35",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",114,8.53293413173653,"real"
+"36",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",56,10.8949416342412,"real"
+"37",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",18,8.10810810810811,"real"
+"38",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",32,11.1888111888112,"real"
+"39",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",61,14.987714987715,"real"
+"40",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",75,12.7118644067797,"real"
+"41",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",32,8.22622107969152,"real"
+"42",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",47,12.0822622107969,"real"
+"43",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",78,11.5384615384615,"real"
+"44",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",53,10.2514506769826,"real"
+"45",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",41,8.38445807770961,"real"
+"46",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",28,10.0719424460432,"real"
+"47",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",42,12.1387283236994,"real"
+"48",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",31,9.39393939393939,"real"
+"49",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",35,8.70646766169154,"real"
+"50",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",51,10.1190476190476,"real"
+"51",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",50,9.74658869395711,"real"
+"52",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",2,5.26315789473684,"real"
+"53",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",27,8.97009966777409,"real"
+"54",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",142,10.2527075812274,"real"
+"55",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",49,10.4700854700855,"real"
+"56",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",92,8.20695807314897,"real"
+"57",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",26,10.2362204724409,"real"
+"58",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",46,10.9263657957245,"real"
+"59",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",49,10.4700854700855,"real"
+"60",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",114,8.53293413173653,"real"
+"61",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",54,10.5058365758755,"real"
+"62",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",16,7.20720720720721,"real"
+"63",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",28,9.79020979020979,"real"
+"64",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",49,12.039312039312,"real"
+"65",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",62,10.5084745762712,"real"
+"66",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",40,10.2827763496144,"real"
+"67",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",48,12.3393316195373,"real"
+"68",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",88,13.0177514792899,"real"
+"69",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",41,7.93036750483559,"real"
+"70",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",48,9.8159509202454,"real"
+"71",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",21,7.55395683453237,"real"
+"72",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",50,14.4508670520231,"real"
+"73",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",32,9.6969696969697,"real"
+"74",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",40,9.9502487562189,"real"
+"75",4,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",68,13.4920634920635,"real"
+"76",4,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",49,9.55165692007797,"real"
+"77",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",3,7.89473684210526,"real"
+"78",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",33,10.9634551495017,"real"
+"79",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",126,9.09747292418773,"real"
+"80",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",54,11.5384615384615,"real"
+"81",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",97,8.65298840321142,"real"
+"82",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",31,12.2047244094488,"real"
+"83",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",45,10.6888361045131,"real"
+"84",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",46,9.82905982905983,"real"
+"85",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",123,9.2065868263473,"real"
+"86",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",65,12.6459143968872,"real"
+"87",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",21,9.45945945945946,"real"
+"88",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",30,10.4895104895105,"real"
+"89",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",34,8.35380835380835,"real"
+"90",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",47,7.96610169491525,"real"
+"91",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",52,13.3676092544987,"real"
+"92",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",32,8.22622107969152,"real"
+"93",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",84,12.4260355029586,"real"
+"94",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",47,9.09090909090909,"real"
+"95",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",45,9.20245398773006,"real"
+"96",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",32,11.5107913669065,"real"
+"97",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",32,9.2485549132948,"real"
+"98",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",28,8.48484848484848,"real"
+"99",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",41,10.1990049751244,"real"
+"100",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",57,11.3095238095238,"real"
+"101",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",53,10.3313840155945,"real"
+"102",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",6,15.7894736842105,"real"
+"103",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",27,8.97009966777409,"real"
+"104",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",125,9.02527075812274,"real"
+"105",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",38,8.11965811965812,"real"
+"106",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",114,10.1694915254237,"real"
+"107",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",24,9.44881889763779,"real"
+"108",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",56,13.3016627078385,"real"
+"109",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",63,13.4615384615385,"real"
+"110",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",132,9.88023952095808,"real"
+"111",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",59,11.4785992217899,"real"
+"112",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",19,8.55855855855856,"real"
+"113",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",26,9.09090909090909,"real"
+"114",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",29,7.12530712530712,"real"
+"115",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",49,8.30508474576271,"real"
+"116",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",30,7.7120822622108,"real"
+"117",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",35,8.9974293059126,"real"
+"118",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",76,11.2426035502959,"real"
+"119",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",62,11.9922630560928,"real"
+"120",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",45,9.20245398773006,"real"
+"121",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",26,9.35251798561151,"real"
+"122",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",34,9.82658959537572,"real"
+"123",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",41,12.4242424242424,"real"
+"124",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",39,9.70149253731343,"real"
+"125",6,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",78,15.4761904761905,"real"
+"126",6,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",58,11.3060428849903,"real"
+"127",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",2,5.26315789473684,"real"
+"128",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",33,10.9634551495017,"real"
+"129",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",130,9.38628158844765,"real"
+"130",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",55,11.7521367521368,"real"
+"131",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",121,10.7939339875112,"real"
+"132",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",29,11.4173228346457,"real"
+"133",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",35,8.31353919239905,"real"
+"134",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",46,9.82905982905983,"real"
+"135",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",139,10.4041916167665,"real"
+"136",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",48,9.33852140077821,"real"
+"137",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",28,12.6126126126126,"real"
+"138",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",33,11.5384615384615,"real"
+"139",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",33,8.10810810810811,"real"
+"140",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",48,8.13559322033898,"real"
+"141",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",32,8.22622107969152,"real"
+"142",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",34,8.74035989717224,"real"
+"143",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",57,8.43195266272189,"real"
+"144",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",58,11.2185686653772,"real"
+"145",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",54,11.0429447852761,"real"
+"146",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",18,6.47482014388489,"real"
+"147",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",34,9.82658959537572,"real"
+"148",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",30,9.09090909090909,"real"
+"149",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",31,7.71144278606965,"real"
+"150",7,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",51,10.1190476190476,"real"
+"151",7,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",70,13.64522417154,"real"
+"152",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",3,7.89473684210526,"real"
+"153",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",31,10.2990033222591,"real"
+"154",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",127,9.16967509025271,"real"
+"155",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",42,8.97435897435897,"real"
+"156",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",111,9.90187332738626,"real"
+"157",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",20,7.8740157480315,"real"
+"158",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",48,11.4014251781473,"real"
+"159",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",52,11.1111111111111,"real"
+"160",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",153,11.4520958083832,"real"
+"161",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",54,10.5058365758755,"real"
+"162",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",22,9.90990990990991,"real"
+"163",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",28,9.79020979020979,"real"
+"164",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",32,7.86240786240786,"real"
+"165",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",50,8.47457627118644,"real"
+"166",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",43,11.0539845758355,"real"
+"167",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",45,11.5681233933162,"real"
+"168",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",63,9.31952662721893,"real"
+"169",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",55,10.6382978723404,"real"
+"170",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",47,9.61145194274029,"real"
+"171",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",30,10.7913669064748,"real"
+"172",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",29,8.38150289017341,"real"
+"173",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",21,6.36363636363636,"real"
+"174",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",37,9.20398009950249,"real"
+"175",8,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",48,9.52380952380952,"real"
+"176",8,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",62,12.0857699805068,"real"
+"177",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",4,10.5263157894737,"real"
+"178",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",33,10.9634551495017,"real"
+"179",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",110,7.94223826714801,"real"
+"180",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",49,10.4700854700855,"real"
+"181",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",126,11.2399643175736,"real"
+"182",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",21,8.26771653543307,"real"
+"183",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",54,12.8266033254157,"real"
+"184",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",46,9.82905982905983,"real"
+"185",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",143,10.7035928143713,"real"
+"186",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",51,9.92217898832685,"real"
+"187",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",28,12.6126126126126,"real"
+"188",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",34,11.8881118881119,"real"
+"189",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",26,6.38820638820639,"real"
+"190",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",47,7.96610169491525,"real"
+"191",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",51,13.1105398457584,"real"
+"192",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",39,10.025706940874,"real"
+"193",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",43,6.36094674556213,"real"
+"194",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",65,12.5725338491296,"real"
+"195",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",49,10.0204498977505,"real"
+"196",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",29,10.431654676259,"real"
+"197",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",27,7.80346820809249,"real"
+"198",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",31,9.39393939393939,"real"
+"199",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",48,11.9402985074627,"real"
+"200",9,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",61,12.1031746031746,"real"
+"201",9,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1,100,"real"
+"202",9,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",69,13.4502923976608,"real"
+"203",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",10,26.3157894736842,"real"
+"204",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",31,10.2990033222591,"real"
+"205",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",119,8.59205776173285,"real"
+"206",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",50,10.6837606837607,"real"
+"207",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",121,10.7939339875112,"real"
+"208",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",17,6.69291338582677,"real"
+"209",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",44,10.4513064133017,"real"
+"210",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",47,10.042735042735,"real"
+"211",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",150,11.2275449101796,"real"
+"212",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",47,9.14396887159533,"real"
+"213",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",35,15.7657657657658,"real"
+"214",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",26,9.09090909090909,"real"
+"215",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",34,8.35380835380835,"real"
+"216",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",48,8.13559322033898,"real"
+"217",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",43,11.0539845758355,"real"
+"218",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",38,9.76863753213368,"real"
+"219",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",51,7.54437869822485,"real"
+"220",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",51,9.86460348162476,"real"
+"221",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",51,10.4294478527607,"real"
+"222",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",30,10.7913669064748,"real"
+"223",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",23,6.64739884393064,"real"
+"224",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",33,10,"real"
+"225",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",34,8.45771144278607,"real"
+"226",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",48,9.52380952380952,"real"
+"227",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",53,10.3313840155945,"real"
+"228",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",6,15.7894736842105,"real"
+"229",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",37,12.2923588039867,"real"
+"230",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",116,8.37545126353791,"real"
+"231",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",61,13.034188034188,"real"
+"232",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",151,13.4701159678858,"real"
+"233",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",24,9.44881889763779,"real"
+"234",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",32,7.60095011876485,"real"
+"235",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",32,6.83760683760684,"real"
+"236",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",155,11.6017964071856,"real"
+"237",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",25,4.86381322957198,"real"
+"238",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",30,13.5135135135135,"real"
+"239",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",34,11.8881118881119,"real"
+"240",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",33,8.10810810810811,"real"
+"241",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",34,5.76271186440678,"real"
+"242",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",47,12.0822622107969,"real"
+"243",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",33,8.48329048843188,"real"
+"244",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",43,6.36094674556213,"real"
+"245",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",57,11.0251450676983,"real"
+"246",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",72,14.7239263803681,"real"
+"247",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",27,9.71223021582734,"real"
+"248",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",17,4.91329479768786,"real"
+"249",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",43,13.030303030303,"real"
+"250",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",54,13.4328358208955,"real"
+"251",1,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",811,6.41360221431396,"real_conditional"
+"252",1,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",907,7.17279557137208,"real_conditional"
+"253",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1196,9.45828390668248,"real_conditional"
+"254",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1286,10.1700276789245,"real_conditional"
+"255",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1360,10.7552392249901,"real_conditional"
+"256",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1371,10.8422301304864,"real_conditional"
+"257",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1224,9.6797153024911,"real_conditional"
+"258",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1398,11.055753262159,"real_conditional"
+"259",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",1880,14.8675365757216,"real_conditional"
+"260",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1275,10.0830367734282,"real_conditional"
+"261",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1271,10.0514037168841,"real_conditional"
+"262",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1191,9.41874258600237,"real_conditional"
+"263",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1313,10.3835508105971,"real_conditional"
+"264",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1317,10.4151838671412,"real_conditional"
+"265",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1161,9.18149466192171,"real_conditional"
+"266",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1271,10.0514037168841,"real_conditional"
+"267",2,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1107,8.75444839857651,"real_conditional"
+"268",2,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1155,9.13404507710558,"real_conditional"
+"269",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1235,9.76670620798735,"real_conditional"
+"270",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1289,10.1937524713325,"real_conditional"
+"271",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1302,10.2965599051008,"real_conditional"
+"272",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1286,10.1700276789245,"real_conditional"
+"273",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1239,9.79833926453144,"real_conditional"
+"274",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1305,10.3202846975089,"real_conditional"
+"275",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",1426,11.2771846579676,"real_conditional"
+"276",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1288,10.1858442071965,"real_conditional"
+"277",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1286,10.1700276789245,"real_conditional"
+"278",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1223,9.67180703835508,"real_conditional"
+"279",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1293,10.2253855278766,"real_conditional"
+"280",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1296,10.2491103202847,"real_conditional"
+"281",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1217,9.62435745353895,"real_conditional"
+"282",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1285,10.1621194147885,"real_conditional"
+"283",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1197,9.46619217081851,"real_conditional"
+"284",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1203,9.51364175563464,"real_conditional"
+"285",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1266,10.011862396204,"real_conditional"
+"286",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1271,10.0514037168841,"real_conditional"
+"287",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1281,10.1304863582444,"real_conditional"
+"288",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1272,10.0593119810202,"real_conditional"
+"289",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1271,10.0514037168841,"real_conditional"
+"290",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1280,10.1225780941083,"real_conditional"
+"291",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",1348,10.6603400553578,"real_conditional"
+"292",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1274,10.0751285092922,"real_conditional"
+"293",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1275,10.0830367734282,"real_conditional"
+"294",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1246,9.85369711348359,"real_conditional"
+"295",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1251,9.8932384341637,"real_conditional"
+"296",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1271,10.0514037168841,"real_conditional"
+"297",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1251,9.8932384341637,"real_conditional"
+"298",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1275,10.0830367734282,"real_conditional"
+"299",4,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1252,9.90114669829972,"real_conditional"
+"300",4,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1259,9.95650454725188,"real_conditional"
+"301",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1258,9.94859628311586,"real_conditional"
+"302",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1259,9.95650454725188,"real_conditional"
+"303",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1270,10.0434954527481,"real_conditional"
+"304",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1260,9.9644128113879,"real_conditional"
+"305",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1260,9.9644128113879,"real_conditional"
+"306",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1286,10.1700276789245,"real_conditional"
+"307",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",1412,11.1664689600633,"real_conditional"
+"308",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1245,9.84578884934757,"real_conditional"
+"309",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1246,9.85369711348359,"real_conditional"
+"310",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1245,9.84578884934757,"real_conditional"
+"311",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1240,9.80624752866746,"real_conditional"
+"312",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1273,10.0672202451562,"real_conditional"
+"313",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1222,9.66389877421906,"real_conditional"
+"314",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1245,9.84578884934757,"real_conditional"
+"315",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1206,9.53736654804271,"real_conditional"
+"316",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1210,9.56899960458679,"real_conditional"
+"317",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1264,9.99604586793199,"real_conditional"
+"318",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1284,10.1542111506524,"real_conditional"
+"319",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1279,10.1146698299723,"real_conditional"
+"320",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1279,10.1146698299723,"real_conditional"
+"321",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1279,10.1146698299723,"real_conditional"
+"322",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1290,10.2016607354686,"real_conditional"
+"323",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",1254,9.91696322657177,"real_conditional"
+"324",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1282,10.1383946223804,"real_conditional"
+"325",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1279,10.1146698299723,"real_conditional"
+"326",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1251,9.8932384341637,"real_conditional"
+"327",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1272,10.0593119810202,"real_conditional"
+"328",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1278,10.1067615658363,"real_conditional"
+"329",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1246,9.85369711348359,"real_conditional"
+"330",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1279,10.1146698299723,"real_conditional"
+"331",6,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1318,10.4230921312772,"real_conditional"
+"332",6,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1293,10.2253855278766,"real_conditional"
+"333",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1283,10.1463028865164,"real_conditional"
+"334",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1260,9.9644128113879,"real_conditional"
+"335",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1229,9.71925662317121,"real_conditional"
+"336",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1253,9.90905496243574,"real_conditional"
+"337",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1275,10.0830367734282,"real_conditional"
+"338",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1214,9.60063266113088,"real_conditional"
+"339",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",1203,9.51364175563464,"real_conditional"
+"340",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1264,9.99604586793199,"real_conditional"
+"341",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1263,9.98813760379597,"real_conditional"
+"342",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1300,10.2807433768288,"real_conditional"
+"343",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1254,9.91696322657177,"real_conditional"
+"344",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1256,9.93277975484381,"real_conditional"
+"345",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1305,10.3202846975089,"real_conditional"
+"346",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1262,9.98022933965994,"real_conditional"
+"347",7,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1262,9.98022933965994,"real_conditional"
+"348",7,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1251,9.8932384341637,"real_conditional"
+"349",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1255,9.92487149070779,"real_conditional"
+"350",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1267,10.0197706603401,"real_conditional"
+"351",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1282,10.1383946223804,"real_conditional"
+"352",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1267,10.0197706603401,"real_conditional"
+"353",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1259,9.95650454725188,"real_conditional"
+"354",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1298,10.2649268485567,"real_conditional"
+"355",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",1254,9.91696322657177,"real_conditional"
+"356",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1268,10.0276789244761,"real_conditional"
+"357",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1273,10.0672202451562,"real_conditional"
+"358",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1244,9.83788058521155,"real_conditional"
+"359",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1284,10.1542111506524,"real_conditional"
+"360",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1275,10.0830367734282,"real_conditional"
+"361",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1220,9.64808224594701,"real_conditional"
+"362",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1273,10.0672202451562,"real_conditional"
+"363",8,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1354,10.707789640174,"real_conditional"
+"364",8,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1361,10.7631474891261,"real_conditional"
+"365",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1287,10.1779359430605,"real_conditional"
+"366",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1255,9.92487149070779,"real_conditional"
+"367",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1227,9.70344009489917,"real_conditional"
+"368",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1240,9.80624752866746,"real_conditional"
+"369",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1275,10.0830367734282,"real_conditional"
+"370",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1243,9.82997232107552,"real_conditional"
+"371",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",1113,8.80189798339265,"real_conditional"
+"372",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1255,9.92487149070779,"real_conditional"
+"373",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1252,9.90114669829972,"real_conditional"
+"374",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1309,10.351917754053,"real_conditional"
+"375",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1250,9.88533017002768,"real_conditional"
+"376",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1237,9.78252273625939,"real_conditional"
+"377",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1321,10.4468169236853,"real_conditional"
+"378",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1253,9.90905496243574,"real_conditional"
+"379",9,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1467,11.6014234875445,"real_conditional"
+"380",9,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1435,11.3483590351918,"real_conditional"
+"381",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1285,10.1621194147885,"real_conditional"
+"382",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1245,9.84578884934757,"real_conditional"
+"383",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1223,9.67180703835508,"real_conditional"
+"384",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1230,9.72716488730724,"real_conditional"
+"385",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1276,10.0909450375643,"real_conditional"
+"386",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1212,9.58481613285884,"real_conditional"
+"387",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",982,7.76591538157374,"real_conditional"
+"388",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1252,9.90114669829972,"real_conditional"
+"389",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1257,9.94068801897983,"real_conditional"
+"390",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1304,10.3123764333729,"real_conditional"
+"391",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1255,9.92487149070779,"real_conditional"
+"392",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1235,9.76670620798735,"real_conditional"
+"393",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1316,10.4072756030051,"real_conditional"
+"394",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1258,9.94859628311586,"real_conditional"
+"395",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1671,13.214709371293,"real_conditional"
+"396",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1571,12.4238829576908,"real_conditional"
+"397",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1316,10.4072756030051,"real_conditional"
+"398",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1229,9.71925662317121,"real_conditional"
+"399",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1192,9.42665085013839,"real_conditional"
+"400",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1187,9.38710952945828,"real_conditional"
+"401",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1287,10.1779359430605,"real_conditional"
+"402",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1119,8.84934756820878,"real_conditional"
+"403",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",773,6.11308817714512,"real_conditional"
+"404",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1242,9.8220640569395,"real_conditional"
+"405",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1243,9.82997232107552,"real_conditional"
+"406",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1332,10.5338078291815,"real_conditional"
+"407",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1233,9.7508896797153,"real_conditional"
+"408",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1207,9.54527481217873,"real_conditional"
+"409",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1386,10.9608540925267,"real_conditional"
+"410",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1244,9.83788058521155,"real_conditional"
+"411",1,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",2,3.63636363636364,"synth"
+"412",1,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: NA
+var_4: adres_recentste_buurt_other
+",1,20,"synth"
+"413",1,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",1,6.66666666666667,"synth"
+"414",1,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",4,7.69230769230769,"synth"
+"415",1,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",2,5.88235294117647,"synth"
+"416",1,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",2,7.69230769230769,"synth"
+"417",1,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",28,8,"synth"
+"418",1,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: NA
+",1,3.44827586206897,"synth"
+"419",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",5,38.4615384615385,"synth"
+"420",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",37,9.06862745098039,"synth"
+"421",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",97,10.9480812641084,"synth"
+"422",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",2,6.89655172413793,"synth"
+"423",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",86,10.0584795321637,"synth"
+"424",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",81,11.218836565097,"synth"
+"425",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",49,7.21649484536082,"synth"
+"426",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",6,10,"synth"
+"427",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",130,9.15492957746479,"synth"
+"428",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",7,15.2173913043478,"synth"
+"429",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",18,10,"synth"
+"430",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",26,8.09968847352025,"synth"
+"431",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",27,10.5882352941176,"synth"
+"432",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",43,12.112676056338,"synth"
+"433",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",14,10.8527131782946,"synth"
+"434",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",2,18.1818181818182,"synth"
+"435",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: NA
+",16,11.6788321167883,"synth"
+"436",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",98,12.5480153649168,"synth"
+"437",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",16,6.61157024793388,"synth"
+"438",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",26,10.03861003861,"synth"
+"439",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",6,8.45070422535211,"synth"
+"440",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",9,10.5882352941176,"synth"
+"441",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",155,9.57972805933251,"synth"
+"442",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",205,11.1231687466088,"synth"
+"443",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",3,16.6666666666667,"synth"
+"444",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",49,11.3163972286374,"synth"
+"445",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",8,10.126582278481,"synth"
+"446",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: NA
+",3,5.26315789473684,"synth"
+"447",2,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",7,12.7272727272727,"synth"
+"448",2,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1,10,"synth"
+"449",2,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",5,9.61538461538461,"synth"
+"450",2,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",3,8.82352941176471,"synth"
+"451",2,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",5,19.2307692307692,"synth"
+"452",2,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1,8.33333333333333,"synth"
+"453",2,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",35,10,"synth"
+"454",2,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",3,10,"synth"
+"455",2,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: NA
+",2,6.89655172413793,"synth"
+"456",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1,7.69230769230769,"synth"
+"457",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",42,10.2941176470588,"synth"
+"458",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",105,11.8510158013544,"synth"
+"459",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",2,6.89655172413793,"synth"
+"460",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",71,8.30409356725146,"synth"
+"461",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",79,10.9418282548476,"synth"
+"462",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",77,11.340206185567,"synth"
+"463",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",6,10,"synth"
+"464",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",135,9.50704225352113,"synth"
+"465",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",4,8.69565217391304,"synth"
+"466",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",13,7.22222222222222,"synth"
+"467",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",28,8.72274143302181,"synth"
+"468",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",28,10.9803921568627,"synth"
+"469",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",34,9.57746478873239,"synth"
+"470",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",13,10.077519379845,"synth"
+"471",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: NA
+",12,8.75912408759124,"synth"
+"472",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",93,11.9078104993598,"synth"
+"473",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",19,7.85123966942149,"synth"
+"474",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",21,8.10810810810811,"synth"
+"475",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",3,4.22535211267606,"synth"
+"476",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",12,14.1176470588235,"synth"
+"477",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",161,9.95055624227441,"synth"
+"478",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",187,10.1465002712968,"synth"
+"479",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",3,14.2857142857143,"synth"
+"480",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",4,22.2222222222222,"synth"
+"481",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",42,9.69976905311778,"synth"
+"482",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",3,3.79746835443038,"synth"
+"483",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: NA
+",5,8.7719298245614,"synth"
+"484",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",4,7.27272727272727,"synth"
+"485",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: NA
+var_4: adres_recentste_buurt_other
+",1,20,"synth"
+"486",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: NA
+var_4: NA
+",1,33.3333333333333,"synth"
+"487",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",2,20,"synth"
+"488",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",1,6.66666666666667,"synth"
+"489",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",5,9.61538461538461,"synth"
+"490",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",4,11.7647058823529,"synth"
+"491",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",3,11.5384615384615,"synth"
+"492",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",2,16.6666666666667,"synth"
+"493",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",1,50,"synth"
+"494",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",30,8.57142857142857,"synth"
+"495",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",5,16.6666666666667,"synth"
+"496",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: NA
+",3,10.3448275862069,"synth"
+"497",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1,7.69230769230769,"synth"
+"498",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",42,10.2941176470588,"synth"
+"499",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",95,10.7223476297968,"synth"
+"500",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",2,6.89655172413793,"synth"
+"501",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",77,9.00584795321637,"synth"
+"502",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",59,8.17174515235457,"synth"
+"503",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",84,12.3711340206186,"synth"
+"504",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",6,10,"synth"
+"505",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",143,10.0704225352113,"synth"
+"506",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",7,15.2173913043478,"synth"
+"507",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",19,10.5555555555556,"synth"
+"508",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",32,9.96884735202492,"synth"
+"509",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",31,12.156862745098,"synth"
+"510",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",37,10.4225352112676,"synth"
+"511",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",16,12.4031007751938,"synth"
+"512",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",3,27.2727272727273,"synth"
+"513",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: NA
+",20,14.5985401459854,"synth"
+"514",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",85,10.8834827144686,"synth"
+"515",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",20,8.26446280991735,"synth"
+"516",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",16,6.17760617760618,"synth"
+"517",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",5,7.04225352112676,"synth"
+"518",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",15,17.6470588235294,"synth"
+"519",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",132,8.15822002472188,"synth"
+"520",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",188,10.2007596310364,"synth"
+"521",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",2,9.52380952380952,"synth"
+"522",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",2,11.1111111111111,"synth"
+"523",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",52,12.0092378752887,"synth"
+"524",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",7,8.86075949367089,"synth"
+"525",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: NA
+",5,8.7719298245614,"synth"
+"526",4,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",8,14.5454545454545,"synth"
+"527",4,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",2,20,"synth"
+"528",4,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",1,6.66666666666667,"synth"
+"529",4,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",4,7.69230769230769,"synth"
+"530",4,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",5,14.7058823529412,"synth"
+"531",4,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",3,11.5384615384615,"synth"
+"532",4,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",1,50,"synth"
+"533",4,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",36,10.2857142857143,"synth"
+"534",4,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",4,13.3333333333333,"synth"
+"535",4,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: NA
+",2,6.89655172413793,"synth"
+"536",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",48,11.7647058823529,"synth"
+"537",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",70,7.90067720090293,"synth"
+"538",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",3,10.3448275862069,"synth"
+"539",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",86,10.0584795321637,"synth"
+"540",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",64,8.86426592797784,"synth"
+"541",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",57,8.39469808541974,"synth"
+"542",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",7,11.6666666666667,"synth"
+"543",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",139,9.7887323943662,"synth"
+"544",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",3,6.52173913043478,"synth"
+"545",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",23,12.7777777777778,"synth"
+"546",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",41,12.7725856697819,"synth"
+"547",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",27,10.5882352941176,"synth"
+"548",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",46,12.9577464788732,"synth"
+"549",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",10,7.75193798449612,"synth"
+"550",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1,9.09090909090909,"synth"
+"551",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: NA
+",16,11.6788321167883,"synth"
+"552",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",81,10.371318822023,"synth"
+"553",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",20,8.26446280991735,"synth"
+"554",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",24,9.26640926640927,"synth"
+"555",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",7,9.85915492957746,"synth"
+"556",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",6,7.05882352941176,"synth"
+"557",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",147,9.08529048207664,"synth"
+"558",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",197,10.6890938686923,"synth"
+"559",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",3,14.2857142857143,"synth"
+"560",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",1,5.55555555555556,"synth"
+"561",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",51,11.7782909930716,"synth"
+"562",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",8,10.126582278481,"synth"
+"563",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: NA
+",13,22.8070175438597,"synth"
+"564",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",1,50,"synth"
+"565",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",9,16.3636363636364,"synth"
+"566",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: NA
+var_4: adres_recentste_buurt_other
+",1,20,"synth"
+"567",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1,10,"synth"
+"568",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",3,20,"synth"
+"569",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",7,13.4615384615385,"synth"
+"570",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",1,2.94117647058824,"synth"
+"571",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",2,7.69230769230769,"synth"
+"572",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",2,16.6666666666667,"synth"
+"573",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",32,9.14285714285714,"synth"
+"574",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",4,13.3333333333333,"synth"
+"575",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: NA
+",4,13.7931034482759,"synth"
+"576",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",3,23.0769230769231,"synth"
+"577",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: NA
+var_4: NA
+",1,100,"synth"
+"578",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",44,10.7843137254902,"synth"
+"579",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",90,10.1580135440181,"synth"
+"580",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",2,6.89655172413793,"synth"
+"581",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",79,9.23976608187134,"synth"
+"582",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",70,9.69529085872576,"synth"
+"583",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",64,9.42562592047128,"synth"
+"584",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",10,16.6666666666667,"synth"
+"585",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",141,9.92957746478873,"synth"
+"586",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",4,8.69565217391304,"synth"
+"587",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",8,4.44444444444444,"synth"
+"588",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",37,11.5264797507788,"synth"
+"589",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",22,8.62745098039216,"synth"
+"590",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",41,11.5492957746479,"synth"
+"591",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",11,8.52713178294574,"synth"
+"592",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1,9.09090909090909,"synth"
+"593",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: NA
+",13,9.48905109489051,"synth"
+"594",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",74,9.47503201024328,"synth"
+"595",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",31,12.8099173553719,"synth"
+"596",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",36,13.8996138996139,"synth"
+"597",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",12,16.9014084507042,"synth"
+"598",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",9,10.5882352941176,"synth"
+"599",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",160,9.88875154511743,"synth"
+"600",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",183,9.92946283233858,"synth"
+"601",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",42,9.69976905311778,"synth"
+"602",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",7,8.86075949367089,"synth"
+"603",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: NA
+",3,5.26315789473684,"synth"
+"604",6,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1,50,"synth"
+"605",6,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",3,5.45454545454545,"synth"
+"606",6,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",3,30,"synth"
+"607",6,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",1,6.66666666666667,"synth"
+"608",6,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",7,13.4615384615385,"synth"
+"609",6,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",4,11.7647058823529,"synth"
+"610",6,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1,8.33333333333333,"synth"
+"611",6,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",26,7.42857142857143,"synth"
+"612",6,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",1,3.33333333333333,"synth"
+"613",6,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: NA
+",2,6.89655172413793,"synth"
+"614",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1,7.69230769230769,"synth"
+"615",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",33,8.08823529411765,"synth"
+"616",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",92,10.3837471783296,"synth"
+"617",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",2,6.89655172413793,"synth"
+"618",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",101,11.812865497076,"synth"
+"619",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",75,10.387811634349,"synth"
+"620",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",57,8.39469808541974,"synth"
+"621",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",7,11.6666666666667,"synth"
+"622",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",166,11.6901408450704,"synth"
+"623",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",5,10.8695652173913,"synth"
+"624",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",13,7.22222222222222,"synth"
+"625",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",22,6.85358255451713,"synth"
+"626",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",33,12.9411764705882,"synth"
+"627",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",32,9.01408450704225,"synth"
+"628",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",13,10.077519379845,"synth"
+"629",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: NA
+",16,11.6788321167883,"synth"
+"630",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",68,8.7067861715749,"synth"
+"631",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",23,9.50413223140496,"synth"
+"632",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",25,9.65250965250965,"synth"
+"633",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",6,8.45070422535211,"synth"
+"634",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",6,7.05882352941176,"synth"
+"635",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",179,11.0630407911001,"synth"
+"636",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",180,9.76668475311991,"synth"
+"637",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",3,14.2857142857143,"synth"
+"638",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",44,10.161662817552,"synth"
+"639",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",5,6.32911392405063,"synth"
+"640",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: NA
+",8,14.0350877192982,"synth"
+"641",7,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",4,7.27272727272727,"synth"
+"642",7,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: NA
+var_4: adres_recentste_buurt_other
+",1,20,"synth"
+"643",7,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",2,13.3333333333333,"synth"
+"644",7,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",3,5.76923076923077,"synth"
+"645",7,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",3,8.82352941176471,"synth"
+"646",7,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",4,15.3846153846154,"synth"
+"647",7,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",2,16.6666666666667,"synth"
+"648",7,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",27,7.71428571428571,"synth"
+"649",7,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",4,13.3333333333333,"synth"
+"650",7,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: NA
+",5,17.2413793103448,"synth"
+"651",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1,7.69230769230769,"synth"
+"652",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",46,11.2745098039216,"synth"
+"653",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",82,9.25507900677201,"synth"
+"654",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",3,10.3448275862069,"synth"
+"655",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",74,8.65497076023392,"synth"
+"656",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",76,10.5263157894737,"synth"
+"657",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",85,12.5184094256259,"synth"
+"658",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",3,5,"synth"
+"659",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",146,10.2816901408451,"synth"
+"660",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",6,13.0434782608696,"synth"
+"661",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",18,10,"synth"
+"662",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",32,9.96884735202492,"synth"
+"663",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",25,9.80392156862745,"synth"
+"664",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",34,9.57746478873239,"synth"
+"665",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",11,8.52713178294574,"synth"
+"666",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: NA
+",11,8.02919708029197,"synth"
+"667",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",71,9.09090909090909,"synth"
+"668",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",29,11.9834710743802,"synth"
+"669",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",26,10.03861003861,"synth"
+"670",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",6,8.45070422535211,"synth"
+"671",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",9,10.5882352941176,"synth"
+"672",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",169,10.4449938195303,"synth"
+"673",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",192,10.4177970699946,"synth"
+"674",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",2,9.52380952380952,"synth"
+"675",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",36,8.31408775981524,"synth"
+"676",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",11,13.9240506329114,"synth"
+"677",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: NA
+",5,8.7719298245614,"synth"
+"678",8,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",3,5.45454545454545,"synth"
+"679",8,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: NA
+var_4: adres_recentste_buurt_other
+",1,20,"synth"
+"680",8,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",5,33.3333333333333,"synth"
+"681",8,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",7,13.4615384615385,"synth"
+"682",8,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",2,5.88235294117647,"synth"
+"683",8,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",1,3.84615384615385,"synth"
+"684",8,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1,8.33333333333333,"synth"
+"685",8,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",47,13.4285714285714,"synth"
+"686",8,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",5,16.6666666666667,"synth"
+"687",8,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: NA
+",2,6.89655172413793,"synth"
+"688",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1,50,"synth"
+"689",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: NA
+var_4: adres_recentste_buurt_other
+",1,50,"synth"
+"690",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",44,10.7843137254902,"synth"
+"691",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",88,9.93227990970655,"synth"
+"692",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",6,20.6896551724138,"synth"
+"693",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",94,10.9941520467836,"synth"
+"694",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",74,10.2493074792244,"synth"
+"695",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",69,10.1620029455081,"synth"
+"696",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",4,6.66666666666667,"synth"
+"697",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",143,10.0704225352113,"synth"
+"698",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",5,10.8695652173913,"synth"
+"699",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",21,11.6666666666667,"synth"
+"700",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",27,8.41121495327103,"synth"
+"701",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",23,9.01960784313725,"synth"
+"702",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",29,8.16901408450704,"synth"
+"703",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",8,6.2015503875969,"synth"
+"704",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: NA
+",15,10.9489051094891,"synth"
+"705",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",73,9.34699103713188,"synth"
+"706",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",23,9.50413223140496,"synth"
+"707",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",29,11.1969111969112,"synth"
+"708",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",9,12.6760563380282,"synth"
+"709",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",5,5.88235294117647,"synth"
+"710",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",172,10.6304079110012,"synth"
+"711",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",179,9.71242539338036,"synth"
+"712",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",2,11.1111111111111,"synth"
+"713",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",35,8.08314087759815,"synth"
+"714",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",6,7.59493670886076,"synth"
+"715",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: NA
+",5,8.7719298245614,"synth"
+"716",9,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",1,50,"synth"
+"717",9,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",7,12.7272727272727,"synth"
+"718",9,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",5,9.61538461538461,"synth"
+"719",9,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",3,8.82352941176471,"synth"
+"720",9,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",3,11.5384615384615,"synth"
+"721",9,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1,8.33333333333333,"synth"
+"722",9,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",39,11.1428571428571,"synth"
+"723",9,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",2,6.66666666666667,"synth"
+"724",9,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: NA
+",5,17.2413793103448,"synth"
+"725",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1,7.69230769230769,"synth"
+"726",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",41,10.0490196078431,"synth"
+"727",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",87,9.81941309255079,"synth"
+"728",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1,3.44827586206897,"synth"
+"729",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",93,10.8771929824561,"synth"
+"730",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",67,9.2797783933518,"synth"
+"731",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",74,10.8983799705449,"synth"
+"732",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",9,15,"synth"
+"733",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",140,9.85915492957746,"synth"
+"734",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",3,6.52173913043478,"synth"
+"735",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",16,8.88888888888889,"synth"
+"736",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",35,10.9034267912773,"synth"
+"737",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",22,8.62745098039216,"synth"
+"738",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",28,7.88732394366197,"synth"
+"739",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",12,9.30232558139535,"synth"
+"740",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1,9.09090909090909,"synth"
+"741",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: NA
+",8,5.83941605839416,"synth"
+"742",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",62,7.93854033290653,"synth"
+"743",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",32,13.2231404958678,"synth"
+"744",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",30,11.5830115830116,"synth"
+"745",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",10,14.0845070422535,"synth"
+"746",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",8,9.41176470588235,"synth"
+"747",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",182,11.2484548825711,"synth"
+"748",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",172,9.33260987520347,"synth"
+"749",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",5,23.8095238095238,"synth"
+"750",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",2,11.1111111111111,"synth"
+"751",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",38,8.77598152424942,"synth"
+"752",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",15,18.9873417721519,"synth"
+"753",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: NA
+",4,7.01754385964912,"synth"
+"754",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1,50,"synth"
+"755",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",8,14.5454545454545,"synth"
+"756",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: NA
+var_4: NA
+",2,66.6666666666667,"synth"
+"757",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1,10,"synth"
+"758",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",1,6.66666666666667,"synth"
+"759",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",5,9.61538461538461,"synth"
+"760",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",7,20.5882352941176,"synth"
+"761",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",3,11.5384615384615,"synth"
+"762",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",2,16.6666666666667,"synth"
+"763",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",50,14.2857142857143,"synth"
+"764",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",2,6.66666666666667,"synth"
+"765",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: NA
+var_3: NA
+var_4: NA
+",3,10.3448275862069,"synth"
+"766",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1,50,"synth"
+"767",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: NA
+var_4: adres_recentste_buurt_other
+",1,50,"synth"
+"768",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",31,7.59803921568627,"synth"
+"769",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: NA
+",80,9.0293453724605,"synth"
+"770",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",6,20.6896551724138,"synth"
+"771",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",94,10.9941520467836,"synth"
+"772",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",77,10.6648199445983,"synth"
+"773",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",63,9.27835051546392,"synth"
+"774",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_vreewijk
+",2,3.33333333333333,"synth"
+"775",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: NA
+",137,9.64788732394366,"synth"
+"776",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",2,4.34782608695652,"synth"
+"777",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",31,17.2222222222222,"synth"
+"778",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: NA
+",41,12.7725856697819,"synth"
+"779",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",17,6.66666666666667,"synth"
+"780",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: NA
+",31,8.73239436619718,"synth"
+"781",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",21,16.2790697674419,"synth"
+"782",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",3,27.2727272727273,"synth"
+"783",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: NA
+",10,7.2992700729927,"synth"
+"784",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",76,9.73111395646607,"synth"
+"785",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",29,11.9834710743802,"synth"
+"786",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: NA
+",26,10.03861003861,"synth"
+"787",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",7,9.85915492957746,"synth"
+"788",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: NA
+",6,7.05882352941176,"synth"
+"789",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: adres_recentste_buurt_other
+",161,9.95055624227441,"synth"
+"790",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: NA
+var_4: NA
+",160,8.68149755832881,"synth"
+"791",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",3,14.2857142857143,"synth"
+"792",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_delfshaven
+var_4: NA
+",4,22.2222222222222,"synth"
+"793",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",44,10.161662817552,"synth"
+"794",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: adres_recentste_buurt_other
+",9,11.3924050632911,"synth"
+"795",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: NA
+var_3: NA
+var_4: NA
+",6,10.5263157894737,"synth"
+"796",1,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1021,8.07433768287861,"synth_conditional"
+"797",1,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1091,8.62791617240016,"synth_conditional"
+"798",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1223,9.67180703835508,"synth_conditional"
+"799",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1292,10.2174772637406,"synth_conditional"
+"800",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1315,10.3993673388691,"synth_conditional"
+"801",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1336,10.5654408857256,"synth_conditional"
+"802",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1241,9.81415579280348,"synth_conditional"
+"803",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1322,10.4547251878213,"synth_conditional"
+"804",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",1797,14.2111506524318,"synth_conditional"
+"805",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1281,10.1304863582444,"synth_conditional"
+"806",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1254,9.91696322657177,"synth_conditional"
+"807",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1180,9.33175168050613,"synth_conditional"
+"808",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1264,9.99604586793199,"synth_conditional"
+"809",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1322,10.4547251878213,"synth_conditional"
+"810",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1041,8.23250296559905,"synth_conditional"
+"811",1,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1252,9.90114669829972,"synth_conditional"
+"812",2,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1080,8.54092526690391,"synth_conditional"
+"813",2,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1112,8.79398971925662,"synth_conditional"
+"814",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1246,9.85369711348359,"synth_conditional"
+"815",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1290,10.2016607354686,"synth_conditional"
+"816",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1306,10.3281929616449,"synth_conditional"
+"817",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1306,10.3281929616449,"synth_conditional"
+"818",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1281,10.1304863582444,"synth_conditional"
+"819",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1307,10.3361012257809,"synth_conditional"
+"820",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",1576,12.4634242783709,"synth_conditional"
+"821",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1304,10.3123764333729,"synth_conditional"
+"822",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1290,10.2016607354686,"synth_conditional"
+"823",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1199,9.48200869909055,"synth_conditional"
+"824",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1242,9.8220640569395,"synth_conditional"
+"825",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1332,10.5338078291815,"synth_conditional"
+"826",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1080,8.54092526690391,"synth_conditional"
+"827",2,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1281,10.1304863582444,"synth_conditional"
+"828",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1097,8.67536575721629,"synth_conditional"
+"829",3,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1132,8.95215500197707,"synth_conditional"
+"830",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1236,9.77461447212337,"synth_conditional"
+"831",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1289,10.1937524713325,"synth_conditional"
+"832",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1296,10.2491103202847,"synth_conditional"
+"833",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1304,10.3123764333729,"synth_conditional"
+"834",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1248,9.86951364175563,"synth_conditional"
+"835",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1311,10.367734282325,"synth_conditional"
+"836",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",1586,12.5425069197311,"synth_conditional"
+"837",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1285,10.1621194147885,"synth_conditional"
+"838",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1261,9.97232107552392,"synth_conditional"
+"839",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1221,9.65599051008304,"synth_conditional"
+"840",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1274,10.0751285092922,"synth_conditional"
+"841",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1293,10.2253855278766,"synth_conditional"
+"842",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1136,8.98378805852115,"synth_conditional"
+"843",3,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1263,9.98813760379597,"synth_conditional"
+"844",4,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1179,9.32384341637011,"synth_conditional"
+"845",4,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1209,9.56109134045077,"synth_conditional"
+"846",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1259,9.95650454725188,"synth_conditional"
+"847",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1276,10.0909450375643,"synth_conditional"
+"848",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1270,10.0434954527481,"synth_conditional"
+"849",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1304,10.3123764333729,"synth_conditional"
+"850",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1273,10.0672202451562,"synth_conditional"
+"851",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1292,10.2174772637406,"synth_conditional"
+"852",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",1397,11.0478449980229,"synth_conditional"
+"853",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1270,10.0434954527481,"synth_conditional"
+"854",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1274,10.0751285092922,"synth_conditional"
+"855",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1246,9.85369711348359,"synth_conditional"
+"856",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1256,9.93277975484381,"synth_conditional"
+"857",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1303,10.3044681692369,"synth_conditional"
+"858",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1151,9.10241202056149,"synth_conditional"
+"859",4,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1273,10.0672202451562,"synth_conditional"
+"860",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1181,9.33965994464215,"synth_conditional"
+"861",5,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1203,9.51364175563464,"synth_conditional"
+"862",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1266,10.011862396204,"synth_conditional"
+"863",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1284,10.1542111506524,"synth_conditional"
+"864",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1264,9.99604586793199,"synth_conditional"
+"865",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1252,9.90114669829972,"synth_conditional"
+"866",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1264,9.99604586793199,"synth_conditional"
+"867",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1297,10.2570185844207,"synth_conditional"
+"868",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",1401,11.079478054567,"synth_conditional"
+"869",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1252,9.90114669829972,"synth_conditional"
+"870",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1263,9.98813760379597,"synth_conditional"
+"871",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1246,9.85369711348359,"synth_conditional"
+"872",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1284,10.1542111506524,"synth_conditional"
+"873",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1258,9.94859628311586,"synth_conditional"
+"874",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1249,9.87742190589166,"synth_conditional"
+"875",5,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1268,10.0276789244761,"synth_conditional"
+"876",6,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1198,9.47410043495453,"synth_conditional"
+"877",6,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1189,9.40292605773033,"synth_conditional"
+"878",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1279,10.1146698299723,"synth_conditional"
+"879",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1277,10.0988533017003,"synth_conditional"
+"880",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1289,10.1937524713325,"synth_conditional"
+"881",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1307,10.3361012257809,"synth_conditional"
+"882",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1276,10.0909450375643,"synth_conditional"
+"883",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1278,10.1067615658363,"synth_conditional"
+"884",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",1300,10.2807433768288,"synth_conditional"
+"885",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1271,10.0514037168841,"synth_conditional"
+"886",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1276,10.0909450375643,"synth_conditional"
+"887",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1254,9.91696322657177,"synth_conditional"
+"888",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1282,10.1383946223804,"synth_conditional"
+"889",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1294,10.2332937920127,"synth_conditional"
+"890",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1191,9.41874258600237,"synth_conditional"
+"891",6,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1271,10.0514037168841,"synth_conditional"
+"892",7,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1251,9.8932384341637,"synth_conditional"
+"893",7,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1279,10.1146698299723,"synth_conditional"
+"894",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1263,9.98813760379597,"synth_conditional"
+"895",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1280,10.1225780941083,"synth_conditional"
+"896",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1248,9.86951364175563,"synth_conditional"
+"897",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1271,10.0514037168841,"synth_conditional"
+"898",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1263,9.98813760379597,"synth_conditional"
+"899",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1288,10.1858442071965,"synth_conditional"
+"900",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",1131,8.94424673784104,"synth_conditional"
+"901",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1279,10.1146698299723,"synth_conditional"
+"902",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1266,10.011862396204,"synth_conditional"
+"903",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1301,10.2886516409648,"synth_conditional"
+"904",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1289,10.1937524713325,"synth_conditional"
+"905",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1258,9.94859628311586,"synth_conditional"
+"906",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1298,10.2649268485567,"synth_conditional"
+"907",7,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1267,10.0197706603401,"synth_conditional"
+"908",8,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1399,11.063661526295,"synth_conditional"
+"909",8,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1378,10.8975879794385,"synth_conditional"
+"910",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1295,10.2412020561487,"synth_conditional"
+"911",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1226,9.69553183076315,"synth_conditional"
+"912",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1243,9.82997232107552,"synth_conditional"
+"913",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1231,9.73507315144326,"synth_conditional"
+"914",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1272,10.0593119810202,"synth_conditional"
+"915",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1230,9.72716488730724,"synth_conditional"
+"916",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",1001,7.91617240015817,"synth_conditional"
+"917",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1243,9.82997232107552,"synth_conditional"
+"918",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1265,10.003954132068,"synth_conditional"
+"919",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1312,10.3756425464611,"synth_conditional"
+"920",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1263,9.98813760379597,"synth_conditional"
+"921",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1214,9.60063266113088,"synth_conditional"
+"922",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1389,10.9845788849348,"synth_conditional"
+"923",8,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1271,10.0514037168841,"synth_conditional"
+"924",9,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1477,11.6805061289047,"synth_conditional"
+"925",9,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1423,11.2534598655595,"synth_conditional"
+"926",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1283,10.1463028865164,"synth_conditional"
+"927",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1244,9.83788058521155,"synth_conditional"
+"928",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1237,9.78252273625939,"synth_conditional"
+"929",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1193,9.43455911427442,"synth_conditional"
+"930",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1276,10.0909450375643,"synth_conditional"
+"931",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1199,9.48200869909055,"synth_conditional"
+"932",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",849,6.7141162514828,"synth_conditional"
+"933",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1244,9.83788058521155,"synth_conditional"
+"934",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1263,9.98813760379597,"synth_conditional"
+"935",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1334,10.5496243574535,"synth_conditional"
+"936",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1254,9.91696322657177,"synth_conditional"
+"937",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1226,9.69553183076315,"synth_conditional"
+"938",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1466,11.5935152234085,"synth_conditional"
+"939",9,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1264,9.99604586793199,"synth_conditional"
+"940",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1762,13.934361407671,"synth_conditional"
+"941",10,"IV: 
+adres_recentst_onderdeel_rdam: 0
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1629,12.8825622775801,"synth_conditional"
+"942",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1295,10.2412020561487,"synth_conditional"
+"943",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_other
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1187,9.38710952945828,"synth_conditional"
+"944",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_charlois
+var_4: adres_recentste_buurt_other
+",1177,9.30802688809806,"synth_conditional"
+"945",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_nieuwe_westen
+",1141,9.02332937920126,"synth_conditional"
+"946",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_delfshaven
+var_4: adres_recentste_buurt_other
+",1251,9.8932384341637,"synth_conditional"
+"947",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_feijenoord
+var_4: adres_recentste_buurt_other
+",1121,8.86516409648082,"synth_conditional"
+"948",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_groot_ijsselmonde
+",607,4.80031633056544,"synth_conditional"
+"949",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_ijsselmonde
+var_4: adres_recentste_buurt_other
+",1216,9.61644918940293,"synth_conditional"
+"950",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_kralingen_c
+var_4: adres_recentste_buurt_other
+",1233,9.7508896797153,"synth_conditional"
+"951",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_other
+",1352,10.6919731119019,"synth_conditional"
+"952",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_noord
+var_4: adres_recentste_buurt_oude_noorden
+",1237,9.78252273625939,"synth_conditional"
+"953",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_other
+var_4: adres_recentste_buurt_other
+",1145,9.05496243574535,"synth_conditional"
+"954",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_prins_alexa
+var_4: adres_recentste_buurt_other
+",1644,13.0011862396204,"synth_conditional"
+"955",10,"IV: 
+adres_recentst_onderdeel_rdam: 1
+var_2: adres_recentste_plaats_rotterdam
+var_3: adres_recentste_wijk_stadscentru
+var_4: adres_recentste_buurt_other
+",1235,9.76670620798735,"synth_conditional"

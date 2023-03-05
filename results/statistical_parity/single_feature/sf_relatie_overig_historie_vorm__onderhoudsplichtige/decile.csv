@@ -1,0 +1,613 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1090,11.2429087158329,"real"
+"2",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",150,6.07779578606159,"real"
+"3",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",22,5.56962025316456,"real"
+"4",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",3,4.41176470588235,"real"
+"5",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1012,10.438370293966,"real"
+"6",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",230,9.3192868719611,"real"
+"7",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",18,4.55696202531646,"real"
+"8",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",3,4.41176470588235,"real"
+"9",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1,6.66666666666667,"real"
+"10",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1,25,"real"
+"11",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1010,10.4177411036617,"real"
+"12",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",225,9.11669367909238,"real"
+"13",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",24,6.07594936708861,"real"
+"14",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",5,7.35294117647059,"real"
+"15",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1,6.66666666666667,"real"
+"16",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",973,10.0361010830325,"real"
+"17",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",249,10.0891410048622,"real"
+"18",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",36,9.11392405063291,"real"
+"19",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",6,8.82352941176471,"real"
+"20",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1,25,"real"
+"21",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",977,10.0773594636411,"real"
+"22",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",245,9.92706645056726,"real"
+"23",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",37,9.36708860759494,"real"
+"24",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",4,5.88235294117647,"real"
+"25",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1,6.66666666666667,"real"
+"26",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1,25,"real"
+"27",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",959,9.89169675090253,"real"
+"28",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",250,10.129659643436,"real"
+"29",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",48,12.1518987341772,"real"
+"30",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",5,7.35294117647059,"real"
+"31",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",2,13.3333333333333,"real"
+"32",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",930,9.59257349149046,"real"
+"33",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",275,11.1426256077796,"real"
+"34",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",49,12.4050632911392,"real"
+"35",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",7,10.2941176470588,"real"
+"36",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",2,13.3333333333333,"real"
+"37",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1,25,"real"
+"38",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",928,9.57194430118618,"real"
+"39",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",274,11.1021069692058,"real"
+"40",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",47,11.8987341772152,"real"
+"41",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",12,17.6470588235294,"real"
+"42",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",3,20,"real"
+"43",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",887,9.14904589994843,"real"
+"44",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",320,12.9659643435981,"real"
+"45",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",46,11.6455696202532,"real"
+"46",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",8,11.7647058823529,"real"
+"47",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",3,20,"real"
+"48",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",929,9.58225889633832,"real"
+"49",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",250,10.129659643436,"real"
+"50",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",68,17.2151898734177,"real"
+"51",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",15,22.0588235294118,"real"
+"52",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",2,13.3333333333333,"real"
+"53",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1273,10.0672202451562,"real_conditional"
+"54",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1275,10.0830367734282,"real_conditional"
+"55",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1260,9.9644128113879,"real_conditional"
+"56",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1260,9.9644128113879,"real_conditional"
+"57",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1259,9.95650454725188,"real_conditional"
+"58",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1260,9.9644128113879,"real_conditional"
+"59",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1275,10.0830367734282,"real_conditional"
+"60",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1275,10.0830367734282,"real_conditional"
+"61",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1259,9.95650454725188,"real_conditional"
+"62",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1259,9.95650454725188,"real_conditional"
+"63",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1260,9.9644128113879,"real_conditional"
+"64",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1259,9.95650454725188,"real_conditional"
+"65",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1258,9.94859628311586,"real_conditional"
+"66",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1258,9.94859628311586,"real_conditional"
+"67",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1267,10.0197706603401,"real_conditional"
+"68",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1268,10.0276789244761,"real_conditional"
+"69",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1268,10.0276789244761,"real_conditional"
+"70",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1268,10.0276789244761,"real_conditional"
+"71",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1264,9.99604586793199,"real_conditional"
+"72",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1266,10.011862396204,"real_conditional"
+"73",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1256,9.93277975484381,"real_conditional"
+"74",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1267,10.0197706603401,"real_conditional"
+"75",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1267,10.0197706603401,"real_conditional"
+"76",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1267,10.0197706603401,"real_conditional"
+"77",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1259,9.95650454725188,"real_conditional"
+"78",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1261,9.97232107552392,"real_conditional"
+"79",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1260,9.9644128113879,"real_conditional"
+"80",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1269,10.0355871886121,"real_conditional"
+"81",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1269,10.0355871886121,"real_conditional"
+"82",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1269,10.0355871886121,"real_conditional"
+"83",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1263,9.98813760379597,"real_conditional"
+"84",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1263,9.98813760379597,"real_conditional"
+"85",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1260,9.9644128113879,"real_conditional"
+"86",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1267,10.0197706603401,"real_conditional"
+"87",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1267,10.0197706603401,"real_conditional"
+"88",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1267,10.0197706603401,"real_conditional"
+"89",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1256,9.93277975484381,"real_conditional"
+"90",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1261,9.97232107552392,"real_conditional"
+"91",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1257,9.94068801897983,"real_conditional"
+"92",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1271,10.0514037168841,"real_conditional"
+"93",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1271,10.0514037168841,"real_conditional"
+"94",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1271,10.0514037168841,"real_conditional"
+"95",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1262,9.98022933965994,"real_conditional"
+"96",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1254,9.91696322657177,"real_conditional"
+"97",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1267,10.0197706603401,"real_conditional"
+"98",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1268,10.0276789244761,"real_conditional"
+"99",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1268,10.0276789244761,"real_conditional"
+"100",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1268,10.0276789244761,"real_conditional"
+"101",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1268,10.0276789244761,"real_conditional"
+"102",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1270,10.0434954527481,"real_conditional"
+"103",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1280,10.1225780941083,"real_conditional"
+"104",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1257,9.94068801897983,"real_conditional"
+"105",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1256,9.93277975484381,"real_conditional"
+"106",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1256,9.93277975484381,"real_conditional"
+"107",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1267,10.0197706603401,"real_conditional"
+"108",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1262,9.98022933965994,"real_conditional"
+"109",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1279,10.1146698299723,"real_conditional"
+"110",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1259,9.95650454725188,"real_conditional"
+"111",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1260,9.9644128113879,"real_conditional"
+"112",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1260,9.9644128113879,"real_conditional"
+"113",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",761,11.1176040905771,"synth"
+"114",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",489,8.82193757892838,"synth"
+"115",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",15,5.88235294117647,"synth"
+"116",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",751,10.9715120525931,"synth"
+"117",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",502,9.056467616814,"synth"
+"118",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",12,4.70588235294118,"synth"
+"119",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",734,10.7231555880205,"synth"
+"120",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",511,9.21883456611943,"synth"
+"121",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",20,7.84313725490196,"synth"
+"122",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",684,9.9926953981008,"synth"
+"123",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",555,10.0126285405015,"synth"
+"124",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",25,9.80392156862745,"synth"
+"125",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1,50,"synth"
+"126",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",704,10.2848794740687,"synth"
+"127",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",538,9.70593541403572,"synth"
+"128",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",23,9.01960784313725,"synth"
+"129",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",644,9.40832724616508,"synth"
+"130",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",590,10.6440555655782,"synth"
+"131",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",29,11.3725490196078,"synth"
+"132",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1,50,"synth"
+"133",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",669,9.77355734112491,"synth"
+"134",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",563,10.1569547176619,"synth"
+"135",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",32,12.5490196078431,"synth"
+"136",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",637,9.30606281957633,"synth"
+"137",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",592,10.6801371098683,"synth"
+"138",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",35,13.7254901960784,"synth"
+"139",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",626,9.14536157779401,"synth"
+"140",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",604,10.8966263756089,"synth"
+"141",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",34,13.3333333333333,"synth"
+"142",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",635,9.27684441197955,"synth"
+"143",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",599,10.8064225148836,"synth"
+"144",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",30,11.7647058823529,"synth"
+"145",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1242,9.9296450271826,"synth_conditional"
+"146",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1242,9.9296450271826,"synth_conditional"
+"147",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1237,9.88967061080908,"synth_conditional"
+"148",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1262,10.0895426926767,"synth_conditional"
+"149",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1261,10.081547809402,"synth_conditional"
+"150",1,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1261,10.081547809402,"synth_conditional"
+"151",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1217,9.729772945315,"synth_conditional"
+"152",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1218,9.7377678285897,"synth_conditional"
+"153",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1216,9.72177806204029,"synth_conditional"
+"154",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1284,10.2654301247202,"synth_conditional"
+"155",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1285,10.2734250079949,"synth_conditional"
+"156",2,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1285,10.2734250079949,"synth_conditional"
+"157",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1232,9.84969619443556,"synth_conditional"
+"158",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1231,9.84170131116086,"synth_conditional"
+"159",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1229,9.82571154461145,"synth_conditional"
+"160",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1271,10.161496642149,"synth_conditional"
+"161",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1271,10.161496642149,"synth_conditional"
+"162",3,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1271,10.161496642149,"synth_conditional"
+"163",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1231,9.84170131116086,"synth_conditional"
+"164",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1235,9.87368084425967,"synth_conditional"
+"165",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1232,9.84969619443556,"synth_conditional"
+"166",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1269,10.1455068755996,"synth_conditional"
+"167",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1269,10.1455068755996,"synth_conditional"
+"168",4,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1269,10.1455068755996,"synth_conditional"
+"169",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1239,9.90566037735849,"synth_conditional"
+"170",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1237,9.88967061080908,"synth_conditional"
+"171",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1240,9.9136552606332,"synth_conditional"
+"172",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1263,10.0975375759514,"synth_conditional"
+"173",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1263,10.0975375759514,"synth_conditional"
+"174",5,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1263,10.0975375759514,"synth_conditional"
+"175",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1242,9.9296450271826,"synth_conditional"
+"176",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1241,9.9216501439079,"synth_conditional"
+"177",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1230,9.83370642788615,"synth_conditional"
+"178",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1264,10.1055324592261,"synth_conditional"
+"179",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1264,10.1055324592261,"synth_conditional"
+"180",6,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1264,10.1055324592261,"synth_conditional"
+"181",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1251,10.0015989766549,"synth_conditional"
+"182",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1250,9.99360409338024,"synth_conditional"
+"183",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1248,9.97761432683083,"synth_conditional"
+"184",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1252,10.0095938599296,"synth_conditional"
+"185",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1252,10.0095938599296,"synth_conditional"
+"186",7,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1252,10.0095938599296,"synth_conditional"
+"187",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1256,10.0415733930285,"synth_conditional"
+"188",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1257,10.0495682763032,"synth_conditional"
+"189",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1268,10.1375119923249,"synth_conditional"
+"190",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1242,9.9296450271826,"synth_conditional"
+"191",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1241,9.9216501439079,"synth_conditional"
+"192",8,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1241,9.9216501439079,"synth_conditional"
+"193",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1283,10.2574352414455,"synth_conditional"
+"194",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1281,10.2414454748961,"synth_conditional"
+"195",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1287,10.2894147745443,"synth_conditional"
+"196",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1217,9.729772945315,"synth_conditional"
+"197",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1218,9.7377678285897,"synth_conditional"
+"198",9,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1218,9.7377678285897,"synth_conditional"
+"199",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+",1315,10.513271506236,"synth_conditional"
+"200",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",1316,10.5212663895107,"synth_conditional"
+"201",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",1321,10.5612408058842,"synth_conditional"
+"202",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",1184,9.46594179724976,"synth_conditional"
+"203",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",1184,9.46594179724976,"synth_conditional"
+"204",10,"IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",1184,9.46594179724976,"synth_conditional"

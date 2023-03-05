@@ -1,0 +1,25 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+","Ja",8237,0.467,0.154,0.0785480150540245,0.241350006070171,-2.14519849459755,14.1350006070171,"real"
+"2","IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+","Ja",4408,0.531,0.143,0.140199637023593,0.357985480943739,4.01996370235935,25.7985480943739,"real"
+"3","IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+","Ja",12645,0.489,0.153,0.0999604586793199,0.28200869909055,-0.00395413206801115,18.200869909055,"real_conditional"
+"4","IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+","Ja",12645,0.489,0.153,0.100197706603401,0.282325029655991,0.0197706603400558,18.2325029655991,"real_conditional"
+"5","IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+","Ja",6639,0.606,0.088,0.0956469347793342,0.613797258623287,-0.435306522066577,51.3797258623287,"synth"
+"6","IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+","Ja",6006,0.618,0.081,0.104895104895105,0.671661671661672,0.489510489510489,57.1661671661672,"synth"
+"7","IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"8","IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"

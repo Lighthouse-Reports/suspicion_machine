@@ -1,0 +1,116 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"2","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",12645,12645,0.661,"ns",1,"ns","real_conditional"
+"3","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",12645,12645,0.661,"ns",1,"ns","real_conditional"
+"4","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",12645,12645,0.661,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",12645,12645,0.661,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",12645,12645,0.661,"ns",1,"ns","real_conditional"
+"8","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",12645,12645,0.661,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"11","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",9451,3190,1.16e-15,"****",3.48e-15,"****","synth"
+"12","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",9451,4,0.119,"ns",0.239,"ns","synth"
+"13","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",3190,4,0.219,"ns",0.239,"ns","synth"
+"14","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"15","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",12508,12508,0.126,"ns",1,"ns","synth_conditional"
+"16","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",12508,12508,0.126,"ns",1,"ns","synth_conditional"
+"17","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",12508,12508,0.126,"ns",1,"ns","synth_conditional"
+"18","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",12508,12508,0.126,"ns",1,"ns","synth_conditional"
+"19","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"20","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",12508,12508,0.126,"ns",1,"ns","synth_conditional"
+"21","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",12508,12508,0.126,"ns",1,"ns","synth_conditional"
+"22","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"23","Ja","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+","IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"

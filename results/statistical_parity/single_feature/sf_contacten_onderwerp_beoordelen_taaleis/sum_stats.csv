@@ -1,0 +1,169 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_onderwerp_beoordelen_taaleis: 0
+contacten_onderwerp_boolean_beoordelen_taaleis: 0
+","Ja",10485,0.5,0.155,0.116165951359084,0.309871244635193,1.61659513590844,20.9871244635193,"real"
+"2","IV: 
+contacten_onderwerp_beoordelen_taaleis: 1
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",1223,0.444,0.137,0.026982829108749,0.167620605069501,-7.3017170891251,6.76206050695012,"real"
+"3","IV: 
+contacten_onderwerp_beoordelen_taaleis: 11
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",1,0.532,NA,0,0,-10,-10,"real"
+"4","IV: 
+contacten_onderwerp_beoordelen_taaleis: 13
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",1,0.579,NA,0,0,-10,-10,"real"
+"5","IV: 
+contacten_onderwerp_beoordelen_taaleis: 2
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",434,0.431,0.128,0.0138248847926267,0.119815668202765,-8.61751152073733,1.9815668202765,"real"
+"6","IV: 
+contacten_onderwerp_beoordelen_taaleis: 3
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",258,0.424,0.134,0.0193798449612403,0.12015503875969,-8.06201550387597,2.01550387596899,"real"
+"7","IV: 
+contacten_onderwerp_beoordelen_taaleis: 4
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",120,0.415,0.119,0.00833333333333333,0.1,-9.16666666666667,0,"real"
+"8","IV: 
+contacten_onderwerp_beoordelen_taaleis: 5
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",70,0.391,0.14,0,0.1,-10,0,"real"
+"9","IV: 
+contacten_onderwerp_beoordelen_taaleis: 6
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",25,0.437,0.142,0.04,0.16,-6,6,"real"
+"10","IV: 
+contacten_onderwerp_beoordelen_taaleis: 7
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",15,0.444,0.16,0,0.2,-10,10,"real"
+"11","IV: 
+contacten_onderwerp_beoordelen_taaleis: 8
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",8,0.399,0.181,0.125,0.25,2.5,15,"real"
+"12","IV: 
+contacten_onderwerp_beoordelen_taaleis: 9
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",5,0.422,0.145,0,0.2,-10,10,"real"
+"13","IV: 
+contacten_onderwerp_beoordelen_taaleis: 0
+contacten_onderwerp_boolean_beoordelen_taaleis: 0
+","Ja",12645,0.49,0.153,0.100197706603401,0.282799525504152,0.0197706603400558,18.2799525504152,"real_conditional"
+"14","IV: 
+contacten_onderwerp_beoordelen_taaleis: 1
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12645,0.487,0.153,0.0964017398181099,0.277105575326216,-0.359826018189008,17.7105575326216,"real_conditional"
+"15","IV: 
+contacten_onderwerp_beoordelen_taaleis: 11
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12645,0.487,0.153,0.0965599051008304,0.276789244760775,-0.344009489916965,17.6789244760775,"real_conditional"
+"16","IV: 
+contacten_onderwerp_beoordelen_taaleis: 13
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12645,0.487,0.153,0.0965599051008304,0.276789244760775,-0.344009489916965,17.6789244760775,"real_conditional"
+"17","IV: 
+contacten_onderwerp_beoordelen_taaleis: 2
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12645,0.485,0.153,0.0938710952945828,0.271648873072361,-0.612890470541717,17.1648873072361,"real_conditional"
+"18","IV: 
+contacten_onderwerp_beoordelen_taaleis: 3
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12645,0.483,0.153,0.0920521945432977,0.269513641755635,-0.794780545670226,16.9513641755635,"real_conditional"
+"19","IV: 
+contacten_onderwerp_beoordelen_taaleis: 4
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12645,0.483,0.153,0.0920521945432977,0.269513641755635,-0.794780545670226,16.9513641755635,"real_conditional"
+"20","IV: 
+contacten_onderwerp_beoordelen_taaleis: 5
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12645,0.483,0.153,0.0920521945432977,0.269513641755635,-0.794780545670226,16.9513641755635,"real_conditional"
+"21","IV: 
+contacten_onderwerp_beoordelen_taaleis: 6
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12645,0.487,0.153,0.0965599051008304,0.276789244760775,-0.344009489916965,17.6789244760775,"real_conditional"
+"22","IV: 
+contacten_onderwerp_beoordelen_taaleis: 7
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12645,0.487,0.153,0.0965599051008304,0.276789244760775,-0.344009489916965,17.6789244760775,"real_conditional"
+"23","IV: 
+contacten_onderwerp_beoordelen_taaleis: 8
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12645,0.487,0.153,0.0965599051008304,0.276789244760775,-0.344009489916965,17.6789244760775,"real_conditional"
+"24","IV: 
+contacten_onderwerp_beoordelen_taaleis: 9
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12645,0.487,0.153,0.0965599051008304,0.276789244760775,-0.344009489916965,17.6789244760775,"real_conditional"
+"25","IV: 
+contacten_onderwerp_beoordelen_taaleis: 0
+contacten_onderwerp_boolean_beoordelen_taaleis: 0
+","Ja",4322,0.623,0.085,0.136510874595095,0.683942619157797,3.65108745950949,58.3942619157797,"synth"
+"26","IV: 
+contacten_onderwerp_beoordelen_taaleis: 1
+contacten_onderwerp_boolean_beoordelen_taaleis: 0
+","Ja",4651,0.61,0.085,0.0913781982369383,0.639862395183831,-0.862180176306171,53.9862395183832,"synth"
+"27","IV: 
+contacten_onderwerp_beoordelen_taaleis: 1
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",1740,0.606,0.086,0.0839080459770115,0.619540229885058,-1.60919540229885,51.9540229885058,"synth"
+"28","IV: 
+contacten_onderwerp_beoordelen_taaleis: 2
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",1765,0.596,0.082,0.0538243626062323,0.570538243626062,-4.61756373937677,47.0538243626062,"synth"
+"29","IV: 
+contacten_onderwerp_beoordelen_taaleis: 3
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",161,0.592,0.088,0.0559006211180124,0.546583850931677,-4.40993788819876,44.6583850931677,"synth"
+"30","IV: 
+contacten_onderwerp_beoordelen_taaleis: 4
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",6,0.594,0.096,0,0.666666666666667,-10,56.6666666666667,"synth"
+"31","IV: 
+contacten_onderwerp_beoordelen_taaleis: 0
+contacten_onderwerp_boolean_beoordelen_taaleis: 0
+","Ja",12508,0.613,0.085,0.103213943076431,0.64702590342181,0.321394307643108,54.702590342181,"synth_conditional"
+"32","IV: 
+contacten_onderwerp_beoordelen_taaleis: 1
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12508,0.612,0.085,0.0982571154461145,0.641269587464023,-0.174288455388552,54.1269587464023,"synth_conditional"
+"33","IV: 
+contacten_onderwerp_beoordelen_taaleis: 11
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12508,0.612,0.085,0.0988967061080908,0.640310201471059,-0.110329389190919,54.0310201471059,"synth_conditional"
+"34","IV: 
+contacten_onderwerp_beoordelen_taaleis: 13
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12508,0.612,0.085,0.0988967061080908,0.640310201471059,-0.110329389190919,54.0310201471059,"synth_conditional"
+"35","IV: 
+contacten_onderwerp_beoordelen_taaleis: 2
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12508,0.608,0.085,0.089622641509434,0.624400383754397,-1.0377358490566,52.4400383754397,"synth_conditional"
+"36","IV: 
+contacten_onderwerp_beoordelen_taaleis: 3
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12508,0.608,0.085,0.0894627438439399,0.623201151263192,-1.05372561560601,52.3201151263192,"synth_conditional"
+"37","IV: 
+contacten_onderwerp_beoordelen_taaleis: 4
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12508,0.608,0.085,0.0894627438439399,0.623201151263192,-1.05372561560601,52.3201151263192,"synth_conditional"
+"38","IV: 
+contacten_onderwerp_beoordelen_taaleis: 5
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12508,0.608,0.085,0.0894627438439399,0.623201151263192,-1.05372561560601,52.3201151263192,"synth_conditional"
+"39","IV: 
+contacten_onderwerp_beoordelen_taaleis: 6
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12508,0.612,0.085,0.0988967061080908,0.640310201471059,-0.110329389190919,54.0310201471059,"synth_conditional"
+"40","IV: 
+contacten_onderwerp_beoordelen_taaleis: 7
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12508,0.612,0.085,0.0988967061080908,0.640310201471059,-0.110329389190919,54.0310201471059,"synth_conditional"
+"41","IV: 
+contacten_onderwerp_beoordelen_taaleis: 8
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12508,0.612,0.085,0.0988967061080908,0.640310201471059,-0.110329389190919,54.0310201471059,"synth_conditional"
+"42","IV: 
+contacten_onderwerp_beoordelen_taaleis: 9
+contacten_onderwerp_boolean_beoordelen_taaleis: 1
+","Ja",12508,0.612,0.085,0.0988967061080908,0.640310201471059,-0.110329389190919,54.0310201471059,"synth_conditional"

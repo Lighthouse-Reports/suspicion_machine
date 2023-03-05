@@ -1,0 +1,61 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","Ja",3682,0.552,0.134,0.164312873438349,0.392449755567626,6.43128734383487,29.2449755567626,"real"
+"2","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+","Ja",6709,0.462,0.153,0.0724400059621404,0.233566850499329,-2.75599940378596,13.3566850499329,"real"
+"3","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+","Ja",2124,0.464,0.153,0.0748587570621469,0.240583804143126,-2.51412429378531,14.0583804143126,"real"
+"4","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+","Ja",124,0.497,0.158,0.112903225806452,0.32258064516129,1.29032258064516,22.258064516129,"real"
+"5","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+","Ja",6,0.562,0.15,0.166666666666667,0.5,6.66666666666667,40,"real"
+"6","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","Ja",12645,0.491,0.152,0.100434954527481,0.283906682483195,0.0434954527481213,18.3906682483195,"real_conditional"
+"7","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+","Ja",12645,0.489,0.153,0.0998022933965994,0.281296955318308,-0.0197706603400558,18.1296955318308,"real_conditional"
+"8","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+","Ja",12645,0.488,0.153,0.0991696322657177,0.280347963621985,-0.0830367734282328,18.0347963621985,"real_conditional"
+"9","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+","Ja",12645,0.488,0.153,0.0991696322657177,0.280347963621985,-0.0830367734282328,18.0347963621985,"real_conditional"
+"10","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+","Ja",12645,0.488,0.153,0.0991696322657177,0.280347963621985,-0.0830367734282328,18.0347963621985,"real_conditional"
+"11","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","Ja",3285,0.624,0.081,0.124200913242009,0.692846270928463,2.42009132420091,59.2846270928463,"synth"
+"12","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+","Ja",6381,0.611,0.085,0.100297758971948,0.64033850493653,0.0297758971947962,54.033850493653,"synth"
+"13","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+","Ja",2511,0.601,0.087,0.0728793309438471,0.592990840302668,-2.71206690561529,49.2990840302668,"synth"
+"14","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+","Ja",453,0.592,0.094,0.0728476821192053,0.560706401766004,-2.71523178807947,46.0706401766004,"synth"
+"15","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+","Ja",15,0.54,0.1,0.0666666666666667,0.266666666666667,-3.33333333333333,16.6666666666667,"synth"
+"16","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","Ja",12508,0.612,0.085,0.100415733930285,0.643348257115446,0.0415733930284615,54.3348257115446,"synth_conditional"
+"17","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+","Ja",12508,0.612,0.085,0.0996162456028142,0.641429485129517,-0.0383754397185812,54.1429485129517,"synth_conditional"
+"18","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+","Ja",12508,0.612,0.085,0.099216501439079,0.640070354972817,-0.0783498560921012,54.0070354972817,"synth_conditional"
+"19","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+","Ja",12508,0.612,0.085,0.099216501439079,0.640070354972817,-0.0783498560921012,54.0070354972817,"synth_conditional"
+"20","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+","Ja",12508,0.612,0.085,0.099216501439079,0.640070354972817,-0.0783498560921012,54.0070354972817,"synth_conditional"

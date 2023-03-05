@@ -1,0 +1,51 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+competentie_onderzoeken: 0
+","IV: 
+competentie_onderzoeken: 1
+",11076,1555,2.01e-109,"****",6.04e-109,"****","real"
+"2","Ja","IV: 
+competentie_onderzoeken: 0
+","IV: 
+competentie_onderzoeken: 2
+",11076,14,0.000997,"***",0.00199,"**","real"
+"3","Ja","IV: 
+competentie_onderzoeken: 1
+","IV: 
+competentie_onderzoeken: 2
+",1555,14,0.31,"ns",0.31,"ns","real"
+"4","Ja","IV: 
+competentie_onderzoeken: 0
+","IV: 
+competentie_onderzoeken: 1
+",12645,12645,0.824,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+competentie_onderzoeken: 0
+","IV: 
+competentie_onderzoeken: 2
+",12645,12645,0.824,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+competentie_onderzoeken: 1
+","IV: 
+competentie_onderzoeken: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+competentie_onderzoeken: 0
+","IV: 
+competentie_onderzoeken: 1
+",10700,1945,2.23e-21,"****",2.23e-21,"****","synth"
+"8","Ja","IV: 
+competentie_onderzoeken: 0
+","IV: 
+competentie_onderzoeken: 1
+",12508,12508,0.475,"ns",1,"ns","synth_conditional"
+"9","Ja","IV: 
+competentie_onderzoeken: 0
+","IV: 
+competentie_onderzoeken: 2
+",12508,12508,0.475,"ns",1,"ns","synth_conditional"
+"10","Ja","IV: 
+competentie_onderzoeken: 1
+","IV: 
+competentie_onderzoeken: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"

@@ -1,0 +1,181 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",8028,4328,0.643,"ns",1,"ns","real"
+"2","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",8028,271,0.0236,"*",0.212,"ns","real"
+"3","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",4328,271,0.0177,"*",0.177,"ns","real"
+"4","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",8028,16,0.208,"ns",1,"ns","real"
+"5","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",4328,16,0.196,"ns",1,"ns","real"
+"6","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",271,16,0.496,"ns",1,"ns","real"
+"7","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",8028,2,0.589,"ns",1,"ns","real"
+"8","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",4328,2,0.581,"ns",1,"ns","real"
+"9","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",271,2,0.733,"ns",1,"ns","real"
+"10","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",16,2,0.929,"ns",1,"ns","real"
+"11","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"12","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",12645,12645,0.852,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",12645,12645,0.852,"ns",1,"ns","real_conditional"
+"14","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",12645,12645,0.852,"ns",1,"ns","real_conditional"
+"15","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",12645,12645,0.852,"ns",1,"ns","real_conditional"
+"16","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"17","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",12645,12645,0.852,"ns",1,"ns","real_conditional"
+"18","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",12645,12645,0.852,"ns",1,"ns","real_conditional"
+"19","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"20","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"21","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",6281,5988,0.196,"ns",0.587,"ns","synth"
+"22","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",6281,373,0.34,"ns",0.681,"ns","synth"
+"23","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",5988,373,0.607,"ns",0.681,"ns","synth"
+"24","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",6281,3,0.014,"*",0.0838,"ns","synth"
+"25","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",5988,3,0.0156,"*",0.0838,"ns","synth"
+"26","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",373,3,0.0182,"*",0.0838,"ns","synth"
+"27","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"28","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",12508,12508,0.638,"ns",1,"ns","synth_conditional"
+"29","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",12508,12508,0.638,"ns",1,"ns","synth_conditional"
+"30","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",12508,12508,0.638,"ns",1,"ns","synth_conditional"
+"31","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",12508,12508,0.638,"ns",1,"ns","synth_conditional"
+"32","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"33","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",12508,12508,0.638,"ns",1,"ns","synth_conditional"
+"34","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",12508,12508,0.638,"ns",1,"ns","synth_conditional"
+"35","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"36","Ja","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+","IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"

@@ -1,0 +1,957 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1227,10.904728048347,"real"
+"2",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",7,1.59090909090909,"real"
+"3",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",27,3.39622641509434,"real"
+"4",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",3,4.10958904109589,"real"
+"5",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1,10,"real"
+"6",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1171,10.4070387486669,"real"
+"7",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",22,5,"real"
+"8",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",62,7.79874213836478,"real"
+"9",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",7,14,"real"
+"10",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",2,2.73972602739726,"real"
+"11",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1,4,"real"
+"12",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1152,10.2381798791326,"real"
+"13",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",34,7.72727272727273,"real"
+"14",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",68,8.55345911949686,"real"
+"15",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",3,6,"real"
+"16",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",5,6.84931506849315,"real"
+"17",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1,10,"real"
+"18",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",2,8,"real"
+"19",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1132,10.0604337006754,"real"
+"20",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",47,10.6818181818182,"real"
+"21",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",68,8.55345911949686,"real"
+"22",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",5,10,"real"
+"23",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",8,10.958904109589,"real"
+"24",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1,10,"real"
+"25",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",4,16,"real"
+"26",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1137,10.1048702452897,"real"
+"27",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",42,9.54545454545454,"real"
+"28",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",73,9.18238993710692,"real"
+"29",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",7,14,"real"
+"30",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",3,4.10958904109589,"real"
+"31",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1,10,"real"
+"32",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",2,8,"real"
+"33",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1107,9.83825097760398,"real"
+"34",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",68,15.4545454545455,"real"
+"35",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",79,9.93710691823899,"real"
+"36",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",2,4,"real"
+"37",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",5,6.84931506849315,"real"
+"38",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",3,30,"real"
+"39",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1105,9.82047635975827,"real"
+"40",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",46,10.4545454545455,"real"
+"41",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",96,12.0754716981132,"real"
+"42",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",6,12,"real"
+"43",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",9,12.3287671232877,"real"
+"44",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1,10,"real"
+"45",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1,4,"real"
+"46",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1066,9.4738713117668,"real"
+"47",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",63,14.3181818181818,"real"
+"48",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",113,14.2138364779874,"real"
+"49",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",8,16,"real"
+"50",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",10,13.6986301369863,"real"
+"51",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",4,16,"real"
+"52",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1070,9.50942054745823,"real"
+"53",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",63,14.3181818181818,"real"
+"54",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",106,13.3333333333333,"real"
+"55",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",7,14,"real"
+"56",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",11,15.0684931506849,"real"
+"57",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1,10,"real"
+"58",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",6,24,"real"
+"59",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1085,9.6427301813011,"real"
+"60",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",48,10.9090909090909,"real"
+"61",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",103,12.9559748427673,"real"
+"62",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",5,10,"real"
+"63",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",17,23.2876712328767,"real"
+"64",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1,10,"real"
+"65",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",5,20,"real"
+"66",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1337,10.5733491498616,"real_conditional"
+"67",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1337,10.5733491498616,"real_conditional"
+"68",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1205,9.52945828390668,"real_conditional"
+"69",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1309,10.351917754053,"real_conditional"
+"70",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1178,9.31593515223408,"real_conditional"
+"71",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1308,10.344009489917,"real_conditional"
+"72",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1178,9.31593515223408,"real_conditional"
+"73",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1277,10.0988533017003,"real_conditional"
+"74",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1276,10.0909450375643,"real_conditional"
+"75",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1248,9.86951364175563,"real_conditional"
+"76",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1278,10.1067615658363,"real_conditional"
+"77",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1247,9.86160537761961,"real_conditional"
+"78",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1279,10.1146698299723,"real_conditional"
+"79",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1247,9.86160537761961,"real_conditional"
+"80",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1279,10.1146698299723,"real_conditional"
+"81",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1280,10.1225780941083,"real_conditional"
+"82",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1251,9.8932384341637,"real_conditional"
+"83",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1281,10.1304863582444,"real_conditional"
+"84",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1240,9.80624752866746,"real_conditional"
+"85",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1281,10.1304863582444,"real_conditional"
+"86",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1240,9.80624752866746,"real_conditional"
+"87",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1269,10.0355871886121,"real_conditional"
+"88",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1269,10.0355871886121,"real_conditional"
+"89",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1281,10.1304863582444,"real_conditional"
+"90",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1246,9.85369711348359,"real_conditional"
+"91",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1271,10.0514037168841,"real_conditional"
+"92",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1245,9.84578884934757,"real_conditional"
+"93",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1271,10.0514037168841,"real_conditional"
+"94",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1266,10.011862396204,"real_conditional"
+"95",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1266,10.011862396204,"real_conditional"
+"96",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1255,9.92487149070779,"real_conditional"
+"97",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1273,10.0672202451562,"real_conditional"
+"98",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1259,9.95650454725188,"real_conditional"
+"99",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1274,10.0751285092922,"real_conditional"
+"100",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1259,9.95650454725188,"real_conditional"
+"101",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1243,9.82997232107552,"real_conditional"
+"102",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1243,9.82997232107552,"real_conditional"
+"103",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1287,10.1779359430605,"real_conditional"
+"104",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1249,9.87742190589166,"real_conditional"
+"105",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1290,10.2016607354686,"real_conditional"
+"106",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1249,9.87742190589166,"real_conditional"
+"107",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1290,10.2016607354686,"real_conditional"
+"108",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1275,10.0830367734282,"real_conditional"
+"109",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1275,10.0830367734282,"real_conditional"
+"110",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1255,9.92487149070779,"real_conditional"
+"111",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1262,9.98022933965994,"real_conditional"
+"112",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1261,9.97232107552392,"real_conditional"
+"113",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1262,9.98022933965994,"real_conditional"
+"114",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1261,9.97232107552392,"real_conditional"
+"115",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1242,9.8220640569395,"real_conditional"
+"116",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1242,9.8220640569395,"real_conditional"
+"117",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1291,10.2095689996046,"real_conditional"
+"118",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1253,9.90905496243574,"real_conditional"
+"119",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1285,10.1621194147885,"real_conditional"
+"120",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1253,9.90905496243574,"real_conditional"
+"121",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1285,10.1621194147885,"real_conditional"
+"122",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1236,9.77461447212337,"real_conditional"
+"123",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1236,9.77461447212337,"real_conditional"
+"124",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1286,10.1700276789245,"real_conditional"
+"125",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1247,9.86160537761961,"real_conditional"
+"126",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1300,10.2807433768288,"real_conditional"
+"127",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1247,9.86160537761961,"real_conditional"
+"128",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1299,10.2728351126928,"real_conditional"
+"129",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1221,9.65599051008304,"real_conditional"
+"130",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1221,9.65599051008304,"real_conditional"
+"131",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1286,10.1700276789245,"real_conditional"
+"132",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1247,9.86160537761961,"real_conditional"
+"133",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1314,10.3914590747331,"real_conditional"
+"134",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1247,9.86160537761961,"real_conditional"
+"135",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1315,10.3993673388691,"real_conditional"
+"136",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1025,10.4198434482058,"synth"
+"137",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",180,8.41908325537886,"synth"
+"138",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",60,9.00900900900901,"synth"
+"139",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",999,10.1555352241537,"synth"
+"140",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",211,9.86903648269411,"synth"
+"141",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",55,8.25825825825826,"synth"
+"142",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1018,10.3486835417302,"synth"
+"143",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",194,9.07390084190833,"synth"
+"144",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",52,7.80780780780781,"synth"
+"145",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1,25,"synth"
+"146",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",963,9.78956999085087,"synth"
+"147",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",238,11.1318989710009,"synth"
+"148",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",64,9.60960960960961,"synth"
+"149",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1003,10.196198027854,"synth"
+"150",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",202,9.44808231992516,"synth"
+"151",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",59,8.85885885885886,"synth"
+"152",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1,25,"synth"
+"153",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",966,9.82006709362611,"synth"
+"154",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",230,10.7577174929841,"synth"
+"155",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",68,10.2102102102102,"synth"
+"156",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",970,9.86072989732642,"synth"
+"157",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",221,10.3367633302152,"synth"
+"158",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",72,10.8108108108108,"synth"
+"159",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1,25,"synth"
+"160",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",964,9.79973569177595,"synth"
+"161",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",226,10.5706267539757,"synth"
+"162",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",74,11.1111111111111,"synth"
+"163",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",949,9.64725017789977,"synth"
+"164",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",226,10.5706267539757,"synth"
+"165",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",89,13.3633633633634,"synth"
+"166",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",980,9.96238690657721,"synth"
+"167",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",210,9.822263797942,"synth"
+"168",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",73,10.960960960961,"synth"
+"169",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1,25,"synth"
+"170",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1293,10.3373840741925,"synth_conditional"
+"171",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1293,10.3373840741925,"synth_conditional"
+"172",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1206,9.64182922929325,"synth_conditional"
+"173",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1284,10.2654301247202,"synth_conditional"
+"174",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1198,9.57787016309562,"synth_conditional"
+"175",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1284,10.2654301247202,"synth_conditional"
+"176",1,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1198,9.57787016309562,"synth_conditional"
+"177",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1274,10.1854812919731,"synth_conditional"
+"178",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1274,10.1854812919731,"synth_conditional"
+"179",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1226,9.80172689478734,"synth_conditional"
+"180",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1274,10.1854812919731,"synth_conditional"
+"181",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1217,9.729772945315,"synth_conditional"
+"182",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1274,10.1854812919731,"synth_conditional"
+"183",2,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1217,9.729772945315,"synth_conditional"
+"184",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1262,10.0895426926767,"synth_conditional"
+"185",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1262,10.0895426926767,"synth_conditional"
+"186",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1246,9.96162456028142,"synth_conditional"
+"187",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1251,10.0015989766549,"synth_conditional"
+"188",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1242,9.9296450271826,"synth_conditional"
+"189",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1251,10.0015989766549,"synth_conditional"
+"190",3,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1242,9.9296450271826,"synth_conditional"
+"191",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1272,10.1694915254237,"synth_conditional"
+"192",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1272,10.1694915254237,"synth_conditional"
+"193",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1235,9.87368084425967,"synth_conditional"
+"194",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1260,10.0735529261273,"synth_conditional"
+"195",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1229,9.82571154461145,"synth_conditional"
+"196",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1259,10.0655580428526,"synth_conditional"
+"197",4,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1229,9.82571154461145,"synth_conditional"
+"198",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1246,9.96162456028142,"synth_conditional"
+"199",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1245,9.95362967700671,"synth_conditional"
+"200",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1258,10.0575631595779,"synth_conditional"
+"201",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1250,9.99360409338024,"synth_conditional"
+"202",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1253,10.0175887432043,"synth_conditional"
+"203",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1251,10.0015989766549,"synth_conditional"
+"204",5,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1253,10.0175887432043,"synth_conditional"
+"205",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1265,10.1135273425008,"synth_conditional"
+"206",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1266,10.1215222257755,"synth_conditional"
+"207",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1237,9.88967061080908,"synth_conditional"
+"208",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1260,10.0735529261273,"synth_conditional"
+"209",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1234,9.86568596098497,"synth_conditional"
+"210",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1260,10.0735529261273,"synth_conditional"
+"211",6,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1234,9.86568596098497,"synth_conditional"
+"212",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1240,9.9136552606332,"synth_conditional"
+"213",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1240,9.9136552606332,"synth_conditional"
+"214",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1261,10.081547809402,"synth_conditional"
+"215",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1240,9.9136552606332,"synth_conditional"
+"216",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1267,10.1295171090502,"synth_conditional"
+"217",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1240,9.9136552606332,"synth_conditional"
+"218",7,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1267,10.1295171090502,"synth_conditional"
+"219",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1239,9.90566037735849,"synth_conditional"
+"220",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1238,9.89766549408379,"synth_conditional"
+"221",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1266,10.1215222257755,"synth_conditional"
+"222",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1246,9.96162456028142,"synth_conditional"
+"223",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1260,10.0735529261273,"synth_conditional"
+"224",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1246,9.96162456028142,"synth_conditional"
+"225",8,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1260,10.0735529261273,"synth_conditional"
+"226",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1213,9.69779341221618,"synth_conditional"
+"227",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1214,9.70578829549089,"synth_conditional"
+"228",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1283,10.2574352414455,"synth_conditional"
+"229",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1221,9.76175247841381,"synth_conditional"
+"230",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1302,10.4093380236649,"synth_conditional"
+"231",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1220,9.75375759513911,"synth_conditional"
+"232",9,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1302,10.4093380236649,"synth_conditional"
+"233",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 0
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1204,9.62583946274384,"synth_conditional"
+"234",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1204,9.62583946274384,"synth_conditional"
+"235",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 1
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1290,10.3133994243684,"synth_conditional"
+"236",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1222,9.76974736168852,"synth_conditional"
+"237",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 2
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1306,10.4413175567637,"synth_conditional"
+"238",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 0
+",1223,9.77774224496322,"synth_conditional"
+"239",10,"IV: 
+relatie_partner_aantal_partner___partner__gehuwd_: 3
+relatie_partner_huidige_partner___partner__gehuwd_: 1
+",1306,10.4413175567637,"synth_conditional"

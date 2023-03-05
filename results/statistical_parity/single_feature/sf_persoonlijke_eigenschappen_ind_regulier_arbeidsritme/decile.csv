@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1227,11.9137780367026,"real"
+"2",1,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",38,1.61977834612106,"real"
+"3",2,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1167,11.331197203612,"real"
+"4",2,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",98,4.1773231031543,"real"
+"5",3,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1151,11.1758423147878,"real"
+"6",3,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",114,4.85933503836317,"real"
+"7",4,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1060,10.2922613846004,"real"
+"8",4,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",205,8.7382779198636,"real"
+"9",5,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1037,10.0689387319157,"real"
+"10",5,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",228,9.71867007672634,"real"
+"11",6,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1024,9.94271288474609,"real"
+"12",6,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",240,10.230179028133,"real"
+"13",7,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",989,9.60287406544325,"real"
+"14",7,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",275,11.7220801364024,"real"
+"15",8,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",967,9.38926109331003,"real"
+"16",8,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",297,12.6598465473146,"real"
+"17",9,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",955,9.27274492669191,"real"
+"18",9,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",309,13.1713554987212,"real"
+"19",10,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",722,7.01038935819012,"real"
+"20",10,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",542,23.1031543052003,"real"
+"21",1,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1266,10.011862396204,"real_conditional"
+"22",1,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1263,9.98813760379597,"real_conditional"
+"23",2,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1270,10.0434954527481,"real_conditional"
+"24",2,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1259,9.95650454725188,"real_conditional"
+"25",3,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1266,10.011862396204,"real_conditional"
+"26",3,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1263,9.98813760379597,"real_conditional"
+"27",4,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1260,9.9644128113879,"real_conditional"
+"28",4,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1269,10.0355871886121,"real_conditional"
+"29",5,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1268,10.0276789244761,"real_conditional"
+"30",5,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1261,9.97232107552392,"real_conditional"
+"31",6,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1264,9.99604586793199,"real_conditional"
+"32",6,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1265,10.003954132068,"real_conditional"
+"33",7,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1263,9.98813760379597,"real_conditional"
+"34",7,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1266,10.011862396204,"real_conditional"
+"35",8,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1265,10.003954132068,"real_conditional"
+"36",8,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1264,9.99604586793199,"real_conditional"
+"37",9,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1262,9.98022933965994,"real_conditional"
+"38",9,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1267,10.0197706603401,"real_conditional"
+"39",10,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1261,9.97232107552392,"real_conditional"
+"40",10,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1268,10.0276789244761,"real_conditional"
+"41",1,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1055,11.3088219530496,"synth"
+"42",1,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",210,6.3329312424608,"synth"
+"43",2,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",993,10.6442276771358,"synth"
+"44",2,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",272,8.20265379975875,"synth"
+"45",3,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",974,10.4405616893558,"synth"
+"46",3,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",291,8.77563329312425,"synth"
+"47",4,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",958,10.2690534891199,"synth"
+"48",4,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",307,9.25814234016888,"synth"
+"49",5,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",923,9.89387930110408,"synth"
+"50",5,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",342,10.313630880579,"synth"
+"51",6,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",914,9.79740593847143,"synth"
+"52",6,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",350,10.5548854041013,"synth"
+"53",7,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",898,9.62589773823561,"synth"
+"54",7,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",366,11.037394451146,"synth"
+"55",8,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",907,9.72237110086826,"synth"
+"56",8,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",357,10.7659831121834,"synth"
+"57",9,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",877,9.40079322542609,"synth"
+"58",9,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",387,11.670687575392,"synth"
+"59",10,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",830,8.89698788723336,"synth"
+"60",10,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",434,13.0880579010856,"synth"
+"61",1,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1251,10.0015989766549,"synth_conditional"
+"62",1,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1251,10.0015989766549,"synth_conditional"
+"63",2,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1252,10.0095938599296,"synth_conditional"
+"64",2,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1250,9.99360409338024,"synth_conditional"
+"65",3,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1255,10.0335785097538,"synth_conditional"
+"66",3,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1247,9.96961944355612,"synth_conditional"
+"67",4,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1252,10.0095938599296,"synth_conditional"
+"68",4,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1250,9.99360409338024,"synth_conditional"
+"69",5,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1251,10.0015989766549,"synth_conditional"
+"70",5,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1251,10.0015989766549,"synth_conditional"
+"71",6,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1252,10.0095938599296,"synth_conditional"
+"72",6,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1250,9.99360409338024,"synth_conditional"
+"73",7,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1249,9.98560921010553,"synth_conditional"
+"74",7,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1252,10.0095938599296,"synth_conditional"
+"75",8,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1249,9.98560921010553,"synth_conditional"
+"76",8,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1252,10.0095938599296,"synth_conditional"
+"77",9,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1248,9.97761432683083,"synth_conditional"
+"78",9,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1253,10.0175887432043,"synth_conditional"
+"79",10,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 0
+",1249,9.98560921010553,"synth_conditional"
+"80",10,"IV: 
+persoonlijke_eigenschappen_ind_regulier_arbeidsritme: 1
+",1252,10.0095938599296,"synth_conditional"

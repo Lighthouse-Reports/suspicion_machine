@@ -1,0 +1,64 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+typering_transport__logistiek___tuinbouw: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+","IV: 
+typering_transport__logistiek___tuinbouw: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",5868,956,1.46e-08,"****",1.46e-08,"****","real"
+"2","Ja","IV: 
+typering_transport__logistiek___tuinbouw: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+","IV: 
+typering_transport__logistiek___tuinbouw: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"3","Ja","IV: 
+typering_transport__logistiek___tuinbouw: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+","IV: 
+typering_transport__logistiek___tuinbouw: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",12645,12645,0.715,"ns",1,"ns","real_conditional"
+"4","Ja","IV: 
+typering_transport__logistiek___tuinbouw: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+","IV: 
+typering_transport__logistiek___tuinbouw: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",12645,12645,0.715,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+typering_transport__logistiek___tuinbouw: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+","IV: 
+typering_transport__logistiek___tuinbouw: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"6","Ja","IV: 
+typering_transport__logistiek___tuinbouw: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+","IV: 
+typering_transport__logistiek___tuinbouw: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",12508,12508,0.497,"ns",1,"ns","synth_conditional"
+"7","Ja","IV: 
+typering_transport__logistiek___tuinbouw: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+","IV: 
+typering_transport__logistiek___tuinbouw: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",12508,12508,0.497,"ns",1,"ns","synth_conditional"

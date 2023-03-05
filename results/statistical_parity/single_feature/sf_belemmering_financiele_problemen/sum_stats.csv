@@ -1,0 +1,25 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+belemmering_financiele_problemen: 0
+","Ja",10026,0.468,0.153,0.0809894274885298,0.237183323359266,-1.90105725114702,13.7183323359266,"real"
+"2","IV: 
+belemmering_financiele_problemen: 1
+","Ja",2619,0.572,0.124,0.172966781214204,0.45360824742268,7.29667812142039,35.360824742268,"real"
+"3","IV: 
+belemmering_financiele_problemen: 0
+","Ja",12645,0.488,0.153,0.0994859628311586,0.27868722815342,-0.051403716884145,17.868722815342,"real_conditional"
+"4","IV: 
+belemmering_financiele_problemen: 1
+","Ja",12645,0.493,0.151,0.102016607354686,0.286516409648082,0.201660735468563,18.6516409648082,"real_conditional"
+"5","IV: 
+belemmering_financiele_problemen: 0
+","Ja",8690,0.602,0.088,0.0827387802071346,0.599309551208285,-1.72612197928654,49.9309551208285,"synth"
+"6","IV: 
+belemmering_financiele_problemen: 1
+","Ja",3955,0.633,0.075,0.138053097345133,0.733501896333755,3.80530973451327,63.3501896333755,"synth"
+"7","IV: 
+belemmering_financiele_problemen: 0
+","Ja",12508,0.611,0.085,0.0984969619443556,0.636472657499201,-0.150303805564439,53.6472657499201,"synth_conditional"
+"8","IV: 
+belemmering_financiele_problemen: 1
+","Ja",12508,0.614,0.084,0.101774864086984,0.648464982411257,0.177486408698432,54.8464982411257,"synth_conditional"

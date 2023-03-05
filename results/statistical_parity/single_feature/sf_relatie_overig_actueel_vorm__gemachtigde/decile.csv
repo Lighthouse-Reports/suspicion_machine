@@ -1,0 +1,529 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1200,10.8892921960073,"real"
+"2",1,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",65,4.09577819785759,"real"
+"3",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1133,10.2813067150635,"real"
+"4",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",131,8.25456836798992,"real"
+"5",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1,3.2258064516129,"real"
+"6",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1081,9.80943738656987,"real"
+"7",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",179,11.2791430371771,"real"
+"8",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",3,9.67741935483871,"real"
+"9",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1,25,"real"
+"10",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1,100,"real"
+"11",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1095,9.93647912885662,"real"
+"12",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",166,10.4599873976055,"real"
+"13",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",4,12.9032258064516,"real"
+"14",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1080,9.80036297640653,"real"
+"15",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",173,10.9010712035287,"real"
+"16",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",11,35.4838709677419,"real"
+"17",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1,25,"real"
+"18",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1094,9.92740471869329,"real"
+"19",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",165,10.3969754253308,"real"
+"20",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",4,12.9032258064516,"real"
+"21",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1,25,"real"
+"22",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1078,9.78221415607985,"real"
+"23",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",182,11.4681789540013,"real"
+"24",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",3,9.67741935483871,"real"
+"25",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1,50,"real"
+"26",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1076,9.76406533575318,"real"
+"27",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",184,11.5942028985507,"real"
+"28",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",3,9.67741935483871,"real"
+"29",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1,25,"real"
+"30",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1069,9.7005444646098,"real"
+"31",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",192,12.0982986767486,"real"
+"32",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",2,6.45161290322581,"real"
+"33",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1,50,"real"
+"34",10,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1114,10.1088929219601,"real"
+"35",10,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",150,9.45179584120983,"real"
+"36",1,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1265,10.003954132068,"real_conditional"
+"37",1,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1265,10.003954132068,"real_conditional"
+"38",1,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1265,10.003954132068,"real_conditional"
+"39",1,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1264,9.99604586793199,"real_conditional"
+"40",1,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1264,9.99604586793199,"real_conditional"
+"41",1,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1264,9.99604586793199,"real_conditional"
+"42",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1264,9.99604586793199,"real_conditional"
+"43",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1264,9.99604586793199,"real_conditional"
+"44",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1264,9.99604586793199,"real_conditional"
+"45",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1265,10.003954132068,"real_conditional"
+"46",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1265,10.003954132068,"real_conditional"
+"47",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1265,10.003954132068,"real_conditional"
+"48",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1265,10.003954132068,"real_conditional"
+"49",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1265,10.003954132068,"real_conditional"
+"50",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1265,10.003954132068,"real_conditional"
+"51",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1264,9.99604586793199,"real_conditional"
+"52",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1264,9.99604586793199,"real_conditional"
+"53",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1264,9.99604586793199,"real_conditional"
+"54",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1264,9.99604586793199,"real_conditional"
+"55",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1264,9.99604586793199,"real_conditional"
+"56",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1264,9.99604586793199,"real_conditional"
+"57",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1265,10.003954132068,"real_conditional"
+"58",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1265,10.003954132068,"real_conditional"
+"59",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1265,10.003954132068,"real_conditional"
+"60",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1265,10.003954132068,"real_conditional"
+"61",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1265,10.003954132068,"real_conditional"
+"62",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1265,10.003954132068,"real_conditional"
+"63",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1264,9.99604586793199,"real_conditional"
+"64",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1264,9.99604586793199,"real_conditional"
+"65",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1264,9.99604586793199,"real_conditional"
+"66",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1264,9.99604586793199,"real_conditional"
+"67",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1264,9.99604586793199,"real_conditional"
+"68",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1264,9.99604586793199,"real_conditional"
+"69",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1265,10.003954132068,"real_conditional"
+"70",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1265,10.003954132068,"real_conditional"
+"71",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1265,10.003954132068,"real_conditional"
+"72",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1265,10.003954132068,"real_conditional"
+"73",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1265,10.003954132068,"real_conditional"
+"74",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1265,10.003954132068,"real_conditional"
+"75",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1264,9.99604586793199,"real_conditional"
+"76",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1264,9.99604586793199,"real_conditional"
+"77",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1264,9.99604586793199,"real_conditional"
+"78",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1264,9.99604586793199,"real_conditional"
+"79",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1264,9.99604586793199,"real_conditional"
+"80",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1264,9.99604586793199,"real_conditional"
+"81",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1265,10.003954132068,"real_conditional"
+"82",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1265,10.003954132068,"real_conditional"
+"83",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1265,10.003954132068,"real_conditional"
+"84",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1265,10.003954132068,"real_conditional"
+"85",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1265,10.003954132068,"real_conditional"
+"86",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1265,10.003954132068,"real_conditional"
+"87",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1264,9.99604586793199,"real_conditional"
+"88",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1264,9.99604586793199,"real_conditional"
+"89",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1264,9.99604586793199,"real_conditional"
+"90",10,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1264,9.99604586793199,"real_conditional"
+"91",10,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1264,9.99604586793199,"real_conditional"
+"92",10,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1264,9.99604586793199,"real_conditional"
+"93",10,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1265,10.003954132068,"real_conditional"
+"94",10,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1265,10.003954132068,"real_conditional"
+"95",10,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1265,10.003954132068,"real_conditional"
+"96",1,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1043,10.2647377226651,"synth"
+"97",1,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",222,8.94079742247282,"synth"
+"98",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1021,10.0482236000394,"synth"
+"99",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",244,9.82682239226742,"synth"
+"100",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1017,10.0088573959256,"synth"
+"101",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",248,9.98791784132098,"synth"
+"102",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1041,10.2450546206082,"synth"
+"103",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",224,9.0213451469996,"synth"
+"104",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1004,9.88091723255585,"synth"
+"105",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",261,10.5114780507451,"synth"
+"106",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1018,10.018698946954,"synth"
+"107",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",246,9.9073701167942,"synth"
+"108",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1014,9.97933274284027,"synth"
+"109",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",250,10.0684655658478,"synth"
+"110",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1005,9.89075878358429,"synth"
+"111",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",259,10.4309303262183,"synth"
+"112",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",995,9.79234327329987,"synth"
+"113",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",268,10.7933950865888,"synth"
+"114",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1,100,"synth"
+"115",10,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1003,9.87107568152741,"synth"
+"116",10,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",261,10.5114780507451,"synth"
+"117",1,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1251,10.0015989766549,"synth_conditional"
+"118",1,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1251,10.0015989766549,"synth_conditional"
+"119",1,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1251,10.0015989766549,"synth_conditional"
+"120",1,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1251,10.0015989766549,"synth_conditional"
+"121",1,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1251,10.0015989766549,"synth_conditional"
+"122",1,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1250,9.99360409338024,"synth_conditional"
+"123",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1251,10.0015989766549,"synth_conditional"
+"124",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1251,10.0015989766549,"synth_conditional"
+"125",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1251,10.0015989766549,"synth_conditional"
+"126",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1251,10.0015989766549,"synth_conditional"
+"127",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1250,9.99360409338024,"synth_conditional"
+"128",2,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1251,10.0015989766549,"synth_conditional"
+"129",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1251,10.0015989766549,"synth_conditional"
+"130",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1251,10.0015989766549,"synth_conditional"
+"131",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1251,10.0015989766549,"synth_conditional"
+"132",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1250,9.99360409338024,"synth_conditional"
+"133",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1251,10.0015989766549,"synth_conditional"
+"134",3,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1251,10.0015989766549,"synth_conditional"
+"135",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1251,10.0015989766549,"synth_conditional"
+"136",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1251,10.0015989766549,"synth_conditional"
+"137",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1250,9.99360409338024,"synth_conditional"
+"138",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1251,10.0015989766549,"synth_conditional"
+"139",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1251,10.0015989766549,"synth_conditional"
+"140",4,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1251,10.0015989766549,"synth_conditional"
+"141",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1251,10.0015989766549,"synth_conditional"
+"142",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1250,9.99360409338024,"synth_conditional"
+"143",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1251,10.0015989766549,"synth_conditional"
+"144",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1251,10.0015989766549,"synth_conditional"
+"145",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1251,10.0015989766549,"synth_conditional"
+"146",5,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1251,10.0015989766549,"synth_conditional"
+"147",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1250,9.99360409338024,"synth_conditional"
+"148",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1251,10.0015989766549,"synth_conditional"
+"149",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1251,10.0015989766549,"synth_conditional"
+"150",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1251,10.0015989766549,"synth_conditional"
+"151",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1251,10.0015989766549,"synth_conditional"
+"152",6,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1251,10.0015989766549,"synth_conditional"
+"153",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1251,10.0015989766549,"synth_conditional"
+"154",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1251,10.0015989766549,"synth_conditional"
+"155",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1251,10.0015989766549,"synth_conditional"
+"156",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1251,10.0015989766549,"synth_conditional"
+"157",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1251,10.0015989766549,"synth_conditional"
+"158",7,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1250,9.99360409338024,"synth_conditional"
+"159",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1251,10.0015989766549,"synth_conditional"
+"160",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1251,10.0015989766549,"synth_conditional"
+"161",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1251,10.0015989766549,"synth_conditional"
+"162",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1251,10.0015989766549,"synth_conditional"
+"163",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1250,9.99360409338024,"synth_conditional"
+"164",8,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1251,10.0015989766549,"synth_conditional"
+"165",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1251,10.0015989766549,"synth_conditional"
+"166",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1251,10.0015989766549,"synth_conditional"
+"167",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1250,9.99360409338024,"synth_conditional"
+"168",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1250,9.99360409338024,"synth_conditional"
+"169",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1251,10.0015989766549,"synth_conditional"
+"170",9,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1251,10.0015989766549,"synth_conditional"
+"171",10,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 0
+",1250,9.99360409338024,"synth_conditional"
+"172",10,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 1
+",1250,9.99360409338024,"synth_conditional"
+"173",10,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 2
+",1251,10.0015989766549,"synth_conditional"
+"174",10,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 3
+",1251,10.0015989766549,"synth_conditional"
+"175",10,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 4
+",1251,10.0015989766549,"synth_conditional"
+"176",10,"IV: 
+relatie_overig_actueel_vorm__gemachtigde: 6
+",1251,10.0015989766549,"synth_conditional"

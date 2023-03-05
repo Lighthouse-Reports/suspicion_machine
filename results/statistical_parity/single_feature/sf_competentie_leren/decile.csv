@@ -1,0 +1,385 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+competentie_leren: 0
+",1255,11.314460872701,"real"
+"2",1,"IV: 
+competentie_leren: 1
+",10,0.650618087182824,"real"
+"3",2,"IV: 
+competentie_leren: 0
+",1214,10.9448250991706,"real"
+"4",2,"IV: 
+competentie_leren: 1
+",51,3.3181522446324,"real"
+"5",3,"IV: 
+competentie_leren: 0
+",1155,10.4129102055536,"real"
+"6",3,"IV: 
+competentie_leren: 1
+",109,7.09173715029278,"real"
+"7",3,"IV: 
+competentie_leren: 2
+",1,6.66666666666667,"real"
+"8",4,"IV: 
+competentie_leren: 0
+",1117,10.0703209520375,"real"
+"9",4,"IV: 
+competentie_leren: 1
+",147,9.56408588158751,"real"
+"10",4,"IV: 
+competentie_leren: 2
+",1,6.66666666666667,"real"
+"11",5,"IV: 
+competentie_leren: 0
+",1102,9.93508835196538,"real"
+"12",5,"IV: 
+competentie_leren: 1
+",163,10.60507482108,"real"
+"13",6,"IV: 
+competentie_leren: 0
+",1104,9.95311936530833,"real"
+"14",6,"IV: 
+competentie_leren: 1
+",158,10.2797657774886,"real"
+"15",6,"IV: 
+competentie_leren: 2
+",2,13.3333333333333,"real"
+"16",7,"IV: 
+competentie_leren: 0
+",1063,9.58348359177786,"real"
+"17",7,"IV: 
+competentie_leren: 1
+",200,13.0123617436565,"real"
+"18",7,"IV: 
+competentie_leren: 2
+",1,6.66666666666667,"real"
+"19",8,"IV: 
+competentie_leren: 0
+",1065,9.60151460512081,"real"
+"20",8,"IV: 
+competentie_leren: 1
+",196,12.7521145087833,"real"
+"21",8,"IV: 
+competentie_leren: 2
+",3,20,"real"
+"22",9,"IV: 
+competentie_leren: 0
+",1039,9.36711143166246,"real"
+"23",9,"IV: 
+competentie_leren: 1
+",222,14.4437215354587,"real"
+"24",9,"IV: 
+competentie_leren: 2
+",3,20,"real"
+"25",10,"IV: 
+competentie_leren: 0
+",978,8.81716552470249,"real"
+"26",10,"IV: 
+competentie_leren: 1
+",281,18.2823682498373,"real"
+"27",10,"IV: 
+competentie_leren: 2
+",4,26.6666666666667,"real"
+"28",10,"IV: 
+competentie_leren: 3
+",1,100,"real"
+"29",1,"IV: 
+competentie_leren: 0
+",1265,10.003954132068,"real_conditional"
+"30",1,"IV: 
+competentie_leren: 1
+",1265,10.003954132068,"real_conditional"
+"31",1,"IV: 
+competentie_leren: 2
+",1264,9.99604586793199,"real_conditional"
+"32",1,"IV: 
+competentie_leren: 3
+",1264,9.99604586793199,"real_conditional"
+"33",2,"IV: 
+competentie_leren: 0
+",1264,9.99604586793199,"real_conditional"
+"34",2,"IV: 
+competentie_leren: 1
+",1264,9.99604586793199,"real_conditional"
+"35",2,"IV: 
+competentie_leren: 2
+",1265,10.003954132068,"real_conditional"
+"36",2,"IV: 
+competentie_leren: 3
+",1265,10.003954132068,"real_conditional"
+"37",3,"IV: 
+competentie_leren: 0
+",1265,10.003954132068,"real_conditional"
+"38",3,"IV: 
+competentie_leren: 1
+",1265,10.003954132068,"real_conditional"
+"39",3,"IV: 
+competentie_leren: 2
+",1264,9.99604586793199,"real_conditional"
+"40",3,"IV: 
+competentie_leren: 3
+",1264,9.99604586793199,"real_conditional"
+"41",4,"IV: 
+competentie_leren: 0
+",1264,9.99604586793199,"real_conditional"
+"42",4,"IV: 
+competentie_leren: 1
+",1264,9.99604586793199,"real_conditional"
+"43",4,"IV: 
+competentie_leren: 2
+",1265,10.003954132068,"real_conditional"
+"44",4,"IV: 
+competentie_leren: 3
+",1265,10.003954132068,"real_conditional"
+"45",5,"IV: 
+competentie_leren: 0
+",1265,10.003954132068,"real_conditional"
+"46",5,"IV: 
+competentie_leren: 1
+",1265,10.003954132068,"real_conditional"
+"47",5,"IV: 
+competentie_leren: 2
+",1264,9.99604586793199,"real_conditional"
+"48",5,"IV: 
+competentie_leren: 3
+",1264,9.99604586793199,"real_conditional"
+"49",6,"IV: 
+competentie_leren: 0
+",1264,9.99604586793199,"real_conditional"
+"50",6,"IV: 
+competentie_leren: 1
+",1264,9.99604586793199,"real_conditional"
+"51",6,"IV: 
+competentie_leren: 2
+",1265,10.003954132068,"real_conditional"
+"52",6,"IV: 
+competentie_leren: 3
+",1265,10.003954132068,"real_conditional"
+"53",7,"IV: 
+competentie_leren: 0
+",1265,10.003954132068,"real_conditional"
+"54",7,"IV: 
+competentie_leren: 1
+",1265,10.003954132068,"real_conditional"
+"55",7,"IV: 
+competentie_leren: 2
+",1264,9.99604586793199,"real_conditional"
+"56",7,"IV: 
+competentie_leren: 3
+",1264,9.99604586793199,"real_conditional"
+"57",8,"IV: 
+competentie_leren: 0
+",1264,9.99604586793199,"real_conditional"
+"58",8,"IV: 
+competentie_leren: 1
+",1264,9.99604586793199,"real_conditional"
+"59",8,"IV: 
+competentie_leren: 2
+",1265,10.003954132068,"real_conditional"
+"60",8,"IV: 
+competentie_leren: 3
+",1265,10.003954132068,"real_conditional"
+"61",9,"IV: 
+competentie_leren: 0
+",1265,10.003954132068,"real_conditional"
+"62",9,"IV: 
+competentie_leren: 1
+",1265,10.003954132068,"real_conditional"
+"63",9,"IV: 
+competentie_leren: 2
+",1264,9.99604586793199,"real_conditional"
+"64",9,"IV: 
+competentie_leren: 3
+",1264,9.99604586793199,"real_conditional"
+"65",10,"IV: 
+competentie_leren: 0
+",1264,9.99604586793199,"real_conditional"
+"66",10,"IV: 
+competentie_leren: 1
+",1264,9.99604586793199,"real_conditional"
+"67",10,"IV: 
+competentie_leren: 2
+",1265,10.003954132068,"real_conditional"
+"68",10,"IV: 
+competentie_leren: 3
+",1265,10.003954132068,"real_conditional"
+"69",1,"IV: 
+competentie_leren: 0
+",1134,10.6030855539972,"synth"
+"70",1,"IV: 
+competentie_leren: 1
+",131,6.71794871794872,"synth"
+"71",2,"IV: 
+competentie_leren: 0
+",1119,10.4628330995792,"synth"
+"72",2,"IV: 
+competentie_leren: 1
+",146,7.48717948717949,"synth"
+"73",3,"IV: 
+competentie_leren: 0
+",1083,10.1262272089762,"synth"
+"74",3,"IV: 
+competentie_leren: 1
+",182,9.33333333333333,"synth"
+"75",4,"IV: 
+competentie_leren: 0
+",1078,10.0794763908368,"synth"
+"76",4,"IV: 
+competentie_leren: 1
+",187,9.58974358974359,"synth"
+"77",5,"IV: 
+competentie_leren: 0
+",1082,10.1168770453483,"synth"
+"78",5,"IV: 
+competentie_leren: 1
+",183,9.38461538461539,"synth"
+"79",6,"IV: 
+competentie_leren: 0
+",1043,9.75222066386162,"synth"
+"80",6,"IV: 
+competentie_leren: 1
+",221,11.3333333333333,"synth"
+"81",7,"IV: 
+competentie_leren: 0
+",1046,9.78027115474521,"synth"
+"82",7,"IV: 
+competentie_leren: 1
+",218,11.1794871794872,"synth"
+"83",8,"IV: 
+competentie_leren: 0
+",1053,9.84572230014025,"synth"
+"84",8,"IV: 
+competentie_leren: 1
+",211,10.8205128205128,"synth"
+"85",9,"IV: 
+competentie_leren: 0
+",1035,9.67741935483871,"synth"
+"86",9,"IV: 
+competentie_leren: 1
+",229,11.7435897435897,"synth"
+"87",10,"IV: 
+competentie_leren: 0
+",1022,9.55586722767648,"synth"
+"88",10,"IV: 
+competentie_leren: 1
+",242,12.4102564102564,"synth"
+"89",1,"IV: 
+competentie_leren: 0
+",1251,10.0015989766549,"synth_conditional"
+"90",1,"IV: 
+competentie_leren: 1
+",1251,10.0015989766549,"synth_conditional"
+"91",1,"IV: 
+competentie_leren: 2
+",1251,10.0015989766549,"synth_conditional"
+"92",1,"IV: 
+competentie_leren: 3
+",1251,10.0015989766549,"synth_conditional"
+"93",2,"IV: 
+competentie_leren: 0
+",1251,10.0015989766549,"synth_conditional"
+"94",2,"IV: 
+competentie_leren: 1
+",1251,10.0015989766549,"synth_conditional"
+"95",2,"IV: 
+competentie_leren: 2
+",1251,10.0015989766549,"synth_conditional"
+"96",2,"IV: 
+competentie_leren: 3
+",1251,10.0015989766549,"synth_conditional"
+"97",3,"IV: 
+competentie_leren: 0
+",1251,10.0015989766549,"synth_conditional"
+"98",3,"IV: 
+competentie_leren: 1
+",1251,10.0015989766549,"synth_conditional"
+"99",3,"IV: 
+competentie_leren: 2
+",1251,10.0015989766549,"synth_conditional"
+"100",3,"IV: 
+competentie_leren: 3
+",1250,9.99360409338024,"synth_conditional"
+"101",4,"IV: 
+competentie_leren: 0
+",1251,10.0015989766549,"synth_conditional"
+"102",4,"IV: 
+competentie_leren: 1
+",1251,10.0015989766549,"synth_conditional"
+"103",4,"IV: 
+competentie_leren: 2
+",1250,9.99360409338024,"synth_conditional"
+"104",4,"IV: 
+competentie_leren: 3
+",1251,10.0015989766549,"synth_conditional"
+"105",5,"IV: 
+competentie_leren: 0
+",1251,10.0015989766549,"synth_conditional"
+"106",5,"IV: 
+competentie_leren: 1
+",1250,9.99360409338024,"synth_conditional"
+"107",5,"IV: 
+competentie_leren: 2
+",1251,10.0015989766549,"synth_conditional"
+"108",5,"IV: 
+competentie_leren: 3
+",1251,10.0015989766549,"synth_conditional"
+"109",6,"IV: 
+competentie_leren: 0
+",1250,9.99360409338024,"synth_conditional"
+"110",6,"IV: 
+competentie_leren: 1
+",1251,10.0015989766549,"synth_conditional"
+"111",6,"IV: 
+competentie_leren: 2
+",1251,10.0015989766549,"synth_conditional"
+"112",6,"IV: 
+competentie_leren: 3
+",1251,10.0015989766549,"synth_conditional"
+"113",7,"IV: 
+competentie_leren: 0
+",1251,10.0015989766549,"synth_conditional"
+"114",7,"IV: 
+competentie_leren: 1
+",1251,10.0015989766549,"synth_conditional"
+"115",7,"IV: 
+competentie_leren: 2
+",1251,10.0015989766549,"synth_conditional"
+"116",7,"IV: 
+competentie_leren: 3
+",1250,9.99360409338024,"synth_conditional"
+"117",8,"IV: 
+competentie_leren: 0
+",1251,10.0015989766549,"synth_conditional"
+"118",8,"IV: 
+competentie_leren: 1
+",1251,10.0015989766549,"synth_conditional"
+"119",8,"IV: 
+competentie_leren: 2
+",1250,9.99360409338024,"synth_conditional"
+"120",8,"IV: 
+competentie_leren: 3
+",1251,10.0015989766549,"synth_conditional"
+"121",9,"IV: 
+competentie_leren: 0
+",1251,10.0015989766549,"synth_conditional"
+"122",9,"IV: 
+competentie_leren: 1
+",1250,9.99360409338024,"synth_conditional"
+"123",9,"IV: 
+competentie_leren: 2
+",1251,10.0015989766549,"synth_conditional"
+"124",9,"IV: 
+competentie_leren: 3
+",1251,10.0015989766549,"synth_conditional"
+"125",10,"IV: 
+competentie_leren: 0
+",1250,9.99360409338024,"synth_conditional"
+"126",10,"IV: 
+competentie_leren: 1
+",1251,10.0015989766549,"synth_conditional"
+"127",10,"IV: 
+competentie_leren: 2
+",1251,10.0015989766549,"synth_conditional"
+"128",10,"IV: 
+competentie_leren: 3
+",1251,10.0015989766549,"synth_conditional"

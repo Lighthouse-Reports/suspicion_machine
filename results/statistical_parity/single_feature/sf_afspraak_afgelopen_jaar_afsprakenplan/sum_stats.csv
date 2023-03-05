@@ -1,0 +1,76 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 0
+","Ja",10477,0.482,0.153,0.0924883077216761,0.26811110050587,-0.751169227832395,16.811110050587,"real"
+"2","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 1
+","Ja",1590,0.515,0.15,0.126415094339623,0.330188679245283,2.64150943396226,23.0188679245283,"real"
+"3","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 2
+","Ja",420,0.546,0.147,0.171428571428571,0.411904761904762,7.14285714285714,31.1904761904762,"real"
+"4","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 3
+","Ja",118,0.531,0.149,0.169491525423729,0.364406779661017,6.94915254237288,26.4406779661017,"real"
+"5","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 4
+","Ja",31,0.565,0.103,0.0645161290322581,0.419354838709677,-3.54838709677419,31.9354838709677,"real"
+"6","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 5
+","Ja",8,0.522,0.104,0,0.25,-10,15,"real"
+"7","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 6
+","Ja",1,0.721,NA,1,1,90,90,"real"
+"8","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 0
+","Ja",12645,0.49,0.154,0.101542111506524,0.285013839462238,0.154211150652432,18.5013839462238,"real_conditional"
+"9","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 1
+","Ja",12645,0.486,0.153,0.0964017398181099,0.274495848161329,-0.359826018189008,17.4495848161329,"real_conditional"
+"10","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 2
+","Ja",12645,0.483,0.154,0.0936338473705022,0.268248319493871,-0.636615262949783,16.8248319493871,"real_conditional"
+"11","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 3
+","Ja",12645,0.482,0.153,0.0919731119019375,0.266587584025306,-0.802688809806248,16.6587584025306,"real_conditional"
+"12","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 4
+","Ja",12645,0.482,0.153,0.0919731119019375,0.266587584025306,-0.802688809806248,16.6587584025306,"real_conditional"
+"13","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 5
+","Ja",12645,0.482,0.153,0.0919731119019375,0.266587584025306,-0.802688809806248,16.6587584025306,"real_conditional"
+"14","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 6
+","Ja",12645,0.482,0.153,0.0919731119019375,0.266587584025306,-0.802688809806248,16.6587584025306,"real_conditional"
+"15","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 0
+","Ja",7217,0.609,0.087,0.0960232783705141,0.630455868089234,-0.397672162948594,53.0455868089234,"synth"
+"16","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 1
+","Ja",5227,0.616,0.083,0.105031566864358,0.655251578343218,0.503156686435813,55.5251578343218,"synth"
+"17","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 2
+","Ja",200,0.62,0.079,0.11,0.665,1,56.5,"synth"
+"18","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 3
+","Ja",1,0.724,NA,1,1,90,90,"synth"
+"19","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 0
+","Ja",12508,0.613,0.085,0.104892868564119,0.646706108090822,0.489286856411895,54.6706108090822,"synth_conditional"
+"20","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 1
+","Ja",12508,0.61,0.085,0.0958586504637032,0.631835625199872,-0.414134953629677,53.1835625199872,"synth_conditional"
+"21","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 2
+","Ja",12508,0.607,0.086,0.089622641509434,0.620882635113527,-1.0377358490566,52.0882635113527,"synth_conditional"
+"22","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 3
+","Ja",12508,0.606,0.086,0.0856251998720819,0.612807803006076,-1.43748001279181,51.2807803006076,"synth_conditional"
+"23","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 4
+","Ja",12508,0.606,0.086,0.0856251998720819,0.612807803006076,-1.43748001279181,51.2807803006076,"synth_conditional"
+"24","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 5
+","Ja",12508,0.606,0.086,0.0856251998720819,0.612807803006076,-1.43748001279181,51.2807803006076,"synth_conditional"
+"25","IV: 
+afspraak_afgelopen_jaar_afsprakenplan: 6
+","Ja",12508,0.606,0.086,0.0856251998720819,0.612807803006076,-1.43748001279181,51.2807803006076,"synth_conditional"

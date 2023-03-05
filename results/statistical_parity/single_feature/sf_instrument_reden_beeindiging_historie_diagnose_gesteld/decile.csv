@@ -1,0 +1,322 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1257,10.9228362877998,"real"
+"2",1,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",8,0.711743772241993,"real"
+"3",2,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1225,10.6447688564477,"real"
+"4",2,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",40,3.55871886120996,"real"
+"5",3,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1192,10.3580118178658,"real"
+"6",3,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",73,6.49466192170819,"real"
+"7",4,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1163,10.106013208203,"real"
+"8",4,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",100,8.89679715302491,"real"
+"9",4,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",2,15.3846153846154,"real"
+"10",5,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1148,9.97566909975669,"real"
+"11",5,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",116,10.3202846975089,"real"
+"12",5,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1,7.69230769230769,"real"
+"13",6,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1136,9.87139381299965,"real"
+"14",6,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",127,11.2989323843416,"real"
+"15",6,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1,7.69230769230769,"real"
+"16",7,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1101,9.56725755995829,"real"
+"17",7,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",160,14.2348754448399,"real"
+"18",7,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",3,23.0769230769231,"real"
+"19",8,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1107,9.61939520333681,"real"
+"20",8,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",154,13.7010676156584,"real"
+"21",8,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",3,23.0769230769231,"real"
+"22",9,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1103,9.5846367744178,"real"
+"23",9,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",160,14.2348754448399,"real"
+"24",9,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1,7.69230769230769,"real"
+"25",10,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1076,9.35001737921446,"real"
+"26",10,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",186,16.5480427046263,"real"
+"27",10,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",2,15.3846153846154,"real"
+"28",1,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1265,10.003954132068,"real_conditional"
+"29",1,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1265,10.003954132068,"real_conditional"
+"30",1,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1264,9.99604586793199,"real_conditional"
+"31",2,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1265,10.003954132068,"real_conditional"
+"32",2,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1264,9.99604586793199,"real_conditional"
+"33",2,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1265,10.003954132068,"real_conditional"
+"34",3,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1264,9.99604586793199,"real_conditional"
+"35",3,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1265,10.003954132068,"real_conditional"
+"36",3,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1265,10.003954132068,"real_conditional"
+"37",4,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1265,10.003954132068,"real_conditional"
+"38",4,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1265,10.003954132068,"real_conditional"
+"39",4,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1264,9.99604586793199,"real_conditional"
+"40",5,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1265,10.003954132068,"real_conditional"
+"41",5,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1264,9.99604586793199,"real_conditional"
+"42",5,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1265,10.003954132068,"real_conditional"
+"43",6,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1264,9.99604586793199,"real_conditional"
+"44",6,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1265,10.003954132068,"real_conditional"
+"45",6,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1264,9.99604586793199,"real_conditional"
+"46",7,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1264,9.99604586793199,"real_conditional"
+"47",7,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1264,9.99604586793199,"real_conditional"
+"48",7,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1265,10.003954132068,"real_conditional"
+"49",8,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1265,10.003954132068,"real_conditional"
+"50",8,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1264,9.99604586793199,"real_conditional"
+"51",8,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1264,9.99604586793199,"real_conditional"
+"52",9,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1264,9.99604586793199,"real_conditional"
+"53",9,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1265,10.003954132068,"real_conditional"
+"54",9,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1264,9.99604586793199,"real_conditional"
+"55",10,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1264,9.99604586793199,"real_conditional"
+"56",10,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1264,9.99604586793199,"real_conditional"
+"57",10,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1265,10.003954132068,"real_conditional"
+"58",1,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1192,10.4013961605585,"synth"
+"59",1,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",73,6.16033755274262,"synth"
+"60",2,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1162,10.1396160558464,"synth"
+"61",2,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",103,8.69198312236287,"synth"
+"62",3,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1159,10.1134380453752,"synth"
+"63",3,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",106,8.94514767932489,"synth"
+"64",4,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1149,10.0261780104712,"synth"
+"65",4,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",116,9.78902953586498,"synth"
+"66",5,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1143,9.9738219895288,"synth"
+"67",5,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",122,10.295358649789,"synth"
+"68",6,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1128,9.84293193717278,"synth"
+"69",6,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",136,11.4767932489451,"synth"
+"70",7,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1132,9.87783595113438,"synth"
+"71",7,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",132,11.1392405063291,"synth"
+"72",8,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1145,9.9912739965096,"synth"
+"73",8,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",119,10.042194092827,"synth"
+"74",9,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1138,9.93019197207679,"synth"
+"75",9,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",126,10.6329113924051,"synth"
+"76",10,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1112,9.70331588132635,"synth"
+"77",10,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",152,12.8270042194093,"synth"
+"78",1,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1251,10.0015989766549,"synth_conditional"
+"79",1,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1251,10.0015989766549,"synth_conditional"
+"80",1,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1251,10.0015989766549,"synth_conditional"
+"81",2,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1251,10.0015989766549,"synth_conditional"
+"82",2,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1251,10.0015989766549,"synth_conditional"
+"83",2,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1251,10.0015989766549,"synth_conditional"
+"84",3,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1251,10.0015989766549,"synth_conditional"
+"85",3,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1251,10.0015989766549,"synth_conditional"
+"86",3,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1251,10.0015989766549,"synth_conditional"
+"87",4,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1251,10.0015989766549,"synth_conditional"
+"88",4,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1251,10.0015989766549,"synth_conditional"
+"89",4,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1251,10.0015989766549,"synth_conditional"
+"90",5,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1251,10.0015989766549,"synth_conditional"
+"91",5,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1251,10.0015989766549,"synth_conditional"
+"92",5,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1250,9.99360409338024,"synth_conditional"
+"93",6,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1251,10.0015989766549,"synth_conditional"
+"94",6,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1250,9.99360409338024,"synth_conditional"
+"95",6,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1251,10.0015989766549,"synth_conditional"
+"96",7,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1250,9.99360409338024,"synth_conditional"
+"97",7,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1251,10.0015989766549,"synth_conditional"
+"98",7,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1251,10.0015989766549,"synth_conditional"
+"99",8,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1251,10.0015989766549,"synth_conditional"
+"100",8,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1251,10.0015989766549,"synth_conditional"
+"101",8,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1250,9.99360409338024,"synth_conditional"
+"102",9,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1251,10.0015989766549,"synth_conditional"
+"103",9,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1250,9.99360409338024,"synth_conditional"
+"104",9,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1251,10.0015989766549,"synth_conditional"
+"105",10,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 0
+",1250,9.99360409338024,"synth_conditional"
+"106",10,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 1
+",1251,10.0015989766549,"synth_conditional"
+"107",10,"IV: 
+instrument_reden_beeindiging_historie_diagnose_gesteld: 2
+",1251,10.0015989766549,"synth_conditional"

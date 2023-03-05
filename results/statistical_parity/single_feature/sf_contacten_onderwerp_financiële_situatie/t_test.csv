@@ -1,0 +1,1240 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,3.8e-05,"****",0.00156,"**","real_conditional"
+"2","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,6.12e-21,"****",3.73e-19,"****","real_conditional"
+"3","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,1.37e-07,"****",6.42e-06,"****","real_conditional"
+"4","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,4e-28,"****",2.64e-26,"****","real_conditional"
+"5","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,6.07e-12,"****",3.46e-10,"****","real_conditional"
+"6","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.108,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,5.14e-07,"****",2.31e-05,"****","real_conditional"
+"8","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.367,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,1.25e-05,"****",0.000551,"***","real_conditional"
+"10","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,2.28e-09,"****",1.19e-07,"****","real_conditional"
+"11","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,4e-28,"****",2.64e-26,"****","real_conditional"
+"12","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,6.07e-12,"****",3.46e-10,"****","real_conditional"
+"13","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.108,"ns",1,"ns","real_conditional"
+"14","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"15","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,2.28e-09,"****",1.19e-07,"****","real_conditional"
+"16","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,7.85e-13,"****",4.55e-11,"****","real_conditional"
+"17","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.00233,"**",0.0791,"ns","real_conditional"
+"18","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.0261,"*",0.73,"ns","real_conditional"
+"19","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.000126,"***",0.00505,"**","real_conditional"
+"20","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.0321,"*",0.834,"ns","real_conditional"
+"21","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.000126,"***",0.00505,"**","real_conditional"
+"22","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,4e-28,"****",2.64e-26,"****","real_conditional"
+"23","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,6.07e-12,"****",3.46e-10,"****","real_conditional"
+"24","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.108,"ns",1,"ns","real_conditional"
+"25","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"26","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,2.28e-09,"****",1.19e-07,"****","real_conditional"
+"27","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"28","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.000126,"***",0.00505,"**","real_conditional"
+"29","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,3.25e-17,"****",1.92e-15,"****","real_conditional"
+"30","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,1.57e-05,"****",0.00066,"***","real_conditional"
+"31","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.341,"ns",1,"ns","real_conditional"
+"32","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.0105,"*",0.346,"ns","real_conditional"
+"33","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.000633,"***",0.0222,"*","real_conditional"
+"34","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.0105,"*",0.346,"ns","real_conditional"
+"35","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.203,"ns",1,"ns","real_conditional"
+"36","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.0105,"*",0.346,"ns","real_conditional"
+"37","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,6.12e-21,"****",3.73e-19,"****","real_conditional"
+"38","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,1.37e-07,"****",6.42e-06,"****","real_conditional"
+"39","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.108,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,1.25e-05,"****",0.000551,"***","real_conditional"
+"42","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.108,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.0261,"*",0.73,"ns","real_conditional"
+"44","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.108,"ns",1,"ns","real_conditional"
+"45","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.341,"ns",1,"ns","real_conditional"
+"46","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,4e-28,"****",2.64e-26,"****","real_conditional"
+"47","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,6.07e-12,"****",3.46e-10,"****","real_conditional"
+"48","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.108,"ns",1,"ns","real_conditional"
+"49","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"50","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,2.28e-09,"****",1.19e-07,"****","real_conditional"
+"51","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"52","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.000126,"***",0.00505,"**","real_conditional"
+"53","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.0105,"*",0.346,"ns","real_conditional"
+"55","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.108,"ns",1,"ns","real_conditional"
+"56","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,4e-28,"****",2.64e-26,"****","real_conditional"
+"57","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,6.07e-12,"****",3.46e-10,"****","real_conditional"
+"58","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.108,"ns",1,"ns","real_conditional"
+"59","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"60","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,2.28e-09,"****",1.19e-07,"****","real_conditional"
+"61","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"62","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.000126,"***",0.00505,"**","real_conditional"
+"63","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"64","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.0105,"*",0.346,"ns","real_conditional"
+"65","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,0.108,"ns",1,"ns","real_conditional"
+"66","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"67","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 0
+",2080,3899,3.86e-06,"****",0.000143,"***","synth"
+"68","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+",2080,2,0.337,"ns",1,"ns","synth"
+"69","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+",3899,2,0.433,"ns",1,"ns","synth"
+"70","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 0
+",2080,3034,1.15e-12,"****",4.82e-11,"****","synth"
+"71","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 0
+",3899,3034,0.00143,"**",0.0459,"*","synth"
+"72","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 0
+",2,3034,0.5,"ns",1,"ns","synth"
+"73","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+",2080,103,0.044,"*",1,"ns","synth"
+"74","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+",3899,103,0.436,"ns",1,"ns","synth"
+"75","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+",2,103,0.505,"ns",1,"ns","synth"
+"76","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+",3034,103,0.995,"ns",1,"ns","synth"
+"77","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 0
+",2080,1096,1.74e-18,"****",7.66e-17,"****","synth"
+"78","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 0
+",3899,1096,3.24e-09,"****",1.27e-07,"****","synth"
+"79","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 0
+",2,1096,0.619,"ns",1,"ns","synth"
+"80","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 0
+",3034,1096,0.000378,"***",0.0125,"*","synth"
+"81","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 0
+",103,1096,0.226,"ns",1,"ns","synth"
+"82","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",2080,841,6.07e-12,"****",2.49e-10,"****","synth"
+"83","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",3899,841,4.17e-05,"****",0.00146,"**","synth"
+"84","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",2,841,0.574,"ns",1,"ns","synth"
+"85","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",3034,841,0.0435,"*",1,"ns","synth"
+"86","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",103,841,0.455,"ns",1,"ns","synth"
+"87","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",1096,841,0.309,"ns",1,"ns","synth"
+"88","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 0
+",2080,69,0.102,"ns",1,"ns","synth"
+"89","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 0
+",3899,69,0.539,"ns",1,"ns","synth"
+"90","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 0
+",2,69,0.504,"ns",1,"ns","synth"
+"91","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 0
+",3034,69,0.983,"ns",1,"ns","synth"
+"92","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 0
+",103,69,0.984,"ns",1,"ns","synth"
+"93","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 0
+",1096,69,0.303,"ns",1,"ns","synth"
+"94","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 0
+",841,69,0.517,"ns",1,"ns","synth"
+"95","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",2080,897,2.8e-20,"****",1.26e-18,"****","synth"
+"96","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",3899,897,4.84e-11,"****",1.94e-09,"****","synth"
+"97","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",2,897,0.661,"ns",1,"ns","synth"
+"98","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",3034,897,1.19e-05,"****",0.000427,"***","synth"
+"99","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",103,897,0.111,"ns",1,"ns","synth"
+"100","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",1096,897,0.36,"ns",1,"ns","synth"
+"101","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",841,897,0.0672,"ns",1,"ns","synth"
+"102","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",69,897,0.176,"ns",1,"ns","synth"
+"103","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",2080,409,3.14e-13,"****",1.35e-11,"****","synth"
+"104","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",3899,409,2.26e-07,"****",8.6e-06,"****","synth"
+"105","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",2,409,0.688,"ns",1,"ns","synth"
+"106","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",3034,409,0.000268,"***",0.00912,"**","synth"
+"107","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",103,409,0.0826,"ns",1,"ns","synth"
+"108","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",1096,409,0.25,"ns",1,"ns","synth"
+"109","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",841,409,0.0601,"ns",1,"ns","synth"
+"110","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",69,409,0.135,"ns",1,"ns","synth"
+"111","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",897,409,0.669,"ns",1,"ns","synth"
+"112","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,9.65e-07,"****",3.47e-05,"****","synth_conditional"
+"113","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,2.11e-33,"****",1.29e-31,"****","synth_conditional"
+"114","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,8.9e-13,"****",4.18e-11,"****","synth_conditional"
+"115","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.94e-47,"****",1.28e-45,"****","synth_conditional"
+"116","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.05e-21,"****",6.06e-20,"****","synth_conditional"
+"117","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.0152,"*",0.381,"ns","synth_conditional"
+"118","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,3.64e-09,"****",1.57e-07,"****","synth_conditional"
+"119","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.317,"ns",1,"ns","synth_conditional"
+"120","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,7.96e-10,"****",3.58e-08,"****","synth_conditional"
+"121","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.02e-17,"****",5.3e-16,"****","synth_conditional"
+"122","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.94e-47,"****",1.28e-45,"****","synth_conditional"
+"123","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.05e-21,"****",6.06e-20,"****","synth_conditional"
+"124","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.0152,"*",0.381,"ns","synth_conditional"
+"125","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"126","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.02e-17,"****",5.3e-16,"****","synth_conditional"
+"127","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.23e-20,"****",6.52e-19,"****","synth_conditional"
+"128","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1e-05,"****",0.000351,"***","synth_conditional"
+"129","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.00632,"**",0.171,"ns","synth_conditional"
+"130","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,2.51e-07,"****",1.03e-05,"****","synth_conditional"
+"131","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.000637,"***",0.0178,"*","synth_conditional"
+"132","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,2.51e-07,"****",1.03e-05,"****","synth_conditional"
+"133","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.94e-47,"****",1.28e-45,"****","synth_conditional"
+"134","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.05e-21,"****",6.06e-20,"****","synth_conditional"
+"135","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.0152,"*",0.381,"ns","synth_conditional"
+"136","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"137","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.02e-17,"****",5.3e-16,"****","synth_conditional"
+"138","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"139","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,2.51e-07,"****",1.03e-05,"****","synth_conditional"
+"140","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,2.26e-24,"****",1.33e-22,"****","synth_conditional"
+"141","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.22e-07,"****",5.14e-06,"****","synth_conditional"
+"142","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.0633,"ns",0.95,"ns","synth_conditional"
+"143","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.84e-05,"****",0.00061,"***","synth_conditional"
+"144","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.79e-05,"****",0.00061,"***","synth_conditional"
+"145","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.84e-05,"****",0.00061,"***","synth_conditional"
+"146","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.382,"ns",1,"ns","synth_conditional"
+"147","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.84e-05,"****",0.00061,"***","synth_conditional"
+"148","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,2.11e-33,"****",1.29e-31,"****","synth_conditional"
+"149","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,8.9e-13,"****",4.18e-11,"****","synth_conditional"
+"150","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"151","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.0152,"*",0.381,"ns","synth_conditional"
+"152","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,7.96e-10,"****",3.58e-08,"****","synth_conditional"
+"153","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.0152,"*",0.381,"ns","synth_conditional"
+"154","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.00632,"**",0.171,"ns","synth_conditional"
+"155","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.0152,"*",0.381,"ns","synth_conditional"
+"156","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.0633,"ns",0.95,"ns","synth_conditional"
+"157","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.94e-47,"****",1.28e-45,"****","synth_conditional"
+"158","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.05e-21,"****",6.06e-20,"****","synth_conditional"
+"159","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.0152,"*",0.381,"ns","synth_conditional"
+"160","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"161","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.02e-17,"****",5.3e-16,"****","synth_conditional"
+"162","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"163","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,2.51e-07,"****",1.03e-05,"****","synth_conditional"
+"164","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"165","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.84e-05,"****",0.00061,"***","synth_conditional"
+"166","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.0152,"*",0.381,"ns","synth_conditional"
+"167","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.94e-47,"****",1.28e-45,"****","synth_conditional"
+"168","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.05e-21,"****",6.06e-20,"****","synth_conditional"
+"169","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.0152,"*",0.381,"ns","synth_conditional"
+"170","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"171","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.02e-17,"****",5.3e-16,"****","synth_conditional"
+"172","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"173","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,2.51e-07,"****",1.03e-05,"****","synth_conditional"
+"174","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"175","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1.84e-05,"****",0.00061,"***","synth_conditional"
+"176","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,0.0152,"*",0.381,"ns","synth_conditional"
+"177","Ja","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"

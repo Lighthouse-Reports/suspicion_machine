@@ -1,0 +1,25 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_onderwerp_boolean_match___werk: 0
+","Ja",11853,0.486,0.154,0.0975280519699654,0.275457690036278,-0.24719480300346,17.5457690036278,"real"
+"2","IV: 
+contacten_onderwerp_boolean_match___werk: 1
+","Ja",792,0.534,0.142,0.137626262626263,0.380050505050505,3.76262626262626,28.0050505050505,"real"
+"3","IV: 
+contacten_onderwerp_boolean_match___werk: 0
+","Ja",12645,0.489,0.153,0.10003954132068,0.28200869909055,0.00395413206801115,18.200869909055,"real_conditional"
+"4","IV: 
+contacten_onderwerp_boolean_match___werk: 1
+","Ja",12645,0.489,0.153,0.10003954132068,0.28216686437327,0.00395413206801115,18.216686437327,"real_conditional"
+"5","IV: 
+contacten_onderwerp_boolean_match___werk: 0
+","Ja",12016,0.611,0.085,0.0992842876165113,0.639397470039947,-0.0715712383488692,53.9397470039947,"synth"
+"6","IV: 
+contacten_onderwerp_boolean_match___werk: 1
+","Ja",629,0.619,0.083,0.114467408585056,0.677265500794913,1.44674085850556,57.7265500794913,"synth"
+"7","IV: 
+contacten_onderwerp_boolean_match___werk: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.640949792133035,-0.0223856731691729,54.0949792133035,"synth_conditional"
+"8","IV: 
+contacten_onderwerp_boolean_match___werk: 1
+","Ja",12508,0.612,0.085,0.0999360409338024,0.641189638631276,-0.0063959066197633,54.1189638631276,"synth_conditional"

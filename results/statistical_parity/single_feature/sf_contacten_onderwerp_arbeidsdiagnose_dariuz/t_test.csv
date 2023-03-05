@@ -1,0 +1,331 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+",11478,661,1.69e-36,"****",3.55e-35,"****","real"
+"2","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+",11478,411,5.56e-30,"****",1.11e-28,"****","real"
+"3","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+",661,411,0.292,"ns",1,"ns","real"
+"4","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+",11478,69,1.71e-05,"****",0.000326,"***","real"
+"5","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+",661,69,0.918,"ns",1,"ns","real"
+"6","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+",411,69,0.683,"ns",1,"ns","real"
+"7","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+",11478,20,0.00162,"**",0.0292,"*","real"
+"8","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+",661,20,0.38,"ns",1,"ns","real"
+"9","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+",411,20,0.561,"ns",1,"ns","real"
+"10","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+",69,20,0.463,"ns",1,"ns","real"
+"11","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+",11478,3,0.00997,"**",0.169,"ns","real"
+"12","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+",661,3,0.0897,"ns",1,"ns","real"
+"13","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+",411,3,0.114,"ns",1,"ns","real"
+"14","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+",69,3,0.1,"ns",1,"ns","real"
+"15","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+",20,3,0.206,"ns",1,"ns","real"
+"16","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",11478,3,0.584,"ns",1,"ns","real"
+"17","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",661,3,0.743,"ns",1,"ns","real"
+"18","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",411,3,0.659,"ns",1,"ns","real"
+"19","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",69,3,0.731,"ns",1,"ns","real"
+"20","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",20,3,0.53,"ns",1,"ns","real"
+"21","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",3,3,0.151,"ns",1,"ns","real"
+"22","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+",12645,12645,0.966,"ns",1,"ns","real_conditional"
+"23","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+",12645,12645,0.874,"ns",1,"ns","real_conditional"
+"24","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+",12645,12645,0.907,"ns",1,"ns","real_conditional"
+"25","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+",12645,12645,0.867,"ns",1,"ns","real_conditional"
+"26","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+",12645,12645,0.833,"ns",1,"ns","real_conditional"
+"27","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+",12645,12645,0.744,"ns",1,"ns","real_conditional"
+"28","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+",12645,12645,0.867,"ns",1,"ns","real_conditional"
+"29","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+",12645,12645,0.833,"ns",1,"ns","real_conditional"
+"30","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+",12645,12645,0.744,"ns",1,"ns","real_conditional"
+"31","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"32","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+",12645,12645,0.867,"ns",1,"ns","real_conditional"
+"33","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+",12645,12645,0.833,"ns",1,"ns","real_conditional"
+"34","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+",12645,12645,0.744,"ns",1,"ns","real_conditional"
+"35","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"36","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"37","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",12645,12645,0.867,"ns",1,"ns","real_conditional"
+"38","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",12645,12645,0.833,"ns",1,"ns","real_conditional"
+"39","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",12645,12645,0.744,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+",8572,4033,1.44e-19,"****",4.32e-19,"****","synth"
+"44","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+",8572,40,0.0755,"ns",0.151,"ns","synth"
+"45","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+",4033,40,0.494,"ns",0.494,"ns","synth"
+"46","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+",12508,12508,0.969,"ns",1,"ns","synth_conditional"
+"47","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+",12508,12508,0.965,"ns",1,"ns","synth_conditional"
+"48","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+",12508,12508,0.996,"ns",1,"ns","synth_conditional"
+"49","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+",12508,12508,0.535,"ns",1,"ns","synth_conditional"
+"50","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+",12508,12508,0.51,"ns",1,"ns","synth_conditional"
+"51","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+",12508,12508,0.507,"ns",1,"ns","synth_conditional"
+"52","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+",12508,12508,0.535,"ns",1,"ns","synth_conditional"
+"53","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+",12508,12508,0.51,"ns",1,"ns","synth_conditional"
+"54","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+",12508,12508,0.507,"ns",1,"ns","synth_conditional"
+"55","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"56","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+",12508,12508,0.535,"ns",1,"ns","synth_conditional"
+"57","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+",12508,12508,0.51,"ns",1,"ns","synth_conditional"
+"58","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+",12508,12508,0.507,"ns",1,"ns","synth_conditional"
+"59","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"60","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"61","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",12508,12508,0.535,"ns",1,"ns","synth_conditional"
+"62","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",12508,12508,0.51,"ns",1,"ns","synth_conditional"
+"63","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",12508,12508,0.507,"ns",1,"ns","synth_conditional"
+"64","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"65","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"66","Ja","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"

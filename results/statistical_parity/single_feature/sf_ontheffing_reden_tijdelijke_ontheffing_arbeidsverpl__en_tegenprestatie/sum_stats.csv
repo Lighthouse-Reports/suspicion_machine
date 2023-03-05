@@ -1,0 +1,25 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+ontheffing_reden_tijdelijke_ontheffing_arbeidsverpl__en_tegenprestatie: 0
+","Ja",11732,0.494,0.154,0.106801909307876,0.294493692465053,0.680190930787589,19.4493692465053,"real"
+"2","IV: 
+ontheffing_reden_tijdelijke_ontheffing_arbeidsverpl__en_tegenprestatie: 1
+","Ja",913,0.432,0.127,0.0131434830230011,0.12157721796276,-8.68565169769989,2.15772179627601,"real"
+"3","IV: 
+ontheffing_reden_tijdelijke_ontheffing_arbeidsverpl__en_tegenprestatie: 0
+","Ja",12645,0.489,0.153,0.10011862396204,0.28208778173191,0.0118623962040335,18.208778173191,"real_conditional"
+"4","IV: 
+ontheffing_reden_tijdelijke_ontheffing_arbeidsverpl__en_tegenprestatie: 1
+","Ja",12645,0.489,0.153,0.0990905496243575,0.281059707394227,-0.0909450375642551,18.1059707394227,"real_conditional"
+"5","IV: 
+ontheffing_reden_tijdelijke_ontheffing_arbeidsverpl__en_tegenprestatie: 0
+","Ja",11564,0.613,0.085,0.103078519543411,0.645797301971636,0.307851954341058,54.5797301971636,"synth"
+"6","IV: 
+ontheffing_reden_tijdelijke_ontheffing_arbeidsverpl__en_tegenprestatie: 1
+","Ja",1081,0.599,0.084,0.0675300647548566,0.592969472710453,-3.24699352451434,49.2969472710453,"synth"
+"7","IV: 
+ontheffing_reden_tijdelijke_ontheffing_arbeidsverpl__en_tegenprestatie: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.640949792133035,-0.0223856731691729,54.0949792133035,"synth_conditional"
+"8","IV: 
+ontheffing_reden_tijdelijke_ontheffing_arbeidsverpl__en_tegenprestatie: 1
+","Ja",12508,0.612,0.085,0.0987368084425967,0.640709945634794,-0.126319155740327,54.0709945634794,"synth_conditional"

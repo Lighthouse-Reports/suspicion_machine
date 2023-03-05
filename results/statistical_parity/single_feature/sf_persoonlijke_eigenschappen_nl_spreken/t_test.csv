@@ -1,0 +1,91 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+var_1: NA
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken1
+",5344,2264,1.4e-77,"****",6.98e-77,"****","real"
+"2","Ja","IV: 
+var_1: NA
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken2
+",5344,4256,3.05e-134,"****",1.83e-133,"****","real"
+"3","Ja","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken1
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken2
+",2264,4256,0.107,"ns",0.107,"ns","real"
+"4","Ja","IV: 
+var_1: NA
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken3
+",5344,781,6.98e-18,"****",2.79e-17,"****","real"
+"5","Ja","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken1
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken3
+",2264,781,0.000728,"***",0.00146,"**","real"
+"6","Ja","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken2
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken3
+",4256,781,2.88e-06,"****",8.65e-06,"****","real"
+"7","Ja","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken1
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken2
+",12645,12645,0.768,"ns",1,"ns","real_conditional"
+"8","Ja","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken1
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken3
+",12645,12645,0.546,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken2
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken3
+",12645,12645,0.369,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+var_1: NA
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken1
+",4832,2301,7.88e-05,"****",0.000394,"***","synth"
+"11","Ja","IV: 
+var_1: NA
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken2
+",4832,5155,8.99e-21,"****",5.39e-20,"****","synth"
+"12","Ja","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken1
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken2
+",2301,5155,0.000487,"***",0.00146,"**","synth"
+"13","Ja","IV: 
+var_1: NA
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken3
+",4832,357,0.881,"ns",0.881,"ns","synth"
+"14","Ja","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken1
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken3
+",2301,357,0.057,"ns",0.114,"ns","synth"
+"15","Ja","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken2
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken3
+",5155,357,0.00035,"***",0.0014,"**","synth"
+"16","Ja","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken1
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken2
+",12508,12508,0.944,"ns",0.944,"ns","synth_conditional"
+"17","Ja","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken1
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken3
+",12508,12508,0.247,"ns",0.659,"ns","synth_conditional"
+"18","Ja","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken2
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken3
+",12508,12508,0.22,"ns",0.659,"ns","synth_conditional"

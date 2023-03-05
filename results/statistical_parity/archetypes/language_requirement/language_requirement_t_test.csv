@@ -1,0 +1,113 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",5054,5,0.426,"ns",0.852,"ns","real"
+"2","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",5054,925,4.1e-07,"****",1.23e-06,"****","real"
+"3","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",5,925,0.697,"ns",0.852,"ns","real"
+"4","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",12645,12645,5.54e-57,"****",3.32e-56,"****","real_conditional"
+"5","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",12645,12645,6.47e-05,"****",0.000129,"***","real_conditional"
+"6","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",12645,12645,8.81e-33,"****",3.52e-32,"****","real_conditional"
+"7","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",12645,12645,5.86e-55,"****",2.93e-54,"****","real_conditional"
+"8","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",12645,12645,0.767,"ns",0.767,"ns","real_conditional"
+"9","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",12645,12645,2.92e-31,"****",8.75e-31,"****","real_conditional"
+"10","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",5,6,0.228,"ns",0.228,"ns","synth"
+"11","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",12508,12508,1.36e-120,"****",8.14e-120,"****","synth_conditional"
+"12","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",12508,12508,2.57e-12,"****",5.15e-12,"****","synth_conditional"
+"13","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",12508,12508,2.2e-60,"****",8.81e-60,"****","synth_conditional"
+"14","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",12508,12508,7.05e-116,"****",3.52e-115,"****","synth_conditional"
+"15","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",12508,12508,0.637,"ns",0.637,"ns","synth_conditional"
+"16","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",12508,12508,4.56e-57,"****",1.37e-56,"****","synth_conditional"

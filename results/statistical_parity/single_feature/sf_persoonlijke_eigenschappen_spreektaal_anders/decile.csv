@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1093,13.2693941969164,"real"
+"2",1,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",172,3.90199637023593,"real"
+"3",2,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",982,11.9218161952167,"real"
+"4",2,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",283,6.42014519056261,"real"
+"5",3,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",912,11.0719922301809,"real"
+"6",3,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",353,8.00816696914701,"real"
+"7",4,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",804,9.76083525555421,"real"
+"8",4,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",461,10.4582577132486,"real"
+"9",5,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",796,9.66371251669297,"real"
+"10",5,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",469,10.6397459165154,"real"
+"11",6,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",773,9.38448464246692,"real"
+"12",6,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",491,11.1388384754991,"real"
+"13",7,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",748,9.08097608352556,"real"
+"14",7,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",516,11.7059891107078,"real"
+"15",8,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",751,9.11739711059852,"real"
+"16",8,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",513,11.6379310344828,"real"
+"17",9,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",731,8.87459026344543,"real"
+"18",9,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",533,12.0916515426497,"real"
+"19",10,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",647,7.85480150540245,"real"
+"20",10,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",617,13.997277676951,"real"
+"21",1,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1267,10.0197706603401,"real_conditional"
+"22",1,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1262,9.98022933965994,"real_conditional"
+"23",2,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1264,9.99604586793199,"real_conditional"
+"24",2,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1265,10.003954132068,"real_conditional"
+"25",3,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1266,10.011862396204,"real_conditional"
+"26",3,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1263,9.98813760379597,"real_conditional"
+"27",4,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1264,9.99604586793199,"real_conditional"
+"28",4,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1265,10.003954132068,"real_conditional"
+"29",5,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1264,9.99604586793199,"real_conditional"
+"30",5,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1265,10.003954132068,"real_conditional"
+"31",6,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1264,9.99604586793199,"real_conditional"
+"32",6,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1265,10.003954132068,"real_conditional"
+"33",7,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1263,9.98813760379597,"real_conditional"
+"34",7,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1266,10.011862396204,"real_conditional"
+"35",8,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1266,10.011862396204,"real_conditional"
+"36",8,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1263,9.98813760379597,"real_conditional"
+"37",9,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1264,9.99604586793199,"real_conditional"
+"38",9,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1265,10.003954132068,"real_conditional"
+"39",10,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1263,9.98813760379597,"real_conditional"
+"40",10,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1266,10.011862396204,"real_conditional"
+"41",1,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",789,11.8843199277,"synth"
+"42",1,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",476,7.92540792540793,"synth"
+"43",2,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",695,10.4684440427775,"synth"
+"44",2,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",570,9.49050949050949,"synth"
+"45",3,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",686,10.3328814580509,"synth"
+"46",3,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",579,9.64035964035964,"synth"
+"47",4,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",684,10.3027564392228,"synth"
+"48",4,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",581,9.67365967365967,"synth"
+"49",5,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",627,9.44419340262088,"synth"
+"50",5,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",638,10.6227106227106,"synth"
+"51",6,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",643,9.68519355324597,"synth"
+"52",6,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",621,10.3396603396603,"synth"
+"53",7,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",604,9.0977556860973,"synth"
+"54",7,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",660,10.989010989011,"synth"
+"55",8,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",642,9.6701310438319,"synth"
+"56",8,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",622,10.3563103563104,"synth"
+"57",9,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",634,9.54963096851936,"synth"
+"58",9,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",630,10.4895104895105,"synth"
+"59",10,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",635,9.56469347793342,"synth"
+"60",10,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",629,10.4728604728605,"synth"
+"61",1,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1251,10.0015989766549,"synth_conditional"
+"62",1,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1251,10.0015989766549,"synth_conditional"
+"63",2,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1251,10.0015989766549,"synth_conditional"
+"64",2,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1251,10.0015989766549,"synth_conditional"
+"65",3,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1251,10.0015989766549,"synth_conditional"
+"66",3,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1251,10.0015989766549,"synth_conditional"
+"67",4,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1251,10.0015989766549,"synth_conditional"
+"68",4,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1251,10.0015989766549,"synth_conditional"
+"69",5,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1251,10.0015989766549,"synth_conditional"
+"70",5,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1251,10.0015989766549,"synth_conditional"
+"71",6,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1251,10.0015989766549,"synth_conditional"
+"72",6,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1251,10.0015989766549,"synth_conditional"
+"73",7,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1251,10.0015989766549,"synth_conditional"
+"74",7,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1250,9.99360409338024,"synth_conditional"
+"75",8,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1250,9.99360409338024,"synth_conditional"
+"76",8,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1251,10.0015989766549,"synth_conditional"
+"77",9,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1251,10.0015989766549,"synth_conditional"
+"78",9,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1250,9.99360409338024,"synth_conditional"
+"79",10,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 0
+",1250,9.99360409338024,"synth_conditional"
+"80",10,"IV: 
+persoonlijke_eigenschappen_spreektaal_anders: 1
+",1251,10.0015989766549,"synth_conditional"

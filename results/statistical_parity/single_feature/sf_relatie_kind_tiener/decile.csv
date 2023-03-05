@@ -1,0 +1,532 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+relatie_kind_tiener: 0
+",1249,11.2451607094625,"real"
+"2",1,"IV: 
+relatie_kind_tiener: 1
+",14,1.24777183600713,"real"
+"3",1,"IV: 
+relatie_kind_tiener: 2
+",2,0.581395348837209,"real"
+"4",2,"IV: 
+relatie_kind_tiener: 0
+",1195,10.7589808229045,"real"
+"5",2,"IV: 
+relatie_kind_tiener: 1
+",55,4.90196078431373,"real"
+"6",2,"IV: 
+relatie_kind_tiener: 2
+",14,4.06976744186047,"real"
+"7",2,"IV: 
+relatie_kind_tiener: 4
+",1,4.34782608695652,"real"
+"8",3,"IV: 
+relatie_kind_tiener: 0
+",1163,10.4708742234627,"real"
+"9",3,"IV: 
+relatie_kind_tiener: 1
+",80,7.1301247771836,"real"
+"10",3,"IV: 
+relatie_kind_tiener: 2
+",15,4.36046511627907,"real"
+"11",3,"IV: 
+relatie_kind_tiener: 3
+",4,8.16326530612245,"real"
+"12",3,"IV: 
+relatie_kind_tiener: 4
+",3,13.0434782608696,"real"
+"13",4,"IV: 
+relatie_kind_tiener: 0
+",1113,10.0207076618349,"real"
+"14",4,"IV: 
+relatie_kind_tiener: 1
+",109,9.71479500891266,"real"
+"15",4,"IV: 
+relatie_kind_tiener: 2
+",40,11.6279069767442,"real"
+"16",4,"IV: 
+relatie_kind_tiener: 3
+",2,4.08163265306122,"real"
+"17",4,"IV: 
+relatie_kind_tiener: 4
+",1,4.34782608695652,"real"
+"18",5,"IV: 
+relatie_kind_tiener: 0
+",1114,10.0297109930674,"real"
+"19",5,"IV: 
+relatie_kind_tiener: 1
+",101,9.0017825311943,"real"
+"20",5,"IV: 
+relatie_kind_tiener: 2
+",44,12.7906976744186,"real"
+"21",5,"IV: 
+relatie_kind_tiener: 3
+",5,10.2040816326531,"real"
+"22",5,"IV: 
+relatie_kind_tiener: 4
+",1,4.34782608695652,"real"
+"23",6,"IV: 
+relatie_kind_tiener: 0
+",1100,9.90366435581165,"real"
+"24",6,"IV: 
+relatie_kind_tiener: 1
+",125,11.1408199643494,"real"
+"25",6,"IV: 
+relatie_kind_tiener: 2
+",32,9.30232558139535,"real"
+"26",6,"IV: 
+relatie_kind_tiener: 3
+",4,8.16326530612245,"real"
+"27",6,"IV: 
+relatie_kind_tiener: 4
+",3,13.0434782608696,"real"
+"28",7,"IV: 
+relatie_kind_tiener: 0
+",1067,9.6065544251373,"real"
+"29",7,"IV: 
+relatie_kind_tiener: 1
+",144,12.8342245989305,"real"
+"30",7,"IV: 
+relatie_kind_tiener: 2
+",45,13.0813953488372,"real"
+"31",7,"IV: 
+relatie_kind_tiener: 3
+",6,12.2448979591837,"real"
+"32",7,"IV: 
+relatie_kind_tiener: 4
+",2,8.69565217391304,"real"
+"33",8,"IV: 
+relatie_kind_tiener: 0
+",1049,9.44449446295129,"real"
+"34",8,"IV: 
+relatie_kind_tiener: 1
+",145,12.9233511586453,"real"
+"35",8,"IV: 
+relatie_kind_tiener: 2
+",55,15.9883720930233,"real"
+"36",8,"IV: 
+relatie_kind_tiener: 3
+",12,24.4897959183673,"real"
+"37",8,"IV: 
+relatie_kind_tiener: 4
+",3,13.0434782608696,"real"
+"38",9,"IV: 
+relatie_kind_tiener: 0
+",1027,9.24642117583506,"real"
+"39",9,"IV: 
+relatie_kind_tiener: 1
+",165,14.7058823529412,"real"
+"40",9,"IV: 
+relatie_kind_tiener: 2
+",57,16.5697674418605,"real"
+"41",9,"IV: 
+relatie_kind_tiener: 3
+",10,20.4081632653061,"real"
+"42",9,"IV: 
+relatie_kind_tiener: 4
+",5,21.7391304347826,"real"
+"43",10,"IV: 
+relatie_kind_tiener: 0
+",1030,9.27343116953273,"real"
+"44",10,"IV: 
+relatie_kind_tiener: 1
+",184,16.3992869875223,"real"
+"45",10,"IV: 
+relatie_kind_tiener: 2
+",40,11.6279069767442,"real"
+"46",10,"IV: 
+relatie_kind_tiener: 3
+",6,12.2448979591837,"real"
+"47",10,"IV: 
+relatie_kind_tiener: 4
+",4,17.3913043478261,"real"
+"48",1,"IV: 
+relatie_kind_tiener: 0
+",1312,10.3756425464611,"real_conditional"
+"49",1,"IV: 
+relatie_kind_tiener: 1
+",1247,9.86160537761961,"real_conditional"
+"50",1,"IV: 
+relatie_kind_tiener: 2
+",1255,9.92487149070779,"real_conditional"
+"51",1,"IV: 
+relatie_kind_tiener: 3
+",1255,9.92487149070779,"real_conditional"
+"52",1,"IV: 
+relatie_kind_tiener: 4
+",1254,9.91696322657177,"real_conditional"
+"53",2,"IV: 
+relatie_kind_tiener: 0
+",1276,10.0909450375643,"real_conditional"
+"54",2,"IV: 
+relatie_kind_tiener: 1
+",1262,9.98022933965994,"real_conditional"
+"55",2,"IV: 
+relatie_kind_tiener: 2
+",1262,9.98022933965994,"real_conditional"
+"56",2,"IV: 
+relatie_kind_tiener: 3
+",1261,9.97232107552392,"real_conditional"
+"57",2,"IV: 
+relatie_kind_tiener: 4
+",1262,9.98022933965994,"real_conditional"
+"58",3,"IV: 
+relatie_kind_tiener: 0
+",1260,9.9644128113879,"real_conditional"
+"59",3,"IV: 
+relatie_kind_tiener: 1
+",1262,9.98022933965994,"real_conditional"
+"60",3,"IV: 
+relatie_kind_tiener: 2
+",1267,10.0197706603401,"real_conditional"
+"61",3,"IV: 
+relatie_kind_tiener: 3
+",1267,10.0197706603401,"real_conditional"
+"62",3,"IV: 
+relatie_kind_tiener: 4
+",1267,10.0197706603401,"real_conditional"
+"63",4,"IV: 
+relatie_kind_tiener: 0
+",1271,10.0514037168841,"real_conditional"
+"64",4,"IV: 
+relatie_kind_tiener: 1
+",1264,9.99604586793199,"real_conditional"
+"65",4,"IV: 
+relatie_kind_tiener: 2
+",1262,9.98022933965994,"real_conditional"
+"66",4,"IV: 
+relatie_kind_tiener: 3
+",1263,9.98813760379597,"real_conditional"
+"67",4,"IV: 
+relatie_kind_tiener: 4
+",1263,9.98813760379597,"real_conditional"
+"68",5,"IV: 
+relatie_kind_tiener: 0
+",1258,9.94859628311586,"real_conditional"
+"69",5,"IV: 
+relatie_kind_tiener: 1
+",1258,9.94859628311586,"real_conditional"
+"70",5,"IV: 
+relatie_kind_tiener: 2
+",1269,10.0355871886121,"real_conditional"
+"71",5,"IV: 
+relatie_kind_tiener: 3
+",1269,10.0355871886121,"real_conditional"
+"72",5,"IV: 
+relatie_kind_tiener: 4
+",1269,10.0355871886121,"real_conditional"
+"73",6,"IV: 
+relatie_kind_tiener: 0
+",1250,9.88533017002768,"real_conditional"
+"74",6,"IV: 
+relatie_kind_tiener: 1
+",1272,10.0593119810202,"real_conditional"
+"75",6,"IV: 
+relatie_kind_tiener: 2
+",1267,10.0197706603401,"real_conditional"
+"76",6,"IV: 
+relatie_kind_tiener: 3
+",1267,10.0197706603401,"real_conditional"
+"77",6,"IV: 
+relatie_kind_tiener: 4
+",1266,10.011862396204,"real_conditional"
+"78",7,"IV: 
+relatie_kind_tiener: 0
+",1269,10.0355871886121,"real_conditional"
+"79",7,"IV: 
+relatie_kind_tiener: 1
+",1259,9.95650454725188,"real_conditional"
+"80",7,"IV: 
+relatie_kind_tiener: 2
+",1265,10.003954132068,"real_conditional"
+"81",7,"IV: 
+relatie_kind_tiener: 3
+",1264,9.99604586793199,"real_conditional"
+"82",7,"IV: 
+relatie_kind_tiener: 4
+",1265,10.003954132068,"real_conditional"
+"83",8,"IV: 
+relatie_kind_tiener: 0
+",1259,9.95650454725188,"real_conditional"
+"84",8,"IV: 
+relatie_kind_tiener: 1
+",1266,10.011862396204,"real_conditional"
+"85",8,"IV: 
+relatie_kind_tiener: 2
+",1265,10.003954132068,"real_conditional"
+"86",8,"IV: 
+relatie_kind_tiener: 3
+",1266,10.011862396204,"real_conditional"
+"87",8,"IV: 
+relatie_kind_tiener: 4
+",1266,10.011862396204,"real_conditional"
+"88",9,"IV: 
+relatie_kind_tiener: 0
+",1233,9.7508896797153,"real_conditional"
+"89",9,"IV: 
+relatie_kind_tiener: 1
+",1273,10.0672202451562,"real_conditional"
+"90",9,"IV: 
+relatie_kind_tiener: 2
+",1272,10.0593119810202,"real_conditional"
+"91",9,"IV: 
+relatie_kind_tiener: 3
+",1272,10.0593119810202,"real_conditional"
+"92",9,"IV: 
+relatie_kind_tiener: 4
+",1272,10.0593119810202,"real_conditional"
+"93",10,"IV: 
+relatie_kind_tiener: 0
+",1257,9.94068801897983,"real_conditional"
+"94",10,"IV: 
+relatie_kind_tiener: 1
+",1282,10.1383946223804,"real_conditional"
+"95",10,"IV: 
+relatie_kind_tiener: 2
+",1261,9.97232107552392,"real_conditional"
+"96",10,"IV: 
+relatie_kind_tiener: 3
+",1261,9.97232107552392,"real_conditional"
+"97",10,"IV: 
+relatie_kind_tiener: 4
+",1261,9.97232107552392,"real_conditional"
+"98",1,"IV: 
+relatie_kind_tiener: 0
+",957,11.3603988603989,"synth"
+"99",1,"IV: 
+relatie_kind_tiener: 1
+",305,7.32292917166867,"synth"
+"100",1,"IV: 
+relatie_kind_tiener: 2
+",3,5.35714285714286,"synth"
+"101",2,"IV: 
+relatie_kind_tiener: 0
+",904,10.7312440645774,"synth"
+"102",2,"IV: 
+relatie_kind_tiener: 1
+",358,8.59543817527011,"synth"
+"103",2,"IV: 
+relatie_kind_tiener: 2
+",3,5.35714285714286,"synth"
+"104",3,"IV: 
+relatie_kind_tiener: 0
+",884,10.4938271604938,"synth"
+"105",3,"IV: 
+relatie_kind_tiener: 1
+",379,9.09963985594238,"synth"
+"106",3,"IV: 
+relatie_kind_tiener: 2
+",2,3.57142857142857,"synth"
+"107",4,"IV: 
+relatie_kind_tiener: 0
+",881,10.4582146248813,"synth"
+"108",4,"IV: 
+relatie_kind_tiener: 1
+",374,8.97959183673469,"synth"
+"109",4,"IV: 
+relatie_kind_tiener: 2
+",10,17.8571428571429,"synth"
+"110",5,"IV: 
+relatie_kind_tiener: 0
+",862,10.2326685660019,"synth"
+"111",5,"IV: 
+relatie_kind_tiener: 1
+",399,9.57983193277311,"synth"
+"112",5,"IV: 
+relatie_kind_tiener: 2
+",4,7.14285714285714,"synth"
+"113",6,"IV: 
+relatie_kind_tiener: 0
+",836,9.92402659069326,"synth"
+"114",6,"IV: 
+relatie_kind_tiener: 1
+",424,10.1800720288115,"synth"
+"115",6,"IV: 
+relatie_kind_tiener: 2
+",4,7.14285714285714,"synth"
+"116",7,"IV: 
+relatie_kind_tiener: 0
+",834,9.9002849002849,"synth"
+"117",7,"IV: 
+relatie_kind_tiener: 1
+",425,10.2040816326531,"synth"
+"118",7,"IV: 
+relatie_kind_tiener: 2
+",5,8.92857142857143,"synth"
+"119",8,"IV: 
+relatie_kind_tiener: 0
+",767,9.10493827160494,"synth"
+"120",8,"IV: 
+relatie_kind_tiener: 1
+",484,11.6206482593037,"synth"
+"121",8,"IV: 
+relatie_kind_tiener: 2
+",13,23.2142857142857,"synth"
+"122",9,"IV: 
+relatie_kind_tiener: 0
+",759,9.00997150997151,"synth"
+"123",9,"IV: 
+relatie_kind_tiener: 1
+",497,11.9327731092437,"synth"
+"124",9,"IV: 
+relatie_kind_tiener: 2
+",8,14.2857142857143,"synth"
+"125",10,"IV: 
+relatie_kind_tiener: 0
+",740,8.78442545109212,"synth"
+"126",10,"IV: 
+relatie_kind_tiener: 1
+",520,12.484993997599,"synth"
+"127",10,"IV: 
+relatie_kind_tiener: 2
+",4,7.14285714285714,"synth"
+"128",1,"IV: 
+relatie_kind_tiener: 0
+",1292,10.3293891909178,"synth_conditional"
+"129",1,"IV: 
+relatie_kind_tiener: 1
+",1202,9.60984969619444,"synth_conditional"
+"130",1,"IV: 
+relatie_kind_tiener: 2
+",1254,10.0255836264791,"synth_conditional"
+"131",1,"IV: 
+relatie_kind_tiener: 3
+",1253,10.0175887432043,"synth_conditional"
+"132",1,"IV: 
+relatie_kind_tiener: 4
+",1253,10.0175887432043,"synth_conditional"
+"133",2,"IV: 
+relatie_kind_tiener: 0
+",1268,10.1375119923249,"synth_conditional"
+"134",2,"IV: 
+relatie_kind_tiener: 1
+",1213,9.69779341221618,"synth_conditional"
+"135",2,"IV: 
+relatie_kind_tiener: 2
+",1257,10.0495682763032,"synth_conditional"
+"136",2,"IV: 
+relatie_kind_tiener: 3
+",1258,10.0575631595779,"synth_conditional"
+"137",2,"IV: 
+relatie_kind_tiener: 4
+",1258,10.0575631595779,"synth_conditional"
+"138",3,"IV: 
+relatie_kind_tiener: 0
+",1270,10.1535017588743,"synth_conditional"
+"139",3,"IV: 
+relatie_kind_tiener: 1
+",1239,9.90566037735849,"synth_conditional"
+"140",3,"IV: 
+relatie_kind_tiener: 2
+",1249,9.98560921010553,"synth_conditional"
+"141",3,"IV: 
+relatie_kind_tiener: 3
+",1248,9.97761432683083,"synth_conditional"
+"142",3,"IV: 
+relatie_kind_tiener: 4
+",1248,9.97761432683083,"synth_conditional"
+"143",4,"IV: 
+relatie_kind_tiener: 0
+",1254,10.0255836264791,"synth_conditional"
+"144",4,"IV: 
+relatie_kind_tiener: 1
+",1207,9.64982411256796,"synth_conditional"
+"145",4,"IV: 
+relatie_kind_tiener: 2
+",1264,10.1055324592261,"synth_conditional"
+"146",4,"IV: 
+relatie_kind_tiener: 3
+",1265,10.1135273425008,"synth_conditional"
+"147",4,"IV: 
+relatie_kind_tiener: 4
+",1264,10.1055324592261,"synth_conditional"
+"148",5,"IV: 
+relatie_kind_tiener: 0
+",1260,10.0735529261273,"synth_conditional"
+"149",5,"IV: 
+relatie_kind_tiener: 1
+",1262,10.0895426926767,"synth_conditional"
+"150",5,"IV: 
+relatie_kind_tiener: 2
+",1244,9.94563479373201,"synth_conditional"
+"151",5,"IV: 
+relatie_kind_tiener: 3
+",1244,9.94563479373201,"synth_conditional"
+"152",5,"IV: 
+relatie_kind_tiener: 4
+",1244,9.94563479373201,"synth_conditional"
+"153",6,"IV: 
+relatie_kind_tiener: 0
+",1244,9.94563479373201,"synth_conditional"
+"154",6,"IV: 
+relatie_kind_tiener: 1
+",1251,10.0015989766549,"synth_conditional"
+"155",6,"IV: 
+relatie_kind_tiener: 2
+",1253,10.0175887432043,"synth_conditional"
+"156",6,"IV: 
+relatie_kind_tiener: 3
+",1253,10.0175887432043,"synth_conditional"
+"157",6,"IV: 
+relatie_kind_tiener: 4
+",1253,10.0175887432043,"synth_conditional"
+"158",7,"IV: 
+relatie_kind_tiener: 0
+",1230,9.83370642788615,"synth_conditional"
+"159",7,"IV: 
+relatie_kind_tiener: 1
+",1231,9.84170131116086,"synth_conditional"
+"160",7,"IV: 
+relatie_kind_tiener: 2
+",1264,10.1055324592261,"synth_conditional"
+"161",7,"IV: 
+relatie_kind_tiener: 3
+",1264,10.1055324592261,"synth_conditional"
+"162",7,"IV: 
+relatie_kind_tiener: 4
+",1265,10.1135273425008,"synth_conditional"
+"163",8,"IV: 
+relatie_kind_tiener: 0
+",1227,9.80972177806204,"synth_conditional"
+"164",8,"IV: 
+relatie_kind_tiener: 1
+",1286,10.2814198912696,"synth_conditional"
+"165",8,"IV: 
+relatie_kind_tiener: 2
+",1247,9.96961944355612,"synth_conditional"
+"166",8,"IV: 
+relatie_kind_tiener: 3
+",1247,9.96961944355612,"synth_conditional"
+"167",8,"IV: 
+relatie_kind_tiener: 4
+",1247,9.96961944355612,"synth_conditional"
+"168",9,"IV: 
+relatie_kind_tiener: 0
+",1215,9.71378317876559,"synth_conditional"
+"169",9,"IV: 
+relatie_kind_tiener: 1
+",1281,10.2414454748961,"synth_conditional"
+"170",9,"IV: 
+relatie_kind_tiener: 2
+",1253,10.0175887432043,"synth_conditional"
+"171",9,"IV: 
+relatie_kind_tiener: 3
+",1253,10.0175887432043,"synth_conditional"
+"172",9,"IV: 
+relatie_kind_tiener: 4
+",1252,10.0095938599296,"synth_conditional"
+"173",10,"IV: 
+relatie_kind_tiener: 0
+",1248,9.97761432683083,"synth_conditional"
+"174",10,"IV: 
+relatie_kind_tiener: 1
+",1336,10.6811640550048,"synth_conditional"
+"175",10,"IV: 
+relatie_kind_tiener: 2
+",1223,9.77774224496322,"synth_conditional"
+"176",10,"IV: 
+relatie_kind_tiener: 3
+",1223,9.77774224496322,"synth_conditional"
+"177",10,"IV: 
+relatie_kind_tiener: 4
+",1224,9.78573712823793,"synth_conditional"

@@ -1,0 +1,576 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+",7687,2417,5.75e-08,"****",1.15e-06,"****","real"
+"2","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+",7687,15,0.00183,"**",0.0293,"*","real"
+"3","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+",2417,15,0.00876,"**",0.123,"ns","real"
+"4","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+",7687,2,0.12,"ns",1,"ns","real"
+"5","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+",2417,2,0.169,"ns",1,"ns","real"
+"6","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+",15,2,0.697,"ns",1,"ns","real"
+"7","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+",7687,1185,2.98e-18,"****",7.76e-17,"****","real"
+"8","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+",2417,1185,4.01e-05,"****",0.000722,"***","real"
+"9","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+",15,1185,0.0401,"*",0.481,"ns","real"
+"10","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+",2,1185,0.243,"ns",1,"ns","real"
+"11","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",7687,605,6.07e-20,"****",1.64e-18,"****","real"
+"12","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",2417,605,1.08e-08,"****",2.27e-07,"****","real"
+"13","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",15,605,0.109,"ns",1,"ns","real"
+"14","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",2,605,0.315,"ns",1,"ns","real"
+"15","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",1185,605,0.0221,"*",0.287,"ns","real"
+"16","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",7687,319,2.41e-17,"****",6.03e-16,"****","real"
+"17","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",2417,319,1.88e-09,"****",4.13e-08,"****","real"
+"18","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",15,319,0.225,"ns",1,"ns","real"
+"19","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",2,319,0.387,"ns",1,"ns","real"
+"20","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",1185,319,0.000758,"***",0.0129,"*","real"
+"21","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",605,319,0.156,"ns",1,"ns","real"
+"22","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",7687,183,9.78e-24,"****",2.74e-22,"****","real"
+"23","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",2417,183,3.46e-16,"****",8.31e-15,"****","real"
+"24","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",15,183,0.844,"ns",1,"ns","real"
+"25","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",2,183,0.626,"ns",1,"ns","real"
+"26","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",1185,183,1.5e-09,"****",3.44e-08,"****","real"
+"27","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",605,183,1.44e-05,"****",0.000274,"***","real"
+"28","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",319,183,0.00386,"**",0.0579,"ns","real"
+"29","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"30","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+",12645,12645,0.833,"ns",1,"ns","real_conditional"
+"31","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+",12645,12645,0.833,"ns",1,"ns","real_conditional"
+"32","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+",12645,12645,0.833,"ns",1,"ns","real_conditional"
+"33","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+",12645,12645,0.833,"ns",1,"ns","real_conditional"
+"34","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"35","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+",12645,12645,0.98,"ns",1,"ns","real_conditional"
+"36","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+",12645,12645,0.98,"ns",1,"ns","real_conditional"
+"37","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+",12645,12645,0.813,"ns",1,"ns","real_conditional"
+"38","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+",12645,12645,0.813,"ns",1,"ns","real_conditional"
+"39","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+",12645,12645,0.833,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+",12645,12645,0.833,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+",12645,12645,0.813,"ns",1,"ns","real_conditional"
+"44","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",12645,12645,0.754,"ns",1,"ns","real_conditional"
+"45","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",12645,12645,0.754,"ns",1,"ns","real_conditional"
+"46","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",12645,12645,0.6,"ns",1,"ns","real_conditional"
+"47","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",12645,12645,0.6,"ns",1,"ns","real_conditional"
+"48","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",12645,12645,0.774,"ns",1,"ns","real_conditional"
+"49","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",12645,12645,0.6,"ns",1,"ns","real_conditional"
+"50","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",12645,12645,0.754,"ns",1,"ns","real_conditional"
+"51","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",12645,12645,0.754,"ns",1,"ns","real_conditional"
+"52","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",12645,12645,0.6,"ns",1,"ns","real_conditional"
+"53","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",12645,12645,0.6,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",12645,12645,0.774,"ns",1,"ns","real_conditional"
+"55","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",12645,12645,0.6,"ns",1,"ns","real_conditional"
+"56","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"57","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",12645,12645,0.754,"ns",1,"ns","real_conditional"
+"58","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",12645,12645,0.754,"ns",1,"ns","real_conditional"
+"59","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",12645,12645,0.6,"ns",1,"ns","real_conditional"
+"60","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",12645,12645,0.6,"ns",1,"ns","real_conditional"
+"61","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",12645,12645,0.774,"ns",1,"ns","real_conditional"
+"62","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",12645,12645,0.6,"ns",1,"ns","real_conditional"
+"63","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"64","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"65","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+",2814,4809,9.33e-11,"****",9.33e-10,"****","synth"
+"66","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+",2814,2964,5.33e-26,"****",7.46e-25,"****","synth"
+"67","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+",4809,2964,1.04e-07,"****",8.29e-07,"****","synth"
+"68","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",2814,1455,1.65e-38,"****",2.48e-37,"****","synth"
+"69","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",4809,1455,5.83e-19,"****",6.99e-18,"****","synth"
+"70","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",2964,1455,8.89e-06,"****",6.23e-05,"****","synth"
+"71","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",2814,473,4.83e-21,"****",6.28e-20,"****","synth"
+"72","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",4809,473,6.77e-11,"****",7.45e-10,"****","synth"
+"73","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",2964,473,0.000121,"***",0.000604,"***","synth"
+"74","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",1455,473,0.363,"ns",0.726,"ns","synth"
+"75","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",2814,113,5.96e-09,"****",5.36e-08,"****","synth"
+"76","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",4809,113,2.13e-05,"****",0.000128,"***","synth"
+"77","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",2964,113,0.00345,"**",0.0138,"*","synth"
+"78","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",1455,113,0.157,"ns",0.472,"ns","synth"
+"79","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",473,113,0.39,"ns",0.726,"ns","synth"
+"80","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"81","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+",12508,12508,0.0488,"*",1,"ns","synth_conditional"
+"82","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+",12508,12508,0.0488,"*",1,"ns","synth_conditional"
+"83","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+",12508,12508,0.0488,"*",1,"ns","synth_conditional"
+"84","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+",12508,12508,0.0488,"*",1,"ns","synth_conditional"
+"85","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"86","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+",12508,12508,0.856,"ns",1,"ns","synth_conditional"
+"87","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+",12508,12508,0.856,"ns",1,"ns","synth_conditional"
+"88","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+",12508,12508,0.0314,"*",0.848,"ns","synth_conditional"
+"89","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+",12508,12508,0.0314,"*",0.848,"ns","synth_conditional"
+"90","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+",12508,12508,0.0488,"*",1,"ns","synth_conditional"
+"91","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+",12508,12508,0.0488,"*",1,"ns","synth_conditional"
+"92","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"93","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"94","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+",12508,12508,0.0314,"*",0.848,"ns","synth_conditional"
+"95","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",12508,12508,0.667,"ns",1,"ns","synth_conditional"
+"96","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",12508,12508,0.667,"ns",1,"ns","synth_conditional"
+"97","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",12508,12508,0.0164,"*",0.589,"ns","synth_conditional"
+"98","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",12508,12508,0.0164,"*",0.589,"ns","synth_conditional"
+"99","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",12508,12508,0.803,"ns",1,"ns","synth_conditional"
+"100","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+",12508,12508,0.0164,"*",0.589,"ns","synth_conditional"
+"101","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",12508,12508,0.667,"ns",1,"ns","synth_conditional"
+"102","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",12508,12508,0.667,"ns",1,"ns","synth_conditional"
+"103","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",12508,12508,0.0164,"*",0.589,"ns","synth_conditional"
+"104","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",12508,12508,0.0164,"*",0.589,"ns","synth_conditional"
+"105","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",12508,12508,0.803,"ns",1,"ns","synth_conditional"
+"106","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",12508,12508,0.0164,"*",0.589,"ns","synth_conditional"
+"107","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"108","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",12508,12508,0.667,"ns",1,"ns","synth_conditional"
+"109","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",12508,12508,0.667,"ns",1,"ns","synth_conditional"
+"110","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",12508,12508,0.0164,"*",0.589,"ns","synth_conditional"
+"111","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",12508,12508,0.0164,"*",0.589,"ns","synth_conditional"
+"112","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",12508,12508,0.803,"ns",1,"ns","synth_conditional"
+"113","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",12508,12508,0.0164,"*",0.589,"ns","synth_conditional"
+"114","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"115","Ja","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"

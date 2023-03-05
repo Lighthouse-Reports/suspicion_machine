@@ -1,0 +1,121 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 0
+","IV: 
+competentie_vakdeskundigheid_toepassen: 1
+",7102,5396,0,"****",0,"****","real"
+"2","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 0
+","IV: 
+competentie_vakdeskundigheid_toepassen: 2
+",7102,141,3.99e-61,"****",1.99e-60,"****","real"
+"3","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 1
+","IV: 
+competentie_vakdeskundigheid_toepassen: 2
+",5396,141,2.13e-10,"****",8.53e-10,"****","real"
+"4","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 0
+","IV: 
+competentie_vakdeskundigheid_toepassen: 3
+",7102,6,6.48e-08,"****",1.94e-07,"****","real"
+"5","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 1
+","IV: 
+competentie_vakdeskundigheid_toepassen: 3
+",5396,6,0.00103,"**",0.00207,"**","real"
+"6","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 2
+","IV: 
+competentie_vakdeskundigheid_toepassen: 3
+",141,6,0.0555,"ns",0.0555,"ns","real"
+"7","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 0
+","IV: 
+competentie_vakdeskundigheid_toepassen: 1
+",12645,12645,7.8e-92,"****",4.68e-91,"****","real_conditional"
+"8","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 0
+","IV: 
+competentie_vakdeskundigheid_toepassen: 2
+",12645,12645,7.8e-92,"****",4.68e-91,"****","real_conditional"
+"9","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 1
+","IV: 
+competentie_vakdeskundigheid_toepassen: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 0
+","IV: 
+competentie_vakdeskundigheid_toepassen: 3
+",12645,12645,7.8e-92,"****",4.68e-91,"****","real_conditional"
+"11","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 1
+","IV: 
+competentie_vakdeskundigheid_toepassen: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"12","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 2
+","IV: 
+competentie_vakdeskundigheid_toepassen: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 0
+","IV: 
+competentie_vakdeskundigheid_toepassen: 1
+",6911,5475,2.24e-134,"****",1.34e-133,"****","synth"
+"14","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 0
+","IV: 
+competentie_vakdeskundigheid_toepassen: 2
+",6911,256,2.73e-37,"****",1.36e-36,"****","synth"
+"15","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 1
+","IV: 
+competentie_vakdeskundigheid_toepassen: 2
+",5475,256,1.4e-08,"****",5.6e-08,"****","synth"
+"16","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 0
+","IV: 
+competentie_vakdeskundigheid_toepassen: 3
+",6911,3,0.131,"ns",0.393,"ns","synth"
+"17","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 1
+","IV: 
+competentie_vakdeskundigheid_toepassen: 3
+",5475,3,0.467,"ns",0.933,"ns","synth"
+"18","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 2
+","IV: 
+competentie_vakdeskundigheid_toepassen: 3
+",256,3,0.921,"ns",0.933,"ns","synth"
+"19","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 0
+","IV: 
+competentie_vakdeskundigheid_toepassen: 1
+",12508,12508,3.8e-42,"****",2.28e-41,"****","synth_conditional"
+"20","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 0
+","IV: 
+competentie_vakdeskundigheid_toepassen: 2
+",12508,12508,3.8e-42,"****",2.28e-41,"****","synth_conditional"
+"21","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 1
+","IV: 
+competentie_vakdeskundigheid_toepassen: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"22","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 0
+","IV: 
+competentie_vakdeskundigheid_toepassen: 3
+",12508,12508,3.8e-42,"****",2.28e-41,"****","synth_conditional"
+"23","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 1
+","IV: 
+competentie_vakdeskundigheid_toepassen: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"24","Ja","IV: 
+competentie_vakdeskundigheid_toepassen: 2
+","IV: 
+competentie_vakdeskundigheid_toepassen: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"

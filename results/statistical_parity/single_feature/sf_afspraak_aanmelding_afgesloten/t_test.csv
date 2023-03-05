@@ -1,0 +1,991 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 1
+",6029,2391,8.49e-26,"****",5.52e-24,"****","real"
+"2","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 10
+",6029,7,0.402,"ns",1,"ns","real"
+"3","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 10
+",2391,7,0.868,"ns",1,"ns","real"
+"4","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 11
+",6029,2,0.743,"ns",1,"ns","real"
+"5","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 11
+",2391,2,0.975,"ns",1,"ns","real"
+"6","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 11
+",7,2,0.915,"ns",1,"ns","real"
+"7","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 2
+",6029,1772,2.75e-40,"****",1.82e-38,"****","real"
+"8","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 2
+",2391,1772,0.000727,"***",0.0436,"*","real"
+"9","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 2
+",7,1772,0.909,"ns",1,"ns","real"
+"10","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 2
+",2,1772,0.856,"ns",1,"ns","real"
+"11","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 3
+",6029,1101,4.46e-24,"****",2.86e-22,"****","real"
+"12","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 3
+",2391,1101,0.0322,"*",1,"ns","real"
+"13","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 3
+",7,1101,0.968,"ns",1,"ns","real"
+"14","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 3
+",2,1101,0.887,"ns",1,"ns","real"
+"15","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 3
+",1772,1101,0.467,"ns",1,"ns","real"
+"16","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",6029,688,6.45e-21,"****",4.06e-19,"****","real"
+"17","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",2391,688,0.0042,"**",0.248,"ns","real"
+"18","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",7,688,0.872,"ns",1,"ns","real"
+"19","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",2,688,0.836,"ns",1,"ns","real"
+"20","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",1772,688,0.69,"ns",1,"ns","real"
+"21","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",1101,688,0.346,"ns",1,"ns","real"
+"22","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",6029,356,3.06e-06,"****",0.00019,"***","real"
+"23","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",2391,356,0.996,"ns",1,"ns","real"
+"24","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",7,356,0.87,"ns",1,"ns","real"
+"25","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",2,356,0.975,"ns",1,"ns","real"
+"26","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",1772,356,0.0689,"ns",1,"ns","real"
+"27","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",1101,356,0.202,"ns",1,"ns","real"
+"28","Ja","IV: 
+afspraak_aanmelding_afgesloten: 4
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",688,356,0.0584,"ns",1,"ns","real"
+"29","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",6029,173,0.000237,"***",0.0144,"*","real"
+"30","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",2391,173,0.711,"ns",1,"ns","real"
+"31","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",7,173,0.931,"ns",1,"ns","real"
+"32","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",2,173,0.942,"ns",1,"ns","real"
+"33","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",1772,173,0.335,"ns",1,"ns","real"
+"34","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",1101,173,0.551,"ns",1,"ns","real"
+"35","Ja","IV: 
+afspraak_aanmelding_afgesloten: 4
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",688,173,0.266,"ns",1,"ns","real"
+"36","Ja","IV: 
+afspraak_aanmelding_afgesloten: 5
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",356,173,0.755,"ns",1,"ns","real"
+"37","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",6029,81,0.0334,"*",1,"ns","real"
+"38","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",2391,81,0.884,"ns",1,"ns","real"
+"39","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",7,81,0.841,"ns",1,"ns","real"
+"40","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",2,81,0.993,"ns",1,"ns","real"
+"41","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",1772,81,0.281,"ns",1,"ns","real"
+"42","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",1101,81,0.412,"ns",1,"ns","real"
+"43","Ja","IV: 
+afspraak_aanmelding_afgesloten: 4
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",688,81,0.232,"ns",1,"ns","real"
+"44","Ja","IV: 
+afspraak_aanmelding_afgesloten: 5
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",356,81,0.892,"ns",1,"ns","real"
+"45","Ja","IV: 
+afspraak_aanmelding_afgesloten: 6
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",173,81,0.735,"ns",1,"ns","real"
+"46","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",6029,28,0.622,"ns",1,"ns","real"
+"47","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",2391,28,0.397,"ns",1,"ns","real"
+"48","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",7,28,0.596,"ns",1,"ns","real"
+"49","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",2,28,0.85,"ns",1,"ns","real"
+"50","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",1772,28,0.161,"ns",1,"ns","real"
+"51","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",1101,28,0.211,"ns",1,"ns","real"
+"52","Ja","IV: 
+afspraak_aanmelding_afgesloten: 4
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",688,28,0.139,"ns",1,"ns","real"
+"53","Ja","IV: 
+afspraak_aanmelding_afgesloten: 5
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",356,28,0.411,"ns",1,"ns","real"
+"54","Ja","IV: 
+afspraak_aanmelding_afgesloten: 6
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",173,28,0.35,"ns",1,"ns","real"
+"55","Ja","IV: 
+afspraak_aanmelding_afgesloten: 7
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",81,28,0.509,"ns",1,"ns","real"
+"56","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",6029,17,0.0253,"*",1,"ns","real"
+"57","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",2391,17,0.235,"ns",1,"ns","real"
+"58","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",7,17,0.614,"ns",1,"ns","real"
+"59","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",2,17,0.677,"ns",1,"ns","real"
+"60","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",1772,17,0.452,"ns",1,"ns","real"
+"61","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",1101,17,0.388,"ns",1,"ns","real"
+"62","Ja","IV: 
+afspraak_aanmelding_afgesloten: 4
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",688,17,0.501,"ns",1,"ns","real"
+"63","Ja","IV: 
+afspraak_aanmelding_afgesloten: 5
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",356,17,0.245,"ns",1,"ns","real"
+"64","Ja","IV: 
+afspraak_aanmelding_afgesloten: 6
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",173,17,0.306,"ns",1,"ns","real"
+"65","Ja","IV: 
+afspraak_aanmelding_afgesloten: 7
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",81,17,0.252,"ns",1,"ns","real"
+"66","Ja","IV: 
+afspraak_aanmelding_afgesloten: 8
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",28,17,0.143,"ns",1,"ns","real"
+"67","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 1
+",12645,12645,0.96,"ns",1,"ns","real_conditional"
+"68","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 10
+",12645,12645,0.782,"ns",1,"ns","real_conditional"
+"69","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 10
+",12645,12645,0.82,"ns",1,"ns","real_conditional"
+"70","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 11
+",12645,12645,0.782,"ns",1,"ns","real_conditional"
+"71","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 11
+",12645,12645,0.82,"ns",1,"ns","real_conditional"
+"72","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 11
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"73","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 2
+",12645,12645,0.87,"ns",1,"ns","real_conditional"
+"74","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 2
+",12645,12645,0.909,"ns",1,"ns","real_conditional"
+"75","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 2
+",12645,12645,0.91,"ns",1,"ns","real_conditional"
+"76","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 2
+",12645,12645,0.91,"ns",1,"ns","real_conditional"
+"77","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 3
+",12645,12645,0.849,"ns",1,"ns","real_conditional"
+"78","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 3
+",12645,12645,0.888,"ns",1,"ns","real_conditional"
+"79","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 3
+",12645,12645,0.932,"ns",1,"ns","real_conditional"
+"80","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 3
+",12645,12645,0.932,"ns",1,"ns","real_conditional"
+"81","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 3
+",12645,12645,0.978,"ns",1,"ns","real_conditional"
+"82","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",12645,12645,0.782,"ns",1,"ns","real_conditional"
+"83","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",12645,12645,0.82,"ns",1,"ns","real_conditional"
+"84","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"85","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"86","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",12645,12645,0.91,"ns",1,"ns","real_conditional"
+"87","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",12645,12645,0.932,"ns",1,"ns","real_conditional"
+"88","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",12645,12645,0.782,"ns",1,"ns","real_conditional"
+"89","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",12645,12645,0.82,"ns",1,"ns","real_conditional"
+"90","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"91","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"92","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",12645,12645,0.91,"ns",1,"ns","real_conditional"
+"93","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",12645,12645,0.932,"ns",1,"ns","real_conditional"
+"94","Ja","IV: 
+afspraak_aanmelding_afgesloten: 4
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"95","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",12645,12645,0.782,"ns",1,"ns","real_conditional"
+"96","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",12645,12645,0.82,"ns",1,"ns","real_conditional"
+"97","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"98","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"99","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",12645,12645,0.91,"ns",1,"ns","real_conditional"
+"100","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",12645,12645,0.932,"ns",1,"ns","real_conditional"
+"101","Ja","IV: 
+afspraak_aanmelding_afgesloten: 4
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"102","Ja","IV: 
+afspraak_aanmelding_afgesloten: 5
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"103","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12645,12645,0.782,"ns",1,"ns","real_conditional"
+"104","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12645,12645,0.82,"ns",1,"ns","real_conditional"
+"105","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"106","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"107","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12645,12645,0.91,"ns",1,"ns","real_conditional"
+"108","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12645,12645,0.932,"ns",1,"ns","real_conditional"
+"109","Ja","IV: 
+afspraak_aanmelding_afgesloten: 4
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"110","Ja","IV: 
+afspraak_aanmelding_afgesloten: 5
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"111","Ja","IV: 
+afspraak_aanmelding_afgesloten: 6
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"112","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12645,12645,0.782,"ns",1,"ns","real_conditional"
+"113","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12645,12645,0.82,"ns",1,"ns","real_conditional"
+"114","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"115","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"116","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12645,12645,0.91,"ns",1,"ns","real_conditional"
+"117","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12645,12645,0.932,"ns",1,"ns","real_conditional"
+"118","Ja","IV: 
+afspraak_aanmelding_afgesloten: 4
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"119","Ja","IV: 
+afspraak_aanmelding_afgesloten: 5
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"120","Ja","IV: 
+afspraak_aanmelding_afgesloten: 6
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"121","Ja","IV: 
+afspraak_aanmelding_afgesloten: 7
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"122","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12645,12645,0.782,"ns",1,"ns","real_conditional"
+"123","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12645,12645,0.82,"ns",1,"ns","real_conditional"
+"124","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"125","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"126","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12645,12645,0.91,"ns",1,"ns","real_conditional"
+"127","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12645,12645,0.932,"ns",1,"ns","real_conditional"
+"128","Ja","IV: 
+afspraak_aanmelding_afgesloten: 4
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"129","Ja","IV: 
+afspraak_aanmelding_afgesloten: 5
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"130","Ja","IV: 
+afspraak_aanmelding_afgesloten: 6
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"131","Ja","IV: 
+afspraak_aanmelding_afgesloten: 7
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"132","Ja","IV: 
+afspraak_aanmelding_afgesloten: 8
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"133","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 1
+",12508,12508,0.762,"ns",1,"ns","synth_conditional"
+"134","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 10
+",12508,12508,0.191,"ns",1,"ns","synth_conditional"
+"135","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 10
+",12508,12508,0.315,"ns",1,"ns","synth_conditional"
+"136","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 11
+",12508,12508,0.191,"ns",1,"ns","synth_conditional"
+"137","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 11
+",12508,12508,0.315,"ns",1,"ns","synth_conditional"
+"138","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 11
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"139","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 2
+",12508,12508,0.554,"ns",1,"ns","synth_conditional"
+"140","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 2
+",12508,12508,0.773,"ns",1,"ns","synth_conditional"
+"141","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 2
+",12508,12508,0.474,"ns",1,"ns","synth_conditional"
+"142","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 2
+",12508,12508,0.474,"ns",1,"ns","synth_conditional"
+"143","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 3
+",12508,12508,0.258,"ns",1,"ns","synth_conditional"
+"144","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 3
+",12508,12508,0.408,"ns",1,"ns","synth_conditional"
+"145","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 3
+",12508,12508,0.859,"ns",1,"ns","synth_conditional"
+"146","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 3
+",12508,12508,0.859,"ns",1,"ns","synth_conditional"
+"147","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 3
+",12508,12508,0.59,"ns",1,"ns","synth_conditional"
+"148","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",12508,12508,0.191,"ns",1,"ns","synth_conditional"
+"149","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",12508,12508,0.315,"ns",1,"ns","synth_conditional"
+"150","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"151","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"152","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",12508,12508,0.474,"ns",1,"ns","synth_conditional"
+"153","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 4
+",12508,12508,0.859,"ns",1,"ns","synth_conditional"
+"154","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",12508,12508,0.191,"ns",1,"ns","synth_conditional"
+"155","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",12508,12508,0.315,"ns",1,"ns","synth_conditional"
+"156","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"157","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"158","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",12508,12508,0.474,"ns",1,"ns","synth_conditional"
+"159","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",12508,12508,0.859,"ns",1,"ns","synth_conditional"
+"160","Ja","IV: 
+afspraak_aanmelding_afgesloten: 4
+","IV: 
+afspraak_aanmelding_afgesloten: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"161","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",12508,12508,0.191,"ns",1,"ns","synth_conditional"
+"162","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",12508,12508,0.315,"ns",1,"ns","synth_conditional"
+"163","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"164","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"165","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",12508,12508,0.474,"ns",1,"ns","synth_conditional"
+"166","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",12508,12508,0.859,"ns",1,"ns","synth_conditional"
+"167","Ja","IV: 
+afspraak_aanmelding_afgesloten: 4
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"168","Ja","IV: 
+afspraak_aanmelding_afgesloten: 5
+","IV: 
+afspraak_aanmelding_afgesloten: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"169","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12508,12508,0.191,"ns",1,"ns","synth_conditional"
+"170","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12508,12508,0.315,"ns",1,"ns","synth_conditional"
+"171","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"172","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"173","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12508,12508,0.474,"ns",1,"ns","synth_conditional"
+"174","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12508,12508,0.859,"ns",1,"ns","synth_conditional"
+"175","Ja","IV: 
+afspraak_aanmelding_afgesloten: 4
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"176","Ja","IV: 
+afspraak_aanmelding_afgesloten: 5
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"177","Ja","IV: 
+afspraak_aanmelding_afgesloten: 6
+","IV: 
+afspraak_aanmelding_afgesloten: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"178","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12508,12508,0.191,"ns",1,"ns","synth_conditional"
+"179","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12508,12508,0.315,"ns",1,"ns","synth_conditional"
+"180","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"181","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"182","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12508,12508,0.474,"ns",1,"ns","synth_conditional"
+"183","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12508,12508,0.859,"ns",1,"ns","synth_conditional"
+"184","Ja","IV: 
+afspraak_aanmelding_afgesloten: 4
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"185","Ja","IV: 
+afspraak_aanmelding_afgesloten: 5
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"186","Ja","IV: 
+afspraak_aanmelding_afgesloten: 6
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"187","Ja","IV: 
+afspraak_aanmelding_afgesloten: 7
+","IV: 
+afspraak_aanmelding_afgesloten: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"188","Ja","IV: 
+afspraak_aanmelding_afgesloten: 0
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12508,12508,0.191,"ns",1,"ns","synth_conditional"
+"189","Ja","IV: 
+afspraak_aanmelding_afgesloten: 1
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12508,12508,0.315,"ns",1,"ns","synth_conditional"
+"190","Ja","IV: 
+afspraak_aanmelding_afgesloten: 10
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"191","Ja","IV: 
+afspraak_aanmelding_afgesloten: 11
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"192","Ja","IV: 
+afspraak_aanmelding_afgesloten: 2
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12508,12508,0.474,"ns",1,"ns","synth_conditional"
+"193","Ja","IV: 
+afspraak_aanmelding_afgesloten: 3
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12508,12508,0.859,"ns",1,"ns","synth_conditional"
+"194","Ja","IV: 
+afspraak_aanmelding_afgesloten: 4
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"195","Ja","IV: 
+afspraak_aanmelding_afgesloten: 5
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"196","Ja","IV: 
+afspraak_aanmelding_afgesloten: 6
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"197","Ja","IV: 
+afspraak_aanmelding_afgesloten: 7
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"198","Ja","IV: 
+afspraak_aanmelding_afgesloten: 8
+","IV: 
+afspraak_aanmelding_afgesloten: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"

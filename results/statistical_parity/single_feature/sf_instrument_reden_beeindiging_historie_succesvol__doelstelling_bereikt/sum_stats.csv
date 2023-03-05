@@ -1,0 +1,43 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+instrument_reden_beeindiging_historie_succesvol__doelstelling_bereikt: 0
+","Ja",12063,0.491,0.153,0.101135704219514,0.285501119124596,0.113570421951421,18.5501119124596,"real"
+"2","IV: 
+instrument_reden_beeindiging_historie_succesvol__doelstelling_bereikt: 1
+","Ja",547,0.436,0.16,0.0658135283363803,0.19926873857404,-3.41864716636198,9.92687385740402,"real"
+"3","IV: 
+instrument_reden_beeindiging_historie_succesvol__doelstelling_bereikt: 2
+","Ja",30,0.551,0.149,0.266666666666667,0.366666666666667,16.6666666666667,26.6666666666667,"real"
+"4","IV: 
+instrument_reden_beeindiging_historie_succesvol__doelstelling_bereikt: 3
+","Ja",5,0.537,0.198,0.2,0.4,10,30,"real"
+"5","IV: 
+instrument_reden_beeindiging_historie_succesvol__doelstelling_bereikt: 0
+","Ja",12645,0.489,0.153,0.10003954132068,0.28208778173191,0.00395413206801115,18.208778173191,"real_conditional"
+"6","IV: 
+instrument_reden_beeindiging_historie_succesvol__doelstelling_bereikt: 1
+","Ja",12645,0.489,0.153,0.099644128113879,0.281296955318308,-0.0355871886121004,18.1296955318308,"real_conditional"
+"7","IV: 
+instrument_reden_beeindiging_historie_succesvol__doelstelling_bereikt: 2
+","Ja",12645,0.489,0.153,0.099644128113879,0.281296955318308,-0.0355871886121004,18.1296955318308,"real_conditional"
+"8","IV: 
+instrument_reden_beeindiging_historie_succesvol__doelstelling_bereikt: 3
+","Ja",12645,0.489,0.153,0.099644128113879,0.281296955318308,-0.0355871886121004,18.1296955318308,"real_conditional"
+"9","IV: 
+instrument_reden_beeindiging_historie_succesvol__doelstelling_bereikt: 0
+","Ja",12148,0.612,0.085,0.100921962462957,0.644385907145209,0.0921962462956866,54.4385907145209,"synth"
+"10","IV: 
+instrument_reden_beeindiging_historie_succesvol__doelstelling_bereikt: 1
+","Ja",497,0.6,0.086,0.0784708249496982,0.565392354124749,-2.15291750503018,46.5392354124749,"synth"
+"11","IV: 
+instrument_reden_beeindiging_historie_succesvol__doelstelling_bereikt: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"12","IV: 
+instrument_reden_beeindiging_historie_succesvol__doelstelling_bereikt: 1
+","Ja",12508,0.612,0.085,0.0994563479373201,0.640390150303806,-0.0543652062679895,54.0390150303806,"synth_conditional"
+"13","IV: 
+instrument_reden_beeindiging_historie_succesvol__doelstelling_bereikt: 2
+","Ja",12508,0.612,0.085,0.0994563479373201,0.640390150303806,-0.0543652062679895,54.0390150303806,"synth_conditional"
+"14","IV: 
+instrument_reden_beeindiging_historie_succesvol__doelstelling_bereikt: 3
+","Ja",12508,0.612,0.085,0.0994563479373201,0.640390150303806,-0.0543652062679895,54.0390150303806,"synth_conditional"

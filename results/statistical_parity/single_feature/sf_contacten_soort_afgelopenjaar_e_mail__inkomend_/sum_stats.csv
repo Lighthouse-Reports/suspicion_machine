@@ -1,0 +1,106 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","Ja",8534,0.469,0.148,0.0669088352472463,0.236231544410593,-3.30911647527537,13.6231544410593,"real"
+"2","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","Ja",2029,0.509,0.152,0.12419911286348,0.316412025628388,2.41991128634795,21.6412025628388,"real"
+"3","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","Ja",19,0.671,0.128,0.526315789473684,0.631578947368421,42.6315789473684,53.1578947368421,"real"
+"4","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","Ja",5,0.581,0.087,0,0.4,-10,30,"real"
+"5","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","Ja",929,0.525,0.155,0.163616792249731,0.348762109795479,6.36167922497309,24.8762109795479,"real"
+"6","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+","Ja",2,0.665,0.091,0.5,1,40,90,"real"
+"7","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+","Ja",443,0.546,0.156,0.17607223476298,0.431151241534989,7.60722347629797,33.1151241534989,"real"
+"8","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+","Ja",230,0.571,0.146,0.208695652173913,0.482608695652174,10.8695652173913,38.2608695652174,"real"
+"9","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+","Ja",140,0.59,0.159,0.292857142857143,0.521428571428571,19.2857142857143,42.1428571428571,"real"
+"10","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","Ja",12645,0.489,0.153,0.098932384341637,0.280743376828786,-0.1067615658363,18.0743376828786,"real_conditional"
+"11","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","Ja",12645,0.491,0.153,0.101542111506524,0.284618426255437,0.154211150652432,18.4618426255437,"real_conditional"
+"12","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","Ja",12645,0.492,0.153,0.102095689996046,0.28572558323448,0.209568999604585,18.572558323448,"real_conditional"
+"13","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","Ja",12645,0.492,0.153,0.102095689996046,0.28572558323448,0.209568999604585,18.572558323448,"real_conditional"
+"14","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","Ja",12645,0.491,0.153,0.101542111506524,0.285092922103598,0.154211150652432,18.5092922103598,"real_conditional"
+"15","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+","Ja",12645,0.492,0.153,0.102095689996046,0.28572558323448,0.209568999604585,18.572558323448,"real_conditional"
+"16","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+","Ja",12645,0.491,0.153,0.101621194147885,0.285092922103598,0.162119414788453,18.5092922103598,"real_conditional"
+"17","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+","Ja",12645,0.492,0.153,0.102095689996046,0.28572558323448,0.209568999604585,18.572558323448,"real_conditional"
+"18","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+","Ja",12645,0.492,0.153,0.102095689996046,0.28572558323448,0.209568999604585,18.572558323448,"real_conditional"
+"19","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+","Ja",12645,0.492,0.153,0.102095689996046,0.28572558323448,0.209568999604585,18.572558323448,"real_conditional"
+"20","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","Ja",2408,0.59,0.09,0.0622923588039867,0.541528239202658,-3.77076411960133,44.1528239202658,"synth"
+"21","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","Ja",4274,0.607,0.085,0.0879737950397754,0.617688348151614,-1.20262049602246,51.7688348151614,"synth"
+"22","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","Ja",3053,0.618,0.083,0.114641336390436,0.66590239109073,1.46413363904356,56.590239109073,"synth"
+"23","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+","Ja",1734,0.627,0.078,0.125144175317186,0.713379469434833,2.51441753171857,61.3379469434833,"synth"
+"24","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+","Ja",805,0.636,0.076,0.139130434782609,0.756521739130435,3.91304347826087,65.6521739130435,"synth"
+"25","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+","Ja",270,0.638,0.073,0.133333333333333,0.755555555555556,3.33333333333333,65.5555555555556,"synth"
+"26","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","Ja",12508,0.611,0.085,0.0971378317876559,0.634074192516789,-0.28621682123441,53.4074192516789,"synth_conditional"
+"27","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","Ja",12508,0.612,0.085,0.101055324592261,0.641749280460505,0.105532459226094,54.1749280460505,"synth_conditional"
+"28","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","Ja",12508,0.613,0.085,0.100095938599296,0.643028461784458,0.00959385992964495,54.3028461784458,"synth_conditional"
+"29","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","Ja",12508,0.613,0.085,0.100095938599296,0.643028461784458,0.00959385992964495,54.3028461784458,"synth_conditional"
+"30","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","Ja",12508,0.612,0.085,0.100175887432043,0.640949792133035,0.0175887432043484,54.0949792133035,"synth_conditional"
+"31","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+","Ja",12508,0.613,0.085,0.100095938599296,0.643028461784458,0.00959385992964495,54.3028461784458,"synth_conditional"
+"32","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+","Ja",12508,0.612,0.085,0.0993763991045731,0.6405500479693,-0.0623600895426929,54.05500479693,"synth_conditional"
+"33","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+","Ja",12508,0.613,0.085,0.100095938599296,0.643028461784458,0.00959385992964495,54.3028461784458,"synth_conditional"
+"34","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+","Ja",12508,0.613,0.085,0.100095938599296,0.643028461784458,0.00959385992964495,54.3028461784458,"synth_conditional"
+"35","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+","Ja",12508,0.613,0.085,0.100095938599296,0.643028461784458,0.00959385992964495,54.3028461784458,"synth_conditional"

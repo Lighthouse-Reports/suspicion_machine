@@ -1,0 +1,76 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",12645,12645,0.957,"ns",1,"ns","real_conditional"
+"2","Ja","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",12645,12645,0.957,"ns",1,"ns","real_conditional"
+"3","Ja","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"4","Ja","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",12645,12645,0.957,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",9679,2964,1.42e-35,"****",4.27e-35,"****","synth"
+"8","Ja","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",9679,2,0.155,"ns",0.31,"ns","synth"
+"9","Ja","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",2964,2,0.293,"ns",0.31,"ns","synth"
+"10","Ja","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",12508,12508,0.907,"ns",1,"ns","synth_conditional"
+"11","Ja","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",12508,12508,0.907,"ns",1,"ns","synth_conditional"
+"12","Ja","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"13","Ja","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",12508,12508,0.907,"ns",1,"ns","synth_conditional"
+"14","Ja","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"15","Ja","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"

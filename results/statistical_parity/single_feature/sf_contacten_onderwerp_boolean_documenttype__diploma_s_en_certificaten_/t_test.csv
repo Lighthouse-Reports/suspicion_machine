@@ -1,0 +1,21 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+","IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",10830,1815,3.83e-20,"****",3.83e-20,"****","real"
+"2","Ja","IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+","IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",12645,12645,0.131,"ns",0.131,"ns","real_conditional"
+"3","Ja","IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+","IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",10035,2610,5.02e-18,"****",5.02e-18,"****","synth"
+"4","Ja","IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+","IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",12508,12508,0.473,"ns",0.473,"ns","synth_conditional"

@@ -1,0 +1,61 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+relatie_partner_totaal_dagen_partner: 0
+","Ja",10566,0.478,0.154,0.0903842513723263,0.257240204429302,-0.961574862767368,15.7240204429302,"real"
+"2","IV: 
+relatie_partner_totaal_dagen_partner: 100
+","Ja",2,0.572,0.183,0.5,0.5,40,40,"real"
+"3","IV: 
+relatie_partner_totaal_dagen_partner: 1000
+","Ja",1,0.644,NA,0,1,-10,90,"real"
+"4","IV: 
+relatie_partner_totaal_dagen_partner: 0
+","Ja",12645,0.484,0.153,0.0938710952945828,0.269434559114274,-0.612890470541717,16.9434559114274,"real_conditional"
+"5","IV: 
+relatie_partner_totaal_dagen_partner: 1
+","Ja",12645,0.484,0.153,0.0938710952945828,0.269434559114274,-0.612890470541717,16.9434559114274,"real_conditional"
+"6","IV: 
+relatie_partner_totaal_dagen_partner: 10
+","Ja",12645,0.484,0.153,0.0938710952945828,0.269434559114274,-0.612890470541717,16.9434559114274,"real_conditional"
+"7","IV: 
+relatie_partner_totaal_dagen_partner: 100
+","Ja",12645,0.497,0.149,0.104151838671412,0.291261368129695,0.415183867141163,19.1261368129695,"real_conditional"
+"8","IV: 
+relatie_partner_totaal_dagen_partner: 1000
+","Ja",12645,0.522,0.146,0.129300118623962,0.345116646896006,2.9300118623962,24.5116646896006,"real_conditional"
+"9","IV: 
+relatie_partner_totaal_dagen_partner: 10000
+","Ja",12645,0.522,0.145,0.12850929221036,0.346935547647291,2.85092922103598,24.6935547647291,"real_conditional"
+"10","IV: 
+relatie_partner_totaal_dagen_partner: 0
+","Ja",1,0.743,NA,1,1,90,90,"synth"
+"11","IV: 
+relatie_partner_totaal_dagen_partner: 1
+","Ja",5,0.56,0.126,0,0.8,-10,70,"synth"
+"12","IV: 
+relatie_partner_totaal_dagen_partner: 10
+","Ja",5,0.564,0.061,0,0.4,-10,30,"synth"
+"13","IV: 
+relatie_partner_totaal_dagen_partner: 100
+","Ja",10,0.604,0.113,0.1,0.6,0,50,"synth"
+"14","IV: 
+relatie_partner_totaal_dagen_partner: 1000
+","Ja",4,0.588,0.029,0,0.5,-10,40,"synth"
+"15","IV: 
+relatie_partner_totaal_dagen_partner: 0
+","Ja",12508,0.59,0.089,0.0619603453789575,0.54269267668692,-3.80396546210425,44.269267668692,"synth_conditional"
+"16","IV: 
+relatie_partner_totaal_dagen_partner: 1
+","Ja",12508,0.59,0.089,0.0619603453789575,0.54269267668692,-3.80396546210425,44.269267668692,"synth_conditional"
+"17","IV: 
+relatie_partner_totaal_dagen_partner: 10
+","Ja",12508,0.59,0.089,0.0619603453789575,0.54269267668692,-3.80396546210425,44.269267668692,"synth_conditional"
+"18","IV: 
+relatie_partner_totaal_dagen_partner: 100
+","Ja",12508,0.597,0.087,0.0704349216501439,0.574832107451231,-2.95650783498561,47.4832107451231,"synth_conditional"
+"19","IV: 
+relatie_partner_totaal_dagen_partner: 1000
+","Ja",12508,0.614,0.085,0.10433322673489,0.649504317236968,0.433322673488966,54.9504317236968,"synth_conditional"
+"20","IV: 
+relatie_partner_totaal_dagen_partner: 10000
+","Ja",12508,0.615,0.084,0.10513271506236,0.651103293891909,0.513271506236008,55.1103293891909,"synth_conditional"

@@ -1,0 +1,25 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+","Ja",10830,0.494,0.153,0.10517082179132,0.294182825484765,0.51708217913204,19.4182825484765,"real"
+"2","IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+","Ja",1815,0.459,0.153,0.0694214876033058,0.209366391184573,-3.05785123966942,10.9366391184573,"real"
+"3","IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+","Ja",12645,0.49,0.153,0.100355871886121,0.282404112297351,0.035587188612099,18.2404112297351,"real_conditional"
+"4","IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+","Ja",12645,0.487,0.154,0.0976670620798735,0.277342823250297,-0.233293792012654,17.7342823250297,"real_conditional"
+"5","IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+","Ja",10035,0.615,0.084,0.108619830592925,0.654110612855007,0.861983059292476,55.4110612855008,"synth"
+"6","IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+","Ja",2610,0.599,0.087,0.0670498084291188,0.591954022988506,-3.29501915708812,49.1954022988506,"synth"
+"7","IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+","Ja",12508,0.612,0.085,0.100095938599296,0.641269587464023,0.00959385992964495,54.1269587464023,"synth_conditional"
+"8","IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+","Ja",12508,0.611,0.085,0.0984170131116086,0.638311480652383,-0.158298688839144,53.8311480652383,"synth_conditional"

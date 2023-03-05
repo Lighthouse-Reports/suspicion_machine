@@ -1,0 +1,313 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1254,11.2648221343874,"real"
+"2",1,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",11,0.731382978723404,"real"
+"3",2,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1215,10.9144807761409,"real"
+"4",2,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",50,3.32446808510638,"real"
+"5",3,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1171,10.5192238591448,"real"
+"6",3,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",94,6.25,"real"
+"7",4,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1116,10.0251527128997,"real"
+"8",4,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",149,9.90691489361702,"real"
+"9",5,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1115,10.0161696011498,"real"
+"10",5,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",149,9.90691489361702,"real"
+"11",5,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1,11.1111111111111,"real"
+"12",6,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1098,9.86345670140136,"real"
+"13",6,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",166,11.0372340425532,"real"
+"14",7,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1080,9.70176068990298,"real"
+"15",7,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",183,12.1675531914894,"real"
+"16",7,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1,11.1111111111111,"real"
+"17",8,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1068,9.59396334890406,"real"
+"18",8,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",196,13.031914893617,"real"
+"19",9,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1052,9.4502335609055,"real"
+"20",9,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",210,13.9627659574468,"real"
+"21",9,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",2,22.2222222222222,"real"
+"22",10,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",963,8.65073661516349,"real"
+"23",10,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",296,19.6808510638298,"real"
+"24",10,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",5,55.5555555555556,"real"
+"25",1,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1272,10.0593119810202,"real_conditional"
+"26",1,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1261,9.97232107552392,"real_conditional"
+"27",1,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1261,9.97232107552392,"real_conditional"
+"28",2,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1271,10.0514037168841,"real_conditional"
+"29",2,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1262,9.98022933965994,"real_conditional"
+"30",2,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1261,9.97232107552392,"real_conditional"
+"31",3,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1263,9.98813760379597,"real_conditional"
+"32",3,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1265,10.003954132068,"real_conditional"
+"33",3,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1266,10.011862396204,"real_conditional"
+"34",4,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1262,9.98022933965994,"real_conditional"
+"35",4,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1266,10.011862396204,"real_conditional"
+"36",4,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1266,10.011862396204,"real_conditional"
+"37",5,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1266,10.011862396204,"real_conditional"
+"38",5,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1264,9.99604586793199,"real_conditional"
+"39",5,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1264,9.99604586793199,"real_conditional"
+"40",6,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1263,9.98813760379597,"real_conditional"
+"41",6,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1265,10.003954132068,"real_conditional"
+"42",6,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1265,10.003954132068,"real_conditional"
+"43",7,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1264,9.99604586793199,"real_conditional"
+"44",7,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1265,10.003954132068,"real_conditional"
+"45",7,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1264,9.99604586793199,"real_conditional"
+"46",8,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1261,9.97232107552392,"real_conditional"
+"47",8,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1266,10.011862396204,"real_conditional"
+"48",8,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1266,10.011862396204,"real_conditional"
+"49",9,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1258,9.94859628311586,"real_conditional"
+"50",9,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1267,10.0197706603401,"real_conditional"
+"51",9,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1268,10.0276789244761,"real_conditional"
+"52",10,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1265,10.003954132068,"real_conditional"
+"53",10,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1264,9.99604586793199,"real_conditional"
+"54",10,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1264,9.99604586793199,"real_conditional"
+"55",1,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1152,10.6924076480416,"synth"
+"56",1,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",113,6.03955104222341,"synth"
+"57",2,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1117,10.3675515129014,"synth"
+"58",2,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",148,7.91020844468199,"synth"
+"59",3,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1108,10.2840170781511,"synth"
+"60",3,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",157,8.39123463388562,"synth"
+"61",4,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1094,10.154074624095,"synth"
+"62",4,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",171,9.13949759486905,"synth"
+"63",5,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1082,10.0426953777613,"synth"
+"64",5,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",183,9.78086584714057,"synth"
+"65",6,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1063,9.86634490439948,"synth"
+"66",6,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",201,10.7429182255478,"synth"
+"67",7,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1061,9.84778169667719,"synth"
+"68",7,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",203,10.8498129342598,"synth"
+"69",8,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1057,9.8106552812326,"synth"
+"70",8,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",207,11.0636023516836,"synth"
+"71",9,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1032,9.57861518470392,"synth"
+"72",9,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",232,12.3997862105826,"synth"
+"73",10,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1008,9.35585669203638,"synth"
+"74",10,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",256,13.6825227151256,"synth"
+"75",1,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1256,10.0415733930285,"synth_conditional"
+"76",1,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1249,9.98560921010553,"synth_conditional"
+"77",1,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1248,9.97761432683083,"synth_conditional"
+"78",2,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1263,10.0975375759514,"synth_conditional"
+"79",2,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1245,9.95362967700671,"synth_conditional"
+"80",2,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1245,9.95362967700671,"synth_conditional"
+"81",3,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1246,9.96162456028142,"synth_conditional"
+"82",3,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1253,10.0175887432043,"synth_conditional"
+"83",3,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1254,10.0255836264791,"synth_conditional"
+"84",4,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1253,10.0175887432043,"synth_conditional"
+"85",4,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1250,9.99360409338024,"synth_conditional"
+"86",4,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1250,9.99360409338024,"synth_conditional"
+"87",5,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1260,10.0735529261273,"synth_conditional"
+"88",5,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1246,9.96162456028142,"synth_conditional"
+"89",5,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1246,9.96162456028142,"synth_conditional"
+"90",6,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1242,9.9296450271826,"synth_conditional"
+"91",6,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1255,10.0335785097538,"synth_conditional"
+"92",6,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1255,10.0335785097538,"synth_conditional"
+"93",7,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1252,10.0095938599296,"synth_conditional"
+"94",7,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1250,9.99360409338024,"synth_conditional"
+"95",7,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1250,9.99360409338024,"synth_conditional"
+"96",8,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1238,9.89766549408379,"synth_conditional"
+"97",8,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1257,10.0495682763032,"synth_conditional"
+"98",8,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1257,10.0495682763032,"synth_conditional"
+"99",9,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1251,10.0015989766549,"synth_conditional"
+"100",9,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1251,10.0015989766549,"synth_conditional"
+"101",9,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1250,9.99360409338024,"synth_conditional"
+"102",10,"IV: 
+competentie_ethisch_en_integer_handelen: 0
+",1247,9.96961944355612,"synth_conditional"
+"103",10,"IV: 
+competentie_ethisch_en_integer_handelen: 1
+",1252,10.0095938599296,"synth_conditional"
+"104",10,"IV: 
+competentie_ethisch_en_integer_handelen: 2
+",1253,10.0175887432043,"synth_conditional"

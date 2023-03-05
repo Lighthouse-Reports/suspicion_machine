@@ -1,0 +1,956 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+",2489,2234,0.24,"ns",1,"ns","real"
+"2","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+",2489,176,0.0104,"*",0.421,"ns","real"
+"3","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+",2234,176,0.00279,"**",0.12,"ns","real"
+"4","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+",2489,54,0.0299,"*",1,"ns","real"
+"5","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+",2234,54,0.0156,"*",0.594,"ns","real"
+"6","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+",176,54,0.525,"ns",1,"ns","real"
+"7","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+",2489,1899,0.0354,"*",1,"ns","real"
+"8","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+",2234,1899,0.339,"ns",1,"ns","real"
+"9","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+",176,1899,0.00081,"***",0.0365,"*","real"
+"10","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+",54,1899,0.00858,"**",0.36,"ns","real"
+"11","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",2489,18,0.329,"ns",1,"ns","real"
+"12","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",2234,18,0.262,"ns",1,"ns","real"
+"13","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",176,18,0.9,"ns",1,"ns","real"
+"14","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",54,18,0.803,"ns",1,"ns","real"
+"15","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",1899,18,0.213,"ns",1,"ns","real"
+"16","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",2489,1437,0.88,"ns",1,"ns","real"
+"17","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",2234,1437,0.387,"ns",1,"ns","real"
+"18","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",176,1437,0.0103,"*",0.421,"ns","real"
+"19","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",54,1437,0.0285,"*",0.997,"ns","real"
+"20","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",1899,1437,0.0908,"ns",1,"ns","real"
+"21","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",18,1437,0.32,"ns",1,"ns","real"
+"22","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",2489,5,0.738,"ns",1,"ns","real"
+"23","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",2234,5,0.681,"ns",1,"ns","real"
+"24","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",176,5,0.912,"ns",1,"ns","real"
+"25","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",54,5,0.75,"ns",1,"ns","real"
+"26","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",1899,5,0.633,"ns",1,"ns","real"
+"27","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",18,5,0.872,"ns",1,"ns","real"
+"28","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",1437,5,0.73,"ns",1,"ns","real"
+"29","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",2489,1105,0.569,"ns",1,"ns","real"
+"30","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",2234,1105,0.136,"ns",1,"ns","real"
+"31","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",176,1105,0.0272,"*",0.979,"ns","real"
+"32","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",54,1105,0.046,"*",1,"ns","real"
+"33","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",1899,1105,0.0252,"*",0.933,"ns","real"
+"34","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",18,1105,0.376,"ns",1,"ns","real"
+"35","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",1437,1105,0.523,"ns",1,"ns","real"
+"36","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",5,1105,0.773,"ns",1,"ns","real"
+"37","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",2489,841,0.081,"ns",1,"ns","real"
+"38","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",2234,841,0.0103,"*",0.421,"ns","real"
+"39","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",176,841,0.116,"ns",1,"ns","real"
+"40","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",54,841,0.103,"ns",1,"ns","real"
+"41","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",1899,841,0.00125,"**",0.0549,"ns","real"
+"42","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",18,841,0.498,"ns",1,"ns","real"
+"43","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",1437,841,0.0858,"ns",1,"ns","real"
+"44","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",5,841,0.858,"ns",1,"ns","real"
+"45","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",1105,841,0.284,"ns",1,"ns","real"
+"46","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"47","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+",12645,12645,0.717,"ns",1,"ns","real_conditional"
+"48","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+",12645,12645,0.717,"ns",1,"ns","real_conditional"
+"49","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+",12645,12645,0.0447,"*",1,"ns","real_conditional"
+"50","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+",12645,12645,0.0447,"*",1,"ns","real_conditional"
+"51","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+",12645,12645,0.1,"ns",1,"ns","real_conditional"
+"52","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+",12645,12645,0.771,"ns",1,"ns","real_conditional"
+"53","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+",12645,12645,0.771,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+",12645,12645,0.513,"ns",1,"ns","real_conditional"
+"55","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+",12645,12645,0.0215,"*",0.731,"ns","real_conditional"
+"56","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",12645,12645,0.0149,"*",0.597,"ns","real_conditional"
+"57","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",12645,12645,0.0149,"*",0.597,"ns","real_conditional"
+"58","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",12645,12645,0.0383,"*",1,"ns","real_conditional"
+"59","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",12645,12645,0.669,"ns",1,"ns","real_conditional"
+"60","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",12645,12645,0.00641,"**",0.295,"ns","real_conditional"
+"61","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",12645,12645,0.613,"ns",1,"ns","real_conditional"
+"62","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",12645,12645,0.613,"ns",1,"ns","real_conditional"
+"63","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",12645,12645,0.385,"ns",1,"ns","real_conditional"
+"64","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",12645,12645,0.012,"*",0.491,"ns","real_conditional"
+"65","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",12645,12645,0.831,"ns",1,"ns","real_conditional"
+"66","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",12645,12645,0.00329,"**",0.161,"ns","real_conditional"
+"67","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",12645,12645,0.0149,"*",0.597,"ns","real_conditional"
+"68","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",12645,12645,0.0149,"*",0.597,"ns","real_conditional"
+"69","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",12645,12645,0.0383,"*",1,"ns","real_conditional"
+"70","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",12645,12645,0.669,"ns",1,"ns","real_conditional"
+"71","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",12645,12645,0.00641,"**",0.295,"ns","real_conditional"
+"72","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"73","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",12645,12645,0.00329,"**",0.161,"ns","real_conditional"
+"74","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",12645,12645,0.544,"ns",1,"ns","real_conditional"
+"75","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",12645,12645,0.544,"ns",1,"ns","real_conditional"
+"76","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",12645,12645,0.332,"ns",1,"ns","real_conditional"
+"77","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",12645,12645,0.00896,"**",0.385,"ns","real_conditional"
+"78","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",12645,12645,0.753,"ns",1,"ns","real_conditional"
+"79","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",12645,12645,0.00236,"**",0.13,"ns","real_conditional"
+"80","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",12645,12645,0.92,"ns",1,"ns","real_conditional"
+"81","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",12645,12645,0.00236,"**",0.13,"ns","real_conditional"
+"82","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12645,12645,0.544,"ns",1,"ns","real_conditional"
+"83","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12645,12645,0.544,"ns",1,"ns","real_conditional"
+"84","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12645,12645,0.332,"ns",1,"ns","real_conditional"
+"85","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12645,12645,0.00896,"**",0.385,"ns","real_conditional"
+"86","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12645,12645,0.753,"ns",1,"ns","real_conditional"
+"87","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12645,12645,0.00236,"**",0.13,"ns","real_conditional"
+"88","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12645,12645,0.92,"ns",1,"ns","real_conditional"
+"89","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12645,12645,0.00236,"**",0.13,"ns","real_conditional"
+"90","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"91","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12645,12645,0.0149,"*",0.597,"ns","real_conditional"
+"92","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12645,12645,0.0149,"*",0.597,"ns","real_conditional"
+"93","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12645,12645,0.0383,"*",1,"ns","real_conditional"
+"94","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12645,12645,0.669,"ns",1,"ns","real_conditional"
+"95","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12645,12645,0.00641,"**",0.295,"ns","real_conditional"
+"96","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"97","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12645,12645,0.00329,"**",0.161,"ns","real_conditional"
+"98","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"99","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12645,12645,0.00236,"**",0.13,"ns","real_conditional"
+"100","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12645,12645,0.00236,"**",0.13,"ns","real_conditional"
+"101","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+",529,1410,0.973,"ns",1,"ns","synth"
+"102","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+",529,424,0.0227,"*",0.781,"ns","synth"
+"103","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+",1410,424,0.00807,"**",0.291,"ns","synth"
+"104","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+",529,53,0.219,"ns",1,"ns","synth"
+"105","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+",1410,53,0.21,"ns",1,"ns","synth"
+"106","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+",424,53,0.845,"ns",1,"ns","synth"
+"107","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+",529,1500,0.561,"ns",1,"ns","synth"
+"108","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+",1410,1500,0.456,"ns",1,"ns","synth"
+"109","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+",424,1500,0.0304,"*",1,"ns","synth"
+"110","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+",53,1500,0.291,"ns",1,"ns","synth"
+"111","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",529,5,0.206,"ns",1,"ns","synth"
+"112","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",1410,5,0.203,"ns",1,"ns","synth"
+"113","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",424,5,0.111,"ns",1,"ns","synth"
+"114","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",53,5,0.111,"ns",1,"ns","synth"
+"115","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",1500,5,0.182,"ns",1,"ns","synth"
+"116","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",529,1593,0.437,"ns",1,"ns","synth"
+"117","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",1410,1593,0.308,"ns",1,"ns","synth"
+"118","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",424,1593,0.0452,"*",1,"ns","synth"
+"119","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",53,1593,0.323,"ns",1,"ns","synth"
+"120","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",1500,1593,0.789,"ns",1,"ns","synth"
+"121","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",5,1593,0.175,"ns",1,"ns","synth"
+"122","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",529,1473,0.173,"ns",1,"ns","synth"
+"123","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",1410,1473,0.0705,"ns",1,"ns","synth"
+"124","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",424,1473,0.15,"ns",1,"ns","synth"
+"125","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",53,1473,0.44,"ns",1,"ns","synth"
+"126","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",1500,1473,0.279,"ns",1,"ns","synth"
+"127","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",5,1473,0.155,"ns",1,"ns","synth"
+"128","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",1593,1473,0.405,"ns",1,"ns","synth"
+"129","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",529,1364,0.676,"ns",1,"ns","synth"
+"130","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",1410,1364,0.604,"ns",1,"ns","synth"
+"131","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",424,1364,0.0223,"*",0.781,"ns","synth"
+"132","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",53,1364,0.266,"ns",1,"ns","synth"
+"133","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",1500,1364,0.832,"ns",1,"ns","synth"
+"134","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",5,1364,0.188,"ns",1,"ns","synth"
+"135","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",1593,1364,0.634,"ns",1,"ns","synth"
+"136","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",1473,1364,0.204,"ns",1,"ns","synth"
+"137","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"138","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+",12508,12508,0.0235,"*",0.471,"ns","synth_conditional"
+"139","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+",12508,12508,0.0235,"*",0.471,"ns","synth_conditional"
+"140","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+",12508,12508,9.1e-32,"****",2.73e-30,"****","synth_conditional"
+"141","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+",12508,12508,9.1e-32,"****",2.73e-30,"****","synth_conditional"
+"142","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+",12508,12508,2.93e-21,"****",8.2e-20,"****","synth_conditional"
+"143","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+",12508,12508,0.583,"ns",1,"ns","synth_conditional"
+"144","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+",12508,12508,0.583,"ns",1,"ns","synth_conditional"
+"145","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+",12508,12508,0.00491,"**",0.103,"ns","synth_conditional"
+"146","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+",12508,12508,1.21e-34,"****",3.76e-33,"****","synth_conditional"
+"147","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",12508,12508,3.23e-49,"****",1.39e-47,"****","synth_conditional"
+"148","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",12508,12508,3.23e-49,"****",1.39e-47,"****","synth_conditional"
+"149","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",12508,12508,9.09e-36,"****",3.18e-34,"****","synth_conditional"
+"150","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",12508,12508,0.00252,"**",0.063,"ns","synth_conditional"
+"151","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+",12508,12508,8.33e-53,"****",3.83e-51,"****","synth_conditional"
+"152","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",12508,12508,0.497,"ns",1,"ns","synth_conditional"
+"153","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",12508,12508,0.497,"ns",1,"ns","synth_conditional"
+"154","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",12508,12508,0.00324,"**",0.0712,"ns","synth_conditional"
+"155","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",12508,12508,2.38e-35,"****",7.6e-34,"****","synth_conditional"
+"156","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",12508,12508,0.896,"ns",1,"ns","synth_conditional"
+"157","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+",12508,12508,1.1e-53,"****",5.4e-52,"****","synth_conditional"
+"158","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",12508,12508,3.23e-49,"****",1.39e-47,"****","synth_conditional"
+"159","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",12508,12508,3.23e-49,"****",1.39e-47,"****","synth_conditional"
+"160","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",12508,12508,9.09e-36,"****",3.18e-34,"****","synth_conditional"
+"161","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",12508,12508,0.00252,"**",0.063,"ns","synth_conditional"
+"162","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",12508,12508,8.33e-53,"****",3.83e-51,"****","synth_conditional"
+"163","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"164","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+",12508,12508,1.1e-53,"****",5.4e-52,"****","synth_conditional"
+"165","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",12508,12508,0.383,"ns",1,"ns","synth_conditional"
+"166","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",12508,12508,0.383,"ns",1,"ns","synth_conditional"
+"167","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",12508,12508,0.00171,"**",0.046,"*","synth_conditional"
+"168","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",12508,12508,2.1e-36,"****",7.77e-35,"****","synth_conditional"
+"169","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",12508,12508,0.746,"ns",1,"ns","synth_conditional"
+"170","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",12508,12508,5.47e-55,"****",3.01e-53,"****","synth_conditional"
+"171","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",12508,12508,0.847,"ns",1,"ns","synth_conditional"
+"172","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+",12508,12508,5.47e-55,"****",3.01e-53,"****","synth_conditional"
+"173","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12508,12508,0.383,"ns",1,"ns","synth_conditional"
+"174","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12508,12508,0.383,"ns",1,"ns","synth_conditional"
+"175","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12508,12508,0.00171,"**",0.046,"*","synth_conditional"
+"176","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12508,12508,2.1e-36,"****",7.77e-35,"****","synth_conditional"
+"177","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12508,12508,0.746,"ns",1,"ns","synth_conditional"
+"178","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12508,12508,5.47e-55,"****",3.01e-53,"****","synth_conditional"
+"179","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12508,12508,0.847,"ns",1,"ns","synth_conditional"
+"180","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12508,12508,5.47e-55,"****",3.01e-53,"****","synth_conditional"
+"181","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"182","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 0
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12508,12508,3.23e-49,"****",1.39e-47,"****","synth_conditional"
+"183","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 1
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12508,12508,3.23e-49,"****",1.39e-47,"****","synth_conditional"
+"184","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 10
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12508,12508,9.09e-36,"****",3.18e-34,"****","synth_conditional"
+"185","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 15
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12508,12508,0.00252,"**",0.063,"ns","synth_conditional"
+"186","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 2
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12508,12508,8.33e-53,"****",3.83e-51,"****","synth_conditional"
+"187","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 20
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"188","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 3
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12508,12508,1.1e-53,"****",5.4e-52,"****","synth_conditional"
+"189","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 30
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"190","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 4
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12508,12508,5.47e-55,"****",3.01e-53,"****","synth_conditional"
+"191","Ja","IV: 
+contacten_soort_telefoontje__inkomend_: 5
+","IV: 
+contacten_soort_telefoontje__inkomend_: 90
+",12508,12508,5.47e-55,"****",3.01e-53,"****","synth_conditional"

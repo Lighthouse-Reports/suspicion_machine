@@ -1,0 +1,886 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"2","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+",12645,12645,0.674,"ns",1,"ns","real_conditional"
+"3","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+",12645,12645,0.674,"ns",1,"ns","real_conditional"
+"4","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",12645,12645,1.89e-92,"****",2.46e-91,"****","real_conditional"
+"5","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",12645,12645,1.89e-92,"****",2.46e-91,"****","real_conditional"
+"6","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",12645,12645,3.24e-96,"****",4.54e-95,"****","real_conditional"
+"7","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+",12645,12645,6.15e-113,"****",9.84e-112,"****","real_conditional"
+"8","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+",12645,12645,6.15e-113,"****",9.84e-112,"****","real_conditional"
+"9","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+",12645,12645,4.22e-117,"****",7.18e-116,"****","real_conditional"
+"10","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+",12645,12645,0.0281,"*",0.169,"ns","real_conditional"
+"11","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",12645,12645,0,"****",0,"****","real_conditional"
+"12","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",12645,12645,0,"****",0,"****","real_conditional"
+"13","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",12645,12645,0,"****",0,"****","real_conditional"
+"14","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",12645,12645,2.45e-83,"****",2.69e-82,"****","real_conditional"
+"15","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",12645,12645,6.44e-66,"****",5.15e-65,"****","real_conditional"
+"16","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",12645,12645,0,"****",0,"****","real_conditional"
+"17","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",12645,12645,0,"****",0,"****","real_conditional"
+"18","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",12645,12645,0,"****",0,"****","real_conditional"
+"19","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",12645,12645,1.37e-232,"****",3.16e-231,"****","real_conditional"
+"20","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",12645,12645,1.07e-202,"****",1.93e-201,"****","real_conditional"
+"21","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",12645,12645,3.77e-40,"****",2.64e-39,"****","real_conditional"
+"22","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",12645,12645,0,"****",0,"****","real_conditional"
+"23","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",12645,12645,0,"****",0,"****","real_conditional"
+"24","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",12645,12645,0,"****",0,"****","real_conditional"
+"25","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",12645,12645,0,"****",0,"****","real_conditional"
+"26","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",12645,12645,0,"****",0,"****","real_conditional"
+"27","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",12645,12645,2.9e-205,"****",6.09e-204,"****","real_conditional"
+"28","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",12645,12645,2.23e-67,"****",2.01e-66,"****","real_conditional"
+"29","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",12645,12645,0,"****",0,"****","real_conditional"
+"30","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",12645,12645,0,"****",0,"****","real_conditional"
+"31","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",12645,12645,0,"****",0,"****","real_conditional"
+"32","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",12645,12645,0,"****",0,"****","real_conditional"
+"33","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",12645,12645,0,"****",0,"****","real_conditional"
+"34","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",12645,12645,1.27e-212,"****",2.79e-211,"****","real_conditional"
+"35","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",12645,12645,1.33e-71,"****",1.33e-70,"****","real_conditional"
+"36","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",12645,12645,0.581,"ns",1,"ns","real_conditional"
+"37","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12645,12645,0,"****",0,"****","real_conditional"
+"38","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12645,12645,0,"****",0,"****","real_conditional"
+"39","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12645,12645,0,"****",0,"****","real_conditional"
+"40","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12645,12645,0,"****",0,"****","real_conditional"
+"41","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12645,12645,0,"****",0,"****","real_conditional"
+"42","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12645,12645,0,"****",0,"****","real_conditional"
+"43","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12645,12645,0,"****",0,"****","real_conditional"
+"44","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12645,12645,0,"****",0,"****","real_conditional"
+"45","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12645,12645,0,"****",0,"****","real_conditional"
+"46","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12645,12645,0,"****",0,"****","real_conditional"
+"47","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12645,12645,0,"****",0,"****","real_conditional"
+"48","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12645,12645,0,"****",0,"****","real_conditional"
+"49","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12645,12645,0,"****",0,"****","real_conditional"
+"50","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12645,12645,0,"****",0,"****","real_conditional"
+"51","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12645,12645,0,"****",0,"****","real_conditional"
+"52","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12645,12645,0,"****",0,"****","real_conditional"
+"53","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12645,12645,0,"****",0,"****","real_conditional"
+"54","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12645,12645,0,"****",0,"****","real_conditional"
+"55","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12645,12645,8.36e-205,"****",1.67e-203,"****","real_conditional"
+"56","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12645,12645,0,"****",0,"****","real_conditional"
+"57","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12645,12645,0,"****",0,"****","real_conditional"
+"58","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12645,12645,0,"****",0,"****","real_conditional"
+"59","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12645,12645,0,"****",0,"****","real_conditional"
+"60","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12645,12645,0,"****",0,"****","real_conditional"
+"61","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12645,12645,0,"****",0,"****","real_conditional"
+"62","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12645,12645,0,"****",0,"****","real_conditional"
+"63","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12645,12645,0,"****",0,"****","real_conditional"
+"64","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12645,12645,0,"****",0,"****","real_conditional"
+"65","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12645,12645,8.36e-205,"****",1.67e-203,"****","real_conditional"
+"66","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"67","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+",11,44,0.703,"ns",1,"ns","synth"
+"68","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+",11,93,0.973,"ns",1,"ns","synth"
+"69","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+",44,93,0.447,"ns",1,"ns","synth"
+"70","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",11,185,0.191,"ns",1,"ns","synth"
+"71","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",44,185,0.00146,"**",0.0204,"*","synth"
+"72","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",93,185,0.0019,"**",0.0227,"*","synth"
+"73","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+",11,305,0.115,"ns",0.92,"ns","synth"
+"74","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+",44,305,0.00015,"***",0.00254,"**","synth"
+"75","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+",93,305,6.68e-05,"****",0.00127,"**","synth"
+"76","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+",185,305,0.403,"ns",1,"ns","synth"
+"77","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",11,401,0.00912,"**",0.1,"ns","synth"
+"78","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",44,401,6.2e-09,"****",1.55e-07,"****","synth"
+"79","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",93,401,1.02e-11,"****",2.64e-10,"****","synth"
+"80","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",185,401,1.1e-05,"****",0.000243,"***","synth"
+"81","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",305,401,3.78e-05,"****",0.000756,"***","synth"
+"82","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",11,460,0.000924,"***",0.0139,"*","synth"
+"83","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",44,460,6.49e-13,"****",1.88e-11,"****","synth"
+"84","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",93,460,2.35e-18,"****",7.76e-17,"****","synth"
+"85","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",185,460,4.33e-12,"****",1.17e-10,"****","synth"
+"86","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",305,460,1.13e-12,"****",3.15e-11,"****","synth"
+"87","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",401,460,0.00172,"**",0.0224,"*","synth"
+"88","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",11,466,1.43e-05,"****",0.000301,"***","synth"
+"89","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",44,466,5.85e-20,"****",1.99e-18,"****","synth"
+"90","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",93,466,2.86e-30,"****",1.14e-28,"****","synth"
+"91","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",185,466,1.14e-25,"****",4e-24,"****","synth"
+"92","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",305,466,1.44e-29,"****",5.62e-28,"****","synth"
+"93","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",401,466,1.22e-14,"****",3.79e-13,"****","synth"
+"94","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",460,466,1.85e-06,"****",4.26e-05,"****","synth"
+"95","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",11,365,1.84e-07,"****",4.42e-06,"****","synth"
+"96","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",44,365,9.08e-27,"****",3.36e-25,"****","synth"
+"97","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",93,365,3.43e-41,"****",1.44e-39,"****","synth"
+"98","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",185,365,1.04e-38,"****",4.25e-37,"****","synth"
+"99","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",305,365,3.31e-45,"****",1.42e-43,"****","synth"
+"100","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",401,365,5.69e-28,"****",2.16e-26,"****","synth"
+"101","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",460,365,7.8e-17,"****",2.49e-15,"****","synth"
+"102","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",466,365,9.05e-05,"****",0.00163,"**","synth"
+"103","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",11,258,0.558,"ns",1,"ns","synth"
+"104","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",44,258,0.0583,"ns",0.524,"ns","synth"
+"105","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",93,258,0.161,"ns",1,"ns","synth"
+"106","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",185,258,0.0193,"*",0.193,"ns","synth"
+"107","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",305,258,0.000341,"***",0.00546,"**","synth"
+"108","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",401,258,1.52e-14,"****",4.57e-13,"****","synth"
+"109","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",460,258,4.04e-26,"****",1.45e-24,"****","synth"
+"110","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",466,258,2.11e-47,"****",9.3e-46,"****","synth"
+"111","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",365,258,1.46e-64,"****",6.55e-63,"****","synth"
+"112","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"113","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+",12508,12508,0.107,"ns",0.64,"ns","synth_conditional"
+"114","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+",12508,12508,0.107,"ns",0.64,"ns","synth_conditional"
+"115","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",12508,12508,9.53e-61,"****",1.14e-59,"****","synth_conditional"
+"116","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",12508,12508,9.53e-61,"****",1.14e-59,"****","synth_conditional"
+"117","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",12508,12508,7.45e-73,"****",1.19e-71,"****","synth_conditional"
+"118","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+",12508,12508,3.95e-69,"****",5.92e-68,"****","synth_conditional"
+"119","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+",12508,12508,3.95e-69,"****",5.92e-68,"****","synth_conditional"
+"120","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+",12508,12508,5.05e-82,"****",8.59e-81,"****","synth_conditional"
+"121","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+",12508,12508,0.257,"ns",0.877,"ns","synth_conditional"
+"122","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",12508,12508,3.33e-201,"****",8.34e-200,"****","synth_conditional"
+"123","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",12508,12508,3.33e-201,"****",8.34e-200,"****","synth_conditional"
+"124","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",12508,12508,6.88e-223,"****",1.79e-221,"****","synth_conditional"
+"125","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",12508,12508,1.16e-43,"****",1.04e-42,"****","synth_conditional"
+"126","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",12508,12508,4.28e-37,"****",3.42e-36,"****","synth_conditional"
+"127","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",12508,12508,1.52e-301,"****",4.71e-300,"****","synth_conditional"
+"128","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",12508,12508,1.52e-301,"****",4.71e-300,"****","synth_conditional"
+"129","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",12508,12508,0,"****",0,"****","synth_conditional"
+"130","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",12508,12508,1.6e-95,"****",3.03e-94,"****","synth_conditional"
+"131","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",12508,12508,1.35e-85,"****",2.42e-84,"****","synth_conditional"
+"132","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+",12508,12508,5.57e-12,"****",3.9e-11,"****","synth_conditional"
+"133","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",12508,12508,0,"****",0,"****","synth_conditional"
+"134","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",12508,12508,0,"****",0,"****","synth_conditional"
+"135","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",12508,12508,0,"****",0,"****","synth_conditional"
+"136","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",12508,12508,6.7e-296,"****",1.87e-294,"****","synth_conditional"
+"137","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",12508,12508,3.39e-278,"****",9.16e-277,"****","synth_conditional"
+"138","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",12508,12508,1.01e-116,"****",2.02e-115,"****","synth_conditional"
+"139","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+",12508,12508,3.06e-58,"****",3.06e-57,"****","synth_conditional"
+"140","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",12508,12508,0,"****",0,"****","synth_conditional"
+"141","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",12508,12508,0,"****",0,"****","synth_conditional"
+"142","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",12508,12508,0,"****",0,"****","synth_conditional"
+"143","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",12508,12508,1.01000000078861e-315,"****",3.2499999997591e-314,"****","synth_conditional"
+"144","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",12508,12508,1.99e-297,"****",5.77e-296,"****","synth_conditional"
+"145","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",12508,12508,2.72e-129,"****",5.71e-128,"****","synth_conditional"
+"146","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",12508,12508,3.58e-67,"****",4.65e-66,"****","synth_conditional"
+"147","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+",12508,12508,0.219,"ns",0.877,"ns","synth_conditional"
+"148","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12508,12508,0,"****",0,"****","synth_conditional"
+"149","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12508,12508,0,"****",0,"****","synth_conditional"
+"150","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12508,12508,0,"****",0,"****","synth_conditional"
+"151","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12508,12508,0,"****",0,"****","synth_conditional"
+"152","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12508,12508,0,"****",0,"****","synth_conditional"
+"153","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12508,12508,0,"****",0,"****","synth_conditional"
+"154","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12508,12508,0,"****",0,"****","synth_conditional"
+"155","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12508,12508,0,"****",0,"****","synth_conditional"
+"156","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+",12508,12508,0,"****",0,"****","synth_conditional"
+"157","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12508,12508,0,"****",0,"****","synth_conditional"
+"158","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12508,12508,0,"****",0,"****","synth_conditional"
+"159","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12508,12508,0,"****",0,"****","synth_conditional"
+"160","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12508,12508,0,"****",0,"****","synth_conditional"
+"161","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12508,12508,0,"****",0,"****","synth_conditional"
+"162","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12508,12508,0,"****",0,"****","synth_conditional"
+"163","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12508,12508,0,"****",0,"****","synth_conditional"
+"164","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12508,12508,0,"****",0,"****","synth_conditional"
+"165","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12508,12508,0,"****",0,"****","synth_conditional"
+"166","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+",12508,12508,1.54e-130,"****",3.55e-129,"****","synth_conditional"
+"167","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 20
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12508,12508,0,"****",0,"****","synth_conditional"
+"168","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 25
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12508,12508,0,"****",0,"****","synth_conditional"
+"169","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 30
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12508,12508,0,"****",0,"****","synth_conditional"
+"170","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12508,12508,0,"****",0,"****","synth_conditional"
+"171","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 40
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12508,12508,0,"****",0,"****","synth_conditional"
+"172","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12508,12508,0,"****",0,"****","synth_conditional"
+"173","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 50
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12508,12508,0,"****",0,"****","synth_conditional"
+"174","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 55
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12508,12508,0,"****",0,"****","synth_conditional"
+"175","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 60
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12508,12508,0,"****",0,"****","synth_conditional"
+"176","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 65
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12508,12508,1.54e-130,"****",3.55e-129,"****","synth_conditional"
+"177","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 70
+","IV: 
+persoon_leeftijd_bij_onderzoek: 75
+",12508,12508,1,"ns",1,"ns","synth_conditional"

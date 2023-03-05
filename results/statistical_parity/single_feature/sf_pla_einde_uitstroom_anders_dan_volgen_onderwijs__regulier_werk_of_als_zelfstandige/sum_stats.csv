@@ -1,0 +1,55 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 0
+","Ja",11261,0.477,0.152,0.0836515407157446,0.254861912796377,-1.63484592842554,15.4861912796377,"real"
+"2","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 1
+","Ja",1177,0.581,0.133,0.220050977060323,0.489379779099405,12.0050977060323,38.9379779099405,"real"
+"3","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 2
+","Ja",169,0.612,0.126,0.301775147928994,0.568047337278107,20.1775147928994,46.8047337278107,"real"
+"4","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 3
+","Ja",35,0.634,0.127,0.342857142857143,0.628571428571429,24.2857142857143,52.8571428571429,"real"
+"5","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 4
+","Ja",3,0.661,0.069,0.333333333333333,0.666666666666667,23.3333333333333,56.6666666666667,"real"
+"6","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 0
+","Ja",12645,0.487,0.153,0.0966389877421906,0.278054567022539,-0.336101225780942,17.8054567022539,"real_conditional"
+"7","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 1
+","Ja",12645,0.507,0.148,0.114986160537762,0.313167259786477,1.4986160537762,21.3167259786477,"real_conditional"
+"8","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 2
+","Ja",12645,0.507,0.148,0.114986160537762,0.313167259786477,1.4986160537762,21.3167259786477,"real_conditional"
+"9","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 3
+","Ja",12645,0.507,0.148,0.114986160537762,0.313167259786477,1.4986160537762,21.3167259786477,"real_conditional"
+"10","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 4
+","Ja",12645,0.507,0.148,0.114986160537762,0.313167259786477,1.4986160537762,21.3167259786477,"real_conditional"
+"11","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 0
+","Ja",9465,0.604,0.086,0.0817749603803486,0.608663497094559,-1.82250396196514,50.8663497094559,"synth"
+"12","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 1
+","Ja",3174,0.635,0.078,0.153434152488973,0.737870195337114,5.34341524889729,63.7870195337114,"synth"
+"13","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 2
+","Ja",6,0.709,0.047,0.666666666666667,1,56.6666666666667,90,"synth"
+"14","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 0
+","Ja",12508,0.609,0.085,0.0921810041573393,0.62919731371922,-0.78189958426607,52.919731371922,"synth_conditional"
+"15","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 1
+","Ja",12508,0.621,0.082,0.115765909817717,0.676846818036457,1.57659098177167,57.6846818036457,"synth_conditional"
+"16","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 2
+","Ja",12508,0.621,0.082,0.115765909817717,0.676846818036457,1.57659098177167,57.6846818036457,"synth_conditional"
+"17","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 3
+","Ja",12508,0.621,0.082,0.115765909817717,0.676846818036457,1.57659098177167,57.6846818036457,"synth_conditional"
+"18","IV: 
+pla_einde_uitstroom_anders_dan_volgen_onderwijs__regulier_werk_of_als_zelfstandige: 4
+","Ja",12508,0.621,0.082,0.115765909817717,0.676846818036457,1.57659098177167,57.6846818036457,"synth_conditional"

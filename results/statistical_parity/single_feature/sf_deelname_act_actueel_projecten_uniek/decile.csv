@@ -1,0 +1,628 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",385,6.16,"real"
+"2",1,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",724,14.0993184031159,"real"
+"3",1,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",142,12.7468581687612,"real"
+"4",1,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",14,10.4477611940299,"real"
+"5",2,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",476,7.616,"real"
+"6",2,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",625,12.1713729308666,"real"
+"7",2,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",146,13.1059245960503,"real"
+"8",2,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",18,13.4328358208955,"real"
+"9",3,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",523,8.368,"real"
+"10",3,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",600,11.6845180136319,"real"
+"11",3,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",128,11.4901256732496,"real"
+"12",3,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",12,8.95522388059701,"real"
+"13",3,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",2,18.1818181818182,"real"
+"14",4,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",552,8.832,"real"
+"15",4,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",579,11.2755598831548,"real"
+"16",4,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",116,10.4129263913824,"real"
+"17",4,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",18,13.4328358208955,"real"
+"18",5,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",591,9.456,"real"
+"19",5,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",554,10.7887049659202,"real"
+"20",5,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",104,9.33572710951526,"real"
+"21",5,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",14,10.4477611940299,"real"
+"22",5,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",2,18.1818181818182,"real"
+"23",6,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",628,10.048,"real"
+"24",6,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",523,10.1850048685492,"real"
+"25",6,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",99,8.88689407540395,"real"
+"26",6,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",14,10.4477611940299,"real"
+"27",7,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",652,10.432,"real"
+"28",7,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",483,9.40603700097371,"real"
+"29",7,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",117,10.5026929982047,"real"
+"30",7,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",11,8.2089552238806,"real"
+"31",7,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1,9.09090909090909,"real"
+"32",8,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",753,12.048,"real"
+"33",8,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",418,8.14021421616358,"real"
+"34",8,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",79,7.09156193895871,"real"
+"35",8,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",13,9.70149253731343,"real"
+"36",8,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1,9.09090909090909,"real"
+"37",9,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",833,13.328,"real"
+"38",9,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",352,6.85491723466407,"real"
+"39",9,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",69,6.19389587073609,"real"
+"40",9,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",7,5.22388059701493,"real"
+"41",9,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",3,27.2727272727273,"real"
+"42",10,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",857,13.712,"real"
+"43",10,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",277,5.39435248296008,"real"
+"44",10,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",114,10.2333931777379,"real"
+"45",10,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",13,9.70149253731343,"real"
+"46",10,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",2,18.1818181818182,"real"
+"47",10,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1,100,"real"
+"48",1,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1189,9.40292605773033,"real_conditional"
+"49",1,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1280,10.1225780941083,"real_conditional"
+"50",1,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1280,10.1225780941083,"real_conditional"
+"51",1,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1280,10.1225780941083,"real_conditional"
+"52",1,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1279,10.1146698299723,"real_conditional"
+"53",1,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1279,10.1146698299723,"real_conditional"
+"54",2,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1246,9.85369711348359,"real_conditional"
+"55",2,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1268,10.0276789244761,"real_conditional"
+"56",2,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1268,10.0276789244761,"real_conditional"
+"57",2,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1268,10.0276789244761,"real_conditional"
+"58",2,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1269,10.0355871886121,"real_conditional"
+"59",2,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1268,10.0276789244761,"real_conditional"
+"60",3,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1243,9.82997232107552,"real_conditional"
+"61",3,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1269,10.0355871886121,"real_conditional"
+"62",3,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1269,10.0355871886121,"real_conditional"
+"63",3,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1269,10.0355871886121,"real_conditional"
+"64",3,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1268,10.0276789244761,"real_conditional"
+"65",3,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1269,10.0355871886121,"real_conditional"
+"66",4,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1310,10.359826018189,"real_conditional"
+"67",4,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1255,9.92487149070779,"real_conditional"
+"68",4,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1255,9.92487149070779,"real_conditional"
+"69",4,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1255,9.92487149070779,"real_conditional"
+"70",4,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1256,9.93277975484381,"real_conditional"
+"71",4,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1256,9.93277975484381,"real_conditional"
+"72",5,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1262,9.98022933965994,"real_conditional"
+"73",5,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1265,10.003954132068,"real_conditional"
+"74",5,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1265,10.003954132068,"real_conditional"
+"75",5,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1265,10.003954132068,"real_conditional"
+"76",5,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1265,10.003954132068,"real_conditional"
+"77",5,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1265,10.003954132068,"real_conditional"
+"78",6,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1292,10.2174772637406,"real_conditional"
+"79",6,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1259,9.95650454725188,"real_conditional"
+"80",6,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1259,9.95650454725188,"real_conditional"
+"81",6,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1259,9.95650454725188,"real_conditional"
+"82",6,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1259,9.95650454725188,"real_conditional"
+"83",6,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1259,9.95650454725188,"real_conditional"
+"84",7,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1267,10.0197706603401,"real_conditional"
+"85",7,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1264,9.99604586793199,"real_conditional"
+"86",7,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1264,9.99604586793199,"real_conditional"
+"87",7,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1264,9.99604586793199,"real_conditional"
+"88",7,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1264,9.99604586793199,"real_conditional"
+"89",7,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1264,9.99604586793199,"real_conditional"
+"90",8,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1266,10.011862396204,"real_conditional"
+"91",8,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1264,9.99604586793199,"real_conditional"
+"92",8,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1265,10.003954132068,"real_conditional"
+"93",8,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1264,9.99604586793199,"real_conditional"
+"94",8,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1264,9.99604586793199,"real_conditional"
+"95",8,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1264,9.99604586793199,"real_conditional"
+"96",9,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1278,10.1067615658363,"real_conditional"
+"97",9,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1262,9.98022933965994,"real_conditional"
+"98",9,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1261,9.97232107552392,"real_conditional"
+"99",9,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1262,9.98022933965994,"real_conditional"
+"100",9,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1262,9.98022933965994,"real_conditional"
+"101",9,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1262,9.98022933965994,"real_conditional"
+"102",10,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1292,10.2174772637406,"real_conditional"
+"103",10,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1259,9.95650454725188,"real_conditional"
+"104",10,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1259,9.95650454725188,"real_conditional"
+"105",10,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1259,9.95650454725188,"real_conditional"
+"106",10,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1259,9.95650454725188,"real_conditional"
+"107",10,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1259,9.95650454725188,"real_conditional"
+"108",1,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",384,7.21262208865515,"synth"
+"109",1,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",691,11.4007589506682,"synth"
+"110",1,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",178,14.9328859060403,"synth"
+"111",1,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",12,18.4615384615385,"synth"
+"112",2,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",390,7.32531930879038,"synth"
+"113",2,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",703,11.5987460815047,"synth"
+"114",2,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",160,13.4228187919463,"synth"
+"115",2,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",11,16.9230769230769,"synth"
+"116",2,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1,33.3333333333333,"synth"
+"117",3,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",438,8.22689706987228,"synth"
+"118",3,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",647,10.6748061376011,"synth"
+"119",3,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",167,14.010067114094,"synth"
+"120",3,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",13,20,"synth"
+"121",4,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",476,8.94064613072877,"synth"
+"122",4,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",647,10.6748061376011,"synth"
+"123",4,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",137,11.493288590604,"synth"
+"124",4,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",5,7.69230769230769,"synth"
+"125",5,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",518,9.72952667167543,"synth"
+"126",5,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",623,10.2788318759281,"synth"
+"127",5,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",116,9.73154362416107,"synth"
+"128",5,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",8,12.3076923076923,"synth"
+"129",6,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",522,9.80465815176559,"synth"
+"130",6,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",610,10.0643458175219,"synth"
+"131",6,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",125,10.4865771812081,"synth"
+"132",6,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",6,9.23076923076923,"synth"
+"133",6,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1,33.3333333333333,"synth"
+"134",7,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",552,10.3681442524418,"synth"
+"135",7,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",612,10.0973436726613,"synth"
+"136",7,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",94,7.88590604026846,"synth"
+"137",7,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",5,7.69230769230769,"synth"
+"138",7,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1,33.3333333333333,"synth"
+"139",8,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",599,11.2509391435011,"synth"
+"140",8,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",570,9.40438871473354,"synth"
+"141",8,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",92,7.71812080536913,"synth"
+"142",8,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",3,4.61538461538461,"synth"
+"143",9,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",645,12.1149511645379,"synth"
+"144",9,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",543,8.95891767035143,"synth"
+"145",9,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",76,6.3758389261745,"synth"
+"146",10,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",800,15.0262960180316,"synth"
+"147",10,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",415,6.84705494142881,"synth"
+"148",10,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",47,3.94295302013423,"synth"
+"149",10,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",2,3.07692307692308,"synth"
+"150",1,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1208,9.65781899584266,"synth_conditional"
+"151",1,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1260,10.0735529261273,"synth_conditional"
+"152",1,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1260,10.0735529261273,"synth_conditional"
+"153",1,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1259,10.0655580428526,"synth_conditional"
+"154",1,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1259,10.0655580428526,"synth_conditional"
+"155",1,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1259,10.0655580428526,"synth_conditional"
+"156",2,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1195,9.55388551327151,"synth_conditional"
+"157",2,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1262,10.0895426926767,"synth_conditional"
+"158",2,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1262,10.0895426926767,"synth_conditional"
+"159",2,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1262,10.0895426926767,"synth_conditional"
+"160",2,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1262,10.0895426926767,"synth_conditional"
+"161",2,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1262,10.0895426926767,"synth_conditional"
+"162",3,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1240,9.9136552606332,"synth_conditional"
+"163",3,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1253,10.0175887432043,"synth_conditional"
+"164",3,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1253,10.0175887432043,"synth_conditional"
+"165",3,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1253,10.0175887432043,"synth_conditional"
+"166",3,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1253,10.0175887432043,"synth_conditional"
+"167",3,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1253,10.0175887432043,"synth_conditional"
+"168",4,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1227,9.80972177806204,"synth_conditional"
+"169",4,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1255,10.0335785097538,"synth_conditional"
+"170",4,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1255,10.0335785097538,"synth_conditional"
+"171",4,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1256,10.0415733930285,"synth_conditional"
+"172",4,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1256,10.0415733930285,"synth_conditional"
+"173",4,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1256,10.0415733930285,"synth_conditional"
+"174",5,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1275,10.1934761752478,"synth_conditional"
+"175",5,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1246,9.96162456028142,"synth_conditional"
+"176",5,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1246,9.96162456028142,"synth_conditional"
+"177",5,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1246,9.96162456028142,"synth_conditional"
+"178",5,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1246,9.96162456028142,"synth_conditional"
+"179",5,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1246,9.96162456028142,"synth_conditional"
+"180",6,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1248,9.97761432683083,"synth_conditional"
+"181",6,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1252,10.0095938599296,"synth_conditional"
+"182",6,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1252,10.0095938599296,"synth_conditional"
+"183",6,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1251,10.0015989766549,"synth_conditional"
+"184",6,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1251,10.0015989766549,"synth_conditional"
+"185",6,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1251,10.0015989766549,"synth_conditional"
+"186",7,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1237,9.88967061080908,"synth_conditional"
+"187",7,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1253,10.0175887432043,"synth_conditional"
+"188",7,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1253,10.0175887432043,"synth_conditional"
+"189",7,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1254,10.0255836264791,"synth_conditional"
+"190",7,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1254,10.0255836264791,"synth_conditional"
+"191",7,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1254,10.0255836264791,"synth_conditional"
+"192",8,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1284,10.2654301247202,"synth_conditional"
+"193",8,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1244,9.94563479373201,"synth_conditional"
+"194",8,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1245,9.95362967700671,"synth_conditional"
+"195",8,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1244,9.94563479373201,"synth_conditional"
+"196",8,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1244,9.94563479373201,"synth_conditional"
+"197",8,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1244,9.94563479373201,"synth_conditional"
+"198",9,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1292,10.3293891909178,"synth_conditional"
+"199",9,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1243,9.93763991045731,"synth_conditional"
+"200",9,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1242,9.9296450271826,"synth_conditional"
+"201",9,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1243,9.93763991045731,"synth_conditional"
+"202",9,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1242,9.9296450271826,"synth_conditional"
+"203",9,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1242,9.9296450271826,"synth_conditional"
+"204",10,"IV: 
+deelname_act_actueel_projecten_uniek: 0
+",1302,10.4093380236649,"synth_conditional"
+"205",10,"IV: 
+deelname_act_actueel_projecten_uniek: 1
+",1240,9.9136552606332,"synth_conditional"
+"206",10,"IV: 
+deelname_act_actueel_projecten_uniek: 2
+",1240,9.9136552606332,"synth_conditional"
+"207",10,"IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1240,9.9136552606332,"synth_conditional"
+"208",10,"IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1241,9.9216501439079,"synth_conditional"
+"209",10,"IV: 
+deelname_act_actueel_projecten_uniek: 5
+",1241,9.9216501439079,"synth_conditional"

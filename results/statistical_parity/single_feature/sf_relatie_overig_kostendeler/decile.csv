@@ -1,0 +1,238 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+relatie_overig_kostendeler: 0
+",1265,12.0281449082438,"real"
+"2",2,"IV: 
+relatie_overig_kostendeler: 0
+",1264,12.0186364932966,"real"
+"3",2,"IV: 
+relatie_overig_kostendeler: 1
+",1,0.0469924812030075,"real"
+"4",3,"IV: 
+relatie_overig_kostendeler: 0
+",1260,11.9806028335077,"real"
+"5",3,"IV: 
+relatie_overig_kostendeler: 1
+",5,0.234962406015038,"real"
+"6",4,"IV: 
+relatie_overig_kostendeler: 0
+",1195,11.3625558619378,"real"
+"7",4,"IV: 
+relatie_overig_kostendeler: 1
+",70,3.28947368421053,"real"
+"8",5,"IV: 
+relatie_overig_kostendeler: 0
+",1114,10.5923742512123,"real"
+"9",5,"IV: 
+relatie_overig_kostendeler: 1
+",151,7.09586466165414,"real"
+"10",6,"IV: 
+relatie_overig_kostendeler: 0
+",1021,9.70809166112009,"real"
+"11",6,"IV: 
+relatie_overig_kostendeler: 1
+",243,11.4191729323308,"real"
+"12",7,"IV: 
+relatie_overig_kostendeler: 0
+",906,8.61462394218884,"real"
+"13",7,"IV: 
+relatie_overig_kostendeler: 1
+",358,16.8233082706767,"real"
+"14",8,"IV: 
+relatie_overig_kostendeler: 0
+",839,7.97756014072454,"real"
+"15",8,"IV: 
+relatie_overig_kostendeler: 1
+",425,19.9718045112782,"real"
+"16",9,"IV: 
+relatie_overig_kostendeler: 0
+",815,7.74935818199106,"real"
+"17",9,"IV: 
+relatie_overig_kostendeler: 1
+",449,21.0996240601504,"real"
+"18",10,"IV: 
+relatie_overig_kostendeler: 0
+",838,7.96805172577731,"real"
+"19",10,"IV: 
+relatie_overig_kostendeler: 1
+",426,20.0187969924812,"real"
+"20",1,"IV: 
+relatie_overig_kostendeler: 0
+",1953,15.4448398576512,"real_conditional"
+"21",1,"IV: 
+relatie_overig_kostendeler: 1
+",576,4.55516014234875,"real_conditional"
+"22",2,"IV: 
+relatie_overig_kostendeler: 0
+",1346,10.6445235270858,"real_conditional"
+"23",2,"IV: 
+relatie_overig_kostendeler: 1
+",1183,9.3554764729142,"real_conditional"
+"24",3,"IV: 
+relatie_overig_kostendeler: 0
+",1229,9.71925662317121,"real_conditional"
+"25",3,"IV: 
+relatie_overig_kostendeler: 1
+",1300,10.2807433768288,"real_conditional"
+"26",4,"IV: 
+relatie_overig_kostendeler: 0
+",1227,9.70344009489917,"real_conditional"
+"27",4,"IV: 
+relatie_overig_kostendeler: 1
+",1302,10.2965599051008,"real_conditional"
+"28",5,"IV: 
+relatie_overig_kostendeler: 0
+",1175,9.29221035982602,"real_conditional"
+"29",5,"IV: 
+relatie_overig_kostendeler: 1
+",1354,10.707789640174,"real_conditional"
+"30",6,"IV: 
+relatie_overig_kostendeler: 0
+",1142,9.03123764333729,"real_conditional"
+"31",6,"IV: 
+relatie_overig_kostendeler: 1
+",1387,10.9687623566627,"real_conditional"
+"32",7,"IV: 
+relatie_overig_kostendeler: 0
+",1187,9.38710952945828,"real_conditional"
+"33",7,"IV: 
+relatie_overig_kostendeler: 1
+",1342,10.6128904705417,"real_conditional"
+"34",8,"IV: 
+relatie_overig_kostendeler: 0
+",1127,8.91261368129696,"real_conditional"
+"35",8,"IV: 
+relatie_overig_kostendeler: 1
+",1402,11.087386318703,"real_conditional"
+"36",9,"IV: 
+relatie_overig_kostendeler: 0
+",1107,8.75444839857651,"real_conditional"
+"37",9,"IV: 
+relatie_overig_kostendeler: 1
+",1422,11.2455516014235,"real_conditional"
+"38",10,"IV: 
+relatie_overig_kostendeler: 0
+",1152,9.11032028469751,"real_conditional"
+"39",10,"IV: 
+relatie_overig_kostendeler: 1
+",1377,10.8896797153025,"real_conditional"
+"40",1,"IV: 
+relatie_overig_kostendeler: 0
+",1259,13.2596103212217,"synth"
+"41",1,"IV: 
+relatie_overig_kostendeler: 1
+",6,0.19047619047619,"synth"
+"42",2,"IV: 
+relatie_overig_kostendeler: 0
+",1192,12.5539757767246,"synth"
+"43",2,"IV: 
+relatie_overig_kostendeler: 1
+",73,2.31746031746032,"synth"
+"44",3,"IV: 
+relatie_overig_kostendeler: 0
+",1117,11.7640863612428,"synth"
+"45",3,"IV: 
+relatie_overig_kostendeler: 1
+",148,4.6984126984127,"synth"
+"46",4,"IV: 
+relatie_overig_kostendeler: 0
+",1037,10.9215376513955,"synth"
+"47",4,"IV: 
+relatie_overig_kostendeler: 1
+",228,7.23809523809524,"synth"
+"48",5,"IV: 
+relatie_overig_kostendeler: 0
+",932,9.81569246972091,"synth"
+"49",5,"IV: 
+relatie_overig_kostendeler: 1
+",333,10.5714285714286,"synth"
+"50",6,"IV: 
+relatie_overig_kostendeler: 0
+",874,9.20484465508162,"synth"
+"51",6,"IV: 
+relatie_overig_kostendeler: 1
+",390,12.3809523809524,"synth"
+"52",7,"IV: 
+relatie_overig_kostendeler: 0
+",834,8.78357030015798,"synth"
+"53",7,"IV: 
+relatie_overig_kostendeler: 1
+",430,13.6507936507937,"synth"
+"54",8,"IV: 
+relatie_overig_kostendeler: 0
+",803,8.45708267509215,"synth"
+"55",8,"IV: 
+relatie_overig_kostendeler: 1
+",461,14.6349206349206,"synth"
+"56",9,"IV: 
+relatie_overig_kostendeler: 0
+",735,7.74091627172196,"synth"
+"57",9,"IV: 
+relatie_overig_kostendeler: 1
+",529,16.7936507936508,"synth"
+"58",10,"IV: 
+relatie_overig_kostendeler: 0
+",712,7.49868351764086,"synth"
+"59",10,"IV: 
+relatie_overig_kostendeler: 1
+",552,17.5238095238095,"synth"
+"60",1,"IV: 
+relatie_overig_kostendeler: 0
+",1701,13.5992964502718,"synth_conditional"
+"61",1,"IV: 
+relatie_overig_kostendeler: 1
+",801,6.40390150303806,"synth_conditional"
+"62",2,"IV: 
+relatie_overig_kostendeler: 0
+",1495,11.9523504956828,"synth_conditional"
+"63",2,"IV: 
+relatie_overig_kostendeler: 1
+",1007,8.05084745762712,"synth_conditional"
+"64",3,"IV: 
+relatie_overig_kostendeler: 0
+",1408,11.2567956507835,"synth_conditional"
+"65",3,"IV: 
+relatie_overig_kostendeler: 1
+",1094,8.74640230252638,"synth_conditional"
+"66",4,"IV: 
+relatie_overig_kostendeler: 0
+",1317,10.5292612727854,"synth_conditional"
+"67",4,"IV: 
+relatie_overig_kostendeler: 1
+",1185,9.47393668052446,"synth_conditional"
+"68",5,"IV: 
+relatie_overig_kostendeler: 0
+",1184,9.46594179724976,"synth_conditional"
+"69",5,"IV: 
+relatie_overig_kostendeler: 1
+",1318,10.5372561560601,"synth_conditional"
+"70",6,"IV: 
+relatie_overig_kostendeler: 0
+",1201,9.60185481291973,"synth_conditional"
+"71",6,"IV: 
+relatie_overig_kostendeler: 1
+",1301,10.4013431403901,"synth_conditional"
+"72",7,"IV: 
+relatie_overig_kostendeler: 0
+",1101,8.80236648544931,"synth_conditional"
+"73",7,"IV: 
+relatie_overig_kostendeler: 1
+",1400,11.1928365845859,"synth_conditional"
+"74",8,"IV: 
+relatie_overig_kostendeler: 0
+",1063,8.49856092101055,"synth_conditional"
+"75",8,"IV: 
+relatie_overig_kostendeler: 1
+",1438,11.4966421490246,"synth_conditional"
+"76",9,"IV: 
+relatie_overig_kostendeler: 0
+",1026,8.2027502398465,"synth_conditional"
+"77",9,"IV: 
+relatie_overig_kostendeler: 1
+",1475,11.7924528301887,"synth_conditional"
+"78",10,"IV: 
+relatie_overig_kostendeler: 0
+",1012,8.09082187400064,"synth_conditional"
+"79",10,"IV: 
+relatie_overig_kostendeler: 1
+",1489,11.9043811960345,"synth_conditional"

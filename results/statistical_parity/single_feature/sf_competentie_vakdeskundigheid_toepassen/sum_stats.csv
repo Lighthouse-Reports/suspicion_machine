@@ -1,0 +1,49 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+competentie_vakdeskundigheid_toepassen: 0
+","Ja",7102,0.435,0.146,0.0450577302168403,0.179667699239651,-5.49422697831597,7.96676992396508,"real"
+"2","IV: 
+competentie_vakdeskundigheid_toepassen: 1
+","Ja",5396,0.557,0.132,0.164936990363232,0.407524091919941,6.4936990363232,30.7524091919941,"real"
+"3","IV: 
+competentie_vakdeskundigheid_toepassen: 2
+","Ja",141,0.633,0.125,0.354609929078014,0.602836879432624,25.4609929078014,50.2836879432624,"real"
+"4","IV: 
+competentie_vakdeskundigheid_toepassen: 3
+","Ja",6,0.745,0.075,0.833333333333333,1,73.3333333333333,90,"real"
+"5","IV: 
+competentie_vakdeskundigheid_toepassen: 0
+","Ja",12645,0.477,0.152,0.0868327402135231,0.259311981020166,-1.31672597864769,15.9311981020166,"real_conditional"
+"6","IV: 
+competentie_vakdeskundigheid_toepassen: 1
+","Ja",12645,0.514,0.138,0.108975879794385,0.305417160933175,0.897587979438512,20.5417160933175,"real_conditional"
+"7","IV: 
+competentie_vakdeskundigheid_toepassen: 2
+","Ja",12645,0.514,0.138,0.108975879794385,0.305417160933175,0.897587979438512,20.5417160933175,"real_conditional"
+"8","IV: 
+competentie_vakdeskundigheid_toepassen: 3
+","Ja",12645,0.514,0.138,0.108975879794385,0.305417160933175,0.897587979438512,20.5417160933175,"real_conditional"
+"9","IV: 
+competentie_vakdeskundigheid_toepassen: 0
+","Ja",6911,0.594,0.088,0.066849949356099,0.563883663724497,-3.3150050643901,46.3883663724497,"synth"
+"10","IV: 
+competentie_vakdeskundigheid_toepassen: 1
+","Ja",5475,0.632,0.076,0.134977168949772,0.730593607305936,3.49771689497717,63.0593607305936,"synth"
+"11","IV: 
+competentie_vakdeskundigheid_toepassen: 2
+","Ja",256,0.662,0.069,0.24609375,0.8203125,14.609375,72.03125,"synth"
+"12","IV: 
+competentie_vakdeskundigheid_toepassen: 3
+","Ja",3,0.667,0.078,0.333333333333333,0.666666666666667,23.3333333333333,56.6666666666667,"synth"
+"13","IV: 
+competentie_vakdeskundigheid_toepassen: 0
+","Ja",12508,0.607,0.086,0.0873840741925168,0.621282379277263,-1.26159258074832,52.1282379277263,"synth_conditional"
+"14","IV: 
+competentie_vakdeskundigheid_toepassen: 1
+","Ja",12508,0.621,0.08,0.1108090821874,0.674848097217781,1.08090821874001,57.4848097217781,"synth_conditional"
+"15","IV: 
+competentie_vakdeskundigheid_toepassen: 2
+","Ja",12508,0.621,0.08,0.1108090821874,0.674848097217781,1.08090821874001,57.4848097217781,"synth_conditional"
+"16","IV: 
+competentie_vakdeskundigheid_toepassen: 3
+","Ja",12508,0.621,0.08,0.1108090821874,0.674848097217781,1.08090821874001,57.4848097217781,"synth_conditional"

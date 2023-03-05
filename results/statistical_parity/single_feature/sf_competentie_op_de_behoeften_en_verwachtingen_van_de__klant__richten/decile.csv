@@ -1,0 +1,316 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1255,11.4517747969705,"real"
+"2",1,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",10,0.596302921884317,"real"
+"3",2,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1205,10.9955287891231,"real"
+"4",2,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",60,3.5778175313059,"real"
+"5",3,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1151,10.5027831006479,"real"
+"6",3,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",114,6.79785330948122,"real"
+"7",4,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1112,10.1469112145269,"real"
+"8",4,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",153,9.12343470483005,"real"
+"9",5,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1083,9.88228852997536,"real"
+"10",5,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",182,10.8527131782946,"real"
+"11",6,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1073,9.79103932840588,"real"
+"12",6,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",190,11.329755515802,"real"
+"13",6,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1,11.1111111111111,"real"
+"14",7,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1048,9.56291632448216,"real"
+"15",7,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",214,12.7608825283244,"real"
+"16",7,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",2,22.2222222222222,"real"
+"17",8,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1039,9.48079204306962,"real"
+"18",8,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",222,13.2379248658318,"real"
+"19",8,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",3,33.3333333333333,"real"
+"20",9,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1022,9.3256684004015,"real"
+"21",9,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",241,14.370900417412,"real"
+"22",9,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1,11.1111111111111,"real"
+"23",10,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",971,8.86029747239712,"real"
+"24",10,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",291,17.3524150268336,"real"
+"25",10,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",2,22.2222222222222,"real"
+"26",1,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1286,10.1700276789245,"real_conditional"
+"27",1,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1254,9.91696322657177,"real_conditional"
+"28",1,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1254,9.91696322657177,"real_conditional"
+"29",2,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1275,10.0830367734282,"real_conditional"
+"30",2,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1260,9.9644128113879,"real_conditional"
+"31",2,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1259,9.95650454725188,"real_conditional"
+"32",3,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1271,10.0514037168841,"real_conditional"
+"33",3,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1261,9.97232107552392,"real_conditional"
+"34",3,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1262,9.98022933965994,"real_conditional"
+"35",4,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1272,10.0593119810202,"real_conditional"
+"36",4,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1261,9.97232107552392,"real_conditional"
+"37",4,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1261,9.97232107552392,"real_conditional"
+"38",5,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1266,10.011862396204,"real_conditional"
+"39",5,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1264,9.99604586793199,"real_conditional"
+"40",5,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1264,9.99604586793199,"real_conditional"
+"41",6,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1251,9.8932384341637,"real_conditional"
+"42",6,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1271,10.0514037168841,"real_conditional"
+"43",6,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1271,10.0514037168841,"real_conditional"
+"44",7,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1274,10.0751285092922,"real_conditional"
+"45",7,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1260,9.9644128113879,"real_conditional"
+"46",7,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1259,9.95650454725188,"real_conditional"
+"47",8,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1254,9.91696322657177,"real_conditional"
+"48",8,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1269,10.0355871886121,"real_conditional"
+"49",8,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1270,10.0434954527481,"real_conditional"
+"50",9,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1253,9.90905496243574,"real_conditional"
+"51",9,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1270,10.0434954527481,"real_conditional"
+"52",9,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1270,10.0434954527481,"real_conditional"
+"53",10,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1243,9.82997232107552,"real_conditional"
+"54",10,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1275,10.0830367734282,"real_conditional"
+"55",10,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1275,10.0830367734282,"real_conditional"
+"56",1,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1128,10.6757524134015,"synth"
+"57",1,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",137,6.58970658970659,"synth"
+"58",2,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1095,10.3634298693924,"synth"
+"59",2,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",170,8.17700817700818,"synth"
+"60",3,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1064,10.0700359644142,"synth"
+"61",3,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",201,9.66810966810967,"synth"
+"62",4,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1083,10.2498580352073,"synth"
+"63",4,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",182,8.75420875420875,"synth"
+"64",5,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1035,9.79557069846678,"synth"
+"65",5,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",230,11.0630110630111,"synth"
+"66",6,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1059,10.022714366837,"synth"
+"67",6,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",205,9.86050986050986,"synth"
+"68",7,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1059,10.022714366837,"synth"
+"69",7,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",205,9.86050986050986,"synth"
+"70",8,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1030,9.74824910088965,"synth"
+"71",8,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",234,11.2554112554113,"synth"
+"72",9,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1025,9.70092750331251,"synth"
+"73",9,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",239,11.4959114959115,"synth"
+"74",10,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",988,9.35074768124172,"synth"
+"75",10,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",276,13.2756132756133,"synth"
+"76",1,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1277,10.2094659417972,"synth_conditional"
+"77",1,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1238,9.89766549408379,"synth_conditional"
+"78",1,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1238,9.89766549408379,"synth_conditional"
+"79",2,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1266,10.1215222257755,"synth_conditional"
+"80",2,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1244,9.94563479373201,"synth_conditional"
+"81",2,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1243,9.93763991045731,"synth_conditional"
+"82",3,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1262,10.0895426926767,"synth_conditional"
+"83",3,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1245,9.95362967700671,"synth_conditional"
+"84",3,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1246,9.96162456028142,"synth_conditional"
+"85",4,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1259,10.0655580428526,"synth_conditional"
+"86",4,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1247,9.96961944355612,"synth_conditional"
+"87",4,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1247,9.96961944355612,"synth_conditional"
+"88",5,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1250,9.99360409338024,"synth_conditional"
+"89",5,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1251,10.0015989766549,"synth_conditional"
+"90",5,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1251,10.0015989766549,"synth_conditional"
+"91",6,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1256,10.0415733930285,"synth_conditional"
+"92",6,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1248,9.97761432683083,"synth_conditional"
+"93",6,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1248,9.97761432683083,"synth_conditional"
+"94",7,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1248,9.97761432683083,"synth_conditional"
+"95",7,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1252,10.0095938599296,"synth_conditional"
+"96",7,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1252,10.0095938599296,"synth_conditional"
+"97",8,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1250,9.99360409338024,"synth_conditional"
+"98",8,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1251,10.0015989766549,"synth_conditional"
+"99",8,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1251,10.0015989766549,"synth_conditional"
+"100",9,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1220,9.75375759513911,"synth_conditional"
+"101",9,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1266,10.1215222257755,"synth_conditional"
+"102",9,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1266,10.1215222257755,"synth_conditional"
+"103",10,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+",1220,9.75375759513911,"synth_conditional"
+"104",10,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",1266,10.1215222257755,"synth_conditional"
+"105",10,"IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1266,10.1215222257755,"synth_conditional"

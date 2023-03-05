@@ -1,0 +1,55 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","Ja",11447,0.486,0.153,0.0953961736699572,0.27282257360007,-0.460382633004282,17.282257360007,"real"
+"2","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+","Ja",1035,0.52,0.151,0.136231884057971,0.364251207729469,3.6231884057971,26.4251207729469,"real"
+"3","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+","Ja",127,0.534,0.155,0.181102362204724,0.401574803149606,8.11023622047244,30.1574803149606,"real"
+"4","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 3
+","Ja",32,0.553,0.168,0.28125,0.4375,18.125,33.75,"real"
+"5","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 4
+","Ja",4,0.433,0.181,0,0.25,-10,15,"real"
+"6","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","Ja",12645,0.489,0.153,0.0994859628311586,0.280268880980625,-0.051403716884145,18.0268880980625,"real_conditional"
+"7","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+","Ja",12645,0.493,0.153,0.103756425464611,0.288335310399367,0.375642546461051,18.8335310399367,"real_conditional"
+"8","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+","Ja",12645,0.499,0.151,0.108264136022143,0.299802293396599,0.826413602214314,19.9802293396599,"real_conditional"
+"9","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 3
+","Ja",12645,0.499,0.151,0.108264136022143,0.299802293396599,0.826413602214314,19.9802293396599,"real_conditional"
+"10","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 4
+","Ja",12645,0.499,0.151,0.108264136022143,0.299802293396599,0.826413602214314,19.9802293396599,"real_conditional"
+"11","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","Ja",9995,0.609,0.085,0.0926463231615808,0.629814907453727,-0.735367683841921,52.9814907453727,"synth"
+"12","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+","Ja",2648,0.622,0.084,0.128021148036254,0.68429003021148,2.80211480362538,58.429003021148,"synth"
+"13","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+","Ja",2,0.624,0.045,0,1,-10,90,"synth"
+"14","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","Ja",12508,0.611,0.085,0.0975375759513911,0.6378317876559,-0.24624240486089,53.78317876559,"synth_conditional"
+"15","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+","Ja",12508,0.615,0.085,0.105452510393348,0.651183242724656,0.545251039334825,55.1183242724656,"synth_conditional"
+"16","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+","Ja",12508,0.619,0.084,0.113527342500799,0.667652702270547,1.35273425007995,56.7652702270547,"synth_conditional"
+"17","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 3
+","Ja",12508,0.619,0.084,0.113527342500799,0.667652702270547,1.35273425007995,56.7652702270547,"synth_conditional"
+"18","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 4
+","Ja",12508,0.619,0.084,0.113527342500799,0.667652702270547,1.35273425007995,56.7652702270547,"synth_conditional"

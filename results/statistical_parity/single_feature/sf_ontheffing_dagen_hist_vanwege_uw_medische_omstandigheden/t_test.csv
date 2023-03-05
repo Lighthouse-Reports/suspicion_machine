@@ -1,0 +1,505 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+",12645,12645,0.841,"ns",1,"ns","real_conditional"
+"2","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+",12645,12645,0.841,"ns",1,"ns","real_conditional"
+"3","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"4","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+",12645,12645,0.841,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+",12645,12645,0.841,"ns",1,"ns","real_conditional"
+"8","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"11","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+",12645,12645,0.783,"ns",1,"ns","real_conditional"
+"12","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+",12645,12645,0.94,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+",12645,12645,0.94,"ns",1,"ns","real_conditional"
+"14","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+",12645,12645,0.94,"ns",1,"ns","real_conditional"
+"15","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+",12645,12645,0.94,"ns",1,"ns","real_conditional"
+"16","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+",12645,12645,4.03e-78,"****",1.45e-76,"****","real_conditional"
+"17","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+",12645,12645,1.68e-76,"****",5.89e-75,"****","real_conditional"
+"18","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+",12645,12645,1.68e-76,"****",5.89e-75,"****","real_conditional"
+"19","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+",12645,12645,1.68e-76,"****",5.89e-75,"****","real_conditional"
+"20","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+",12645,12645,1.68e-76,"****",5.89e-75,"****","real_conditional"
+"21","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+",12645,12645,6.72e-76,"****",2.08e-74,"****","real_conditional"
+"22","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+",12645,12645,8.77e-18,"****",2.02e-16,"****","real_conditional"
+"23","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+",12645,12645,4.92e-17,"****",1.08e-15,"****","real_conditional"
+"24","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+",12645,12645,4.92e-17,"****",1.08e-15,"****","real_conditional"
+"25","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+",12645,12645,4.92e-17,"****",1.08e-15,"****","real_conditional"
+"26","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+",12645,12645,4.92e-17,"****",1.08e-15,"****","real_conditional"
+"27","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+",12645,12645,9.26e-17,"****",1.67e-15,"****","real_conditional"
+"28","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+",12645,12645,3.96e-24,"****",9.5e-23,"****","real_conditional"
+"29","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+",12645,12645,9.06e-49,"****",2.72e-47,"****","real_conditional"
+"30","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+",12645,12645,1.7e-47,"****",4.92e-46,"****","real_conditional"
+"31","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+",12645,12645,1.7e-47,"****",4.92e-46,"****","real_conditional"
+"32","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+",12645,12645,1.7e-47,"****",4.92e-46,"****","real_conditional"
+"33","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+",12645,12645,1.7e-47,"****",4.92e-46,"****","real_conditional"
+"34","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+",12645,12645,5.02e-47,"****",1.26e-45,"****","real_conditional"
+"35","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+",12645,12645,5.32e-05,"****",0.00085,"***","real_conditional"
+"36","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+",12645,12645,1.11e-09,"****",1.88e-08,"****","real_conditional"
+"37","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+",12508,12508,0.891,"ns",1,"ns","synth_conditional"
+"38","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+",12508,12508,0.891,"ns",1,"ns","synth_conditional"
+"39","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"40","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+",12508,12508,0.891,"ns",1,"ns","synth_conditional"
+"41","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"42","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"43","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+",12508,12508,0.891,"ns",1,"ns","synth_conditional"
+"44","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"45","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"46","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"47","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+",12508,12508,0.789,"ns",1,"ns","synth_conditional"
+"48","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+",12508,12508,0.896,"ns",1,"ns","synth_conditional"
+"49","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+",12508,12508,0.896,"ns",1,"ns","synth_conditional"
+"50","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+",12508,12508,0.896,"ns",1,"ns","synth_conditional"
+"51","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+",12508,12508,0.896,"ns",1,"ns","synth_conditional"
+"52","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+",12508,12508,1.08e-119,"****",3.88e-118,"****","synth_conditional"
+"53","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+",12508,12508,2.57e-118,"****",9.01e-117,"****","synth_conditional"
+"54","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+",12508,12508,2.57e-118,"****",9.01e-117,"****","synth_conditional"
+"55","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+",12508,12508,2.57e-118,"****",9.01e-117,"****","synth_conditional"
+"56","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+",12508,12508,2.57e-118,"****",9.01e-117,"****","synth_conditional"
+"57","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+",12508,12508,5.17e-117,"****",1.6e-115,"****","synth_conditional"
+"58","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+",12508,12508,4.63e-31,"****",1.06e-29,"****","synth_conditional"
+"59","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+",12508,12508,2.27e-30,"****",4.99e-29,"****","synth_conditional"
+"60","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+",12508,12508,2.27e-30,"****",4.99e-29,"****","synth_conditional"
+"61","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+",12508,12508,2.27e-30,"****",4.99e-29,"****","synth_conditional"
+"62","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+",12508,12508,2.27e-30,"****",4.99e-29,"****","synth_conditional"
+"63","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+",12508,12508,1.01e-29,"****",1.82e-28,"****","synth_conditional"
+"64","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+",12508,12508,1.39e-31,"****",3.33e-30,"****","synth_conditional"
+"65","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+",12508,12508,1.97e-79,"****",5.9e-78,"****","synth_conditional"
+"66","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+",12508,12508,2.59e-78,"****",7.51e-77,"****","synth_conditional"
+"67","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+",12508,12508,2.59e-78,"****",7.51e-77,"****","synth_conditional"
+"68","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+",12508,12508,2.59e-78,"****",7.51e-77,"****","synth_conditional"
+"69","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+",12508,12508,2.59e-78,"****",7.51e-77,"****","synth_conditional"
+"70","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+",12508,12508,2.95e-77,"****",7.39e-76,"****","synth_conditional"
+"71","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+",12508,12508,1.07e-05,"****",0.00017,"***","synth_conditional"
+"72","Ja","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+",12508,12508,3.06e-13,"****",5.2e-12,"****","synth_conditional"

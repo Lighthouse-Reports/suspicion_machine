@@ -1,0 +1,526 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"2","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+",12645,12645,0.0698,"ns",1,"ns","real_conditional"
+"3","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+",12645,12645,0.0698,"ns",1,"ns","real_conditional"
+"4","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+",12645,12645,0.0698,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+",12645,12645,0.0698,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+",12645,12645,0.884,"ns",1,"ns","real_conditional"
+"8","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+",12645,12645,0.884,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+",12645,12645,0.0954,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+",12645,12645,0.0954,"ns",1,"ns","real_conditional"
+"11","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+",12645,12645,0.0698,"ns",1,"ns","real_conditional"
+"12","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+",12645,12645,0.0698,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"14","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"15","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+",12645,12645,0.0954,"ns",1,"ns","real_conditional"
+"16","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+",12645,12645,0.783,"ns",1,"ns","real_conditional"
+"17","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+",12645,12645,0.783,"ns",1,"ns","real_conditional"
+"18","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+",12645,12645,0.124,"ns",1,"ns","real_conditional"
+"19","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+",12645,12645,0.124,"ns",1,"ns","real_conditional"
+"20","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+",12645,12645,0.897,"ns",1,"ns","real_conditional"
+"21","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+",12645,12645,0.124,"ns",1,"ns","real_conditional"
+"22","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+",12645,12645,0.0698,"ns",1,"ns","real_conditional"
+"23","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+",12645,12645,0.0698,"ns",1,"ns","real_conditional"
+"24","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"25","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"26","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+",12645,12645,0.0954,"ns",1,"ns","real_conditional"
+"27","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"28","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+",12645,12645,0.124,"ns",1,"ns","real_conditional"
+"29","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",12645,12645,0.628,"ns",1,"ns","real_conditional"
+"30","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",12645,12645,0.628,"ns",1,"ns","real_conditional"
+"31","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",12645,12645,0.184,"ns",1,"ns","real_conditional"
+"32","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",12645,12645,0.184,"ns",1,"ns","real_conditional"
+"33","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",12645,12645,0.735,"ns",1,"ns","real_conditional"
+"34","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",12645,12645,0.184,"ns",1,"ns","real_conditional"
+"35","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",12645,12645,0.834,"ns",1,"ns","real_conditional"
+"36","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",12645,12645,0.184,"ns",1,"ns","real_conditional"
+"37","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12645,12645,0.628,"ns",1,"ns","real_conditional"
+"38","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12645,12645,0.628,"ns",1,"ns","real_conditional"
+"39","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12645,12645,0.184,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12645,12645,0.184,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12645,12645,0.735,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12645,12645,0.184,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12645,12645,0.834,"ns",1,"ns","real_conditional"
+"44","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12645,12645,0.184,"ns",1,"ns","real_conditional"
+"45","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"46","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+",2289,4042,1.06e-07,"****",6.36e-07,"****","synth"
+"47","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+",2289,2812,7.41e-15,"****",7.41e-14,"****","synth"
+"48","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+",4042,2812,0.00112,"**",0.00335,"**","synth"
+"49","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+",2289,1790,1.39e-27,"****",1.81e-26,"****","synth"
+"50","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+",4042,1790,5.39e-13,"****",4.85e-12,"****","synth"
+"51","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+",2812,1790,3.59e-05,"****",0.000144,"***","synth"
+"52","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",2289,971,4.18e-29,"****",5.85e-28,"****","synth"
+"53","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",4042,971,4.44e-16,"****",4.88e-15,"****","synth"
+"54","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",2812,971,1.53e-08,"****",1.07e-07,"****","synth"
+"55","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",1790,971,0.0315,"*",0.0315,"*","synth"
+"56","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",2289,468,1.53e-29,"****",2.29e-28,"****","synth"
+"57","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",4042,468,5.95e-19,"****",7.14e-18,"****","synth"
+"58","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",2812,468,1.24e-12,"****",9.93e-12,"****","synth"
+"59","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",1790,468,9.62e-06,"****",4.81e-05,"****","synth"
+"60","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",971,468,0.0104,"*",0.0209,"*","synth"
+"61","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"62","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+",12508,12508,0.136,"ns",1,"ns","synth_conditional"
+"63","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+",12508,12508,0.136,"ns",1,"ns","synth_conditional"
+"64","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+",12508,12508,0.136,"ns",1,"ns","synth_conditional"
+"65","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+",12508,12508,0.136,"ns",1,"ns","synth_conditional"
+"66","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"67","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+",12508,12508,0.777,"ns",1,"ns","synth_conditional"
+"68","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+",12508,12508,0.777,"ns",1,"ns","synth_conditional"
+"69","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+",12508,12508,0.227,"ns",1,"ns","synth_conditional"
+"70","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+",12508,12508,0.227,"ns",1,"ns","synth_conditional"
+"71","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+",12508,12508,0.136,"ns",1,"ns","synth_conditional"
+"72","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+",12508,12508,0.136,"ns",1,"ns","synth_conditional"
+"73","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"74","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"75","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+",12508,12508,0.227,"ns",1,"ns","synth_conditional"
+"76","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+",12508,12508,0.74,"ns",1,"ns","synth_conditional"
+"77","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+",12508,12508,0.74,"ns",1,"ns","synth_conditional"
+"78","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+",12508,12508,0.246,"ns",1,"ns","synth_conditional"
+"79","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+",12508,12508,0.246,"ns",1,"ns","synth_conditional"
+"80","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+",12508,12508,0.961,"ns",1,"ns","synth_conditional"
+"81","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+",12508,12508,0.246,"ns",1,"ns","synth_conditional"
+"82","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+",12508,12508,0.136,"ns",1,"ns","synth_conditional"
+"83","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+",12508,12508,0.136,"ns",1,"ns","synth_conditional"
+"84","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"85","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"86","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+",12508,12508,0.227,"ns",1,"ns","synth_conditional"
+"87","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"88","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+",12508,12508,0.246,"ns",1,"ns","synth_conditional"
+"89","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",12508,12508,0.522,"ns",1,"ns","synth_conditional"
+"90","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",12508,12508,0.522,"ns",1,"ns","synth_conditional"
+"91","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",12508,12508,0.394,"ns",1,"ns","synth_conditional"
+"92","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",12508,12508,0.394,"ns",1,"ns","synth_conditional"
+"93","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",12508,12508,0.721,"ns",1,"ns","synth_conditional"
+"94","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",12508,12508,0.394,"ns",1,"ns","synth_conditional"
+"95","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",12508,12508,0.758,"ns",1,"ns","synth_conditional"
+"96","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+",12508,12508,0.394,"ns",1,"ns","synth_conditional"
+"97","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 0
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12508,12508,0.522,"ns",1,"ns","synth_conditional"
+"98","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 1
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12508,12508,0.522,"ns",1,"ns","synth_conditional"
+"99","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 10
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12508,12508,0.394,"ns",1,"ns","synth_conditional"
+"100","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 15
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12508,12508,0.394,"ns",1,"ns","synth_conditional"
+"101","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 2
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12508,12508,0.721,"ns",1,"ns","synth_conditional"
+"102","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 20
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12508,12508,0.394,"ns",1,"ns","synth_conditional"
+"103","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 3
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12508,12508,0.758,"ns",1,"ns","synth_conditional"
+"104","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 30
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12508,12508,0.394,"ns",1,"ns","synth_conditional"
+"105","Ja","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 4
+","IV: 
+afspraak_laatstejaar_resultaat_ingevuld: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"

@@ -1,0 +1,441 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",629,10.0015900779138,"real"
+"2",2,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",629,10.0015900779138,"real"
+"3",3,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",629,10.0015900779138,"real"
+"4",4,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",629,10.0015900779138,"real"
+"5",5,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",629,10.0015900779138,"real"
+"6",6,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",629,10.0015900779138,"real"
+"7",7,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",629,10.0015900779138,"real"
+"8",8,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",629,10.0015900779138,"real"
+"9",9,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",629,10.0015900779138,"real"
+"10",10,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",628,9.98568929877564,"real"
+"11",1,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1212,9.58481613285884,"real_conditional"
+"12",1,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1213,9.59272439699486,"real_conditional"
+"13",1,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1300,10.2807433768288,"real_conditional"
+"14",1,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1299,10.2728351126928,"real_conditional"
+"15",1,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1299,10.2728351126928,"real_conditional"
+"16",2,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1251,9.8932384341637,"real_conditional"
+"17",2,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1253,9.90905496243574,"real_conditional"
+"18",2,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1273,10.0672202451562,"real_conditional"
+"19",2,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1273,10.0672202451562,"real_conditional"
+"20",2,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1273,10.0672202451562,"real_conditional"
+"21",3,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1247,9.86160537761961,"real_conditional"
+"22",3,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1252,9.90114669829972,"real_conditional"
+"23",3,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1274,10.0751285092922,"real_conditional"
+"24",3,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1275,10.0830367734282,"real_conditional"
+"25",3,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1275,10.0830367734282,"real_conditional"
+"26",4,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1240,9.80624752866746,"real_conditional"
+"27",4,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1246,9.85369711348359,"real_conditional"
+"28",4,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1279,10.1146698299723,"real_conditional"
+"29",4,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1279,10.1146698299723,"real_conditional"
+"30",4,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1279,10.1146698299723,"real_conditional"
+"31",5,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1265,10.003954132068,"real_conditional"
+"32",5,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1266,10.011862396204,"real_conditional"
+"33",5,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1264,9.99604586793199,"real_conditional"
+"34",5,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1264,9.99604586793199,"real_conditional"
+"35",5,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1264,9.99604586793199,"real_conditional"
+"36",6,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1275,10.0830367734282,"real_conditional"
+"37",6,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1269,10.0355871886121,"real_conditional"
+"38",6,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1260,9.9644128113879,"real_conditional"
+"39",6,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1259,9.95650454725188,"real_conditional"
+"40",6,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1259,9.95650454725188,"real_conditional"
+"41",7,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1271,10.0514037168841,"real_conditional"
+"42",7,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1273,10.0672202451562,"real_conditional"
+"43",7,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1259,9.95650454725188,"real_conditional"
+"44",7,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1260,9.9644128113879,"real_conditional"
+"45",7,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1259,9.95650454725188,"real_conditional"
+"46",8,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1275,10.0830367734282,"real_conditional"
+"47",8,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1278,10.1067615658363,"real_conditional"
+"48",8,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1256,9.93277975484381,"real_conditional"
+"49",8,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1256,9.93277975484381,"real_conditional"
+"50",8,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1257,9.94068801897983,"real_conditional"
+"51",9,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1280,10.1225780941083,"real_conditional"
+"52",9,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1283,10.1463028865164,"real_conditional"
+"53",9,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1253,9.90905496243574,"real_conditional"
+"54",9,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1253,9.90905496243574,"real_conditional"
+"55",9,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1253,9.90905496243574,"real_conditional"
+"56",10,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1329,10.5100830367734,"real_conditional"
+"57",10,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1312,10.3756425464611,"real_conditional"
+"58",10,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1227,9.70344009489917,"real_conditional"
+"59",10,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1227,9.70344009489917,"real_conditional"
+"60",10,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1227,9.70344009489917,"real_conditional"
+"61",1,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1177,9.40997761432683,"synth_conditional"
+"62",1,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1180,9.43396226415094,"synth_conditional"
+"63",1,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1299,10.3853533738407,"synth_conditional"
+"64",1,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1299,10.3853533738407,"synth_conditional"
+"65",1,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1299,10.3853533738407,"synth_conditional"
+"66",2,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1232,9.84969619443556,"synth_conditional"
+"67",2,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1234,9.86568596098497,"synth_conditional"
+"68",2,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1263,10.0975375759514,"synth_conditional"
+"69",2,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1263,10.0975375759514,"synth_conditional"
+"70",2,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1262,10.0895426926767,"synth_conditional"
+"71",3,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1235,9.87368084425967,"synth_conditional"
+"72",3,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1232,9.84969619443556,"synth_conditional"
+"73",3,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1262,10.0895426926767,"synth_conditional"
+"74",3,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1262,10.0895426926767,"synth_conditional"
+"75",3,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1263,10.0975375759514,"synth_conditional"
+"76",4,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1225,9.79373201151263,"synth_conditional"
+"77",4,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1233,9.85769107771027,"synth_conditional"
+"78",4,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1266,10.1215222257755,"synth_conditional"
+"79",4,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1265,10.1135273425008,"synth_conditional"
+"80",4,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1265,10.1135273425008,"synth_conditional"
+"81",5,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1219,9.74576271186441,"synth_conditional"
+"82",5,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1213,9.69779341221618,"synth_conditional"
+"83",5,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1274,10.1854812919731,"synth_conditional"
+"84",5,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1274,10.1854812919731,"synth_conditional"
+"85",5,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1274,10.1854812919731,"synth_conditional"
+"86",6,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1245,9.95362967700671,"synth_conditional"
+"87",6,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1254,10.0255836264791,"synth_conditional"
+"88",6,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1251,10.0015989766549,"synth_conditional"
+"89",6,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1252,10.0095938599296,"synth_conditional"
+"90",6,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1252,10.0095938599296,"synth_conditional"
+"91",7,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1276,10.2014710585225,"synth_conditional"
+"92",7,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1282,10.2494403581708,"synth_conditional"
+"93",7,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1232,9.84969619443556,"synth_conditional"
+"94",7,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1232,9.84969619443556,"synth_conditional"
+"95",7,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1232,9.84969619443556,"synth_conditional"
+"96",8,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1279,10.2254557083467,"synth_conditional"
+"97",8,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1271,10.161496642149,"synth_conditional"
+"98",8,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1235,9.87368084425967,"synth_conditional"
+"99",8,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1235,9.87368084425967,"synth_conditional"
+"100",8,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1234,9.86568596098497,"synth_conditional"
+"101",9,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1298,10.377358490566,"synth_conditional"
+"102",9,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1306,10.4413175567637,"synth_conditional"
+"103",9,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1217,9.729772945315,"synth_conditional"
+"104",9,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1216,9.72177806204029,"synth_conditional"
+"105",9,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1217,9.729772945315,"synth_conditional"
+"106",10,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 0
+",1322,10.5692356891589,"synth_conditional"
+"107",10,"IV: 
+ontheffing_reden_hist_other: 0
+ontheffing_hist_ind: 1
+",1303,10.4173329069396,"synth_conditional"
+"108",10,"IV: 
+ontheffing_reden_hist_other: 1
+ontheffing_hist_ind: 1
+",1209,9.66581387911737,"synth_conditional"
+"109",10,"IV: 
+ontheffing_reden_hist_other: 2
+ontheffing_hist_ind: 1
+",1210,9.67380876239207,"synth_conditional"
+"110",10,"IV: 
+ontheffing_reden_hist_other: 3
+ontheffing_hist_ind: 1
+",1210,9.67380876239207,"synth_conditional"

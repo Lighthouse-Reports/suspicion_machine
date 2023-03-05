@@ -1,0 +1,43 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+belemmering_dagen_psychische_problemen: 0
+","Ja",8460,0.489,0.16,0.114775413711584,0.294444444444444,1.47754137115839,19.4444444444444,"real"
+"2","IV: 
+belemmering_dagen_psychische_problemen: 0
+","Ja",12645,0.493,0.153,0.104468169236853,0.292052194543298,0.44681692368525,19.2052194543298,"real_conditional"
+"3","IV: 
+belemmering_dagen_psychische_problemen: 1
+","Ja",12645,0.493,0.153,0.104468169236853,0.292052194543298,0.44681692368525,19.2052194543298,"real_conditional"
+"4","IV: 
+belemmering_dagen_psychische_problemen: 10
+","Ja",12645,0.493,0.153,0.104468169236853,0.292052194543298,0.44681692368525,19.2052194543298,"real_conditional"
+"5","IV: 
+belemmering_dagen_psychische_problemen: 100
+","Ja",12645,0.49,0.153,0.100514037168841,0.284223013048636,0.0514037168841436,18.4223013048636,"real_conditional"
+"6","IV: 
+belemmering_dagen_psychische_problemen: 1000
+","Ja",12645,0.479,0.153,0.0868327402135231,0.258758402530645,-1.31672597864769,15.8758402530645,"real_conditional"
+"7","IV: 
+belemmering_dagen_psychische_problemen: 10000
+","Ja",12645,0.48,0.153,0.0889679715302491,0.262475286674575,-1.10320284697509,16.2475286674575,"real_conditional"
+"8","IV: 
+belemmering_dagen_psychische_problemen: 0
+","Ja",1,0.539,NA,0,0,-10,-10,"synth"
+"9","IV: 
+belemmering_dagen_psychische_problemen: 0
+","Ja",12508,0.614,0.085,0.103693636072913,0.649584266069715,0.369363607291333,54.9584266069715,"synth_conditional"
+"10","IV: 
+belemmering_dagen_psychische_problemen: 1
+","Ja",12508,0.614,0.085,0.103693636072913,0.649584266069715,0.369363607291333,54.9584266069715,"synth_conditional"
+"11","IV: 
+belemmering_dagen_psychische_problemen: 10
+","Ja",12508,0.614,0.085,0.103693636072913,0.649584266069715,0.369363607291333,54.9584266069715,"synth_conditional"
+"12","IV: 
+belemmering_dagen_psychische_problemen: 100
+","Ja",12508,0.613,0.085,0.101934761752478,0.645586824432363,0.193476175247841,54.5586824432363,"synth_conditional"
+"13","IV: 
+belemmering_dagen_psychische_problemen: 1000
+","Ja",12508,0.608,0.085,0.0885033578509754,0.625599616245603,-1.14966421490246,52.5599616245603,"synth_conditional"
+"14","IV: 
+belemmering_dagen_psychische_problemen: 10000
+","Ja",12508,0.61,0.086,0.0940997761432683,0.630796290374161,-0.59002238567317,53.0796290374161,"synth_conditional"

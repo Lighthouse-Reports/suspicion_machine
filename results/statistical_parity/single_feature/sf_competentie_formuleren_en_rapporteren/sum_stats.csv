@@ -1,0 +1,46 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+competentie_formuleren_en_rapporteren: 0
+","Ja",10096,0.472,0.153,0.0827060221870047,0.249702852614897,-1.72939778129953,14.9702852614897,"real"
+"2","IV: 
+competentie_formuleren_en_rapporteren: 1
+","Ja",2513,0.558,0.132,0.16633505769996,0.40708316752885,6.63350576999602,30.708316752885,"real"
+"3","IV: 
+competentie_formuleren_en_rapporteren: 2
+","Ja",35,0.62,0.146,0.314285714285714,0.6,21.4285714285714,50,"real"
+"4","IV: 
+competentie_formuleren_en_rapporteren: 3
+","Ja",1,0.73,NA,1,1,90,90,"real"
+"5","IV: 
+competentie_formuleren_en_rapporteren: 0
+","Ja",12645,0.489,0.153,0.10003954132068,0.281929616449189,0.00395413206801115,18.1929616449189,"real_conditional"
+"6","IV: 
+competentie_formuleren_en_rapporteren: 1
+","Ja",12645,0.49,0.153,0.100434954527481,0.282799525504152,0.0434954527481213,18.2799525504152,"real_conditional"
+"7","IV: 
+competentie_formuleren_en_rapporteren: 2
+","Ja",12645,0.487,0.154,0.0990905496243575,0.278845393436141,-0.0909450375642551,17.8845393436141,"real_conditional"
+"8","IV: 
+competentie_formuleren_en_rapporteren: 3
+","Ja",12645,0.487,0.154,0.0990905496243575,0.278845393436141,-0.0909450375642551,17.8845393436141,"real_conditional"
+"9","IV: 
+competentie_formuleren_en_rapporteren: 0
+","Ja",9253,0.606,0.086,0.0893764184588782,0.614827623473468,-1.06235815411218,51.4827623473468,"synth"
+"10","IV: 
+competentie_formuleren_en_rapporteren: 1
+","Ja",3382,0.627,0.08,0.129213483146067,0.71377882909521,2.92134831460674,61.377882909521,"synth"
+"11","IV: 
+competentie_formuleren_en_rapporteren: 2
+","Ja",10,0.633,0.079,0.1,0.6,0,50,"synth"
+"12","IV: 
+competentie_formuleren_en_rapporteren: 0
+","Ja",12508,0.612,0.085,0.0995362967700672,0.640629996802047,-0.0463703229932846,54.0629996802047,"synth_conditional"
+"13","IV: 
+competentie_formuleren_en_rapporteren: 1
+","Ja",12508,0.612,0.085,0.100095938599296,0.641589382795011,0.00959385992964495,54.1589382795011,"synth_conditional"
+"14","IV: 
+competentie_formuleren_en_rapporteren: 2
+","Ja",12508,0.611,0.086,0.0996162456028142,0.639590661976335,-0.0383754397185812,53.9590661976335,"synth_conditional"
+"15","IV: 
+competentie_formuleren_en_rapporteren: 3
+","Ja",12508,0.611,0.086,0.0996162456028142,0.639590661976335,-0.0383754397185812,53.9590661976335,"synth_conditional"

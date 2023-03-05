@@ -1,0 +1,55 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+belemmering_dagen_lichamelijke_problematiek: 0
+","Ja",8039,0.489,0.16,0.113446946137579,0.293817639009827,1.34469461375793,19.3817639009827,"real"
+"2","IV: 
+belemmering_dagen_lichamelijke_problematiek: 100
+","Ja",1,0.446,NA,0,0,-10,-10,"real"
+"3","IV: 
+belemmering_dagen_lichamelijke_problematiek: 0
+","Ja",12645,0.491,0.154,0.102412020561487,0.28564650059312,0.241202056148675,18.564650059312,"real_conditional"
+"4","IV: 
+belemmering_dagen_lichamelijke_problematiek: 1
+","Ja",12645,0.491,0.154,0.102412020561487,0.28564650059312,0.241202056148675,18.564650059312,"real_conditional"
+"5","IV: 
+belemmering_dagen_lichamelijke_problematiek: 10
+","Ja",12645,0.49,0.154,0.101779359430605,0.284776591538157,0.177935943060498,18.4776591538157,"real_conditional"
+"6","IV: 
+belemmering_dagen_lichamelijke_problematiek: 100
+","Ja",12645,0.49,0.153,0.100514037168841,0.282799525504152,0.0514037168841436,18.2799525504152,"real_conditional"
+"7","IV: 
+belemmering_dagen_lichamelijke_problematiek: 1000
+","Ja",12645,0.487,0.152,0.0964017398181099,0.275682087781732,-0.359826018189008,17.5682087781732,"real_conditional"
+"8","IV: 
+belemmering_dagen_lichamelijke_problematiek: 10000
+","Ja",12645,0.483,0.152,0.0912613681296955,0.267062079873468,-0.873863187030448,16.7062079873468,"real_conditional"
+"9","IV: 
+belemmering_dagen_lichamelijke_problematiek: 1
+","Ja",1,0.647,NA,0,1,-10,90,"synth"
+"10","IV: 
+belemmering_dagen_lichamelijke_problematiek: 100
+","Ja",3,0.653,0.052,0,1,-10,90,"synth"
+"11","IV: 
+belemmering_dagen_lichamelijke_problematiek: 1000
+","Ja",1,0.653,NA,0,1,-10,90,"synth"
+"12","IV: 
+belemmering_dagen_lichamelijke_problematiek: 10000
+","Ja",1,0.7,NA,0,1,-10,90,"synth"
+"13","IV: 
+belemmering_dagen_lichamelijke_problematiek: 0
+","Ja",12508,0.616,0.085,0.11160857051487,0.653981451870803,1.16085705148705,55.3981451870803,"synth_conditional"
+"14","IV: 
+belemmering_dagen_lichamelijke_problematiek: 1
+","Ja",12508,0.616,0.085,0.11160857051487,0.653981451870803,1.16085705148705,55.3981451870803,"synth_conditional"
+"15","IV: 
+belemmering_dagen_lichamelijke_problematiek: 10
+","Ja",12508,0.615,0.085,0.110169491525424,0.652142628717621,1.01694915254237,55.2142628717621,"synth_conditional"
+"16","IV: 
+belemmering_dagen_lichamelijke_problematiek: 100
+","Ja",12508,0.614,0.085,0.106731691717301,0.647585545251039,0.673169171730092,54.7585545251039,"synth_conditional"
+"17","IV: 
+belemmering_dagen_lichamelijke_problematiek: 1000
+","Ja",12508,0.611,0.085,0.0971378317876559,0.638471378317877,-0.28621682123441,53.8471378317877,"synth_conditional"
+"18","IV: 
+belemmering_dagen_lichamelijke_problematiek: 10000
+","Ja",12508,0.607,0.085,0.0851455068755996,0.621122481611768,-1.48544931244004,52.1122481611768,"synth_conditional"

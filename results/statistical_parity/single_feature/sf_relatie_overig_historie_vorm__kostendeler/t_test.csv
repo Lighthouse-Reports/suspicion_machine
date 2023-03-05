@@ -1,0 +1,616 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+",9353,1463,2.16e-93,"****",7.79e-92,"****","real"
+"2","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+",9353,5,0.137,"ns",1,"ns","real"
+"3","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+",1463,5,0.85,"ns",1,"ns","real"
+"4","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+",9353,5,0.24,"ns",1,"ns","real"
+"5","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+",1463,5,0.902,"ns",1,"ns","real"
+"6","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+",5,5,0.825,"ns",1,"ns","real"
+"7","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+",9353,907,2.53e-82,"****",8.84e-81,"****","real"
+"8","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+",1463,907,0.0292,"*",0.818,"ns","real"
+"9","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+",5,907,0.987,"ns",1,"ns","real"
+"10","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+",5,907,0.743,"ns",1,"ns","real"
+"11","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+",9353,5,0.00336,"**",0.101,"ns","real"
+"12","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+",1463,5,0.103,"ns",1,"ns","real"
+"13","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+",5,5,0.307,"ns",1,"ns","real"
+"14","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+",5,5,0.214,"ns",1,"ns","real"
+"15","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+",907,5,0.154,"ns",1,"ns","real"
+"16","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",9353,413,2.77e-42,"****",9.43e-41,"****","real"
+"17","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",1463,413,0.056,"ns",1,"ns","real"
+"18","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",5,413,0.961,"ns",1,"ns","real"
+"19","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",5,413,0.719,"ns",1,"ns","real"
+"20","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",907,413,0.809,"ns",1,"ns","real"
+"21","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",5,413,0.165,"ns",1,"ns","real"
+"22","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",9353,219,2.93e-32,"****",9.66e-31,"****","real"
+"23","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",1463,219,0.00155,"**",0.0481,"*","real"
+"24","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",5,219,0.749,"ns",1,"ns","real"
+"25","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",5,219,0.529,"ns",1,"ns","real"
+"26","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",907,219,0.0685,"ns",1,"ns","real"
+"27","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",5,219,0.268,"ns",1,"ns","real"
+"28","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",413,219,0.142,"ns",1,"ns","real"
+"29","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",9353,98,1.06e-17,"****",3.4e-16,"****","real"
+"30","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",1463,98,0.00546,"**",0.158,"ns","real"
+"31","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",5,98,0.654,"ns",1,"ns","real"
+"32","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",5,98,0.452,"ns",1,"ns","real"
+"33","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",907,98,0.0629,"ns",1,"ns","real"
+"34","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",5,98,0.336,"ns",1,"ns","real"
+"35","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",413,98,0.103,"ns",1,"ns","real"
+"36","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",219,98,0.618,"ns",1,"ns","real"
+"37","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+",12645,12645,0.736,"ns",1,"ns","real_conditional"
+"38","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+",12645,12645,0.00341,"**",0.0956,"ns","real_conditional"
+"39","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+",12645,12645,0.00958,"**",0.23,"ns","real_conditional"
+"40","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+",12645,12645,0.00341,"**",0.0956,"ns","real_conditional"
+"41","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+",12645,12645,0.00958,"**",0.23,"ns","real_conditional"
+"42","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+",12645,12645,0.741,"ns",1,"ns","real_conditional"
+"44","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+",12645,12645,0.505,"ns",1,"ns","real_conditional"
+"45","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+",12645,12645,0.00112,"**",0.0359,"*","real_conditional"
+"46","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+",12645,12645,0.00112,"**",0.0359,"*","real_conditional"
+"47","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+",12645,12645,0.306,"ns",1,"ns","real_conditional"
+"48","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+",12645,12645,0.493,"ns",1,"ns","real_conditional"
+"49","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+",12645,12645,0.0568,"ns",1,"ns","real_conditional"
+"50","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+",12645,12645,0.0568,"ns",1,"ns","real_conditional"
+"51","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+",12645,12645,0.176,"ns",1,"ns","real_conditional"
+"52","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",12645,12645,0.741,"ns",1,"ns","real_conditional"
+"53","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",12645,12645,0.505,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",12645,12645,0.00112,"**",0.0359,"*","real_conditional"
+"55","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",12645,12645,0.00112,"**",0.0359,"*","real_conditional"
+"56","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"57","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",12645,12645,0.176,"ns",1,"ns","real_conditional"
+"58","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",12645,12645,0.343,"ns",1,"ns","real_conditional"
+"59","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",12645,12645,0.542,"ns",1,"ns","real_conditional"
+"60","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",12645,12645,0.0477,"*",1,"ns","real_conditional"
+"61","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",12645,12645,0.0477,"*",1,"ns","real_conditional"
+"62","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",12645,12645,0.201,"ns",1,"ns","real_conditional"
+"63","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",12645,12645,0.94,"ns",1,"ns","real_conditional"
+"64","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",12645,12645,0.201,"ns",1,"ns","real_conditional"
+"65","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",12645,12645,0.000194,"***",0.00661,"**","real_conditional"
+"66","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",12645,12645,0.000701,"***",0.0231,"*","real_conditional"
+"67","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",12645,12645,0.425,"ns",1,"ns","real_conditional"
+"68","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",12645,12645,0.425,"ns",1,"ns","real_conditional"
+"69","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",12645,12645,4.99e-05,"****",0.00179,"**","real_conditional"
+"70","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",12645,12645,0.00686,"**",0.171,"ns","real_conditional"
+"71","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",12645,12645,4.99e-05,"****",0.00179,"**","real_conditional"
+"72","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",12645,12645,0.00545,"**",0.142,"ns","real_conditional"
+"73","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+",2670,4932,1.91e-59,"****",2.1e-58,"****","synth"
+"74","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+",2670,3174,8.95e-173,"****",1.34e-171,"****","synth"
+"75","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+",4932,3174,2.81e-54,"****",2.81e-53,"****","synth"
+"76","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",2670,1357,1.82e-169,"****",2.55e-168,"****","synth"
+"77","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",4932,1357,2.83e-70,"****",3.4e-69,"****","synth"
+"78","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",3174,1357,3.34e-09,"****",2.01e-08,"****","synth"
+"79","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",2670,410,1.5e-83,"****",1.95e-82,"****","synth"
+"80","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",4932,410,1.3e-35,"****",1.17e-34,"****","synth"
+"81","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",3174,410,4.39e-08,"****",2.19e-07,"****","synth"
+"82","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",1357,410,0.0901,"ns",0.156,"ns","synth"
+"83","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",2670,91,4.42e-31,"****",3.54e-30,"****","synth"
+"84","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",4932,91,1.33e-15,"****",9.34e-15,"****","synth"
+"85","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",3174,91,3.77e-06,"****",1.51e-05,"****","synth"
+"86","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",1357,91,0.00563,"**",0.0169,"*","synth"
+"87","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",410,91,0.0779,"ns",0.156,"ns","synth"
+"88","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+",12508,12508,0.646,"ns",1,"ns","synth_conditional"
+"89","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+",12508,12508,8.02e-11,"****",2.25e-09,"****","synth_conditional"
+"90","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+",12508,12508,1.54e-09,"****",4e-08,"****","synth_conditional"
+"91","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+",12508,12508,8.02e-11,"****",2.25e-09,"****","synth_conditional"
+"92","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+",12508,12508,1.54e-09,"****",4e-08,"****","synth_conditional"
+"93","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"94","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+",12508,12508,0.895,"ns",1,"ns","synth_conditional"
+"95","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+",12508,12508,0.554,"ns",1,"ns","synth_conditional"
+"96","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+",12508,12508,3.31e-11,"****",1.06e-09,"****","synth_conditional"
+"97","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+",12508,12508,3.31e-11,"****",1.06e-09,"****","synth_conditional"
+"98","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+",12508,12508,1.21e-06,"****",2.53e-05,"****","synth_conditional"
+"99","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+",12508,12508,1.11e-05,"****",0.000222,"***","synth_conditional"
+"100","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+",12508,12508,0.0998,"ns",1,"ns","synth_conditional"
+"101","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+",12508,12508,0.0998,"ns",1,"ns","synth_conditional"
+"102","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+",12508,12508,6.14e-07,"****",1.41e-05,"****","synth_conditional"
+"103","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",12508,12508,0.895,"ns",1,"ns","synth_conditional"
+"104","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",12508,12508,0.554,"ns",1,"ns","synth_conditional"
+"105","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",12508,12508,3.31e-11,"****",1.06e-09,"****","synth_conditional"
+"106","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",12508,12508,3.31e-11,"****",1.06e-09,"****","synth_conditional"
+"107","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"108","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+",12508,12508,6.14e-07,"****",1.41e-05,"****","synth_conditional"
+"109","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",12508,12508,0.0289,"*",0.376,"ns","synth_conditional"
+"110","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",12508,12508,0.0845,"ns",1,"ns","synth_conditional"
+"111","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",12508,12508,1.59e-05,"****",0.000302,"***","synth_conditional"
+"112","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",12508,12508,1.59e-05,"****",0.000302,"***","synth_conditional"
+"113","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",12508,12508,0.0205,"*",0.308,"ns","synth_conditional"
+"114","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",12508,12508,0.00758,"**",0.121,"ns","synth_conditional"
+"115","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+",12508,12508,0.0205,"*",0.308,"ns","synth_conditional"
+"116","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",12508,12508,3.85e-16,"****",1.31e-14,"****","synth_conditional"
+"117","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",12508,12508,1.55e-14,"****",5.11e-13,"****","synth_conditional"
+"118","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",12508,12508,0.1,"ns",1,"ns","synth_conditional"
+"119","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",12508,12508,0.1,"ns",1,"ns","synth_conditional"
+"120","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",12508,12508,1.28e-16,"****",4.61e-15,"****","synth_conditional"
+"121","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",12508,12508,0.001,"**",0.0171,"*","synth_conditional"
+"122","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",12508,12508,1.28e-16,"****",4.61e-15,"****","synth_conditional"
+"123","Ja","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+",12508,12508,2.54e-09,"****",6.09e-08,"****","synth_conditional"

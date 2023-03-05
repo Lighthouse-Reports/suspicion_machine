@@ -1,0 +1,25 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+belemmering_psychische_problemen: 0
+","Ja",8986,0.485,0.16,0.110616514578233,0.285666592477187,1.06165145782328,18.5666592477187,"real"
+"2","IV: 
+belemmering_psychische_problemen: 1
+","Ja",3659,0.499,0.136,0.0740639518994261,0.273025416780541,-2.59360481005739,17.3025416780541,"real"
+"3","IV: 
+belemmering_psychische_problemen: 0
+","Ja",12645,0.489,0.153,0.100276789244761,0.282404112297351,0.0276789244760767,18.2404112297351,"real_conditional"
+"4","IV: 
+belemmering_psychische_problemen: 1
+","Ja",12645,0.489,0.153,0.0995650454725188,0.281534203242388,-0.0434954527481227,18.1534203242388,"real_conditional"
+"5","IV: 
+belemmering_psychische_problemen: 0
+","Ja",6519,0.61,0.088,0.105691056910569,0.628163828808099,0.569105691056911,52.8163828808099,"synth"
+"6","IV: 
+belemmering_psychische_problemen: 1
+","Ja",6126,0.614,0.083,0.0940254652301665,0.655239960822723,-0.597453476983351,55.5239960822723,"synth"
+"7","IV: 
+belemmering_psychische_problemen: 0
+","Ja",12508,0.612,0.085,0.100575631595779,0.641269587464023,0.0575631595778697,54.1269587464023,"synth_conditional"
+"8","IV: 
+belemmering_psychische_problemen: 1
+","Ja",12508,0.612,0.085,0.0988167572753438,0.640949792133035,-0.118324272465622,54.0949792133035,"synth_conditional"

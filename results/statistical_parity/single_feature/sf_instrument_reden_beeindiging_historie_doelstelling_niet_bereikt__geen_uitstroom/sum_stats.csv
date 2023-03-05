@@ -1,0 +1,121 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 0
+","Ja",6710,0.499,0.152,0.109239940387481,0.297019374068554,0.923994038748137,19.7019374068554,"real"
+"2","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 1
+","Ja",3273,0.48,0.157,0.0977696303085854,0.269172013443324,-0.223036969141462,16.9172013443324,"real"
+"3","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 10
+","Ja",1,0.313,NA,0,0,-10,-10,"real"
+"4","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 2
+","Ja",1494,0.469,0.152,0.0749665327978581,0.252342704149933,-2.50334672021419,15.2342704149933,"real"
+"5","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 3
+","Ja",712,0.482,0.152,0.0856741573033708,0.265449438202247,-1.43258426966292,16.5449438202247,"real"
+"6","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 4
+","Ja",268,0.472,0.148,0.0634328358208955,0.242537313432836,-3.65671641791045,14.2537313432836,"real"
+"7","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 5
+","Ja",103,0.504,0.142,0.106796116504854,0.29126213592233,0.679611650485436,19.126213592233,"real"
+"8","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 6
+","Ja",58,0.531,0.134,0.120689655172414,0.362068965517241,2.06896551724138,26.2068965517241,"real"
+"9","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 7
+","Ja",16,0.544,0.177,0.1875,0.5,8.75,40,"real"
+"10","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 8
+","Ja",7,0.37,0.111,0,0,-10,-10,"real"
+"11","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 9
+","Ja",3,0.527,0.277,0.333333333333333,0.666666666666667,23.3333333333333,56.6666666666667,"real"
+"12","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 0
+","Ja",12645,0.489,0.153,0.10003954132068,0.28224594701463,0.00395413206801115,18.224594701463,"real_conditional"
+"13","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 1
+","Ja",12645,0.489,0.153,0.10003954132068,0.28224594701463,0.00395413206801115,18.224594701463,"real_conditional"
+"14","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 10
+","Ja",12645,0.488,0.154,0.0987742190589166,0.280347963621985,-0.122578094108343,18.0347963621985,"real_conditional"
+"15","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 2
+","Ja",12645,0.489,0.153,0.0999604586793199,0.281771451166469,-0.00395413206801115,18.1771451166469,"real_conditional"
+"16","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 3
+","Ja",12645,0.489,0.154,0.101067615658363,0.283194938710953,0.106761565836298,18.3194938710953,"real_conditional"
+"17","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 4
+","Ja",12645,0.488,0.154,0.0987742190589166,0.280347963621985,-0.122578094108343,18.0347963621985,"real_conditional"
+"18","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 5
+","Ja",12645,0.488,0.154,0.0987742190589166,0.280347963621985,-0.122578094108343,18.0347963621985,"real_conditional"
+"19","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 6
+","Ja",12645,0.488,0.154,0.0987742190589166,0.280347963621985,-0.122578094108343,18.0347963621985,"real_conditional"
+"20","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 7
+","Ja",12645,0.488,0.154,0.0987742190589166,0.280347963621985,-0.122578094108343,18.0347963621985,"real_conditional"
+"21","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 8
+","Ja",12645,0.488,0.154,0.0987742190589166,0.280347963621985,-0.122578094108343,18.0347963621985,"real_conditional"
+"22","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 9
+","Ja",12645,0.488,0.154,0.0987742190589166,0.280347963621985,-0.122578094108343,18.0347963621985,"real_conditional"
+"23","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 0
+","Ja",2965,0.611,0.085,0.0974704890387858,0.640472175379427,-0.252951096121418,54.0472175379427,"synth"
+"24","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 1
+","Ja",5411,0.614,0.084,0.103862502310109,0.64849380890778,0.386250231010903,54.849380890778,"synth"
+"25","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 2
+","Ja",3035,0.612,0.086,0.100494233937397,0.645140032948929,0.0494233937397032,54.5140032948929,"synth"
+"26","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 3
+","Ja",1015,0.605,0.087,0.0916256157635468,0.606896551724138,-0.83743842364532,50.6896551724138,"synth"
+"27","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 4
+","Ja",193,0.603,0.086,0.0829015544041451,0.595854922279793,-1.70984455958549,49.5854922279793,"synth"
+"28","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 5
+","Ja",23,0.593,0.079,0,0.521739130434783,-10,42.1739130434783,"synth"
+"29","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 6
+","Ja",3,0.514,0.078,0,0,-10,-10,"synth"
+"30","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 0
+","Ja",12508,0.612,0.085,0.100255836264791,0.642149024624241,0.0255836264790532,54.214902462424,"synth_conditional"
+"31","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 1
+","Ja",12508,0.612,0.085,0.100255836264791,0.642149024624241,0.0255836264790532,54.214902462424,"synth_conditional"
+"32","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 10
+","Ja",12508,0.611,0.086,0.0977774224496322,0.634473936680524,-0.222257755036777,53.4473936680524,"synth_conditional"
+"33","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 2
+","Ja",12508,0.611,0.085,0.0986568596098497,0.638631275983371,-0.134314039015031,53.8631275983371,"synth_conditional"
+"34","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 3
+","Ja",12508,0.612,0.085,0.100575631595779,0.639270866645347,0.0575631595778697,53.9270866645347,"synth_conditional"
+"35","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 4
+","Ja",12508,0.611,0.086,0.0977774224496322,0.634473936680524,-0.222257755036777,53.4473936680524,"synth_conditional"
+"36","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 5
+","Ja",12508,0.611,0.086,0.0977774224496322,0.634473936680524,-0.222257755036777,53.4473936680524,"synth_conditional"
+"37","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 6
+","Ja",12508,0.611,0.086,0.0977774224496322,0.634473936680524,-0.222257755036777,53.4473936680524,"synth_conditional"
+"38","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 7
+","Ja",12508,0.611,0.086,0.0977774224496322,0.634473936680524,-0.222257755036777,53.4473936680524,"synth_conditional"
+"39","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 8
+","Ja",12508,0.611,0.086,0.0977774224496322,0.634473936680524,-0.222257755036777,53.4473936680524,"synth_conditional"
+"40","IV: 
+instrument_reden_beeindiging_historie_doelstelling_niet_bereikt__geen_uitstroom: 9
+","Ja",12508,0.611,0.086,0.0977774224496322,0.634473936680524,-0.222257755036777,53.4473936680524,"synth_conditional"

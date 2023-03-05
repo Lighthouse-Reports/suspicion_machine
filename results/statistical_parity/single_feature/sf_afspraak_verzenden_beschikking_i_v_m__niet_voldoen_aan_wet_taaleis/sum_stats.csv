@@ -1,0 +1,52 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 0
+","Ja",11456,0.494,0.155,0.107716480446927,0.295740223463687,0.771648044692737,19.5740223463687,"real"
+"2","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 1
+","Ja",1112,0.442,0.131,0.0242805755395683,0.142985611510791,-7.57194244604317,4.29856115107914,"real"
+"3","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 2
+","Ja",71,0.496,0.129,0.0563380281690141,0.253521126760563,-4.36619718309859,15.3521126760563,"real"
+"4","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 3
+","Ja",5,0.455,0.149,0,0.2,-10,10,"real"
+"5","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 4
+","Ja",1,0.534,NA,0,0,-10,-10,"real"
+"6","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 0
+","Ja",12645,0.49,0.153,0.100276789244761,0.283036773428232,0.0276789244760767,18.3036773428232,"real_conditional"
+"7","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 1
+","Ja",12645,0.485,0.153,0.0942665085013839,0.273072360616845,-0.573349149861606,17.3072360616845,"real_conditional"
+"8","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 2
+","Ja",12645,0.49,0.153,0.098932384341637,0.282483194938711,-0.1067615658363,18.2483194938711,"real_conditional"
+"9","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 3
+","Ja",12645,0.49,0.153,0.098932384341637,0.282483194938711,-0.1067615658363,18.2483194938711,"real_conditional"
+"10","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 4
+","Ja",12645,0.49,0.153,0.098932384341637,0.282483194938711,-0.1067615658363,18.2483194938711,"real_conditional"
+"11","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 0
+","Ja",10573,0.614,0.085,0.107538068665469,0.652511113212901,0.753806866546865,55.2511113212901,"synth"
+"12","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 1
+","Ja",2072,0.599,0.083,0.0617760617760618,0.583976833976834,-3.82239382239382,48.3976833976834,"synth"
+"13","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 0
+","Ja",12508,0.612,0.085,0.101455068755996,0.644067796610169,0.145506875599616,54.4067796610169,"synth_conditional"
+"14","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 1
+","Ja",12508,0.608,0.085,0.0882635113527342,0.626958746402303,-1.17364886472658,52.6958746402303,"synth_conditional"
+"15","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 2
+","Ja",12508,0.613,0.085,0.0998560921010553,0.645986568596098,-0.0143907898944681,54.5986568596099,"synth_conditional"
+"16","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 3
+","Ja",12508,0.613,0.085,0.0998560921010553,0.645986568596098,-0.0143907898944681,54.5986568596099,"synth_conditional"
+"17","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 4
+","Ja",12508,0.613,0.085,0.0998560921010553,0.645986568596098,-0.0143907898944681,54.5986568596099,"synth_conditional"

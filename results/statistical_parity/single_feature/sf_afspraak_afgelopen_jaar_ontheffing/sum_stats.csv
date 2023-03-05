@@ -1,0 +1,46 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+","Ja",10403,0.497,0.156,0.112467557435355,0.302701143900798,1.24675574353552,20.2701143900798,"real"
+"2","IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+","Ja",1920,0.458,0.139,0.0479166666666667,0.194270833333333,-5.20833333333333,9.42708333333333,"real"
+"3","IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+","Ja",311,0.436,0.128,0.00964630225080386,0.138263665594855,-9.03536977491961,3.82636655948553,"real"
+"4","IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+","Ja",11,0.467,0.116,0,0.0909090909090909,-10,-0.909090909090909,"real"
+"5","IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+","Ja",12645,0.489,0.153,0.10011862396204,0.28208778173191,0.0118623962040335,18.208778173191,"real_conditional"
+"6","IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+","Ja",12645,0.489,0.153,0.10011862396204,0.28208778173191,0.0118623962040335,18.208778173191,"real_conditional"
+"7","IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+","Ja",12645,0.488,0.153,0.0976670620798735,0.279636219849743,-0.233293792012654,17.9636219849743,"real_conditional"
+"8","IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+","Ja",12645,0.488,0.153,0.0976670620798735,0.279636219849743,-0.233293792012654,17.9636219849743,"real_conditional"
+"9","IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+","Ja",7171,0.612,0.085,0.0994282526844234,0.640217542881049,-0.0571747315576632,54.0217542881049,"synth"
+"10","IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+","Ja",5413,0.612,0.085,0.101237760945871,0.643635691852947,0.123776094587104,54.3635691852947,"synth"
+"11","IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+","Ja",61,0.597,0.083,0.0655737704918033,0.557377049180328,-3.44262295081967,45.7377049180328,"synth"
+"12","IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"13","IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"14","IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+","Ja",12508,0.611,0.085,0.0975375759513911,0.638151582986888,-0.24624240486089,53.8151582986888,"synth_conditional"
+"15","IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+","Ja",12508,0.611,0.085,0.0975375759513911,0.638151582986888,-0.24624240486089,53.8151582986888,"synth_conditional"

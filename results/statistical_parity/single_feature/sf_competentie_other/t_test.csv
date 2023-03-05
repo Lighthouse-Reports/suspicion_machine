@@ -1,0 +1,356 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"2","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 10
+",12645,12645,0.246,"ns",1,"ns","real_conditional"
+"3","Ja","IV: 
+competentie_other: 1
+","IV: 
+competentie_other: 10
+",12645,12645,0.246,"ns",1,"ns","real_conditional"
+"4","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 15
+",12645,12645,0.246,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+competentie_other: 1
+","IV: 
+competentie_other: 15
+",12645,12645,0.246,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+competentie_other: 10
+","IV: 
+competentie_other: 15
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 2
+",12645,12645,0.92,"ns",1,"ns","real_conditional"
+"8","Ja","IV: 
+competentie_other: 1
+","IV: 
+competentie_other: 2
+",12645,12645,0.92,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+competentie_other: 10
+","IV: 
+competentie_other: 2
+",12645,12645,0.207,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+competentie_other: 15
+","IV: 
+competentie_other: 2
+",12645,12645,0.207,"ns",1,"ns","real_conditional"
+"11","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 3
+",12645,12645,0.92,"ns",1,"ns","real_conditional"
+"12","Ja","IV: 
+competentie_other: 1
+","IV: 
+competentie_other: 3
+",12645,12645,0.92,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+competentie_other: 10
+","IV: 
+competentie_other: 3
+",12645,12645,0.207,"ns",1,"ns","real_conditional"
+"14","Ja","IV: 
+competentie_other: 15
+","IV: 
+competentie_other: 3
+",12645,12645,0.207,"ns",1,"ns","real_conditional"
+"15","Ja","IV: 
+competentie_other: 2
+","IV: 
+competentie_other: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"16","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 4
+",12645,12645,0.867,"ns",1,"ns","real_conditional"
+"17","Ja","IV: 
+competentie_other: 1
+","IV: 
+competentie_other: 4
+",12645,12645,0.867,"ns",1,"ns","real_conditional"
+"18","Ja","IV: 
+competentie_other: 10
+","IV: 
+competentie_other: 4
+",12645,12645,0.32,"ns",1,"ns","real_conditional"
+"19","Ja","IV: 
+competentie_other: 15
+","IV: 
+competentie_other: 4
+",12645,12645,0.32,"ns",1,"ns","real_conditional"
+"20","Ja","IV: 
+competentie_other: 2
+","IV: 
+competentie_other: 4
+",12645,12645,0.788,"ns",1,"ns","real_conditional"
+"21","Ja","IV: 
+competentie_other: 3
+","IV: 
+competentie_other: 4
+",12645,12645,0.788,"ns",1,"ns","real_conditional"
+"22","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 5
+",12645,12645,0.867,"ns",1,"ns","real_conditional"
+"23","Ja","IV: 
+competentie_other: 1
+","IV: 
+competentie_other: 5
+",12645,12645,0.867,"ns",1,"ns","real_conditional"
+"24","Ja","IV: 
+competentie_other: 10
+","IV: 
+competentie_other: 5
+",12645,12645,0.32,"ns",1,"ns","real_conditional"
+"25","Ja","IV: 
+competentie_other: 15
+","IV: 
+competentie_other: 5
+",12645,12645,0.32,"ns",1,"ns","real_conditional"
+"26","Ja","IV: 
+competentie_other: 2
+","IV: 
+competentie_other: 5
+",12645,12645,0.788,"ns",1,"ns","real_conditional"
+"27","Ja","IV: 
+competentie_other: 3
+","IV: 
+competentie_other: 5
+",12645,12645,0.788,"ns",1,"ns","real_conditional"
+"28","Ja","IV: 
+competentie_other: 4
+","IV: 
+competentie_other: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"29","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 1
+",2411,4642,6.61e-13,"****",5.95e-12,"****","synth"
+"30","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 2
+",2411,3243,9.23e-39,"****",1.29e-37,"****","synth"
+"31","Ja","IV: 
+competentie_other: 1
+","IV: 
+competentie_other: 2
+",4642,3243,9.21e-14,"****",9.21e-13,"****","synth"
+"32","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 3
+",2411,1537,1.46e-41,"****",2.2e-40,"****","synth"
+"33","Ja","IV: 
+competentie_other: 1
+","IV: 
+competentie_other: 3
+",4642,1537,6.57e-19,"****",7.23e-18,"****","synth"
+"34","Ja","IV: 
+competentie_other: 2
+","IV: 
+competentie_other: 3
+",3243,1537,0.00328,"**",0.0164,"*","synth"
+"35","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 4
+",2411,633,3.77e-36,"****",4.9e-35,"****","synth"
+"36","Ja","IV: 
+competentie_other: 1
+","IV: 
+competentie_other: 4
+",4642,633,2.31e-19,"****",2.78e-18,"****","synth"
+"37","Ja","IV: 
+competentie_other: 2
+","IV: 
+competentie_other: 4
+",3243,633,1.2e-06,"****",8.4e-06,"****","synth"
+"38","Ja","IV: 
+competentie_other: 3
+","IV: 
+competentie_other: 4
+",1537,633,0.011,"*",0.0442,"*","synth"
+"39","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 5
+",2411,135,1.31e-07,"****",1.05e-06,"****","synth"
+"40","Ja","IV: 
+competentie_other: 1
+","IV: 
+competentie_other: 5
+",4642,135,0.00104,"**",0.00624,"**","synth"
+"41","Ja","IV: 
+competentie_other: 2
+","IV: 
+competentie_other: 5
+",3243,135,0.188,"ns",0.564,"ns","synth"
+"42","Ja","IV: 
+competentie_other: 3
+","IV: 
+competentie_other: 5
+",1537,135,0.784,"ns",0.784,"ns","synth"
+"43","Ja","IV: 
+competentie_other: 4
+","IV: 
+competentie_other: 5
+",633,135,0.314,"ns",0.628,"ns","synth"
+"44","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"45","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 10
+",12508,12508,0.000127,"***",0.00356,"**","synth_conditional"
+"46","Ja","IV: 
+competentie_other: 1
+","IV: 
+competentie_other: 10
+",12508,12508,0.000127,"***",0.00356,"**","synth_conditional"
+"47","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 15
+",12508,12508,0.000127,"***",0.00356,"**","synth_conditional"
+"48","Ja","IV: 
+competentie_other: 1
+","IV: 
+competentie_other: 15
+",12508,12508,0.000127,"***",0.00356,"**","synth_conditional"
+"49","Ja","IV: 
+competentie_other: 10
+","IV: 
+competentie_other: 15
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"50","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 2
+",12508,12508,0.872,"ns",1,"ns","synth_conditional"
+"51","Ja","IV: 
+competentie_other: 1
+","IV: 
+competentie_other: 2
+",12508,12508,0.872,"ns",1,"ns","synth_conditional"
+"52","Ja","IV: 
+competentie_other: 10
+","IV: 
+competentie_other: 2
+",12508,12508,0.000242,"***",0.0058,"**","synth_conditional"
+"53","Ja","IV: 
+competentie_other: 15
+","IV: 
+competentie_other: 2
+",12508,12508,0.000242,"***",0.0058,"**","synth_conditional"
+"54","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 3
+",12508,12508,0.872,"ns",1,"ns","synth_conditional"
+"55","Ja","IV: 
+competentie_other: 1
+","IV: 
+competentie_other: 3
+",12508,12508,0.872,"ns",1,"ns","synth_conditional"
+"56","Ja","IV: 
+competentie_other: 10
+","IV: 
+competentie_other: 3
+",12508,12508,0.000242,"***",0.0058,"**","synth_conditional"
+"57","Ja","IV: 
+competentie_other: 15
+","IV: 
+competentie_other: 3
+",12508,12508,0.000242,"***",0.0058,"**","synth_conditional"
+"58","Ja","IV: 
+competentie_other: 2
+","IV: 
+competentie_other: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"59","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 4
+",12508,12508,0.303,"ns",1,"ns","synth_conditional"
+"60","Ja","IV: 
+competentie_other: 1
+","IV: 
+competentie_other: 4
+",12508,12508,0.303,"ns",1,"ns","synth_conditional"
+"61","Ja","IV: 
+competentie_other: 10
+","IV: 
+competentie_other: 4
+",12508,12508,0.00507,"**",0.101,"ns","synth_conditional"
+"62","Ja","IV: 
+competentie_other: 15
+","IV: 
+competentie_other: 4
+",12508,12508,0.00507,"**",0.101,"ns","synth_conditional"
+"63","Ja","IV: 
+competentie_other: 2
+","IV: 
+competentie_other: 4
+",12508,12508,0.385,"ns",1,"ns","synth_conditional"
+"64","Ja","IV: 
+competentie_other: 3
+","IV: 
+competentie_other: 4
+",12508,12508,0.385,"ns",1,"ns","synth_conditional"
+"65","Ja","IV: 
+competentie_other: 0
+","IV: 
+competentie_other: 5
+",12508,12508,0.303,"ns",1,"ns","synth_conditional"
+"66","Ja","IV: 
+competentie_other: 1
+","IV: 
+competentie_other: 5
+",12508,12508,0.303,"ns",1,"ns","synth_conditional"
+"67","Ja","IV: 
+competentie_other: 10
+","IV: 
+competentie_other: 5
+",12508,12508,0.00507,"**",0.101,"ns","synth_conditional"
+"68","Ja","IV: 
+competentie_other: 15
+","IV: 
+competentie_other: 5
+",12508,12508,0.00507,"**",0.101,"ns","synth_conditional"
+"69","Ja","IV: 
+competentie_other: 2
+","IV: 
+competentie_other: 5
+",12508,12508,0.385,"ns",1,"ns","synth_conditional"
+"70","Ja","IV: 
+competentie_other: 3
+","IV: 
+competentie_other: 5
+",12508,12508,0.385,"ns",1,"ns","synth_conditional"
+"71","Ja","IV: 
+competentie_other: 4
+","IV: 
+competentie_other: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"

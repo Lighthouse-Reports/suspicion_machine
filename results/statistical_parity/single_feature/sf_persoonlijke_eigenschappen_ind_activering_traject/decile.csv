@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1228,10.9623281556865,"real"
+"2",1,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",37,2.56410256410256,"real"
+"3",2,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1185,10.5784681306909,"real"
+"4",2,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",80,5.54400554400554,"real"
+"5",3,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1130,10.0874843777897,"real"
+"6",3,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",135,9.35550935550935,"real"
+"7",4,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1107,9.8821638993037,"real"
+"8",4,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",158,10.949410949411,"real"
+"9",5,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1095,9.77504017139796,"real"
+"10",5,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",170,11.7810117810118,"real"
+"11",6,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1104,9.85538296732726,"real"
+"12",6,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",160,11.0880110880111,"real"
+"13",7,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1059,9.45366898768077,"real"
+"14",7,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",205,14.2065142065142,"real"
+"15",8,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1100,9.81967505802535,"real"
+"16",8,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",164,11.3652113652114,"real"
+"17",9,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1074,9.58757364756294,"real"
+"18",9,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",190,13.1670131670132,"real"
+"19",10,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1120,9.9982146045349,"real"
+"20",10,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",144,9.97920997920998,"real"
+"21",1,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1264,9.99604586793199,"real_conditional"
+"22",1,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1265,10.003954132068,"real_conditional"
+"23",2,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1262,9.98022933965994,"real_conditional"
+"24",2,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1267,10.0197706603401,"real_conditional"
+"25",3,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1264,9.99604586793199,"real_conditional"
+"26",3,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1265,10.003954132068,"real_conditional"
+"27",4,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1262,9.98022933965994,"real_conditional"
+"28",4,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1267,10.0197706603401,"real_conditional"
+"29",5,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1268,10.0276789244761,"real_conditional"
+"30",5,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1261,9.97232107552392,"real_conditional"
+"31",6,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1263,9.98813760379597,"real_conditional"
+"32",6,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1266,10.011862396204,"real_conditional"
+"33",7,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1265,10.003954132068,"real_conditional"
+"34",7,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1264,9.99604586793199,"real_conditional"
+"35",8,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1265,10.003954132068,"real_conditional"
+"36",8,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1264,9.99604586793199,"real_conditional"
+"37",9,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1267,10.0197706603401,"real_conditional"
+"38",9,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1262,9.98022933965994,"real_conditional"
+"39",10,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1265,10.003954132068,"real_conditional"
+"40",10,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1264,9.99604586793199,"real_conditional"
+"41",1,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1127,10.4226394155184,"synth"
+"42",1,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",138,7.53275109170306,"synth"
+"43",2,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1081,9.99722556182373,"synth"
+"44",2,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",184,10.0436681222707,"synth"
+"45",3,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1071,9.90474428928142,"synth"
+"46",3,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",194,10.589519650655,"synth"
+"47",4,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1086,10.0434661980949,"synth"
+"48",4,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",179,9.7707423580786,"synth"
+"49",5,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1074,9.93248867104411,"synth"
+"50",5,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",191,10.4257641921397,"synth"
+"51",6,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1077,9.96023305280681,"synth"
+"52",6,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",187,10.207423580786,"synth"
+"53",7,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1082,10.006473689078,"synth"
+"54",7,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",182,9.93449781659389,"synth"
+"55",8,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1082,10.006473689078,"synth"
+"56",8,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",182,9.93449781659389,"synth"
+"57",9,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1068,9.87699990751873,"synth"
+"58",9,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",196,10.6986899563319,"synth"
+"59",10,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1065,9.84925552575603,"synth"
+"60",10,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",199,10.8624454148472,"synth"
+"61",1,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1251,10.0015989766549,"synth_conditional"
+"62",1,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1251,10.0015989766549,"synth_conditional"
+"63",2,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1251,10.0015989766549,"synth_conditional"
+"64",2,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1251,10.0015989766549,"synth_conditional"
+"65",3,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1251,10.0015989766549,"synth_conditional"
+"66",3,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1251,10.0015989766549,"synth_conditional"
+"67",4,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1251,10.0015989766549,"synth_conditional"
+"68",4,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1251,10.0015989766549,"synth_conditional"
+"69",5,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1251,10.0015989766549,"synth_conditional"
+"70",5,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1251,10.0015989766549,"synth_conditional"
+"71",6,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1251,10.0015989766549,"synth_conditional"
+"72",6,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1251,10.0015989766549,"synth_conditional"
+"73",7,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1250,9.99360409338024,"synth_conditional"
+"74",7,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1251,10.0015989766549,"synth_conditional"
+"75",8,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1251,10.0015989766549,"synth_conditional"
+"76",8,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1250,9.99360409338024,"synth_conditional"
+"77",9,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1251,10.0015989766549,"synth_conditional"
+"78",9,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1250,9.99360409338024,"synth_conditional"
+"79",10,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 0
+",1250,9.99360409338024,"synth_conditional"
+"80",10,"IV: 
+persoonlijke_eigenschappen_ind_activering_traject: 1
+",1251,10.0015989766549,"synth_conditional"

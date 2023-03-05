@@ -1,0 +1,412 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1227,11.4941451990632,"real"
+"2",1,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",35,1.87667560321716,"real"
+"3",1,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",3,2.97029702970297,"real"
+"4",2,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1158,10.847775175644,"real"
+"5",2,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",103,5.52278820375335,"real"
+"6",2,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",4,3.96039603960396,"real"
+"7",3,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1115,10.4449648711944,"real"
+"8",3,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",143,7.66756032171582,"real"
+"9",3,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",7,6.93069306930693,"real"
+"10",4,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1044,9.77985948477752,"real"
+"11",4,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",213,11.4209115281501,"real"
+"12",4,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",8,7.92079207920792,"real"
+"13",5,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1037,9.71428571428571,"real"
+"14",5,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",217,11.6353887399464,"real"
+"15",5,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",10,9.9009900990099,"real"
+"16",5,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1,25,"real"
+"17",6,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1031,9.65807962529274,"real"
+"18",6,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",218,11.6890080428954,"real"
+"19",6,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",14,13.8613861386139,"real"
+"20",6,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1,25,"real"
+"21",7,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1019,9.54566744730679,"real"
+"22",7,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",232,12.4396782841823,"real"
+"23",7,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",12,11.8811881188119,"real"
+"24",7,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1,25,"real"
+"25",8,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1017,9.52693208430913,"real"
+"26",8,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",228,12.2252010723861,"real"
+"27",8,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",19,18.8118811881188,"real"
+"28",9,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",991,9.28337236533958,"real"
+"29",9,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",260,13.941018766756,"real"
+"30",9,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",13,12.8712871287129,"real"
+"31",10,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1036,9.70491803278689,"real"
+"32",10,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",216,11.5817694369973,"real"
+"33",10,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",11,10.8910891089109,"real"
+"34",10,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1,25,"real"
+"35",1,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1259,9.95650454725188,"real_conditional"
+"36",1,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1267,10.0197706603401,"real_conditional"
+"37",1,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1266,10.011862396204,"real_conditional"
+"38",1,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1266,10.011862396204,"real_conditional"
+"39",2,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1267,10.0197706603401,"real_conditional"
+"40",2,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1263,9.98813760379597,"real_conditional"
+"41",2,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1264,9.99604586793199,"real_conditional"
+"42",2,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1264,9.99604586793199,"real_conditional"
+"43",3,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1255,9.92487149070779,"real_conditional"
+"44",3,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1268,10.0276789244761,"real_conditional"
+"45",3,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1268,10.0276789244761,"real_conditional"
+"46",3,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1267,10.0197706603401,"real_conditional"
+"47",4,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1267,10.0197706603401,"real_conditional"
+"48",4,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1264,9.99604586793199,"real_conditional"
+"49",4,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1263,9.98813760379597,"real_conditional"
+"50",4,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1264,9.99604586793199,"real_conditional"
+"51",5,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1252,9.90114669829972,"real_conditional"
+"52",5,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1268,10.0276789244761,"real_conditional"
+"53",5,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1269,10.0355871886121,"real_conditional"
+"54",5,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1269,10.0355871886121,"real_conditional"
+"55",6,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1273,10.0672202451562,"real_conditional"
+"56",6,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1262,9.98022933965994,"real_conditional"
+"57",6,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1262,9.98022933965994,"real_conditional"
+"58",6,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1261,9.97232107552392,"real_conditional"
+"59",7,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1266,10.011862396204,"real_conditional"
+"60",7,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1264,9.99604586793199,"real_conditional"
+"61",7,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1264,9.99604586793199,"real_conditional"
+"62",7,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1264,9.99604586793199,"real_conditional"
+"63",8,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1264,9.99604586793199,"real_conditional"
+"64",8,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1265,10.003954132068,"real_conditional"
+"65",8,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1264,9.99604586793199,"real_conditional"
+"66",8,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1265,10.003954132068,"real_conditional"
+"67",9,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1272,10.0593119810202,"real_conditional"
+"68",9,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1262,9.98022933965994,"real_conditional"
+"69",9,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1262,9.98022933965994,"real_conditional"
+"70",9,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1262,9.98022933965994,"real_conditional"
+"71",10,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1270,10.0434954527481,"real_conditional"
+"72",10,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1262,9.98022933965994,"real_conditional"
+"73",10,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1263,9.98813760379597,"real_conditional"
+"74",10,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1263,9.98813760379597,"real_conditional"
+"75",1,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1028,10.4270209960442,"synth"
+"76",1,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",236,8.4800574919152,"synth"
+"77",1,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1,33.3333333333333,"synth"
+"78",2,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",990,10.0415863677858,"synth"
+"79",2,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",275,9.88142292490119,"synth"
+"80",3,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",985,9.99087128512019,"synth"
+"81",3,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",280,10.0610851598994,"synth"
+"82",4,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",988,10.0213003347195,"synth"
+"83",4,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",277,9.95328781890047,"synth"
+"84",5,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",992,10.061872400852,"synth"
+"85",5,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",273,9.8095580309019,"synth"
+"86",6,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",995,10.0923014504514,"synth"
+"87",6,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",268,9.6298957959037,"synth"
+"88",6,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1,33.3333333333333,"synth"
+"89",7,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",987,10.0111573181864,"synth"
+"90",7,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",277,9.95328781890047,"synth"
+"91",8,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",977,9.90972715285526,"synth"
+"92",8,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",287,10.3126122888969,"synth"
+"93",9,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",975,9.88944111978902,"synth"
+"94",9,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",289,10.3844771828962,"synth"
+"95",10,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",942,9.55472157419617,"synth"
+"96",10,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",321,11.5343154868847,"synth"
+"97",10,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1,33.3333333333333,"synth"
+"98",1,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1234,9.86568596098497,"synth_conditional"
+"99",1,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1257,10.0495682763032,"synth_conditional"
+"100",1,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1257,10.0495682763032,"synth_conditional"
+"101",1,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1256,10.0415733930285,"synth_conditional"
+"102",2,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1237,9.88967061080908,"synth_conditional"
+"103",2,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1256,10.0415733930285,"synth_conditional"
+"104",2,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1255,10.0335785097538,"synth_conditional"
+"105",2,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1256,10.0415733930285,"synth_conditional"
+"106",3,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1242,9.9296450271826,"synth_conditional"
+"107",3,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1253,10.0175887432043,"synth_conditional"
+"108",3,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1254,10.0255836264791,"synth_conditional"
+"109",3,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1254,10.0255836264791,"synth_conditional"
+"110",4,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1241,9.9216501439079,"synth_conditional"
+"111",4,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1254,10.0255836264791,"synth_conditional"
+"112",4,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1254,10.0255836264791,"synth_conditional"
+"113",4,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1254,10.0255836264791,"synth_conditional"
+"114",5,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1231,9.84170131116086,"synth_conditional"
+"115",5,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1258,10.0575631595779,"synth_conditional"
+"116",5,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1257,10.0495682763032,"synth_conditional"
+"117",5,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1257,10.0495682763032,"synth_conditional"
+"118",6,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1257,10.0495682763032,"synth_conditional"
+"119",6,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1248,9.97761432683083,"synth_conditional"
+"120",6,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1249,9.98560921010553,"synth_conditional"
+"121",6,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1249,9.98560921010553,"synth_conditional"
+"122",7,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1251,10.0015989766549,"synth_conditional"
+"123",7,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1251,10.0015989766549,"synth_conditional"
+"124",7,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1251,10.0015989766549,"synth_conditional"
+"125",7,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1250,9.99360409338024,"synth_conditional"
+"126",8,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1257,10.0495682763032,"synth_conditional"
+"127",8,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1249,9.98560921010553,"synth_conditional"
+"128",8,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1248,9.97761432683083,"synth_conditional"
+"129",8,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1249,9.98560921010553,"synth_conditional"
+"130",9,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1278,10.217460825072,"synth_conditional"
+"131",9,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1241,9.9216501439079,"synth_conditional"
+"132",9,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1242,9.9296450271826,"synth_conditional"
+"133",9,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1242,9.9296450271826,"synth_conditional"
+"134",10,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 0
+",1280,10.2334505916214,"synth_conditional"
+"135",10,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 1
+",1241,9.9216501439079,"synth_conditional"
+"136",10,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 2
+",1241,9.9216501439079,"synth_conditional"
+"137",10,"IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_mo: 3
+",1241,9.9216501439079,"synth_conditional"

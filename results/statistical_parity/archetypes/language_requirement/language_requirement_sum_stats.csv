@@ -1,0 +1,53 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","Ja",5054,0.516,0.155,0.139097744360902,0.349228333992877,3.90977443609022,24.9228333992877,"real"
+"2","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+","Ja",5,0.461,0.154,0,0.2,-10,10,"real"
+"3","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","Ja",925,0.488,0.146,0.0864864864864865,0.269189189189189,-1.35135135135135,16.9189189189189,"real"
+"4","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","Ja",12645,0.501,0.152,0.110241202056149,0.309292210359826,1.02412020561487,20.9292210359826,"real_conditional"
+"5","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+","Ja",12645,0.471,0.148,0.0704626334519573,0.235903519177541,-2.95373665480427,13.5903519177541,"real_conditional"
+"6","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","Ja",12645,0.494,0.152,0.100830367734282,0.290470541716093,0.0830367734282314,19.0470541716093,"real_conditional"
+"7","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+","Ja",12645,0.472,0.147,0.0714907077896402,0.237089758797944,-2.85092922103598,13.7089758797944,"real_conditional"
+"8","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+","Ja",5,0.571,0.094,0,0.6,-10,50,"synth"
+"9","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","Ja",6,0.65,0.108,0.5,0.666666666666667,40,56.6666666666667,"synth"
+"10","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","Ja",12508,0.626,0.083,0.138551327150624,0.696993923888711,3.85513271506236,59.6993923888711,"synth_conditional"
+"11","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+","Ja",12508,0.601,0.083,0.0634793732011513,0.595778701630956,-3.65206267988487,49.5778701630956,"synth_conditional"
+"12","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","Ja",12508,0.619,0.084,0.116725295810681,0.665574032619124,1.67252958106812,56.5574032619124,"synth_conditional"
+"13","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+","Ja",12508,0.602,0.083,0.0638791173648865,0.59865685960985,-3.61208826351135,49.865685960985,"synth_conditional"

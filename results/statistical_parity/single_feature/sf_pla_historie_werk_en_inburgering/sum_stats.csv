@@ -1,0 +1,25 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+pla_historie_werk_en_inburgering: 0
+","Ja",11720,0.49,0.154,0.102815699658703,0.285153583617747,0.281569965870307,18.5153583617747,"real"
+"2","IV: 
+pla_historie_werk_en_inburgering: 1
+","Ja",925,0.475,0.144,0.0648648648648649,0.242162162162162,-3.51351351351351,14.2162162162162,"real"
+"3","IV: 
+pla_historie_werk_en_inburgering: 0
+","Ja",12645,0.489,0.153,0.10003954132068,0.28200869909055,0.00395413206801115,18.200869909055,"real_conditional"
+"4","IV: 
+pla_historie_werk_en_inburgering: 1
+","Ja",12645,0.489,0.153,0.10003954132068,0.28200869909055,0.00395413206801115,18.200869909055,"real_conditional"
+"5","IV: 
+pla_historie_werk_en_inburgering: 0
+","Ja",11653,0.612,0.085,0.101690551789239,0.641894791040934,0.169055178923881,54.1894791040934,"synth"
+"6","IV: 
+pla_historie_werk_en_inburgering: 1
+","Ja",992,0.608,0.084,0.0806451612903226,0.634072580645161,-1.93548387096774,53.4072580645161,"synth"
+"7","IV: 
+pla_historie_werk_en_inburgering: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"8","IV: 
+pla_historie_werk_en_inburgering: 1
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"

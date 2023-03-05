@@ -1,0 +1,856 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+",3263,1848,0.0131,"*",0.105,"ns","real"
+"2","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+",3263,174,1.46e-39,"****",6.3e-38,"****","real"
+"3","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+",1848,174,2.08e-43,"****",9.15e-42,"****","real"
+"4","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+",3263,43,1.85e-32,"****",6.83e-31,"****","real"
+"5","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+",1848,43,1.35e-34,"****",5.11e-33,"****","real"
+"6","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+",174,43,2.76e-06,"****",4.69e-05,"****","real"
+"7","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+",3263,1784,0.00101,"**",0.0111,"*","real"
+"8","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+",1848,1784,0.458,"ns",1,"ns","real"
+"9","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+",174,1784,3.84e-45,"****",1.73e-43,"****","real"
+"10","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+",43,1784,2.01e-35,"****",7.86e-34,"****","real"
+"11","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",3263,10,3.69e-11,"****",8.87e-10,"****","real"
+"12","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",1848,10,8.19e-12,"****",2.21e-10,"****","real"
+"13","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",174,10,0.00101,"**",0.0111,"*","real"
+"14","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",43,10,0.441,"ns",1,"ns","real"
+"15","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",1784,10,4.78e-12,"****",1.34e-10,"****","real"
+"16","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",3263,1523,0.78,"ns",1,"ns","real"
+"17","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",1848,1523,0.0663,"ns",0.398,"ns","real"
+"18","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",174,1523,4.15e-38,"****",1.7e-36,"****","real"
+"19","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",43,1523,2.68e-32,"****",9.63e-31,"****","real"
+"20","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",1784,1523,0.0115,"*",0.103,"ns","real"
+"21","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",10,1523,3.32e-11,"****",8.3e-10,"****","real"
+"22","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",3263,5,6.73e-06,"****",9.42e-05,"****","real"
+"23","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",1848,5,3.16e-06,"****",5.05e-05,"****","real"
+"24","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",174,5,0.0295,"*",0.206,"ns","real"
+"25","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",43,5,0.689,"ns",1,"ns","real"
+"26","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",1784,5,2.42e-06,"****",4.35e-05,"****","real"
+"27","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",10,5,0.882,"ns",1,"ns","real"
+"28","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",1523,5,6.26e-06,"****",9.39e-05,"****","real"
+"29","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",3263,1088,4.68e-11,"****",1.08e-09,"****","real"
+"30","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",1848,1088,2.5e-15,"****",7.26e-14,"****","real"
+"31","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",174,1088,1.9e-22,"****",6.07e-21,"****","real"
+"32","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",43,1088,1.28e-24,"****",4.24e-23,"****","real"
+"33","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",1784,1088,1.92e-17,"****",5.76e-16,"****","real"
+"34","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",10,1088,4.31e-09,"****",9.05e-08,"****","real"
+"35","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",1523,1088,1.71e-09,"****",3.77e-08,"****","real"
+"36","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",5,1088,6.85e-05,"****",0.000891,"***","real"
+"37","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",3263,755,1.09e-30,"****",3.81e-29,"****","real"
+"38","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",1848,755,1.84e-35,"****",7.34e-34,"****","real"
+"39","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",174,755,2.52e-11,"****",6.55e-10,"****","real"
+"40","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",43,755,4.63e-18,"****",1.43e-16,"****","real"
+"41","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",1784,755,3.24e-38,"****",1.36e-36,"****","real"
+"42","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",10,755,3.05e-07,"****",6.1e-06,"****","real"
+"43","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",1523,755,1.78e-26,"****",6.04e-25,"****","real"
+"44","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",5,755,0.000556,"***",0.00668,"**","real"
+"45","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",1088,755,6.41e-07,"****",1.22e-05,"****","real"
+"46","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+",12645,12645,0.987,"ns",1,"ns","real_conditional"
+"47","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+",12645,12645,7.19e-65,"****",2.3e-63,"****","real_conditional"
+"48","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+",12645,12645,5.39e-65,"****",1.78e-63,"****","real_conditional"
+"49","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+",12645,12645,2e-78,"****",7.61e-77,"****","real_conditional"
+"50","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+",12645,12645,1.46e-78,"****",5.98e-77,"****","real_conditional"
+"51","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+",12645,12645,0.0812,"ns",0.812,"ns","real_conditional"
+"52","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+",12645,12645,0.845,"ns",1,"ns","real_conditional"
+"53","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+",12645,12645,0.832,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+",12645,12645,1.96e-63,"****",6.08e-62,"****","real_conditional"
+"55","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+",12645,12645,7.65e-77,"****",2.83e-75,"****","real_conditional"
+"56","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",12645,12645,4.49e-80,"****",1.93e-78,"****","real_conditional"
+"57","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",12645,12645,3.26e-80,"****",1.47e-78,"****","real_conditional"
+"58","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",12645,12645,0.0518,"ns",0.621,"ns","real_conditional"
+"59","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",12645,12645,0.84,"ns",1,"ns","real_conditional"
+"60","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",12645,12645,1.78e-78,"****",7.13e-77,"****","real_conditional"
+"61","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",12645,12645,0.289,"ns",1,"ns","real_conditional"
+"62","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",12645,12645,0.281,"ns",1,"ns","real_conditional"
+"63","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",12645,12645,2.91e-57,"****",8.72e-56,"****","real_conditional"
+"64","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",12645,12645,5.05e-70,"****",1.72e-68,"****","real_conditional"
+"65","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",12645,12645,0.387,"ns",1,"ns","real_conditional"
+"66","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",12645,12645,1.4e-71,"****",5.03e-70,"****","real_conditional"
+"67","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",12645,12645,4.49e-80,"****",1.93e-78,"****","real_conditional"
+"68","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",12645,12645,3.26e-80,"****",1.47e-78,"****","real_conditional"
+"69","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",12645,12645,0.0518,"ns",0.621,"ns","real_conditional"
+"70","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",12645,12645,0.84,"ns",1,"ns","real_conditional"
+"71","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",12645,12645,1.78e-78,"****",7.13e-77,"****","real_conditional"
+"72","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"73","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",12645,12645,1.4e-71,"****",5.03e-70,"****","real_conditional"
+"74","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",12645,12645,2.74e-06,"****",4.38e-05,"****","real_conditional"
+"75","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",12645,12645,2.52e-06,"****",4.28e-05,"****","real_conditional"
+"76","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",12645,12645,6.73e-35,"****",1.55e-33,"****","real_conditional"
+"77","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",12645,12645,6.15e-45,"****",1.66e-43,"****","real_conditional"
+"78","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",12645,12645,6.98e-06,"****",0.000105,"***","real_conditional"
+"79","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",12645,12645,3.51e-46,"****",1.02e-44,"****","real_conditional"
+"80","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",12645,12645,0.000285,"***",0.0037,"**","real_conditional"
+"81","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",12645,12645,3.51e-46,"****",1.02e-44,"****","real_conditional"
+"82","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12645,12645,2.01e-38,"****",5.01e-37,"****","real_conditional"
+"83","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12645,12645,1.61e-38,"****",4.18e-37,"****","real_conditional"
+"84","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12645,12645,5.1e-05,"****",0.000714,"***","real_conditional"
+"85","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12645,12645,6.86e-09,"****",1.23e-07,"****","real_conditional"
+"86","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12645,12645,2.5e-37,"****",6e-36,"****","real_conditional"
+"87","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12645,12645,2.03e-09,"****",4.05e-08,"****","real_conditional"
+"88","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12645,12645,1.15e-32,"****",2.53e-31,"****","real_conditional"
+"89","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12645,12645,2.03e-09,"****",4.05e-08,"****","real_conditional"
+"90","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12645,12645,1.28e-16,"****",2.69e-15,"****","real_conditional"
+"91","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+",1165,2212,0.0101,"*",0.121,"ns","synth"
+"92","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+",1165,202,1.17e-28,"****",3.99e-27,"****","synth"
+"93","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+",2212,202,1.09e-24,"****",3.61e-23,"****","synth"
+"94","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+",1165,16,1.23e-05,"****",0.000258,"***","synth"
+"95","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+",2212,16,5.91e-05,"****",0.00106,"**","synth"
+"96","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+",202,16,0.332,"ns",1,"ns","synth"
+"97","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+",1165,1945,1.94e-07,"****",4.65e-06,"****","synth"
+"98","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+",2212,1945,0.00132,"**",0.0185,"*","synth"
+"99","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+",202,1945,8.12e-19,"****",2.44e-17,"****","synth"
+"100","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+",16,1945,0.000298,"***",0.00477,"**","synth"
+"101","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",1165,2,0.339,"ns",1,"ns","synth"
+"102","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",2212,2,0.41,"ns",1,"ns","synth"
+"103","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",202,2,0.808,"ns",1,"ns","synth"
+"104","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",16,2,0.571,"ns",1,"ns","synth"
+"105","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",1945,2,0.494,"ns",1,"ns","synth"
+"106","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",1165,1735,6.47e-10,"****",1.62e-08,"****","synth"
+"107","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",2212,1735,1.09e-05,"****",0.00024,"***","synth"
+"108","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",202,1735,1.5e-16,"****",4.36e-15,"****","synth"
+"109","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",16,1735,0.000559,"***",0.00838,"**","synth"
+"110","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",1945,1735,0.211,"ns",1,"ns","synth"
+"111","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",2,1735,0.532,"ns",1,"ns","synth"
+"112","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",1165,1481,4.37e-21,"****",1.4e-19,"****","synth"
+"113","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",2212,1481,1.91e-16,"****",5.34e-15,"****","synth"
+"114","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",202,1481,1.74e-10,"****",4.52e-09,"****","synth"
+"115","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",16,1481,0.00362,"**",0.0471,"*","synth"
+"116","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",1945,1481,2.96e-07,"****",6.81e-06,"****","synth"
+"117","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",2,1481,0.665,"ns",1,"ns","synth"
+"118","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",1735,1481,0.000127,"***",0.00217,"**","synth"
+"119","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",1165,1131,4.94e-37,"****",1.78e-35,"****","synth"
+"120","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",2212,1131,4.16e-33,"****",1.46e-31,"****","synth"
+"121","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",202,1131,3.51e-05,"****",0.000702,"***","synth"
+"122","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",16,1131,0.024,"*",0.264,"ns","synth"
+"123","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",1945,1131,1.17e-19,"****",3.62e-18,"****","synth"
+"124","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",2,1131,0.839,"ns",1,"ns","synth"
+"125","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",1735,1131,6.06e-15,"****",1.64e-13,"****","synth"
+"126","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",1481,1131,3.67e-05,"****",0.000702,"***","synth"
+"127","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+",12508,12508,0.941,"ns",1,"ns","synth_conditional"
+"128","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+",12508,12508,8.22e-92,"****",2.71e-90,"****","synth_conditional"
+"129","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+",12508,12508,1.8e-92,"****",6.48e-91,"****","synth_conditional"
+"130","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+",12508,12508,1.81e-98,"****",6.86e-97,"****","synth_conditional"
+"131","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+",12508,12508,3.74e-99,"****",1.46e-97,"****","synth_conditional"
+"132","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+",12508,12508,0.459,"ns",1,"ns","synth_conditional"
+"133","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+",12508,12508,0.847,"ns",1,"ns","synth_conditional"
+"134","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+",12508,12508,0.789,"ns",1,"ns","synth_conditional"
+"135","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+",12508,12508,4.1e-90,"****",1.31e-88,"****","synth_conditional"
+"136","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+",12508,12508,1.04e-96,"****",3.84e-95,"****","synth_conditional"
+"137","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",12508,12508,2.23e-103,"****",9.58e-102,"****","synth_conditional"
+"138","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",12508,12508,4.44e-104,"****",2e-102,"****","synth_conditional"
+"139","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",12508,12508,0.204,"ns",1,"ns","synth_conditional"
+"140","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",12508,12508,0.596,"ns",1,"ns","synth_conditional"
+"141","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+",12508,12508,1.42e-101,"****",5.81e-100,"****","synth_conditional"
+"142","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",12508,12508,0.208,"ns",1,"ns","synth_conditional"
+"143","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",12508,12508,0.183,"ns",1,"ns","synth_conditional"
+"144","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",12508,12508,4.78e-81,"****",1.43e-79,"****","synth_conditional"
+"145","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",12508,12508,2.63e-87,"****",8.17e-86,"****","synth_conditional"
+"146","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",12508,12508,0.287,"ns",1,"ns","synth_conditional"
+"147","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+",12508,12508,6.28e-92,"****",2.2e-90,"****","synth_conditional"
+"148","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",12508,12508,2.23e-103,"****",9.58e-102,"****","synth_conditional"
+"149","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",12508,12508,4.44e-104,"****",2e-102,"****","synth_conditional"
+"150","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",12508,12508,0.204,"ns",1,"ns","synth_conditional"
+"151","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",12508,12508,0.596,"ns",1,"ns","synth_conditional"
+"152","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",12508,12508,1.42e-101,"****",5.81e-100,"****","synth_conditional"
+"153","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"154","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+",12508,12508,6.28e-92,"****",2.2e-90,"****","synth_conditional"
+"155","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",12508,12508,6.32e-08,"****",1.2e-06,"****","synth_conditional"
+"156","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",12508,12508,4.15e-08,"****",8.31e-07,"****","synth_conditional"
+"157","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",12508,12508,2.36e-50,"****",5.2e-49,"****","synth_conditional"
+"158","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",12508,12508,2.74e-55,"****",6.58e-54,"****","synth_conditional"
+"159","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",12508,12508,1.82e-07,"****",3.28e-06,"****","synth_conditional"
+"160","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",12508,12508,5.77e-59,"****",1.5e-57,"****","synth_conditional"
+"161","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",12508,12508,3.3e-05,"****",0.000462,"***","synth_conditional"
+"162","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+",12508,12508,5.77e-59,"****",1.5e-57,"****","synth_conditional"
+"163","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 0
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12508,12508,1.08e-63,"****",3.03e-62,"****","synth_conditional"
+"164","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 1
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12508,12508,3.06e-64,"****",8.89e-63,"****","synth_conditional"
+"165","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 10
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12508,12508,5e-04,"***",0.0065,"**","synth_conditional"
+"166","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 15
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12508,12508,2.42e-05,"****",0.000363,"***","synth_conditional"
+"167","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 2
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12508,12508,2.77e-62,"****",7.49e-61,"****","synth_conditional"
+"168","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 20
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12508,12508,2.01e-06,"****",3.42e-05,"****","synth_conditional"
+"169","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 3
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12508,12508,8.26e-55,"****",1.9e-53,"****","synth_conditional"
+"170","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 30
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12508,12508,2.01e-06,"****",3.42e-05,"****","synth_conditional"
+"171","Ja","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 4
+","IV: 
+contacten_soort_afgelopenjaar_document__uitgaand_: 5
+",12508,12508,2.5e-30,"****",5.24e-29,"****","synth_conditional"

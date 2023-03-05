@@ -1,0 +1,82 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+typering_hist_inburgeringsbehoeftig: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+","IV: 
+typering_hist_inburgeringsbehoeftig: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",5868,956,1.44e-08,"****",4.32e-08,"****","real"
+"2","Ja","IV: 
+typering_hist_inburgeringsbehoeftig: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+","IV: 
+typering_hist_inburgeringsbehoeftig: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",5868,16,0.178,"ns",0.355,"ns","real"
+"3","Ja","IV: 
+typering_hist_inburgeringsbehoeftig: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+","IV: 
+typering_hist_inburgeringsbehoeftig: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",956,16,0.58,"ns",0.58,"ns","real"
+"4","Ja","IV: 
+typering_hist_inburgeringsbehoeftig: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+","IV: 
+typering_hist_inburgeringsbehoeftig: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+typering_hist_inburgeringsbehoeftig: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+","IV: 
+typering_hist_inburgeringsbehoeftig: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+typering_hist_inburgeringsbehoeftig: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+","IV: 
+typering_hist_inburgeringsbehoeftig: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+typering_hist_inburgeringsbehoeftig: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+","IV: 
+typering_hist_inburgeringsbehoeftig: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"8","Ja","IV: 
+typering_hist_inburgeringsbehoeftig: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+","IV: 
+typering_hist_inburgeringsbehoeftig: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"9","Ja","IV: 
+typering_hist_inburgeringsbehoeftig: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+","IV: 
+typering_hist_inburgeringsbehoeftig: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"

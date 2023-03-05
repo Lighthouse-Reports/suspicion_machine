@@ -1,0 +1,21 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+belemmering_niet_computervaardig: 0
+","IV: 
+belemmering_niet_computervaardig: 1
+",12196,449,7.1e-06,"****",7.1e-06,"****","real"
+"2","Ja","IV: 
+belemmering_niet_computervaardig: 0
+","IV: 
+belemmering_niet_computervaardig: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"3","Ja","IV: 
+belemmering_niet_computervaardig: 0
+","IV: 
+belemmering_niet_computervaardig: 1
+",12521,124,0.659,"ns",0.659,"ns","synth"
+"4","Ja","IV: 
+belemmering_niet_computervaardig: 0
+","IV: 
+belemmering_niet_computervaardig: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"

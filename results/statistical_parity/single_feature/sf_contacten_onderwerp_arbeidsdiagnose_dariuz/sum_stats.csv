@@ -1,0 +1,73 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","Ja",11478,0.482,0.154,0.0936574316082941,0.267381076842655,-0.634256839170587,16.7381076842656,"real"
+"2","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","Ja",661,0.558,0.129,0.16036308623298,0.409984871406959,6.03630862329803,30.9984871406959,"real"
+"3","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+","Ja",411,0.568,0.13,0.172749391727494,0.447688564476886,7.27493917274939,34.7688564476886,"real"
+"4","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+","Ja",69,0.56,0.115,0.115942028985507,0.405797101449275,1.59420289855072,30.5797101449275,"real"
+"5","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+","Ja",20,0.589,0.124,0.15,0.55,5,45,"real"
+"6","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+","Ja",3,0.707,0.128,0.666666666666667,0.666666666666667,56.6666666666667,56.6666666666667,"real"
+"7","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+","Ja",3,0.53,0.115,0,0.333333333333333,-10,23.3333333333333,"real"
+"8","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","Ja",12645,0.489,0.153,0.10003954132068,0.281850533807829,0.00395413206801115,18.1850533807829,"real_conditional"
+"9","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","Ja",12645,0.489,0.153,0.10011862396204,0.28208778173191,0.0118623962040335,18.208778173191,"real_conditional"
+"10","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+","Ja",12645,0.489,0.153,0.100593119810202,0.282878608145512,0.0593119810201659,18.2878608145512,"real_conditional"
+"11","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+","Ja",12645,0.489,0.153,0.0986951364175564,0.280664294187426,-0.130486358244365,18.0664294187426,"real_conditional"
+"12","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+","Ja",12645,0.489,0.153,0.0986951364175564,0.280664294187426,-0.130486358244365,18.0664294187426,"real_conditional"
+"13","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+","Ja",12645,0.489,0.153,0.0986951364175564,0.280664294187426,-0.130486358244365,18.0664294187426,"real_conditional"
+"14","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+","Ja",12645,0.489,0.153,0.0986951364175564,0.280664294187426,-0.130486358244365,18.0664294187426,"real_conditional"
+"15","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","Ja",8572,0.607,0.087,0.0937937470835278,0.620275314979001,-0.620625291647224,52.0275314979001,"synth"
+"16","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","Ja",4033,0.622,0.081,0.112571286883213,0.684354078849492,1.25712868832135,58.4354078849492,"synth"
+"17","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+","Ja",40,0.631,0.071,0.175,0.8,7.5,70,"synth"
+"18","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.640869843300288,-0.0223856731691729,54.0869843300288,"synth_conditional"
+"19","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 1
+","Ja",12508,0.612,0.085,0.0998560921010553,0.641029740965782,-0.0143907898944681,54.1029740965782,"synth_conditional"
+"20","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 2
+","Ja",12508,0.612,0.085,0.0998560921010553,0.641029740965782,-0.0143907898944681,54.1029740965782,"synth_conditional"
+"21","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 3
+","Ja",12508,0.611,0.085,0.0961784457946914,0.637991685321394,-0.382155420530861,53.7991685321394,"synth_conditional"
+"22","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 4
+","Ja",12508,0.611,0.085,0.0961784457946914,0.637991685321394,-0.382155420530861,53.7991685321394,"synth_conditional"
+"23","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 5
+","Ja",12508,0.611,0.085,0.0961784457946914,0.637991685321394,-0.382155420530861,53.7991685321394,"synth_conditional"
+"24","IV: 
+contacten_onderwerp_arbeidsdiagnose_dariuz: 6
+","Ja",12508,0.611,0.085,0.0961784457946914,0.637991685321394,-0.382155420530861,53.7991685321394,"synth_conditional"

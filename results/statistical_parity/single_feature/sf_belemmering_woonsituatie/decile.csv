@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+belemmering_woonsituatie: 0
+",1258,10.2786175341123,"real"
+"2",1,"IV: 
+belemmering_woonsituatie: 1
+",7,1.72413793103448,"real"
+"3",2,"IV: 
+belemmering_woonsituatie: 0
+",1256,10.2622763297655,"real"
+"4",2,"IV: 
+belemmering_woonsituatie: 1
+",9,2.21674876847291,"real"
+"5",3,"IV: 
+belemmering_woonsituatie: 0
+",1248,10.1969115123785,"real"
+"6",3,"IV: 
+belemmering_woonsituatie: 1
+",17,4.1871921182266,"real"
+"7",4,"IV: 
+belemmering_woonsituatie: 0
+",1237,10.1070348884713,"real"
+"8",4,"IV: 
+belemmering_woonsituatie: 1
+",28,6.89655172413793,"real"
+"9",5,"IV: 
+belemmering_woonsituatie: 0
+",1230,10.0498406732576,"real"
+"10",5,"IV: 
+belemmering_woonsituatie: 1
+",35,8.62068965517241,"real"
+"11",6,"IV: 
+belemmering_woonsituatie: 0
+",1221,9.9763052536972,"real"
+"12",6,"IV: 
+belemmering_woonsituatie: 1
+",43,10.5911330049261,"real"
+"13",7,"IV: 
+belemmering_woonsituatie: 0
+",1196,9.77204019936269,"real"
+"14",7,"IV: 
+belemmering_woonsituatie: 1
+",68,16.7487684729064,"real"
+"15",8,"IV: 
+belemmering_woonsituatie: 0
+",1197,9.78021080153607,"real"
+"16",8,"IV: 
+belemmering_woonsituatie: 1
+",67,16.5024630541872,"real"
+"17",9,"IV: 
+belemmering_woonsituatie: 0
+",1186,9.69033417762889,"real"
+"18",9,"IV: 
+belemmering_woonsituatie: 1
+",78,19.2118226600985,"real"
+"19",10,"IV: 
+belemmering_woonsituatie: 0
+",1210,9.88642862979002,"real"
+"20",10,"IV: 
+belemmering_woonsituatie: 1
+",54,13.3004926108374,"real"
+"21",1,"IV: 
+belemmering_woonsituatie: 0
+",1265,10.003954132068,"real_conditional"
+"22",1,"IV: 
+belemmering_woonsituatie: 1
+",1264,9.99604586793199,"real_conditional"
+"23",2,"IV: 
+belemmering_woonsituatie: 0
+",1264,9.99604586793199,"real_conditional"
+"24",2,"IV: 
+belemmering_woonsituatie: 1
+",1265,10.003954132068,"real_conditional"
+"25",3,"IV: 
+belemmering_woonsituatie: 0
+",1264,9.99604586793199,"real_conditional"
+"26",3,"IV: 
+belemmering_woonsituatie: 1
+",1265,10.003954132068,"real_conditional"
+"27",4,"IV: 
+belemmering_woonsituatie: 0
+",1265,10.003954132068,"real_conditional"
+"28",4,"IV: 
+belemmering_woonsituatie: 1
+",1264,9.99604586793199,"real_conditional"
+"29",5,"IV: 
+belemmering_woonsituatie: 0
+",1261,9.97232107552392,"real_conditional"
+"30",5,"IV: 
+belemmering_woonsituatie: 1
+",1268,10.0276789244761,"real_conditional"
+"31",6,"IV: 
+belemmering_woonsituatie: 0
+",1264,9.99604586793199,"real_conditional"
+"32",6,"IV: 
+belemmering_woonsituatie: 1
+",1265,10.003954132068,"real_conditional"
+"33",7,"IV: 
+belemmering_woonsituatie: 0
+",1258,9.94859628311586,"real_conditional"
+"34",7,"IV: 
+belemmering_woonsituatie: 1
+",1271,10.0514037168841,"real_conditional"
+"35",8,"IV: 
+belemmering_woonsituatie: 0
+",1262,9.98022933965994,"real_conditional"
+"36",8,"IV: 
+belemmering_woonsituatie: 1
+",1267,10.0197706603401,"real_conditional"
+"37",9,"IV: 
+belemmering_woonsituatie: 0
+",1271,10.0514037168841,"real_conditional"
+"38",9,"IV: 
+belemmering_woonsituatie: 1
+",1258,9.94859628311586,"real_conditional"
+"39",10,"IV: 
+belemmering_woonsituatie: 0
+",1271,10.0514037168841,"real_conditional"
+"40",10,"IV: 
+belemmering_woonsituatie: 1
+",1258,9.94859628311586,"real_conditional"
+"41",1,"IV: 
+belemmering_woonsituatie: 0
+",1260,10.0278551532033,"synth"
+"42",1,"IV: 
+belemmering_woonsituatie: 1
+",5,6.25,"synth"
+"43",2,"IV: 
+belemmering_woonsituatie: 0
+",1256,9.99602069239952,"synth"
+"44",2,"IV: 
+belemmering_woonsituatie: 1
+",9,11.25,"synth"
+"45",3,"IV: 
+belemmering_woonsituatie: 0
+",1259,10.0198965380024,"synth"
+"46",3,"IV: 
+belemmering_woonsituatie: 1
+",6,7.5,"synth"
+"47",4,"IV: 
+belemmering_woonsituatie: 0
+",1261,10.0358137684043,"synth"
+"48",4,"IV: 
+belemmering_woonsituatie: 1
+",4,5,"synth"
+"49",5,"IV: 
+belemmering_woonsituatie: 0
+",1258,10.0119379228014,"synth"
+"50",5,"IV: 
+belemmering_woonsituatie: 1
+",7,8.75,"synth"
+"51",6,"IV: 
+belemmering_woonsituatie: 0
+",1257,10.0039793076005,"synth"
+"52",6,"IV: 
+belemmering_woonsituatie: 1
+",7,8.75,"synth"
+"53",7,"IV: 
+belemmering_woonsituatie: 0
+",1255,9.98806207719857,"synth"
+"54",7,"IV: 
+belemmering_woonsituatie: 1
+",9,11.25,"synth"
+"55",8,"IV: 
+belemmering_woonsituatie: 0
+",1253,9.97214484679666,"synth"
+"56",8,"IV: 
+belemmering_woonsituatie: 1
+",11,13.75,"synth"
+"57",9,"IV: 
+belemmering_woonsituatie: 0
+",1254,9.98010346199761,"synth"
+"58",9,"IV: 
+belemmering_woonsituatie: 1
+",10,12.5,"synth"
+"59",10,"IV: 
+belemmering_woonsituatie: 0
+",1252,9.9641862315957,"synth"
+"60",10,"IV: 
+belemmering_woonsituatie: 1
+",12,15,"synth"
+"61",1,"IV: 
+belemmering_woonsituatie: 0
+",1249,9.98560921010553,"synth_conditional"
+"62",1,"IV: 
+belemmering_woonsituatie: 1
+",1253,10.0175887432043,"synth_conditional"
+"63",2,"IV: 
+belemmering_woonsituatie: 0
+",1238,9.89766549408379,"synth_conditional"
+"64",2,"IV: 
+belemmering_woonsituatie: 1
+",1264,10.1055324592261,"synth_conditional"
+"65",3,"IV: 
+belemmering_woonsituatie: 0
+",1242,9.9296450271826,"synth_conditional"
+"66",3,"IV: 
+belemmering_woonsituatie: 1
+",1260,10.0735529261273,"synth_conditional"
+"67",4,"IV: 
+belemmering_woonsituatie: 0
+",1243,9.93763991045731,"synth_conditional"
+"68",4,"IV: 
+belemmering_woonsituatie: 1
+",1259,10.0655580428526,"synth_conditional"
+"69",5,"IV: 
+belemmering_woonsituatie: 0
+",1241,9.9216501439079,"synth_conditional"
+"70",5,"IV: 
+belemmering_woonsituatie: 1
+",1261,10.081547809402,"synth_conditional"
+"71",6,"IV: 
+belemmering_woonsituatie: 0
+",1250,9.99360409338024,"synth_conditional"
+"72",6,"IV: 
+belemmering_woonsituatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"73",7,"IV: 
+belemmering_woonsituatie: 0
+",1241,9.9216501439079,"synth_conditional"
+"74",7,"IV: 
+belemmering_woonsituatie: 1
+",1260,10.0735529261273,"synth_conditional"
+"75",8,"IV: 
+belemmering_woonsituatie: 0
+",1249,9.98560921010553,"synth_conditional"
+"76",8,"IV: 
+belemmering_woonsituatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"77",9,"IV: 
+belemmering_woonsituatie: 0
+",1275,10.1934761752478,"synth_conditional"
+"78",9,"IV: 
+belemmering_woonsituatie: 1
+",1226,9.80172689478734,"synth_conditional"
+"79",10,"IV: 
+belemmering_woonsituatie: 0
+",1280,10.2334505916214,"synth_conditional"
+"80",10,"IV: 
+belemmering_woonsituatie: 1
+",1221,9.76175247841381,"synth_conditional"

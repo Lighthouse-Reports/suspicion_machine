@@ -1,0 +1,49 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+competentie_samenwerken_en_overleggen: 0
+","Ja",8665,0.456,0.151,0.0652048470859781,0.219042123485286,-3.47951529140219,11.9042123485286,"real"
+"2","IV: 
+competentie_samenwerken_en_overleggen: 1
+","Ja",3920,0.56,0.132,0.17219387755102,0.41530612244898,7.21938775510204,31.530612244898,"real"
+"3","IV: 
+competentie_samenwerken_en_overleggen: 2
+","Ja",56,0.643,0.126,0.375,0.642857142857143,27.5,54.2857142857143,"real"
+"4","IV: 
+competentie_samenwerken_en_overleggen: 3
+","Ja",4,0.773,0.053,1,1,90,90,"real"
+"5","IV: 
+competentie_samenwerken_en_overleggen: 0
+","Ja",12645,0.489,0.153,0.0997232107552392,0.281771451166469,-0.0276789244760794,18.1771451166469,"real_conditional"
+"6","IV: 
+competentie_samenwerken_en_overleggen: 1
+","Ja",12645,0.49,0.153,0.100276789244761,0.282957690786872,0.0276789244760767,18.2957690786872,"real_conditional"
+"7","IV: 
+competentie_samenwerken_en_overleggen: 2
+","Ja",12645,0.49,0.153,0.100276789244761,0.282957690786872,0.0276789244760767,18.2957690786872,"real_conditional"
+"8","IV: 
+competentie_samenwerken_en_overleggen: 3
+","Ja",12645,0.49,0.153,0.100276789244761,0.282957690786872,0.0276789244760767,18.2957690786872,"real_conditional"
+"9","IV: 
+competentie_samenwerken_en_overleggen: 0
+","Ja",7883,0.601,0.087,0.0786502600532792,0.591145502981099,-2.13497399467208,49.1145502981099,"synth"
+"10","IV: 
+competentie_samenwerken_en_overleggen: 1
+","Ja",4677,0.629,0.078,0.13470173187941,0.722257857601026,3.47017318794099,62.2257857601026,"synth"
+"11","IV: 
+competentie_samenwerken_en_overleggen: 2
+","Ja",84,0.656,0.065,0.178571428571429,0.833333333333333,7.85714285714286,73.3333333333333,"synth"
+"12","IV: 
+competentie_samenwerken_en_overleggen: 3
+","Ja",1,0.625,NA,0,1,-10,90,"synth"
+"13","IV: 
+competentie_samenwerken_en_overleggen: 0
+","Ja",12508,0.612,0.085,0.0994563479373201,0.640789894467541,-0.0543652062679895,54.0789894467541,"synth_conditional"
+"14","IV: 
+competentie_samenwerken_en_overleggen: 1
+","Ja",12508,0.612,0.085,0.100095938599296,0.641749280460505,0.00959385992964495,54.1749280460505,"synth_conditional"
+"15","IV: 
+competentie_samenwerken_en_overleggen: 2
+","Ja",12508,0.612,0.085,0.100095938599296,0.641749280460505,0.00959385992964495,54.1749280460505,"synth_conditional"
+"16","IV: 
+competentie_samenwerken_en_overleggen: 3
+","Ja",12508,0.612,0.085,0.100095938599296,0.641749280460505,0.00959385992964495,54.1749280460505,"synth_conditional"

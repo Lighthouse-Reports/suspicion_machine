@@ -1,0 +1,165 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_onderwerp__werk_intake: 0
+contacten_onderwerp_boolean__werk_intake: 0
+","Ja",9532,0.461,0.149,0.0657784305497272,0.222933277381452,-3.42215694502728,12.2933277381452,"real"
+"2","IV: 
+contacten_onderwerp__werk_intake: 1
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",2061,0.559,0.134,0.174672489082969,0.417758369723435,7.46724890829694,31.7758369723435,"real"
+"3","IV: 
+contacten_onderwerp__werk_intake: 11
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",1,0.679,NA,0,1,-10,90,"real"
+"4","IV: 
+contacten_onderwerp__werk_intake: 2
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",654,0.604,0.125,0.267584097859327,0.53822629969419,16.7584097859327,43.822629969419,"real"
+"5","IV: 
+contacten_onderwerp__werk_intake: 3
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",244,0.618,0.112,0.254098360655738,0.581967213114754,15.4098360655738,48.1967213114754,"real"
+"6","IV: 
+contacten_onderwerp__werk_intake: 4
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",110,0.613,0.111,0.245454545454545,0.518181818181818,14.5454545454545,41.8181818181818,"real"
+"7","IV: 
+contacten_onderwerp__werk_intake: 5
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",25,0.666,0.088,0.48,0.72,38,62,"real"
+"8","IV: 
+contacten_onderwerp__werk_intake: 6
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12,0.588,0.086,0.0833333333333333,0.5,-1.66666666666667,40,"real"
+"9","IV: 
+contacten_onderwerp__werk_intake: 7
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",3,0.635,0.154,0.333333333333333,0.666666666666667,23.3333333333333,56.6666666666667,"real"
+"10","IV: 
+contacten_onderwerp__werk_intake: 8
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",1,0.525,NA,0,0,-10,-10,"real"
+"11","IV: 
+contacten_onderwerp__werk_intake: 9
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",2,0.631,0.006,0,1,-10,90,"real"
+"12","IV: 
+contacten_onderwerp__werk_intake: 0
+contacten_onderwerp_boolean__werk_intake: 0
+","Ja",12645,0.488,0.153,0.0982997232107552,0.278133649663899,-0.170027678924477,17.8133649663899,"real_conditional"
+"13","IV: 
+contacten_onderwerp__werk_intake: 1
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12645,0.495,0.15,0.102886516409648,0.288335310399367,0.288651640964808,18.8335310399367,"real_conditional"
+"14","IV: 
+contacten_onderwerp__werk_intake: 11
+contacten_onderwerp_boolean__werk_intake: 0
+","Ja",12645,0.493,0.15,0.101383946223804,0.285330170027679,0.138394622380388,18.5330170027679,"real_conditional"
+"15","IV: 
+contacten_onderwerp__werk_intake: 11
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12645,0.493,0.15,0.101383946223804,0.285330170027679,0.138394622380388,18.5330170027679,"real_conditional"
+"16","IV: 
+contacten_onderwerp__werk_intake: 2
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12645,0.495,0.15,0.10351917754053,0.289047054171609,0.351917754052984,18.9047054171609,"real_conditional"
+"17","IV: 
+contacten_onderwerp__werk_intake: 3
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12645,0.495,0.15,0.10351917754053,0.289047054171609,0.351917754052984,18.9047054171609,"real_conditional"
+"18","IV: 
+contacten_onderwerp__werk_intake: 4
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12645,0.493,0.15,0.101383946223804,0.285330170027679,0.138394622380388,18.5330170027679,"real_conditional"
+"19","IV: 
+contacten_onderwerp__werk_intake: 5
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12645,0.493,0.15,0.101383946223804,0.285330170027679,0.138394622380388,18.5330170027679,"real_conditional"
+"20","IV: 
+contacten_onderwerp__werk_intake: 6
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12645,0.493,0.15,0.101383946223804,0.285330170027679,0.138394622380388,18.5330170027679,"real_conditional"
+"21","IV: 
+contacten_onderwerp__werk_intake: 7
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12645,0.493,0.15,0.101383946223804,0.285330170027679,0.138394622380388,18.5330170027679,"real_conditional"
+"22","IV: 
+contacten_onderwerp__werk_intake: 8
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12645,0.493,0.15,0.101383946223804,0.285330170027679,0.138394622380388,18.5330170027679,"real_conditional"
+"23","IV: 
+contacten_onderwerp__werk_intake: 9
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12645,0.493,0.15,0.101383946223804,0.285330170027679,0.138394622380388,18.5330170027679,"real_conditional"
+"24","IV: 
+contacten_onderwerp__werk_intake: 0
+contacten_onderwerp_boolean__werk_intake: 0
+","Ja",5668,0.594,0.09,0.0702187720536344,0.560162314749471,-2.97812279463656,46.0162314749471,"synth"
+"25","IV: 
+contacten_onderwerp__werk_intake: 1
+contacten_onderwerp_boolean__werk_intake: 0
+","Ja",2854,0.62,0.079,0.113524877365102,0.674842326559215,1.35248773651016,57.4842326559215,"synth"
+"26","IV: 
+contacten_onderwerp__werk_intake: 1
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",3242,0.626,0.078,0.119062307217767,0.711597779148674,1.90623072177668,61.1597779148674,"synth"
+"27","IV: 
+contacten_onderwerp__werk_intake: 2
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",843,0.646,0.073,0.176749703440095,0.795966785290629,7.67497034400949,69.5966785290629,"synth"
+"28","IV: 
+contacten_onderwerp__werk_intake: 3
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",37,0.655,0.064,0.189189189189189,0.783783783783784,8.91891891891892,68.3783783783784,"synth"
+"29","IV: 
+contacten_onderwerp__werk_intake: 4
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",1,0.736,NA,1,1,90,90,"synth"
+"30","IV: 
+contacten_onderwerp__werk_intake: 0
+contacten_onderwerp_boolean__werk_intake: 0
+","Ja",12508,0.61,0.086,0.0950591621362328,0.63135593220339,-0.49408378637672,53.135593220339,"synth_conditional"
+"31","IV: 
+contacten_onderwerp__werk_intake: 1
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12508,0.614,0.084,0.101135273425008,0.647585545251039,0.113527342500799,54.7585545251039,"synth_conditional"
+"32","IV: 
+contacten_onderwerp__werk_intake: 11
+contacten_onderwerp_boolean__werk_intake: 0
+","Ja",12508,0.613,0.084,0.0985769107771026,0.643268308282699,-0.142308922289736,54.3268308282699,"synth_conditional"
+"33","IV: 
+contacten_onderwerp__werk_intake: 11
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12508,0.613,0.084,0.0985769107771026,0.643268308282699,-0.142308922289736,54.3268308282699,"synth_conditional"
+"34","IV: 
+contacten_onderwerp__werk_intake: 2
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12508,0.615,0.084,0.102414454748961,0.651023345059162,0.241445474896065,55.1023345059162,"synth_conditional"
+"35","IV: 
+contacten_onderwerp__werk_intake: 3
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12508,0.615,0.084,0.102414454748961,0.651023345059162,0.241445474896065,55.1023345059162,"synth_conditional"
+"36","IV: 
+contacten_onderwerp__werk_intake: 4
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12508,0.613,0.084,0.0985769107771026,0.643268308282699,-0.142308922289736,54.3268308282699,"synth_conditional"
+"37","IV: 
+contacten_onderwerp__werk_intake: 5
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12508,0.613,0.084,0.0985769107771026,0.643268308282699,-0.142308922289736,54.3268308282699,"synth_conditional"
+"38","IV: 
+contacten_onderwerp__werk_intake: 6
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12508,0.613,0.084,0.0985769107771026,0.643268308282699,-0.142308922289736,54.3268308282699,"synth_conditional"
+"39","IV: 
+contacten_onderwerp__werk_intake: 7
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12508,0.613,0.084,0.0985769107771026,0.643268308282699,-0.142308922289736,54.3268308282699,"synth_conditional"
+"40","IV: 
+contacten_onderwerp__werk_intake: 8
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12508,0.613,0.084,0.0985769107771026,0.643268308282699,-0.142308922289736,54.3268308282699,"synth_conditional"
+"41","IV: 
+contacten_onderwerp__werk_intake: 9
+contacten_onderwerp_boolean__werk_intake: 1
+","Ja",12508,0.613,0.084,0.0985769107771026,0.643268308282699,-0.142308922289736,54.3268308282699,"synth_conditional"

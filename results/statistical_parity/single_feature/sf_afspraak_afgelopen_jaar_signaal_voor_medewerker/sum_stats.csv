@@ -1,0 +1,91 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 0
+","Ja",6439,0.502,0.162,0.133405808355335,0.324584562820314,3.34058083553347,22.4584562820314,"real"
+"2","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 1
+","Ja",2466,0.469,0.147,0.0705596107055961,0.231549067315491,-2.94403892944039,13.1549067315491,"real"
+"3","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 10
+","Ja",31,0.5,0.16,0.0967741935483871,0.387096774193548,-0.322580645161291,28.7096774193548,"real"
+"4","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 15
+","Ja",3,0.496,0.053,0,0,-10,-10,"real"
+"5","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 2
+","Ja",1469,0.473,0.146,0.0646698434309054,0.230769230769231,-3.53301565690946,13.0769230769231,"real"
+"6","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 3
+","Ja",881,0.472,0.138,0.0465380249716232,0.222474460839955,-5.34619750283769,12.2474460839955,"real"
+"7","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 4
+","Ja",504,0.49,0.135,0.0654761904761905,0.251984126984127,-3.45238095238095,15.1984126984127,"real"
+"8","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 5
+","Ja",350,0.494,0.136,0.06,0.257142857142857,-4,15.7142857142857,"real"
+"9","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 0
+","Ja",12645,0.489,0.153,0.0998022933965994,0.281534203242388,-0.0197706603400558,18.1534203242388,"real_conditional"
+"10","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 1
+","Ja",12645,0.489,0.153,0.0994068801897983,0.281217872676947,-0.0593119810201673,18.1217872676947,"real_conditional"
+"11","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 10
+","Ja",12645,0.493,0.153,0.103281929616449,0.287702649268486,0.328192961644919,18.7702649268486,"real_conditional"
+"12","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 15
+","Ja",12645,0.498,0.152,0.108422301304864,0.298853301700277,0.842230130486359,19.8853301700277,"real_conditional"
+"13","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 2
+","Ja",12645,0.489,0.153,0.0999604586793199,0.28208778173191,-0.00395413206801115,18.208778173191,"real_conditional"
+"14","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 3
+","Ja",12645,0.489,0.153,0.0993277975484381,0.281613285883749,-0.0672202451561896,18.1613285883749,"real_conditional"
+"15","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 4
+","Ja",12645,0.489,0.153,0.0993277975484381,0.281613285883749,-0.0672202451561896,18.1613285883749,"real_conditional"
+"16","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 5
+","Ja",12645,0.49,0.153,0.100830367734282,0.283432186635034,0.0830367734282314,18.3432186635034,"real_conditional"
+"17","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 0
+","Ja",2109,0.617,0.091,0.127074442863917,0.655286865813182,2.70744428639166,55.5286865813182,"synth"
+"18","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 1
+","Ja",4000,0.612,0.087,0.10425,0.63775,0.424999999999999,53.775,"synth"
+"19","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 2
+","Ja",2974,0.611,0.084,0.0968392737054472,0.644586415601883,-0.31607262945528,54.4586415601883,"synth"
+"20","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 3
+","Ja",1933,0.61,0.081,0.0843248836006208,0.633729953440248,-1.56751163993792,53.3729953440248,"synth"
+"21","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 4
+","Ja",980,0.608,0.081,0.0806122448979592,0.631632653061225,-1.93877551020408,53.1632653061225,"synth"
+"22","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 5
+","Ja",413,0.614,0.078,0.0823244552058111,0.663438256658596,-1.76755447941889,56.3438256658596,"synth"
+"23","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 0
+","Ja",12508,0.611,0.085,0.099216501439079,0.637671889990406,-0.0783498560921012,53.7671889990406,"synth_conditional"
+"24","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 1
+","Ja",12508,0.611,0.085,0.0985769107771026,0.637112248161177,-0.142308922289736,53.7112248161177,"synth_conditional"
+"25","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 10
+","Ja",12508,0.614,0.085,0.104173329069396,0.647265749920051,0.417332906939558,54.7265749920051,"synth_conditional"
+"26","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 15
+","Ja",12508,0.616,0.084,0.108250719539495,0.656699712184202,0.825071953949472,55.6699712184202,"synth_conditional"
+"27","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 2
+","Ja",12508,0.612,0.085,0.101375119923249,0.643668052446434,0.137511992324911,54.3668052446434,"synth_conditional"
+"28","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 3
+","Ja",12508,0.612,0.085,0.099296450271826,0.641109689798529,-0.0703549728173977,54.1109689798529,"synth_conditional"
+"29","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 4
+","Ja",12508,0.612,0.085,0.099296450271826,0.641109689798529,-0.0703549728173977,54.1109689798529,"synth_conditional"
+"30","IV: 
+afspraak_afgelopen_jaar_signaal_voor_medewerker: 5
+","Ja",12508,0.613,0.085,0.101215222257755,0.64350815478094,0.121522225775503,54.350815478094,"synth_conditional"

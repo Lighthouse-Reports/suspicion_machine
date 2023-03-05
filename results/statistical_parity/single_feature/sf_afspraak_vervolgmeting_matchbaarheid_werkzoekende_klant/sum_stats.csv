@@ -1,0 +1,46 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+","Ja",9511,0.483,0.16,0.108295657659552,0.280307012932394,0.829565765955209,18.0307012932394,"real"
+"2","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+","Ja",3046,0.507,0.13,0.0755088640840447,0.28693368351937,-2.44911359159553,18.693368351937,"real"
+"3","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+","Ja",84,0.522,0.113,0.0595238095238095,0.297619047619048,-4.04761904761905,19.7619047619048,"real"
+"4","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+","Ja",4,0.508,0.126,0,0.25,-10,15,"real"
+"5","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+","Ja",12645,0.489,0.153,0.100197706603401,0.282325029655991,0.0197706603400558,18.2325029655991,"real_conditional"
+"6","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+","Ja",12645,0.489,0.153,0.10003954132068,0.281929616449189,0.00395413206801115,18.1929616449189,"real_conditional"
+"7","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+","Ja",12645,0.49,0.152,0.0997232107552392,0.280901542111507,-0.0276789244760794,18.0901542111507,"real_conditional"
+"8","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+","Ja",12645,0.49,0.152,0.0997232107552392,0.280901542111507,-0.0276789244760794,18.0901542111507,"real_conditional"
+"9","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+","Ja",7896,0.61,0.087,0.0984042553191489,0.635131712259372,-0.159574468085107,53.5131712259372,"synth"
+"10","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+","Ja",4691,0.614,0.083,0.102963120869751,0.650820720528672,0.296312086975058,55.0820720528672,"synth"
+"11","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+","Ja",58,0.622,0.07,0.0862068965517241,0.706896551724138,-1.37931034482759,60.6896551724138,"synth"
+"12","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+","Ja",12508,0.612,0.085,0.0996961944355612,0.641109689798529,-0.0303805564438764,54.1109689798529,"synth_conditional"
+"13","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+","Ja",12508,0.612,0.085,0.0996162456028142,0.641189638631276,-0.0383754397185812,54.1189638631276,"synth_conditional"
+"14","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+","Ja",12508,0.609,0.085,0.0919411576590982,0.627518388231532,-0.805884234090183,52.7518388231532,"synth_conditional"
+"15","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+","Ja",12508,0.609,0.085,0.0919411576590982,0.627518388231532,-0.805884234090183,52.7518388231532,"synth_conditional"

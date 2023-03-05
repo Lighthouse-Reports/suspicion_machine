@@ -1,0 +1,116 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 0
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 1
+",12645,12645,0.43,"ns",1,"ns","real_conditional"
+"2","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 0
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 2
+",12645,12645,0.641,"ns",1,"ns","real_conditional"
+"3","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 1
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 2
+",12645,12645,0.747,"ns",1,"ns","real_conditional"
+"4","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 0
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 3
+",12645,12645,0.641,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 1
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 3
+",12645,12645,0.747,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 2
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 0
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 5
+",12645,12645,0.641,"ns",1,"ns","real_conditional"
+"8","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 1
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 5
+",12645,12645,0.747,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 2
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 3
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"11","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 0
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 1
+",7869,4671,2.89e-19,"****",8.66e-19,"****","synth"
+"12","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 0
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 2
+",7869,105,1.22e-07,"****",2.44e-07,"****","synth"
+"13","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 1
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 2
+",4671,105,0.000335,"***",0.000335,"***","synth"
+"14","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 0
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 1
+",12508,12508,0.427,"ns",1,"ns","synth_conditional"
+"15","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 0
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 2
+",12508,12508,0.311,"ns",1,"ns","synth_conditional"
+"16","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 1
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 2
+",12508,12508,0.0706,"ns",0.706,"ns","synth_conditional"
+"17","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 0
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 3
+",12508,12508,0.311,"ns",1,"ns","synth_conditional"
+"18","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 1
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 3
+",12508,12508,0.0706,"ns",0.706,"ns","synth_conditional"
+"19","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 2
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"20","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 0
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 5
+",12508,12508,0.311,"ns",1,"ns","synth_conditional"
+"21","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 1
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 5
+",12508,12508,0.0706,"ns",0.706,"ns","synth_conditional"
+"22","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 2
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"23","Ja","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 3
+","IV: 
+afspraak_toevoegen_inschrijving_uwvwb: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"

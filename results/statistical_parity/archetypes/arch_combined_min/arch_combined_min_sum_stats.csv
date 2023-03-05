@@ -1,0 +1,5 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+","Ja",12645,0.452,0.141,0.0496638987742191,0.181573744563068,-5.03361012257809,8.15737445630684,"real_conditional"
+"2","IV: 
+","Ja",12645,0.548,0.088,0.0136812969553183,0.340608936338474,-8.63187030446817,24.0608936338474,"synth_conditional"

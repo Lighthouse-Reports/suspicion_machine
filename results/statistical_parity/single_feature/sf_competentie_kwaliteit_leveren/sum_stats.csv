@@ -1,0 +1,49 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+competentie_kwaliteit_leveren: 0
+","Ja",8356,0.454,0.152,0.0654619435136429,0.214456677836285,-3.45380564863571,11.4456677836285,"real"
+"2","IV: 
+competentie_kwaliteit_leveren: 1
+","Ja",4198,0.557,0.131,0.162696522153406,0.408766079085279,6.26965221534064,30.8766079085279,"real"
+"3","IV: 
+competentie_kwaliteit_leveren: 2
+","Ja",89,0.64,0.129,0.370786516853933,0.629213483146067,27.0786516853933,52.9213483146067,"real"
+"4","IV: 
+competentie_kwaliteit_leveren: 3
+","Ja",2,0.752,0.008,1,1,90,90,"real"
+"5","IV: 
+competentie_kwaliteit_leveren: 0
+","Ja",12645,0.488,0.153,0.0994068801897983,0.280980624752867,-0.0593119810201673,18.0980624752867,"real_conditional"
+"6","IV: 
+competentie_kwaliteit_leveren: 1
+","Ja",12645,0.492,0.152,0.100988533017003,0.285330170027679,0.098853301700276,18.5330170027679,"real_conditional"
+"7","IV: 
+competentie_kwaliteit_leveren: 2
+","Ja",12645,0.492,0.152,0.100988533017003,0.285330170027679,0.098853301700276,18.5330170027679,"real_conditional"
+"8","IV: 
+competentie_kwaliteit_leveren: 3
+","Ja",12645,0.492,0.152,0.100988533017003,0.285330170027679,0.098853301700276,18.5330170027679,"real_conditional"
+"9","IV: 
+competentie_kwaliteit_leveren: 0
+","Ja",7829,0.6,0.088,0.0772767914165283,0.5930514752842,-2.27232085834717,49.30514752842,"synth"
+"10","IV: 
+competentie_kwaliteit_leveren: 1
+","Ja",4699,0.63,0.078,0.135135135135135,0.716535433070866,3.51351351351351,61.6535433070866,"synth"
+"11","IV: 
+competentie_kwaliteit_leveren: 2
+","Ja",116,0.658,0.064,0.206896551724138,0.844827586206897,10.6896551724138,74.4827586206897,"synth"
+"12","IV: 
+competentie_kwaliteit_leveren: 3
+","Ja",1,0.773,NA,1,1,90,90,"synth"
+"13","IV: 
+competentie_kwaliteit_leveren: 0
+","Ja",12508,0.611,0.085,0.0988167572753438,0.637671889990406,-0.118324272465622,53.7671889990406,"synth_conditional"
+"14","IV: 
+competentie_kwaliteit_leveren: 1
+","Ja",12508,0.613,0.084,0.100975375759514,0.646866005756316,0.0975375759513911,54.6866005756316,"synth_conditional"
+"15","IV: 
+competentie_kwaliteit_leveren: 2
+","Ja",12508,0.613,0.084,0.100975375759514,0.646866005756316,0.0975375759513911,54.6866005756316,"synth_conditional"
+"16","IV: 
+competentie_kwaliteit_leveren: 3
+","Ja",12508,0.613,0.084,0.100975375759514,0.646866005756316,0.0975375759513911,54.6866005756316,"synth_conditional"

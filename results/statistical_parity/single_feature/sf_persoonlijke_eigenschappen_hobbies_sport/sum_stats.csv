@@ -1,0 +1,25 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+","Ja",9426,0.48,0.155,0.0938892425206875,0.267769997878209,-0.611075747931254,16.7769997878209,"real"
+"2","IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+","Ja",3219,0.515,0.145,0.118049083566325,0.323703013358186,1.80490835663249,22.3703013358186,"real"
+"3","IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+","Ja",12645,0.489,0.153,0.100276789244761,0.282562277580071,0.0276789244760767,18.2562277580071,"real_conditional"
+"4","IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+","Ja",12645,0.489,0.153,0.0994859628311586,0.280506128904705,-0.051403716884145,18.0506128904705,"real_conditional"
+"5","IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+","Ja",7644,0.61,0.087,0.098246991104134,0.631998953427525,-0.175300889586605,53.1998953427525,"synth"
+"6","IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+","Ja",5001,0.615,0.083,0.102779444111178,0.655468906218756,0.277944411117775,55.5468906218756,"synth"
+"7","IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+","Ja",12508,0.612,0.085,0.100655580428526,0.642069075791493,0.0655580428525732,54.2069075791493,"synth_conditional"
+"8","IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+","Ja",12508,0.611,0.085,0.0987368084425967,0.638711224816118,-0.126319155740327,53.8711224816118,"synth_conditional"

@@ -1,0 +1,553 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1172,9.75772208808592,"real"
+"2",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",79,15.1340996168582,"real"
+"3",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",12,15.3846153846154,"real"
+"4",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",2,7.40740740740741,"real"
+"5",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1181,9.83265340104904,"real"
+"6",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",75,14.367816091954,"real"
+"7",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",8,10.2564102564103,"real"
+"8",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1,3.7037037037037,"real"
+"9",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1189,9.89925901257181,"real"
+"10",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",63,12.0689655172414,"real"
+"11",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",7,8.97435897435897,"real"
+"12",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",6,22.2222222222222,"real"
+"13",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1206,10.0407959370577,"real"
+"14",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",49,9.38697318007663,"real"
+"15",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",9,11.5384615384615,"real"
+"16",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1,3.7037037037037,"real"
+"17",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1193,9.93256181833319,"real"
+"18",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",58,11.1111111111111,"real"
+"19",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",9,11.5384615384615,"real"
+"20",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",2,7.40740740740741,"real"
+"21",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",3,75,"real"
+"22",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1205,10.0324702356174,"real"
+"23",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",48,9.19540229885057,"real"
+"24",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",6,7.69230769230769,"real"
+"25",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",2,7.40740740740741,"real"
+"26",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1,25,"real"
+"27",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",2,66.6666666666667,"real"
+"28",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1200,9.99084172841562,"real"
+"29",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",49,9.38697318007663,"real"
+"30",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",7,8.97435897435897,"real"
+"31",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",8,29.6296296296296,"real"
+"32",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1206,10.0407959370577,"real"
+"33",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",45,8.62068965517241,"real"
+"34",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",10,12.8205128205128,"real"
+"35",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",3,11.1111111111111,"real"
+"36",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1224,10.1906585629839,"real"
+"37",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",33,6.32183908045977,"real"
+"38",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",6,7.69230769230769,"real"
+"39",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1,3.7037037037037,"real"
+"40",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1235,10.2822412788277,"real"
+"41",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",23,4.40613026819923,"real"
+"42",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",4,5.12820512820513,"real"
+"43",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1,3.7037037037037,"real"
+"44",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1,33.3333333333333,"real"
+"45",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1242,9.8220640569395,"real_conditional"
+"46",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1269,10.0355871886121,"real_conditional"
+"47",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1269,10.0355871886121,"real_conditional"
+"48",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1269,10.0355871886121,"real_conditional"
+"49",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1269,10.0355871886121,"real_conditional"
+"50",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1269,10.0355871886121,"real_conditional"
+"51",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1256,9.93277975484381,"real_conditional"
+"52",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1267,10.0197706603401,"real_conditional"
+"53",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1266,10.011862396204,"real_conditional"
+"54",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1266,10.011862396204,"real_conditional"
+"55",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1266,10.011862396204,"real_conditional"
+"56",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1266,10.011862396204,"real_conditional"
+"57",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1242,9.8220640569395,"real_conditional"
+"58",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1269,10.0355871886121,"real_conditional"
+"59",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1269,10.0355871886121,"real_conditional"
+"60",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1269,10.0355871886121,"real_conditional"
+"61",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1269,10.0355871886121,"real_conditional"
+"62",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1269,10.0355871886121,"real_conditional"
+"63",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1264,9.99604586793199,"real_conditional"
+"64",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1264,9.99604586793199,"real_conditional"
+"65",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1265,10.003954132068,"real_conditional"
+"66",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1265,10.003954132068,"real_conditional"
+"67",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1265,10.003954132068,"real_conditional"
+"68",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1264,9.99604586793199,"real_conditional"
+"69",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1251,9.8932384341637,"real_conditional"
+"70",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1267,10.0197706603401,"real_conditional"
+"71",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1267,10.0197706603401,"real_conditional"
+"72",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1267,10.0197706603401,"real_conditional"
+"73",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1267,10.0197706603401,"real_conditional"
+"74",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1268,10.0276789244761,"real_conditional"
+"75",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1278,10.1067615658363,"real_conditional"
+"76",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1262,9.98022933965994,"real_conditional"
+"77",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1262,9.98022933965994,"real_conditional"
+"78",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1262,9.98022933965994,"real_conditional"
+"79",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1262,9.98022933965994,"real_conditional"
+"80",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1261,9.97232107552392,"real_conditional"
+"81",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1253,9.90905496243574,"real_conditional"
+"82",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1267,10.0197706603401,"real_conditional"
+"83",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1267,10.0197706603401,"real_conditional"
+"84",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1267,10.0197706603401,"real_conditional"
+"85",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1266,10.011862396204,"real_conditional"
+"86",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1267,10.0197706603401,"real_conditional"
+"87",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1271,10.0514037168841,"real_conditional"
+"88",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1263,9.98813760379597,"real_conditional"
+"89",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1263,9.98813760379597,"real_conditional"
+"90",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1263,9.98813760379597,"real_conditional"
+"91",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1264,9.99604586793199,"real_conditional"
+"92",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1263,9.98813760379597,"real_conditional"
+"93",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1281,10.1304863582444,"real_conditional"
+"94",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1261,9.97232107552392,"real_conditional"
+"95",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1261,9.97232107552392,"real_conditional"
+"96",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1261,9.97232107552392,"real_conditional"
+"97",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1261,9.97232107552392,"real_conditional"
+"98",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1262,9.98022933965994,"real_conditional"
+"99",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1307,10.3361012257809,"real_conditional"
+"100",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1256,9.93277975484381,"real_conditional"
+"101",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1256,9.93277975484381,"real_conditional"
+"102",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1256,9.93277975484381,"real_conditional"
+"103",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1256,9.93277975484381,"real_conditional"
+"104",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1256,9.93277975484381,"real_conditional"
+"105",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1102,9.81125356125356,"synth"
+"106",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",163,11.5357395612173,"synth"
+"107",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1099,9.78454415954416,"synth"
+"108",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",166,11.7480537862703,"synth"
+"109",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1111,9.89138176638177,"synth"
+"110",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",154,10.898796886058,"synth"
+"111",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1109,9.8735754985755,"synth"
+"112",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",156,11.0403397027601,"synth"
+"113",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1141,10.1584757834758,"synth"
+"114",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",124,8.77565463552725,"synth"
+"115",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1121,9.98041310541311,"synth"
+"116",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",143,10.1203113941967,"synth"
+"117",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1103,9.8201566951567,"synth"
+"118",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",161,11.3941967445152,"synth"
+"119",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1157,10.3009259259259,"synth"
+"120",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",107,7.5725406935598,"synth"
+"121",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1135,10.105056980057,"synth"
+"122",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",129,9.12951167728238,"synth"
+"123",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1154,10.2742165242165,"synth"
+"124",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",110,7.78485491861288,"synth"
+"125",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1238,9.89766549408379,"synth_conditional"
+"126",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1254,10.0255836264791,"synth_conditional"
+"127",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1254,10.0255836264791,"synth_conditional"
+"128",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1253,10.0175887432043,"synth_conditional"
+"129",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1253,10.0175887432043,"synth_conditional"
+"130",1,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1253,10.0175887432043,"synth_conditional"
+"131",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1215,9.71378317876559,"synth_conditional"
+"132",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1258,10.0575631595779,"synth_conditional"
+"133",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1258,10.0575631595779,"synth_conditional"
+"134",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1258,10.0575631595779,"synth_conditional"
+"135",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1258,10.0575631595779,"synth_conditional"
+"136",2,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1258,10.0575631595779,"synth_conditional"
+"137",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1245,9.95362967700671,"synth_conditional"
+"138",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"139",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1252,10.0095938599296,"synth_conditional"
+"140",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1252,10.0095938599296,"synth_conditional"
+"141",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1252,10.0095938599296,"synth_conditional"
+"142",3,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1252,10.0095938599296,"synth_conditional"
+"143",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1232,9.84969619443556,"synth_conditional"
+"144",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1254,10.0255836264791,"synth_conditional"
+"145",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1254,10.0255836264791,"synth_conditional"
+"146",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1255,10.0335785097538,"synth_conditional"
+"147",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1255,10.0335785097538,"synth_conditional"
+"148",4,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1255,10.0335785097538,"synth_conditional"
+"149",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1260,10.0735529261273,"synth_conditional"
+"150",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1249,9.98560921010553,"synth_conditional"
+"151",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1249,9.98560921010553,"synth_conditional"
+"152",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1249,9.98560921010553,"synth_conditional"
+"153",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1249,9.98560921010553,"synth_conditional"
+"154",5,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1249,9.98560921010553,"synth_conditional"
+"155",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1243,9.93763991045731,"synth_conditional"
+"156",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1253,10.0175887432043,"synth_conditional"
+"157",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1253,10.0175887432043,"synth_conditional"
+"158",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1252,10.0095938599296,"synth_conditional"
+"159",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1252,10.0095938599296,"synth_conditional"
+"160",6,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1252,10.0095938599296,"synth_conditional"
+"161",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1242,9.9296450271826,"synth_conditional"
+"162",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"163",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1252,10.0095938599296,"synth_conditional"
+"164",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1253,10.0175887432043,"synth_conditional"
+"165",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1253,10.0175887432043,"synth_conditional"
+"166",7,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1253,10.0175887432043,"synth_conditional"
+"167",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1252,10.0095938599296,"synth_conditional"
+"168",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1251,10.0015989766549,"synth_conditional"
+"169",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1251,10.0015989766549,"synth_conditional"
+"170",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1251,10.0015989766549,"synth_conditional"
+"171",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1250,9.99360409338024,"synth_conditional"
+"172",8,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1250,9.99360409338024,"synth_conditional"
+"173",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1277,10.2094659417972,"synth_conditional"
+"174",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1245,9.95362967700671,"synth_conditional"
+"175",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1245,9.95362967700671,"synth_conditional"
+"176",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1245,9.95362967700671,"synth_conditional"
+"177",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1246,9.96162456028142,"synth_conditional"
+"178",9,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1246,9.96162456028142,"synth_conditional"
+"179",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+",1304,10.4253277902143,"synth_conditional"
+"180",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+",1240,9.9136552606332,"synth_conditional"
+"181",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+",1240,9.9136552606332,"synth_conditional"
+"182",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+",1240,9.9136552606332,"synth_conditional"
+"183",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+",1240,9.9136552606332,"synth_conditional"
+"184",10,"IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+",1240,9.9136552606332,"synth_conditional"

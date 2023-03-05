@@ -1,0 +1,481 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 1
+",12645,12645,0.00166,"**",0.0614,"ns","real_conditional"
+"2","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 2
+",12645,12645,6.91e-05,"****",0.00311,"**","real_conditional"
+"3","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 2
+",12645,12645,0.404,"ns",1,"ns","real_conditional"
+"4","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 3
+",12645,12645,0.000125,"***",0.00551,"**","real_conditional"
+"5","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 3
+",12645,12645,0.49,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+adres_aantal_woonadres_handmatig: 2
+","IV: 
+adres_aantal_woonadres_handmatig: 3
+",12645,12645,0.886,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 4
+",12645,12645,0.000125,"***",0.00551,"**","real_conditional"
+"8","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 4
+",12645,12645,0.49,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+adres_aantal_woonadres_handmatig: 2
+","IV: 
+adres_aantal_woonadres_handmatig: 4
+",12645,12645,0.886,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+adres_aantal_woonadres_handmatig: 3
+","IV: 
+adres_aantal_woonadres_handmatig: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"11","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 5
+",12645,12645,0.000125,"***",0.00551,"**","real_conditional"
+"12","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 5
+",12645,12645,0.49,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+adres_aantal_woonadres_handmatig: 2
+","IV: 
+adres_aantal_woonadres_handmatig: 5
+",12645,12645,0.886,"ns",1,"ns","real_conditional"
+"14","Ja","IV: 
+adres_aantal_woonadres_handmatig: 3
+","IV: 
+adres_aantal_woonadres_handmatig: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"15","Ja","IV: 
+adres_aantal_woonadres_handmatig: 4
+","IV: 
+adres_aantal_woonadres_handmatig: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"16","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 6
+",12645,12645,0.000125,"***",0.00551,"**","real_conditional"
+"17","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 6
+",12645,12645,0.49,"ns",1,"ns","real_conditional"
+"18","Ja","IV: 
+adres_aantal_woonadres_handmatig: 2
+","IV: 
+adres_aantal_woonadres_handmatig: 6
+",12645,12645,0.886,"ns",1,"ns","real_conditional"
+"19","Ja","IV: 
+adres_aantal_woonadres_handmatig: 3
+","IV: 
+adres_aantal_woonadres_handmatig: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"20","Ja","IV: 
+adres_aantal_woonadres_handmatig: 4
+","IV: 
+adres_aantal_woonadres_handmatig: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"21","Ja","IV: 
+adres_aantal_woonadres_handmatig: 5
+","IV: 
+adres_aantal_woonadres_handmatig: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"22","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 7
+",12645,12645,0.000125,"***",0.00551,"**","real_conditional"
+"23","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 7
+",12645,12645,0.49,"ns",1,"ns","real_conditional"
+"24","Ja","IV: 
+adres_aantal_woonadres_handmatig: 2
+","IV: 
+adres_aantal_woonadres_handmatig: 7
+",12645,12645,0.886,"ns",1,"ns","real_conditional"
+"25","Ja","IV: 
+adres_aantal_woonadres_handmatig: 3
+","IV: 
+adres_aantal_woonadres_handmatig: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"26","Ja","IV: 
+adres_aantal_woonadres_handmatig: 4
+","IV: 
+adres_aantal_woonadres_handmatig: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"27","Ja","IV: 
+adres_aantal_woonadres_handmatig: 5
+","IV: 
+adres_aantal_woonadres_handmatig: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"28","Ja","IV: 
+adres_aantal_woonadres_handmatig: 6
+","IV: 
+adres_aantal_woonadres_handmatig: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"29","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 8
+",12645,12645,0.000125,"***",0.00551,"**","real_conditional"
+"30","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 8
+",12645,12645,0.49,"ns",1,"ns","real_conditional"
+"31","Ja","IV: 
+adres_aantal_woonadres_handmatig: 2
+","IV: 
+adres_aantal_woonadres_handmatig: 8
+",12645,12645,0.886,"ns",1,"ns","real_conditional"
+"32","Ja","IV: 
+adres_aantal_woonadres_handmatig: 3
+","IV: 
+adres_aantal_woonadres_handmatig: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"33","Ja","IV: 
+adres_aantal_woonadres_handmatig: 4
+","IV: 
+adres_aantal_woonadres_handmatig: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"34","Ja","IV: 
+adres_aantal_woonadres_handmatig: 5
+","IV: 
+adres_aantal_woonadres_handmatig: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"35","Ja","IV: 
+adres_aantal_woonadres_handmatig: 6
+","IV: 
+adres_aantal_woonadres_handmatig: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"36","Ja","IV: 
+adres_aantal_woonadres_handmatig: 7
+","IV: 
+adres_aantal_woonadres_handmatig: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"37","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12645,12645,0.000125,"***",0.00551,"**","real_conditional"
+"38","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12645,12645,0.49,"ns",1,"ns","real_conditional"
+"39","Ja","IV: 
+adres_aantal_woonadres_handmatig: 2
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12645,12645,0.886,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+adres_aantal_woonadres_handmatig: 3
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+adres_aantal_woonadres_handmatig: 4
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+adres_aantal_woonadres_handmatig: 5
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+adres_aantal_woonadres_handmatig: 6
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"44","Ja","IV: 
+adres_aantal_woonadres_handmatig: 7
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"45","Ja","IV: 
+adres_aantal_woonadres_handmatig: 8
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"46","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 1
+",6774,5496,3.32e-18,"****",1.99e-17,"****","synth"
+"47","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 2
+",6774,370,3.71e-07,"****",1.85e-06,"****","synth"
+"48","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 2
+",5496,370,0.0348,"*",0.139,"ns","synth"
+"49","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 3
+",6774,5,0.103,"ns",0.309,"ns","synth"
+"50","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 3
+",5496,5,0.202,"ns",0.403,"ns","synth"
+"51","Ja","IV: 
+adres_aantal_woonadres_handmatig: 2
+","IV: 
+adres_aantal_woonadres_handmatig: 3
+",370,5,0.309,"ns",0.403,"ns","synth"
+"52","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 1
+",12508,12508,0.0357,"*",1,"ns","synth_conditional"
+"53","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 2
+",12508,12508,0.00846,"**",0.381,"ns","synth_conditional"
+"54","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 2
+",12508,12508,0.595,"ns",1,"ns","synth_conditional"
+"55","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 3
+",12508,12508,0.107,"ns",1,"ns","synth_conditional"
+"56","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 3
+",12508,12508,0.624,"ns",1,"ns","synth_conditional"
+"57","Ja","IV: 
+adres_aantal_woonadres_handmatig: 2
+","IV: 
+adres_aantal_woonadres_handmatig: 3
+",12508,12508,0.307,"ns",1,"ns","synth_conditional"
+"58","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 4
+",12508,12508,0.107,"ns",1,"ns","synth_conditional"
+"59","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 4
+",12508,12508,0.624,"ns",1,"ns","synth_conditional"
+"60","Ja","IV: 
+adres_aantal_woonadres_handmatig: 2
+","IV: 
+adres_aantal_woonadres_handmatig: 4
+",12508,12508,0.307,"ns",1,"ns","synth_conditional"
+"61","Ja","IV: 
+adres_aantal_woonadres_handmatig: 3
+","IV: 
+adres_aantal_woonadres_handmatig: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"62","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 5
+",12508,12508,0.107,"ns",1,"ns","synth_conditional"
+"63","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 5
+",12508,12508,0.624,"ns",1,"ns","synth_conditional"
+"64","Ja","IV: 
+adres_aantal_woonadres_handmatig: 2
+","IV: 
+adres_aantal_woonadres_handmatig: 5
+",12508,12508,0.307,"ns",1,"ns","synth_conditional"
+"65","Ja","IV: 
+adres_aantal_woonadres_handmatig: 3
+","IV: 
+adres_aantal_woonadres_handmatig: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"66","Ja","IV: 
+adres_aantal_woonadres_handmatig: 4
+","IV: 
+adres_aantal_woonadres_handmatig: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"67","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 6
+",12508,12508,0.107,"ns",1,"ns","synth_conditional"
+"68","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 6
+",12508,12508,0.624,"ns",1,"ns","synth_conditional"
+"69","Ja","IV: 
+adres_aantal_woonadres_handmatig: 2
+","IV: 
+adres_aantal_woonadres_handmatig: 6
+",12508,12508,0.307,"ns",1,"ns","synth_conditional"
+"70","Ja","IV: 
+adres_aantal_woonadres_handmatig: 3
+","IV: 
+adres_aantal_woonadres_handmatig: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"71","Ja","IV: 
+adres_aantal_woonadres_handmatig: 4
+","IV: 
+adres_aantal_woonadres_handmatig: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"72","Ja","IV: 
+adres_aantal_woonadres_handmatig: 5
+","IV: 
+adres_aantal_woonadres_handmatig: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"73","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 7
+",12508,12508,0.107,"ns",1,"ns","synth_conditional"
+"74","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 7
+",12508,12508,0.624,"ns",1,"ns","synth_conditional"
+"75","Ja","IV: 
+adres_aantal_woonadres_handmatig: 2
+","IV: 
+adres_aantal_woonadres_handmatig: 7
+",12508,12508,0.307,"ns",1,"ns","synth_conditional"
+"76","Ja","IV: 
+adres_aantal_woonadres_handmatig: 3
+","IV: 
+adres_aantal_woonadres_handmatig: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"77","Ja","IV: 
+adres_aantal_woonadres_handmatig: 4
+","IV: 
+adres_aantal_woonadres_handmatig: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"78","Ja","IV: 
+adres_aantal_woonadres_handmatig: 5
+","IV: 
+adres_aantal_woonadres_handmatig: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"79","Ja","IV: 
+adres_aantal_woonadres_handmatig: 6
+","IV: 
+adres_aantal_woonadres_handmatig: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"80","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 8
+",12508,12508,0.107,"ns",1,"ns","synth_conditional"
+"81","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 8
+",12508,12508,0.624,"ns",1,"ns","synth_conditional"
+"82","Ja","IV: 
+adres_aantal_woonadres_handmatig: 2
+","IV: 
+adres_aantal_woonadres_handmatig: 8
+",12508,12508,0.307,"ns",1,"ns","synth_conditional"
+"83","Ja","IV: 
+adres_aantal_woonadres_handmatig: 3
+","IV: 
+adres_aantal_woonadres_handmatig: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"84","Ja","IV: 
+adres_aantal_woonadres_handmatig: 4
+","IV: 
+adres_aantal_woonadres_handmatig: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"85","Ja","IV: 
+adres_aantal_woonadres_handmatig: 5
+","IV: 
+adres_aantal_woonadres_handmatig: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"86","Ja","IV: 
+adres_aantal_woonadres_handmatig: 6
+","IV: 
+adres_aantal_woonadres_handmatig: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"87","Ja","IV: 
+adres_aantal_woonadres_handmatig: 7
+","IV: 
+adres_aantal_woonadres_handmatig: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"88","Ja","IV: 
+adres_aantal_woonadres_handmatig: 0
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12508,12508,0.107,"ns",1,"ns","synth_conditional"
+"89","Ja","IV: 
+adres_aantal_woonadres_handmatig: 1
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12508,12508,0.624,"ns",1,"ns","synth_conditional"
+"90","Ja","IV: 
+adres_aantal_woonadres_handmatig: 2
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12508,12508,0.307,"ns",1,"ns","synth_conditional"
+"91","Ja","IV: 
+adres_aantal_woonadres_handmatig: 3
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"92","Ja","IV: 
+adres_aantal_woonadres_handmatig: 4
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"93","Ja","IV: 
+adres_aantal_woonadres_handmatig: 5
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"94","Ja","IV: 
+adres_aantal_woonadres_handmatig: 6
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"95","Ja","IV: 
+adres_aantal_woonadres_handmatig: 7
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"96","Ja","IV: 
+adres_aantal_woonadres_handmatig: 8
+","IV: 
+adres_aantal_woonadres_handmatig: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"

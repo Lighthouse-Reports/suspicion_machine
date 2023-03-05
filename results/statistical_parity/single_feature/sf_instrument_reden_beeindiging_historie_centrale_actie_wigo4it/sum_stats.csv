@@ -1,0 +1,97 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 0
+","Ja",9447,0.497,0.154,0.110193712289616,0.298295755266222,1.01937122896157,19.8295755266222,"real"
+"2","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 1
+","Ja",2252,0.467,0.15,0.0701598579040853,0.231793960923623,-2.98401420959148,13.1793960923623,"real"
+"3","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 2
+","Ja",666,0.472,0.15,0.0765765765765766,0.243243243243243,-2.34234234234234,14.3243243243243,"real"
+"4","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 3
+","Ja",191,0.467,0.147,0.0575916230366492,0.25130890052356,-4.24083769633508,15.130890052356,"real"
+"5","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 4
+","Ja",56,0.458,0.152,0.0535714285714286,0.232142857142857,-4.64285714285714,13.2142857142857,"real"
+"6","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 5
+","Ja",19,0.36,0.124,0,0,-10,-10,"real"
+"7","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 6
+","Ja",11,0.466,0.125,0,0.0909090909090909,-10,-0.909090909090909,"real"
+"8","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 7
+","Ja",2,0.553,0.364,0.5,0.5,40,40,"real"
+"9","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 8
+","Ja",1,0.63,NA,0,1,-10,90,"real"
+"10","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 0
+","Ja",12645,0.489,0.153,0.10011862396204,0.282325029655991,0.0118623962040335,18.2325029655991,"real_conditional"
+"11","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 1
+","Ja",12645,0.489,0.153,0.10003954132068,0.281850533807829,0.00395413206801115,18.1850533807829,"real_conditional"
+"12","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 2
+","Ja",12645,0.488,0.153,0.0979833926453143,0.278766310794781,-0.201660735468566,17.8766310794781,"real_conditional"
+"13","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 3
+","Ja",12645,0.488,0.153,0.0979833926453143,0.278766310794781,-0.201660735468566,17.8766310794781,"real_conditional"
+"14","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 4
+","Ja",12645,0.488,0.153,0.0979833926453143,0.278766310794781,-0.201660735468566,17.8766310794781,"real_conditional"
+"15","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 5
+","Ja",12645,0.488,0.153,0.0979833926453143,0.278766310794781,-0.201660735468566,17.8766310794781,"real_conditional"
+"16","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 6
+","Ja",12645,0.488,0.153,0.0979833926453143,0.278766310794781,-0.201660735468566,17.8766310794781,"real_conditional"
+"17","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 7
+","Ja",12645,0.488,0.153,0.0979833926453143,0.278766310794781,-0.201660735468566,17.8766310794781,"real_conditional"
+"18","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 8
+","Ja",12645,0.488,0.153,0.0979833926453143,0.278766310794781,-0.201660735468566,17.8766310794781,"real_conditional"
+"19","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 0
+","Ja",5405,0.615,0.086,0.108603145235893,0.651803885291397,0.860314523589269,55.1803885291397,"synth"
+"20","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 1
+","Ja",6329,0.611,0.085,0.0952757149628693,0.640069521251383,-0.472428503713067,54.0069521251383,"synth"
+"21","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 2
+","Ja",868,0.604,0.085,0.0841013824884793,0.592165898617512,-1.58986175115207,49.2165898617512,"synth"
+"22","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 3
+","Ja",41,0.573,0.099,0.0487804878048781,0.48780487804878,-5.1219512195122,38.780487804878,"synth"
+"23","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 4
+","Ja",2,0.586,0.116,0,0.5,-10,40,"synth"
+"24","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 0
+","Ja",12508,0.612,0.085,0.100255836264791,0.641829229293252,0.0255836264790532,54.1829229293252,"synth_conditional"
+"25","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 1
+","Ja",12508,0.612,0.085,0.0996961944355612,0.641109689798529,-0.0303805564438764,54.1109689798529,"synth_conditional"
+"26","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 2
+","Ja",12508,0.61,0.085,0.0956987527982091,0.63431403901503,-0.430124720179086,53.431403901503,"synth_conditional"
+"27","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 3
+","Ja",12508,0.61,0.085,0.0956987527982091,0.63431403901503,-0.430124720179086,53.431403901503,"synth_conditional"
+"28","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 4
+","Ja",12508,0.61,0.085,0.0956987527982091,0.63431403901503,-0.430124720179086,53.431403901503,"synth_conditional"
+"29","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 5
+","Ja",12508,0.61,0.085,0.0956987527982091,0.63431403901503,-0.430124720179086,53.431403901503,"synth_conditional"
+"30","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 6
+","Ja",12508,0.61,0.085,0.0956987527982091,0.63431403901503,-0.430124720179086,53.431403901503,"synth_conditional"
+"31","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 7
+","Ja",12508,0.61,0.085,0.0956987527982091,0.63431403901503,-0.430124720179086,53.431403901503,"synth_conditional"
+"32","IV: 
+instrument_reden_beeindiging_historie_centrale_actie_wigo4it: 8
+","Ja",12508,0.61,0.085,0.0956987527982091,0.63431403901503,-0.430124720179086,53.431403901503,"synth_conditional"

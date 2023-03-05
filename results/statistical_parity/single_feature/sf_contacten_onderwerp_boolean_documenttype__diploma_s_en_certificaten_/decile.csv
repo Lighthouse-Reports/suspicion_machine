@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",993,9.16897506925208,"real"
+"2",1,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",272,14.9862258953168,"real"
+"3",2,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1071,9.88919667590028,"real"
+"4",2,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",194,10.6887052341598,"real"
+"5",3,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1090,10.0646352723915,"real"
+"6",3,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",175,9.64187327823691,"real"
+"7",4,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1066,9.84302862419206,"real"
+"8",4,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",199,10.9641873278237,"real"
+"9",5,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1056,9.75069252077562,"real"
+"10",5,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",209,11.5151515151515,"real"
+"11",6,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1081,9.98153277931671,"real"
+"12",6,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",183,10.0826446280992,"real"
+"13",7,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1090,10.0646352723915,"real"
+"14",7,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",174,9.58677685950413,"real"
+"15",8,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1121,10.3508771929825,"real"
+"16",8,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",143,7.87878787878788,"real"
+"17",9,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1124,10.3785780240074,"real"
+"18",9,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",140,7.71349862258953,"real"
+"19",10,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1138,10.5078485687904,"real"
+"20",10,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",126,6.94214876033058,"real"
+"21",1,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1231,9.73507315144326,"real_conditional"
+"22",1,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1298,10.2649268485567,"real_conditional"
+"23",2,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1259,9.95650454725188,"real_conditional"
+"24",2,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1270,10.0434954527481,"real_conditional"
+"25",3,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1257,9.94068801897983,"real_conditional"
+"26",3,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1272,10.0593119810202,"real_conditional"
+"27",4,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1267,10.0197706603401,"real_conditional"
+"28",4,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1262,9.98022933965994,"real_conditional"
+"29",5,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1265,10.003954132068,"real_conditional"
+"30",5,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1264,9.99604586793199,"real_conditional"
+"31",6,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1282,10.1383946223804,"real_conditional"
+"32",6,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1247,9.86160537761961,"real_conditional"
+"33",7,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1253,9.90905496243574,"real_conditional"
+"34",7,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1276,10.0909450375643,"real_conditional"
+"35",8,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1269,10.0355871886121,"real_conditional"
+"36",8,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1260,9.9644128113879,"real_conditional"
+"37",9,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1282,10.1383946223804,"real_conditional"
+"38",9,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1247,9.86160537761961,"real_conditional"
+"39",10,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1280,10.1225780941083,"real_conditional"
+"40",10,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1249,9.87742190589166,"real_conditional"
+"41",1,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",925,9.21773791728949,"synth"
+"42",1,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",340,13.0268199233716,"synth"
+"43",2,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",981,9.77578475336323,"synth"
+"44",2,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",284,10.8812260536398,"synth"
+"45",3,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",973,9.69606377678127,"synth"
+"46",3,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",292,11.1877394636015,"synth"
+"47",4,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1008,10.0448430493274,"synth"
+"48",4,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",257,9.84674329501916,"synth"
+"49",5,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",970,9.66616841056303,"synth"
+"50",5,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",295,11.3026819923372,"synth"
+"51",6,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1017,10.1345291479821,"synth"
+"52",6,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",247,9.46360153256705,"synth"
+"53",7,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1025,10.214250124564,"synth"
+"54",7,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",239,9.15708812260536,"synth"
+"55",8,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1023,10.1943198804185,"synth"
+"56",8,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",241,9.23371647509579,"synth"
+"57",9,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1024,10.2042850024913,"synth"
+"58",9,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",240,9.19540229885057,"synth"
+"59",10,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1089,10.8520179372197,"synth"
+"60",10,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",175,6.70498084291188,"synth"
+"61",1,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1244,9.94563479373201,"synth_conditional"
+"62",1,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1258,10.0575631595779,"synth_conditional"
+"63",2,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1239,9.90566037735849,"synth_conditional"
+"64",2,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1263,10.0975375759514,"synth_conditional"
+"65",3,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1253,10.0175887432043,"synth_conditional"
+"66",3,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1249,9.98560921010553,"synth_conditional"
+"67",4,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1244,9.94563479373201,"synth_conditional"
+"68",4,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1258,10.0575631595779,"synth_conditional"
+"69",5,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1259,10.0655580428526,"synth_conditional"
+"70",5,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1243,9.93763991045731,"synth_conditional"
+"71",6,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1247,9.96961944355612,"synth_conditional"
+"72",6,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1255,10.0335785097538,"synth_conditional"
+"73",7,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1256,10.0415733930285,"synth_conditional"
+"74",7,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1245,9.95362967700671,"synth_conditional"
+"75",8,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1249,9.98560921010553,"synth_conditional"
+"76",8,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1252,10.0095938599296,"synth_conditional"
+"77",9,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1257,10.0495682763032,"synth_conditional"
+"78",9,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1244,9.94563479373201,"synth_conditional"
+"79",10,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 0
+",1260,10.0735529261273,"synth_conditional"
+"80",10,"IV: 
+contacten_onderwerp_boolean_documenttype__diploma_s_en_certificaten_: 1
+",1241,9.9216501439079,"synth_conditional"

@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1012,12.7664942601236,"real"
+"2",1,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",253,5.36244171259008,"real"
+"3",2,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",936,11.8077456793238,"real"
+"4",2,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",329,6.97329376854599,"real"
+"5",3,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",855,10.7859215339977,"real"
+"6",3,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",410,8.69012293344637,"real"
+"7",4,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",755,9.52441024347168,"real"
+"8",4,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",510,10.8096651123357,"real"
+"9",5,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",749,9.44871956604012,"real"
+"10",5,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",516,10.9368376430691,"real"
+"11",6,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",762,9.6127160338085,"real"
+"12",6,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",502,10.6401017380246,"real"
+"13",7,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",730,9.20903242084017,"real"
+"14",7,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",534,11.3183552352692,"real"
+"15",8,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",743,9.37302888860855,"real"
+"16",8,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",521,11.0428147520136,"real"
+"17",9,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",709,8.9441150498297,"real"
+"18",9,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",555,11.7634590928359,"real"
+"19",10,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",676,8.5278163239561,"real"
+"20",10,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",588,12.4629080118694,"real"
+"21",1,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1265,10.003954132068,"real_conditional"
+"22",1,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1264,9.99604586793199,"real_conditional"
+"23",2,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1263,9.98813760379597,"real_conditional"
+"24",2,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1266,10.011862396204,"real_conditional"
+"25",3,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1265,10.003954132068,"real_conditional"
+"26",3,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1264,9.99604586793199,"real_conditional"
+"27",4,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1264,9.99604586793199,"real_conditional"
+"28",4,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1265,10.003954132068,"real_conditional"
+"29",5,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1264,9.99604586793199,"real_conditional"
+"30",5,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1265,10.003954132068,"real_conditional"
+"31",6,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1265,10.003954132068,"real_conditional"
+"32",6,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1264,9.99604586793199,"real_conditional"
+"33",7,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1264,9.99604586793199,"real_conditional"
+"34",7,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1265,10.003954132068,"real_conditional"
+"35",8,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1265,10.003954132068,"real_conditional"
+"36",8,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1264,9.99604586793199,"real_conditional"
+"37",9,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1263,9.98813760379597,"real_conditional"
+"38",9,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1266,10.011862396204,"real_conditional"
+"39",10,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1267,10.0197706603401,"real_conditional"
+"40",10,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1262,9.98022933965994,"real_conditional"
+"41",1,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",788,11.6499112950917,"synth"
+"42",1,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",477,8.11086549906478,"synth"
+"43",2,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",719,10.6298048492017,"synth"
+"44",2,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",546,9.28413535113076,"synth"
+"45",3,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",675,9.97930218805441,"synth"
+"46",3,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",590,10.0323074307091,"synth"
+"47",4,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",678,10.0236546422235,"synth"
+"48",4,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",587,9.98129569801054,"synth"
+"49",5,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",664,9.81667652276759,"synth"
+"50",5,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",601,10.2193504506036,"synth"
+"51",6,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",662,9.78710821998817,"synth"
+"52",6,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",602,10.2363543615031,"synth"
+"53",7,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",634,9.37315198107629,"synth"
+"54",7,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",630,10.7124638666893,"synth"
+"55",8,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",689,10.1862803075103,"synth"
+"56",8,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",575,9.77724876721646,"synth"
+"57",9,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",607,8.97397989355411,"synth"
+"58",9,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",657,11.171569460976,"synth"
+"59",10,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",648,9.58013010053223,"synth"
+"60",10,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",616,10.4744091140962,"synth"
+"61",1,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1250,9.99360409338024,"synth_conditional"
+"62",1,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1252,10.0095938599296,"synth_conditional"
+"63",2,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1246,9.96162456028142,"synth_conditional"
+"64",2,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1256,10.0415733930285,"synth_conditional"
+"65",3,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1250,9.99360409338024,"synth_conditional"
+"66",3,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1252,10.0095938599296,"synth_conditional"
+"67",4,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1247,9.96961944355612,"synth_conditional"
+"68",4,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1255,10.0335785097538,"synth_conditional"
+"69",5,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1258,10.0575631595779,"synth_conditional"
+"70",5,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1244,9.94563479373201,"synth_conditional"
+"71",6,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1245,9.95362967700671,"synth_conditional"
+"72",6,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1257,10.0495682763032,"synth_conditional"
+"73",7,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1250,9.99360409338024,"synth_conditional"
+"74",7,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1251,10.0015989766549,"synth_conditional"
+"75",8,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1255,10.0335785097538,"synth_conditional"
+"76",8,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1246,9.96162456028142,"synth_conditional"
+"77",9,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1250,9.99360409338024,"synth_conditional"
+"78",9,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1251,10.0015989766549,"synth_conditional"
+"79",10,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 0
+",1257,10.0495682763032,"synth_conditional"
+"80",10,"IV: 
+persoonlijke_eigenschappen_doorzettingsvermogen_opm: 1
+",1244,9.94563479373201,"synth_conditional"

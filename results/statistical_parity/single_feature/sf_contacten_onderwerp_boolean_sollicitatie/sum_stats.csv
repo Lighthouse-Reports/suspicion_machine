@@ -1,0 +1,25 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_onderwerp_boolean_sollicitatie: 0
+","Ja",11936,0.486,0.153,0.096514745308311,0.275050268096515,-0.348525469168902,17.5050268096515,"real"
+"2","IV: 
+contacten_onderwerp_boolean_sollicitatie: 1
+","Ja",709,0.542,0.147,0.159379407616361,0.399153737658674,5.93794076163611,29.9153737658674,"real"
+"3","IV: 
+contacten_onderwerp_boolean_sollicitatie: 0
+","Ja",12645,0.489,0.153,0.10003954132068,0.28200869909055,0.00395413206801115,18.200869909055,"real_conditional"
+"4","IV: 
+contacten_onderwerp_boolean_sollicitatie: 1
+","Ja",12645,0.489,0.153,0.10003954132068,0.28200869909055,0.00395413206801115,18.200869909055,"real_conditional"
+"5","IV: 
+contacten_onderwerp_boolean_sollicitatie: 0
+","Ja",12165,0.611,0.085,0.0992190711056309,0.638388820386354,-0.0780928894369093,53.8388820386354,"synth"
+"6","IV: 
+contacten_onderwerp_boolean_sollicitatie: 1
+","Ja",480,0.628,0.081,0.120833333333333,0.714583333333333,2.08333333333333,61.4583333333333,"synth"
+"7","IV: 
+contacten_onderwerp_boolean_sollicitatie: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"8","IV: 
+contacten_onderwerp_boolean_sollicitatie: 1
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"

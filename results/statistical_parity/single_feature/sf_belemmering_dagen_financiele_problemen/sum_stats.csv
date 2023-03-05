@@ -1,0 +1,55 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+belemmering_dagen_financiele_problemen: 0
+","Ja",9863,0.467,0.153,0.0798945554091047,0.234816992801379,-2.01054445908953,13.4816992801379,"real"
+"2","IV: 
+belemmering_dagen_financiele_problemen: 1
+","Ja",2,0.523,0.246,0.5,0.5,40,40,"real"
+"3","IV: 
+belemmering_dagen_financiele_problemen: 0
+","Ja",12645,0.486,0.153,0.0956899960458679,0.273230525899565,-0.431000395413207,17.3230525899565,"real_conditional"
+"4","IV: 
+belemmering_dagen_financiele_problemen: 1
+","Ja",12645,0.487,0.153,0.0964808224594702,0.274337682878608,-0.351917754052986,17.4337682878608,"real_conditional"
+"5","IV: 
+belemmering_dagen_financiele_problemen: 10
+","Ja",12645,0.487,0.153,0.0965599051008304,0.274654013444049,-0.344009489916965,17.4654013444049,"real_conditional"
+"6","IV: 
+belemmering_dagen_financiele_problemen: 100
+","Ja",12645,0.491,0.151,0.0991696322657177,0.279398971925662,-0.0830367734282328,17.9398971925662,"real_conditional"
+"7","IV: 
+belemmering_dagen_financiele_problemen: 1000
+","Ja",12645,0.505,0.148,0.110478449980229,0.30699881376038,1.04784499802293,20.699881376038,"real_conditional"
+"8","IV: 
+belemmering_dagen_financiele_problemen: 10000
+","Ja",12645,0.515,0.147,0.121154606563859,0.330090945037564,2.11546065638592,23.0090945037564,"real_conditional"
+"9","IV: 
+belemmering_dagen_financiele_problemen: 0
+","Ja",1,0.49,NA,0,0,-10,-10,"synth"
+"10","IV: 
+belemmering_dagen_financiele_problemen: 10
+","Ja",1,0.624,NA,0,1,-10,90,"synth"
+"11","IV: 
+belemmering_dagen_financiele_problemen: 100
+","Ja",2,0.52,0.058,0,0,-10,-10,"synth"
+"12","IV: 
+belemmering_dagen_financiele_problemen: 1000
+","Ja",2,0.518,0.11,0,0.5,-10,40,"synth"
+"13","IV: 
+belemmering_dagen_financiele_problemen: 0
+","Ja",12508,0.604,0.087,0.0854653022065878,0.607131435881036,-1.45346977934122,50.7131435881036,"synth_conditional"
+"14","IV: 
+belemmering_dagen_financiele_problemen: 1
+","Ja",12508,0.605,0.087,0.0861848417013112,0.608890310201471,-1.38151582986888,50.8890310201471,"synth_conditional"
+"15","IV: 
+belemmering_dagen_financiele_problemen: 10
+","Ja",12508,0.605,0.086,0.0861848417013112,0.609210105532459,-1.38151582986888,50.9210105532459,"synth_conditional"
+"16","IV: 
+belemmering_dagen_financiele_problemen: 100
+","Ja",12508,0.606,0.085,0.0862647905340582,0.614566677326511,-1.37352094659418,51.4566677326511,"synth_conditional"
+"17","IV: 
+belemmering_dagen_financiele_problemen: 1000
+","Ja",12508,0.616,0.083,0.103453789574672,0.656299968020467,0.34537895746722,55.6299968020467,"synth_conditional"
+"18","IV: 
+belemmering_dagen_financiele_problemen: 10000
+","Ja",12508,0.625,0.081,0.125999360409338,0.695634793732012,2.5999360409338,59.5634793732012,"synth_conditional"

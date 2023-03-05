@@ -1,0 +1,591 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.3
+",23,24,0.4,"ns",1,"ns","real"
+"2","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.4
+",23,189,0.0373,"*",0.613,"ns","real"
+"3","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.4
+",24,189,0.322,"ns",1,"ns","real"
+"4","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.5
+",23,1793,0.000719,"***",0.0151,"*","real"
+"5","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.5
+",24,1793,0.0238,"*",0.428,"ns","real"
+"6","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 0.5
+",189,1793,0.00108,"**",0.0216,"*","real"
+"7","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.6
+",23,282,0.0361,"*",0.613,"ns","real"
+"8","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.6
+",24,282,0.325,"ns",1,"ns","real"
+"9","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 0.6
+",189,282,0.955,"ns",1,"ns","real"
+"10","Ja","IV: 
+adres_unieke_wijk_ratio: 0.5
+","IV: 
+adres_unieke_wijk_ratio: 0.6
+",1793,282,6.75e-05,"****",0.00155,"**","real"
+"11","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",23,2,0.555,"ns",1,"ns","real"
+"12","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",24,2,0.355,"ns",1,"ns","real"
+"13","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",189,2,0.208,"ns",1,"ns","real"
+"14","Ja","IV: 
+adres_unieke_wijk_ratio: 0.5
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",1793,2,0.106,"ns",1,"ns","real"
+"15","Ja","IV: 
+adres_unieke_wijk_ratio: 0.6
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",282,2,0.21,"ns",1,"ns","real"
+"16","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",23,156,0.0709,"ns",0.992,"ns","real"
+"17","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",24,156,0.471,"ns",1,"ns","real"
+"18","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",189,156,0.602,"ns",1,"ns","real"
+"19","Ja","IV: 
+adres_unieke_wijk_ratio: 0.5
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",1793,156,0.000242,"***",0.00533,"**","real"
+"20","Ja","IV: 
+adres_unieke_wijk_ratio: 0.6
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",282,156,0.609,"ns",1,"ns","real"
+"21","Ja","IV: 
+adres_unieke_wijk_ratio: 0.7
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",2,156,0.239,"ns",1,"ns","real"
+"22","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 1
+",23,7444,2.23e-05,"****",0.000535,"***","real"
+"23","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 1
+",24,7444,0.00173,"**",0.0329,"*","real"
+"24","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 1
+",189,7444,7.44e-09,"****",1.86e-07,"****","real"
+"25","Ja","IV: 
+adres_unieke_wijk_ratio: 0.5
+","IV: 
+adres_unieke_wijk_ratio: 1
+",1793,7444,2.32e-11,"****",6.26e-10,"****","real"
+"26","Ja","IV: 
+adres_unieke_wijk_ratio: 0.6
+","IV: 
+adres_unieke_wijk_ratio: 1
+",282,7444,1.23e-12,"****",3.44e-11,"****","real"
+"27","Ja","IV: 
+adres_unieke_wijk_ratio: 0.7
+","IV: 
+adres_unieke_wijk_ratio: 1
+",2,7444,0.0618,"ns",0.928,"ns","real"
+"28","Ja","IV: 
+adres_unieke_wijk_ratio: 0.8
+","IV: 
+adres_unieke_wijk_ratio: 1
+",156,7444,2.54e-09,"****",6.59e-08,"****","real"
+"29","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 0.2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"30","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 0.3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"31","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"32","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 0.4
+",12645,12645,0.87,"ns",1,"ns","real_conditional"
+"33","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.4
+",12645,12645,0.87,"ns",1,"ns","real_conditional"
+"34","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.4
+",12645,12645,0.87,"ns",1,"ns","real_conditional"
+"35","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 0.5
+",12645,12645,0.415,"ns",1,"ns","real_conditional"
+"36","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.5
+",12645,12645,0.415,"ns",1,"ns","real_conditional"
+"37","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.5
+",12645,12645,0.415,"ns",1,"ns","real_conditional"
+"38","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 0.5
+",12645,12645,0.516,"ns",1,"ns","real_conditional"
+"39","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 0.6
+",12645,12645,0.411,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.6
+",12645,12645,0.411,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.6
+",12645,12645,0.411,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 0.6
+",12645,12645,0.511,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+adres_unieke_wijk_ratio: 0.5
+","IV: 
+adres_unieke_wijk_ratio: 0.6
+",12645,12645,0.994,"ns",1,"ns","real_conditional"
+"44","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",12645,12645,0.403,"ns",1,"ns","real_conditional"
+"45","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",12645,12645,0.403,"ns",1,"ns","real_conditional"
+"46","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",12645,12645,0.403,"ns",1,"ns","real_conditional"
+"47","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",12645,12645,0.502,"ns",1,"ns","real_conditional"
+"48","Ja","IV: 
+adres_unieke_wijk_ratio: 0.5
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",12645,12645,0.983,"ns",1,"ns","real_conditional"
+"49","Ja","IV: 
+adres_unieke_wijk_ratio: 0.6
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",12645,12645,0.989,"ns",1,"ns","real_conditional"
+"50","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",12645,12645,0.441,"ns",1,"ns","real_conditional"
+"51","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",12645,12645,0.441,"ns",1,"ns","real_conditional"
+"52","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",12645,12645,0.441,"ns",1,"ns","real_conditional"
+"53","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",12645,12645,0.544,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+adres_unieke_wijk_ratio: 0.5
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",12645,12645,0.965,"ns",1,"ns","real_conditional"
+"55","Ja","IV: 
+adres_unieke_wijk_ratio: 0.6
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",12645,12645,0.959,"ns",1,"ns","real_conditional"
+"56","Ja","IV: 
+adres_unieke_wijk_ratio: 0.7
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",12645,12645,0.948,"ns",1,"ns","real_conditional"
+"57","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 0.9
+",12645,12645,0.482,"ns",1,"ns","real_conditional"
+"58","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.9
+",12645,12645,0.482,"ns",1,"ns","real_conditional"
+"59","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.9
+",12645,12645,0.482,"ns",1,"ns","real_conditional"
+"60","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 0.9
+",12645,12645,0.59,"ns",1,"ns","real_conditional"
+"61","Ja","IV: 
+adres_unieke_wijk_ratio: 0.5
+","IV: 
+adres_unieke_wijk_ratio: 0.9
+",12645,12645,0.911,"ns",1,"ns","real_conditional"
+"62","Ja","IV: 
+adres_unieke_wijk_ratio: 0.6
+","IV: 
+adres_unieke_wijk_ratio: 0.9
+",12645,12645,0.905,"ns",1,"ns","real_conditional"
+"63","Ja","IV: 
+adres_unieke_wijk_ratio: 0.7
+","IV: 
+adres_unieke_wijk_ratio: 0.9
+",12645,12645,0.894,"ns",1,"ns","real_conditional"
+"64","Ja","IV: 
+adres_unieke_wijk_ratio: 0.8
+","IV: 
+adres_unieke_wijk_ratio: 0.9
+",12645,12645,0.946,"ns",1,"ns","real_conditional"
+"65","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12645,12645,0.482,"ns",1,"ns","real_conditional"
+"66","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12645,12645,0.482,"ns",1,"ns","real_conditional"
+"67","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12645,12645,0.482,"ns",1,"ns","real_conditional"
+"68","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12645,12645,0.59,"ns",1,"ns","real_conditional"
+"69","Ja","IV: 
+adres_unieke_wijk_ratio: 0.5
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12645,12645,0.911,"ns",1,"ns","real_conditional"
+"70","Ja","IV: 
+adres_unieke_wijk_ratio: 0.6
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12645,12645,0.905,"ns",1,"ns","real_conditional"
+"71","Ja","IV: 
+adres_unieke_wijk_ratio: 0.7
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12645,12645,0.894,"ns",1,"ns","real_conditional"
+"72","Ja","IV: 
+adres_unieke_wijk_ratio: 0.8
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12645,12645,0.946,"ns",1,"ns","real_conditional"
+"73","Ja","IV: 
+adres_unieke_wijk_ratio: 0.9
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"74","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 0.2
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"75","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 0.3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"76","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"77","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 0.4
+",12508,12508,0.614,"ns",1,"ns","synth_conditional"
+"78","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.4
+",12508,12508,0.614,"ns",1,"ns","synth_conditional"
+"79","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.4
+",12508,12508,0.614,"ns",1,"ns","synth_conditional"
+"80","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 0.5
+",12508,12508,0.48,"ns",1,"ns","synth_conditional"
+"81","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.5
+",12508,12508,0.48,"ns",1,"ns","synth_conditional"
+"82","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.5
+",12508,12508,0.48,"ns",1,"ns","synth_conditional"
+"83","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 0.5
+",12508,12508,0.84,"ns",1,"ns","synth_conditional"
+"84","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 0.6
+",12508,12508,0.589,"ns",1,"ns","synth_conditional"
+"85","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.6
+",12508,12508,0.589,"ns",1,"ns","synth_conditional"
+"86","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.6
+",12508,12508,0.589,"ns",1,"ns","synth_conditional"
+"87","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 0.6
+",12508,12508,0.971,"ns",1,"ns","synth_conditional"
+"88","Ja","IV: 
+adres_unieke_wijk_ratio: 0.5
+","IV: 
+adres_unieke_wijk_ratio: 0.6
+",12508,12508,0.868,"ns",1,"ns","synth_conditional"
+"89","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",12508,12508,0.502,"ns",1,"ns","synth_conditional"
+"90","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",12508,12508,0.502,"ns",1,"ns","synth_conditional"
+"91","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",12508,12508,0.502,"ns",1,"ns","synth_conditional"
+"92","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",12508,12508,0.868,"ns",1,"ns","synth_conditional"
+"93","Ja","IV: 
+adres_unieke_wijk_ratio: 0.5
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",12508,12508,0.971,"ns",1,"ns","synth_conditional"
+"94","Ja","IV: 
+adres_unieke_wijk_ratio: 0.6
+","IV: 
+adres_unieke_wijk_ratio: 0.7
+",12508,12508,0.897,"ns",1,"ns","synth_conditional"
+"95","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",12508,12508,0.509,"ns",1,"ns","synth_conditional"
+"96","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",12508,12508,0.509,"ns",1,"ns","synth_conditional"
+"97","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",12508,12508,0.509,"ns",1,"ns","synth_conditional"
+"98","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",12508,12508,0.876,"ns",1,"ns","synth_conditional"
+"99","Ja","IV: 
+adres_unieke_wijk_ratio: 0.5
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",12508,12508,0.963,"ns",1,"ns","synth_conditional"
+"100","Ja","IV: 
+adres_unieke_wijk_ratio: 0.6
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",12508,12508,0.905,"ns",1,"ns","synth_conditional"
+"101","Ja","IV: 
+adres_unieke_wijk_ratio: 0.7
+","IV: 
+adres_unieke_wijk_ratio: 0.8
+",12508,12508,0.992,"ns",1,"ns","synth_conditional"
+"102","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 0.9
+",12508,12508,0.574,"ns",1,"ns","synth_conditional"
+"103","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 0.9
+",12508,12508,0.574,"ns",1,"ns","synth_conditional"
+"104","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 0.9
+",12508,12508,0.574,"ns",1,"ns","synth_conditional"
+"105","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 0.9
+",12508,12508,0.954,"ns",1,"ns","synth_conditional"
+"106","Ja","IV: 
+adres_unieke_wijk_ratio: 0.5
+","IV: 
+adres_unieke_wijk_ratio: 0.9
+",12508,12508,0.885,"ns",1,"ns","synth_conditional"
+"107","Ja","IV: 
+adres_unieke_wijk_ratio: 0.6
+","IV: 
+adres_unieke_wijk_ratio: 0.9
+",12508,12508,0.983,"ns",1,"ns","synth_conditional"
+"108","Ja","IV: 
+adres_unieke_wijk_ratio: 0.7
+","IV: 
+adres_unieke_wijk_ratio: 0.9
+",12508,12508,0.914,"ns",1,"ns","synth_conditional"
+"109","Ja","IV: 
+adres_unieke_wijk_ratio: 0.8
+","IV: 
+adres_unieke_wijk_ratio: 0.9
+",12508,12508,0.922,"ns",1,"ns","synth_conditional"
+"110","Ja","IV: 
+adres_unieke_wijk_ratio: 0.1
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12508,12508,0.574,"ns",1,"ns","synth_conditional"
+"111","Ja","IV: 
+adres_unieke_wijk_ratio: 0.2
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12508,12508,0.574,"ns",1,"ns","synth_conditional"
+"112","Ja","IV: 
+adres_unieke_wijk_ratio: 0.3
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12508,12508,0.574,"ns",1,"ns","synth_conditional"
+"113","Ja","IV: 
+adres_unieke_wijk_ratio: 0.4
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12508,12508,0.954,"ns",1,"ns","synth_conditional"
+"114","Ja","IV: 
+adres_unieke_wijk_ratio: 0.5
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12508,12508,0.885,"ns",1,"ns","synth_conditional"
+"115","Ja","IV: 
+adres_unieke_wijk_ratio: 0.6
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12508,12508,0.983,"ns",1,"ns","synth_conditional"
+"116","Ja","IV: 
+adres_unieke_wijk_ratio: 0.7
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12508,12508,0.914,"ns",1,"ns","synth_conditional"
+"117","Ja","IV: 
+adres_unieke_wijk_ratio: 0.8
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12508,12508,0.922,"ns",1,"ns","synth_conditional"
+"118","Ja","IV: 
+adres_unieke_wijk_ratio: 0.9
+","IV: 
+adres_unieke_wijk_ratio: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"

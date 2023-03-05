@@ -1,0 +1,361 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",361,7.14285714285714,"real"
+"2",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",827,12.4174174174174,"real"
+"3",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",77,8.27067669172932,"real"
+"4",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",468,9.25999208547685,"real"
+"5",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",704,10.5705705705706,"real"
+"6",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",93,9.98925886143931,"real"
+"7",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",466,9.22041946972695,"real"
+"8",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",700,10.5105105105105,"real"
+"9",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",99,10.6337271750806,"real"
+"10",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",448,8.86426592797784,"real"
+"11",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",712,10.6906906906907,"real"
+"12",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",105,11.2781954887218,"real"
+"13",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",454,8.98298377522754,"real"
+"14",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",709,10.6456456456456,"real"
+"15",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",102,10.9559613319012,"real"
+"16",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",490,9.69529085872576,"real"
+"17",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",675,10.1351351351351,"real"
+"18",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",99,10.6337271750806,"real"
+"19",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",502,9.93272655322517,"real"
+"20",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",669,10.045045045045,"real"
+"21",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",93,9.98925886143931,"real"
+"22",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",554,10.9616145627226,"real"
+"23",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",620,9.30930930930931,"real"
+"24",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",90,9.66702470461869,"real"
+"25",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",609,12.0498614958449,"real"
+"26",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",563,8.45345345345345,"real"
+"27",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",92,9.88184747583244,"real"
+"28",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",702,13.8899881282153,"real"
+"29",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",481,7.22222222222222,"real"
+"30",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",81,8.70032223415682,"real"
+"31",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1180,9.33175168050613,"real_conditional"
+"32",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1312,10.3756425464611,"real_conditional"
+"33",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1302,10.2965599051008,"real_conditional"
+"34",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1244,9.83788058521155,"real_conditional"
+"35",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1270,10.0434954527481,"real_conditional"
+"36",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1280,10.1225780941083,"real_conditional"
+"37",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1226,9.69553183076315,"real_conditional"
+"38",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1297,10.2570185844207,"real_conditional"
+"39",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1271,10.0514037168841,"real_conditional"
+"40",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1262,9.98022933965994,"real_conditional"
+"41",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1260,9.9644128113879,"real_conditional"
+"42",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1272,10.0593119810202,"real_conditional"
+"43",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1258,9.94859628311586,"real_conditional"
+"44",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1275,10.0830367734282,"real_conditional"
+"45",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1261,9.97232107552392,"real_conditional"
+"46",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1290,10.2016607354686,"real_conditional"
+"47",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1245,9.84578884934757,"real_conditional"
+"48",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1258,9.94859628311586,"real_conditional"
+"49",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1227,9.70344009489917,"real_conditional"
+"50",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1280,10.1225780941083,"real_conditional"
+"51",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1286,10.1700276789245,"real_conditional"
+"52",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1300,10.2807433768288,"real_conditional"
+"53",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1245,9.84578884934757,"real_conditional"
+"54",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1248,9.86951364175563,"real_conditional"
+"55",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1314,10.3914590747331,"real_conditional"
+"56",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1234,9.75879794385133,"real_conditional"
+"57",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1245,9.84578884934757,"real_conditional"
+"58",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1344,10.6287069988138,"real_conditional"
+"59",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1227,9.70344009489917,"real_conditional"
+"60",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1222,9.66389877421906,"real_conditional"
+"61",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",403,7.99127503470157,"synth"
+"62",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",818,11.6673798316931,"synth"
+"63",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",44,7.44500846023689,"synth"
+"64",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",402,7.97144556811422,"synth"
+"65",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",818,11.6673798316931,"synth"
+"66",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",45,7.61421319796954,"synth"
+"67",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",454,9.00257783065635,"synth"
+"68",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",758,10.8115818000285,"synth"
+"69",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",53,8.9678510998308,"synth"
+"70",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",433,8.58615903232203,"synth"
+"71",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",786,11.2109542148053,"synth"
+"72",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",46,7.7834179357022,"synth"
+"73",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",463,9.18104302994249,"synth"
+"74",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",762,10.8686350021395,"synth"
+"75",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",40,6.76818950930626,"synth"
+"76",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",516,10.232004759072,"synth"
+"77",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",681,9.71330765939238,"synth"
+"78",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",67,11.336717428088,"synth"
+"79",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",546,10.8268887566924,"synth"
+"80",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",660,9.4137783483098,"synth"
+"81",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",58,9.81387478849408,"synth"
+"82",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",522,10.3509815585961,"synth"
+"83",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",680,9.69904435886464,"synth"
+"84",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",62,10.4906937394247,"synth"
+"85",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",597,11.8381915526472,"synth"
+"86",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",595,8.48666381400656,"synth"
+"87",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",72,12.1827411167513,"synth"
+"88",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",707,14.0194328772556,"synth"
+"89",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",453,6.46127513906718,"synth"
+"90",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",104,17.5972927241963,"synth"
+"91",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1149,9.18612088263511,"synth_conditional"
+"92",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1309,10.4653022065878,"synth_conditional"
+"93",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1295,10.3533738407419,"synth_conditional"
+"94",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1160,9.27406459865686,"synth_conditional"
+"95",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1296,10.3613687240166,"synth_conditional"
+"96",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1297,10.3693636072913,"synth_conditional"
+"97",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1206,9.64182922929325,"synth_conditional"
+"98",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1281,10.2414454748961,"synth_conditional"
+"99",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1266,10.1215222257755,"synth_conditional"
+"100",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1177,9.40997761432683,"synth_conditional"
+"101",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1291,10.3213943076431,"synth_conditional"
+"102",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1285,10.2734250079949,"synth_conditional"
+"103",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1238,9.89766549408379,"synth_conditional"
+"104",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1245,9.95362967700671,"synth_conditional"
+"105",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1269,10.1455068755996,"synth_conditional"
+"106",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1267,10.1295171090502,"synth_conditional"
+"107",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1242,9.9296450271826,"synth_conditional"
+"108",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1243,9.93763991045731,"synth_conditional"
+"109",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1268,10.1375119923249,"synth_conditional"
+"110",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1246,9.96162456028142,"synth_conditional"
+"111",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1238,9.89766549408379,"synth_conditional"
+"112",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1285,10.2734250079949,"synth_conditional"
+"113",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1224,9.78573712823793,"synth_conditional"
+"114",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1243,9.93763991045731,"synth_conditional"
+"115",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1352,10.8090821874001,"synth_conditional"
+"116",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1198,9.57787016309562,"synth_conditional"
+"117",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1202,9.60984969619444,"synth_conditional"
+"118",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+",1406,11.2408058842341,"synth_conditional"
+"119",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",1176,9.40198273105213,"synth_conditional"
+"120",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",1170,9.3540134314039,"synth_conditional"

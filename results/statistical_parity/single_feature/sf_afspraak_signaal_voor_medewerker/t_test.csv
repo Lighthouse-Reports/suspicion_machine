@@ -1,0 +1,591 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 1
+",12645,12645,8.02e-05,"****",0.00144,"**","real_conditional"
+"2","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 10
+",12645,12645,1.11e-05,"****",0.000222,"***","real_conditional"
+"3","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 10
+",12645,12645,0.652,"ns",1,"ns","real_conditional"
+"4","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 15
+",12645,12645,0.966,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 15
+",12645,12645,6.71e-05,"****",0.00128,"**","real_conditional"
+"6","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 15
+",12645,12645,9.12e-06,"****",0.000192,"***","real_conditional"
+"7","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 2
+",12645,12645,8.15e-06,"****",0.000181,"***","real_conditional"
+"8","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 2
+",12645,12645,0.605,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 2
+",12645,12645,0.947,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+afspraak_signaal_voor_medewerker: 15
+","IV: 
+afspraak_signaal_voor_medewerker: 2
+",12645,12645,6.68e-06,"****",0.000161,"***","real_conditional"
+"11","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 20
+",12645,12645,2.75e-07,"****",9.07e-06,"****","real_conditional"
+"12","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 20
+",12645,12645,1.06e-19,"****",3.71e-18,"****","real_conditional"
+"13","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 20
+",12645,12645,1.52e-21,"****",5.64e-20,"****","real_conditional"
+"14","Ja","IV: 
+afspraak_signaal_voor_medewerker: 15
+","IV: 
+afspraak_signaal_voor_medewerker: 20
+",12645,12645,3.44e-07,"****",1.07e-05,"****","real_conditional"
+"15","Ja","IV: 
+afspraak_signaal_voor_medewerker: 2
+","IV: 
+afspraak_signaal_voor_medewerker: 20
+",12645,12645,8.01e-22,"****",3.13e-20,"****","real_conditional"
+"16","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",12645,12645,6.1e-06,"****",0.000159,"***","real_conditional"
+"17","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",12645,12645,0.562,"ns",1,"ns","real_conditional"
+"18","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",12645,12645,0.898,"ns",1,"ns","real_conditional"
+"19","Ja","IV: 
+afspraak_signaal_voor_medewerker: 15
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",12645,12645,4.99e-06,"****",0.00014,"***","real_conditional"
+"20","Ja","IV: 
+afspraak_signaal_voor_medewerker: 2
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",12645,12645,0.951,"ns",1,"ns","real_conditional"
+"21","Ja","IV: 
+afspraak_signaal_voor_medewerker: 20
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",12645,12645,4.39e-22,"****",1.89e-20,"****","real_conditional"
+"22","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 30
+",12645,12645,2.75e-07,"****",9.07e-06,"****","real_conditional"
+"23","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 30
+",12645,12645,1.06e-19,"****",3.71e-18,"****","real_conditional"
+"24","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 30
+",12645,12645,1.52e-21,"****",5.64e-20,"****","real_conditional"
+"25","Ja","IV: 
+afspraak_signaal_voor_medewerker: 15
+","IV: 
+afspraak_signaal_voor_medewerker: 30
+",12645,12645,3.44e-07,"****",1.07e-05,"****","real_conditional"
+"26","Ja","IV: 
+afspraak_signaal_voor_medewerker: 2
+","IV: 
+afspraak_signaal_voor_medewerker: 30
+",12645,12645,8.01e-22,"****",3.13e-20,"****","real_conditional"
+"27","Ja","IV: 
+afspraak_signaal_voor_medewerker: 20
+","IV: 
+afspraak_signaal_voor_medewerker: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"28","Ja","IV: 
+afspraak_signaal_voor_medewerker: 3
+","IV: 
+afspraak_signaal_voor_medewerker: 30
+",12645,12645,4.39e-22,"****",1.89e-20,"****","real_conditional"
+"29","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",12645,12645,5.73e-06,"****",0.000155,"***","real_conditional"
+"30","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",12645,12645,0.554,"ns",1,"ns","real_conditional"
+"31","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",12645,12645,0.887,"ns",1,"ns","real_conditional"
+"32","Ja","IV: 
+afspraak_signaal_voor_medewerker: 15
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",12645,12645,4.68e-06,"****",0.000136,"***","real_conditional"
+"33","Ja","IV: 
+afspraak_signaal_voor_medewerker: 2
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",12645,12645,0.94,"ns",1,"ns","real_conditional"
+"34","Ja","IV: 
+afspraak_signaal_voor_medewerker: 20
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",12645,12645,3.86e-22,"****",1.74e-20,"****","real_conditional"
+"35","Ja","IV: 
+afspraak_signaal_voor_medewerker: 3
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",12645,12645,0.99,"ns",1,"ns","real_conditional"
+"36","Ja","IV: 
+afspraak_signaal_voor_medewerker: 30
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",12645,12645,3.86e-22,"****",1.74e-20,"****","real_conditional"
+"37","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12645,12645,7.88e-06,"****",0.000181,"***","real_conditional"
+"38","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12645,12645,0.6,"ns",1,"ns","real_conditional"
+"39","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12645,12645,0.941,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+afspraak_signaal_voor_medewerker: 15
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12645,12645,6.46e-06,"****",0.000161,"***","real_conditional"
+"41","Ja","IV: 
+afspraak_signaal_voor_medewerker: 2
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12645,12645,0.994,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+afspraak_signaal_voor_medewerker: 20
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12645,12645,7.47e-22,"****",3.06e-20,"****","real_conditional"
+"43","Ja","IV: 
+afspraak_signaal_voor_medewerker: 3
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12645,12645,0.957,"ns",1,"ns","real_conditional"
+"44","Ja","IV: 
+afspraak_signaal_voor_medewerker: 30
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12645,12645,7.47e-22,"****",3.06e-20,"****","real_conditional"
+"45","Ja","IV: 
+afspraak_signaal_voor_medewerker: 4
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12645,12645,0.946,"ns",1,"ns","real_conditional"
+"46","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 1
+",700,1731,1.79e-06,"****",3.22e-05,"****","synth"
+"47","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 10
+",700,278,1.24e-17,"****",3.36e-16,"****","synth"
+"48","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 10
+",1731,278,1.21e-09,"****",2.53e-08,"****","synth"
+"49","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 15
+",700,16,0.138,"ns",1,"ns","synth"
+"50","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 15
+",1731,16,0.522,"ns",1,"ns","synth"
+"51","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 15
+",278,16,0.366,"ns",1,"ns","synth"
+"52","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 2
+",700,1851,1.76e-10,"****",3.87e-09,"****","synth"
+"53","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 2
+",1731,1851,0.0379,"*",0.379,"ns","synth"
+"54","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 2
+",278,1851,4.89e-07,"****",9.78e-06,"****","synth"
+"55","Ja","IV: 
+afspraak_signaal_voor_medewerker: 15
+","IV: 
+afspraak_signaal_voor_medewerker: 2
+",16,1851,0.716,"ns",1,"ns","synth"
+"56","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",700,1771,2.29e-17,"****",5.73e-16,"****","synth"
+"57","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",1731,1771,1.04e-06,"****",1.97e-05,"****","synth"
+"58","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",278,1771,0.000411,"***",0.00547,"**","synth"
+"59","Ja","IV: 
+afspraak_signaal_voor_medewerker: 15
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",16,1771,0.986,"ns",1,"ns","synth"
+"60","Ja","IV: 
+afspraak_signaal_voor_medewerker: 2
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",1851,1771,0.00396,"**",0.0476,"*","synth"
+"61","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",700,1563,1.46e-16,"****",3.5e-15,"****","synth"
+"62","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",1731,1563,3.34e-06,"****",5.68e-05,"****","synth"
+"63","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",278,1563,0.000391,"***",0.00547,"**","synth"
+"64","Ja","IV: 
+afspraak_signaal_voor_medewerker: 15
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",16,1563,0.995,"ns",1,"ns","synth"
+"65","Ja","IV: 
+afspraak_signaal_voor_medewerker: 2
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",1851,1563,0.00686,"**",0.0754,"ns","synth"
+"66","Ja","IV: 
+afspraak_signaal_voor_medewerker: 3
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",1771,1563,0.934,"ns",1,"ns","synth"
+"67","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",700,1419,3.26e-29,"****",9.13e-28,"****","synth"
+"68","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",1731,1419,1.51e-17,"****",3.93e-16,"****","synth"
+"69","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",278,1419,0.183,"ns",1,"ns","synth"
+"70","Ja","IV: 
+afspraak_signaal_voor_medewerker: 15
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",16,1419,0.564,"ns",1,"ns","synth"
+"71","Ja","IV: 
+afspraak_signaal_voor_medewerker: 2
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",1851,1419,2.15e-11,"****",4.95e-10,"****","synth"
+"72","Ja","IV: 
+afspraak_signaal_voor_medewerker: 3
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",1771,1419,7.86e-05,"****",0.00126,"**","synth"
+"73","Ja","IV: 
+afspraak_signaal_voor_medewerker: 4
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",1563,1419,9.02e-05,"****",0.00135,"**","synth"
+"74","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 1
+",12508,12508,7.84e-05,"****",0.00141,"**","synth_conditional"
+"75","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 10
+",12508,12508,3.66e-06,"****",7.32e-05,"****","synth_conditional"
+"76","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 10
+",12508,12508,0.496,"ns",1,"ns","synth_conditional"
+"77","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 15
+",12508,12508,0.0852,"ns",1,"ns","synth_conditional"
+"78","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 15
+",12508,12508,1.42e-08,"****",3.42e-07,"****","synth_conditional"
+"79","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 15
+",12508,12508,2.14e-10,"****",5.56e-09,"****","synth_conditional"
+"80","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 2
+",12508,12508,1.4e-05,"****",0.000266,"***","synth_conditional"
+"81","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 2
+",12508,12508,0.693,"ns",1,"ns","synth_conditional"
+"82","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 2
+",12508,12508,0.775,"ns",1,"ns","synth_conditional"
+"83","Ja","IV: 
+afspraak_signaal_voor_medewerker: 15
+","IV: 
+afspraak_signaal_voor_medewerker: 2
+",12508,12508,1.32e-09,"****",3.3e-08,"****","synth_conditional"
+"84","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 20
+",12508,12508,5.7e-17,"****",1.88e-15,"****","synth_conditional"
+"85","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 20
+",12508,12508,7.25e-35,"****",2.54e-33,"****","synth_conditional"
+"86","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 20
+",12508,12508,1.25e-38,"****",4.89e-37,"****","synth_conditional"
+"87","Ja","IV: 
+afspraak_signaal_voor_medewerker: 15
+","IV: 
+afspraak_signaal_voor_medewerker: 20
+",12508,12508,2.93e-11,"****",8.78e-10,"****","synth_conditional"
+"88","Ja","IV: 
+afspraak_signaal_voor_medewerker: 2
+","IV: 
+afspraak_signaal_voor_medewerker: 20
+",12508,12508,5.07e-37,"****",1.87e-35,"****","synth_conditional"
+"89","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",12508,12508,2.52e-06,"****",5.53e-05,"****","synth_conditional"
+"90","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",12508,12508,0.449,"ns",1,"ns","synth_conditional"
+"91","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",12508,12508,0.939,"ns",1,"ns","synth_conditional"
+"92","Ja","IV: 
+afspraak_signaal_voor_medewerker: 15
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",12508,12508,1.29e-10,"****",3.62e-09,"****","synth_conditional"
+"93","Ja","IV: 
+afspraak_signaal_voor_medewerker: 2
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",12508,12508,0.716,"ns",1,"ns","synth_conditional"
+"94","Ja","IV: 
+afspraak_signaal_voor_medewerker: 20
+","IV: 
+afspraak_signaal_voor_medewerker: 3
+",12508,12508,4.58e-39,"****",1.97e-37,"****","synth_conditional"
+"95","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 30
+",12508,12508,5.7e-17,"****",1.88e-15,"****","synth_conditional"
+"96","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 30
+",12508,12508,7.25e-35,"****",2.54e-33,"****","synth_conditional"
+"97","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 30
+",12508,12508,1.25e-38,"****",4.89e-37,"****","synth_conditional"
+"98","Ja","IV: 
+afspraak_signaal_voor_medewerker: 15
+","IV: 
+afspraak_signaal_voor_medewerker: 30
+",12508,12508,2.93e-11,"****",8.78e-10,"****","synth_conditional"
+"99","Ja","IV: 
+afspraak_signaal_voor_medewerker: 2
+","IV: 
+afspraak_signaal_voor_medewerker: 30
+",12508,12508,5.07e-37,"****",1.87e-35,"****","synth_conditional"
+"100","Ja","IV: 
+afspraak_signaal_voor_medewerker: 20
+","IV: 
+afspraak_signaal_voor_medewerker: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"101","Ja","IV: 
+afspraak_signaal_voor_medewerker: 3
+","IV: 
+afspraak_signaal_voor_medewerker: 30
+",12508,12508,4.58e-39,"****",1.97e-37,"****","synth_conditional"
+"102","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",12508,12508,4.3e-07,"****",9.89e-06,"****","synth_conditional"
+"103","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",12508,12508,0.269,"ns",1,"ns","synth_conditional"
+"104","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",12508,12508,0.671,"ns",1,"ns","synth_conditional"
+"105","Ja","IV: 
+afspraak_signaal_voor_medewerker: 15
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",12508,12508,1.23e-11,"****",3.82e-10,"****","synth_conditional"
+"106","Ja","IV: 
+afspraak_signaal_voor_medewerker: 2
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",12508,12508,0.477,"ns",1,"ns","synth_conditional"
+"107","Ja","IV: 
+afspraak_signaal_voor_medewerker: 20
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",12508,12508,4.43e-41,"****",1.99e-39,"****","synth_conditional"
+"108","Ja","IV: 
+afspraak_signaal_voor_medewerker: 3
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",12508,12508,0.728,"ns",1,"ns","synth_conditional"
+"109","Ja","IV: 
+afspraak_signaal_voor_medewerker: 30
+","IV: 
+afspraak_signaal_voor_medewerker: 4
+",12508,12508,4.43e-41,"****",1.99e-39,"****","synth_conditional"
+"110","Ja","IV: 
+afspraak_signaal_voor_medewerker: 0
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12508,12508,3.44e-06,"****",7.22e-05,"****","synth_conditional"
+"111","Ja","IV: 
+afspraak_signaal_voor_medewerker: 1
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12508,12508,0.488,"ns",1,"ns","synth_conditional"
+"112","Ja","IV: 
+afspraak_signaal_voor_medewerker: 10
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12508,12508,0.99,"ns",1,"ns","synth_conditional"
+"113","Ja","IV: 
+afspraak_signaal_voor_medewerker: 15
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12508,12508,1.97e-10,"****",5.31e-09,"****","synth_conditional"
+"114","Ja","IV: 
+afspraak_signaal_voor_medewerker: 2
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12508,12508,0.765,"ns",1,"ns","synth_conditional"
+"115","Ja","IV: 
+afspraak_signaal_voor_medewerker: 20
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12508,12508,1.06e-38,"****",4.35e-37,"****","synth_conditional"
+"116","Ja","IV: 
+afspraak_signaal_voor_medewerker: 3
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12508,12508,0.949,"ns",1,"ns","synth_conditional"
+"117","Ja","IV: 
+afspraak_signaal_voor_medewerker: 30
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12508,12508,1.06e-38,"****",4.35e-37,"****","synth_conditional"
+"118","Ja","IV: 
+afspraak_signaal_voor_medewerker: 4
+","IV: 
+afspraak_signaal_voor_medewerker: 5
+",12508,12508,0.68,"ns",1,"ns","synth_conditional"

@@ -1,0 +1,124 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","Ja",5772,0.505,0.151,0.115904365904366,0.309251559251559,1.59043659043659,20.9251559251559,"real"
+"2","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","Ja",3623,0.472,0.154,0.0844603919403809,0.248412917471709,-1.55396080596191,14.8412917471709,"real"
+"3","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","Ja",1,0.676,NA,0,1,-10,90,"real"
+"4","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","Ja",1943,0.475,0.152,0.0797735460627895,0.254246011322697,-2.02264539372105,15.4246011322697,"real"
+"5","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","Ja",827,0.482,0.152,0.0822249093107618,0.275695284159613,-1.77750906892382,17.5695284159613,"real"
+"6","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","Ja",320,0.498,0.164,0.140625,0.315625,4.0625,21.5625,"real"
+"7","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+","Ja",99,0.508,0.154,0.131313131313131,0.333333333333333,3.13131313131313,23.3333333333333,"real"
+"8","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+","Ja",40,0.52,0.149,0.125,0.35,2.5,25,"real"
+"9","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+","Ja",14,0.566,0.154,0.285714285714286,0.571428571428571,18.5714285714286,47.1428571428571,"real"
+"10","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+","Ja",5,0.465,0.14,0,0.2,-10,10,"real"
+"11","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+","Ja",1,0.593,NA,0,1,-10,90,"real"
+"12","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","Ja",12645,0.489,0.153,0.0997232107552392,0.281455120601028,-0.0276789244760794,18.1455120601028,"real_conditional"
+"13","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","Ja",12645,0.489,0.154,0.100514037168841,0.282720442862792,0.0514037168841436,18.2720442862792,"real_conditional"
+"14","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","Ja",12645,0.49,0.153,0.100355871886121,0.28216686437327,0.035587188612099,18.216686437327,"real_conditional"
+"15","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","Ja",12645,0.489,0.153,0.100593119810202,0.282562277580071,0.0593119810201659,18.2562277580071,"real_conditional"
+"16","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","Ja",12645,0.489,0.153,0.100276789244761,0.281692368525109,0.0276789244760767,18.1692368525109,"real_conditional"
+"17","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","Ja",12645,0.489,0.153,0.100276789244761,0.281692368525109,0.0276789244760767,18.1692368525109,"real_conditional"
+"18","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+","Ja",12645,0.49,0.153,0.100355871886121,0.28216686437327,0.035587188612099,18.216686437327,"real_conditional"
+"19","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+","Ja",12645,0.49,0.153,0.100355871886121,0.28216686437327,0.035587188612099,18.216686437327,"real_conditional"
+"20","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+","Ja",12645,0.49,0.153,0.100355871886121,0.28216686437327,0.035587188612099,18.216686437327,"real_conditional"
+"21","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+","Ja",12645,0.49,0.153,0.100355871886121,0.28216686437327,0.035587188612099,18.216686437327,"real_conditional"
+"22","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+","Ja",12645,0.49,0.153,0.100355871886121,0.28216686437327,0.035587188612099,18.216686437327,"real_conditional"
+"23","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","Ja",2600,0.613,0.085,0.100769230769231,0.657692307692308,0.0769230769230758,55.7692307692308,"synth"
+"24","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","Ja",5298,0.612,0.084,0.101170252925632,0.638731596828992,0.11702529256323,53.8731596828992,"synth"
+"25","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","Ja",3206,0.611,0.086,0.0966936993137866,0.631940112289457,-0.330630068621336,53.1940112289457,"synth"
+"26","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","Ja",1206,0.611,0.086,0.101160862354892,0.646766169154229,0.11608623548922,54.6766169154229,"synth"
+"27","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","Ja",283,0.609,0.086,0.0954063604240283,0.632508833922262,-0.459363957597174,53.2508833922262,"synth"
+"28","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+","Ja",46,0.617,0.09,0.173913043478261,0.608695652173913,7.39130434782609,50.8695652173913,"synth"
+"29","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+","Ja",3,0.451,0.054,0,0,-10,-10,"synth"
+"30","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+","Ja",3,0.552,0.14,0,0.666666666666667,-10,56.6666666666667,"synth"
+"31","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","Ja",12508,0.611,0.085,0.0976974736168852,0.639350815478094,-0.230252638311482,53.9350815478094,"synth_conditional"
+"32","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","Ja",12508,0.612,0.085,0.100495682763032,0.641669331627758,0.0495682763031649,54.1669331627758,"synth_conditional"
+"33","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","Ja",12508,0.612,0.085,0.10081547809402,0.643907898944675,0.0815478094019828,54.3907898944675,"synth_conditional"
+"34","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","Ja",12508,0.612,0.085,0.0998560921010553,0.640709945634794,-0.0143907898944681,54.0709945634794,"synth_conditional"
+"35","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","Ja",12508,0.612,0.085,0.0997761432683083,0.639910457307323,-0.0223856731691729,53.9910457307323,"synth_conditional"
+"36","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","Ja",12508,0.612,0.085,0.0997761432683083,0.639910457307323,-0.0223856731691729,53.9910457307323,"synth_conditional"
+"37","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+","Ja",12508,0.612,0.085,0.10081547809402,0.643907898944675,0.0815478094019828,54.3907898944675,"synth_conditional"
+"38","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+","Ja",12508,0.612,0.085,0.10081547809402,0.643907898944675,0.0815478094019828,54.3907898944675,"synth_conditional"
+"39","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+","Ja",12508,0.612,0.085,0.10081547809402,0.643907898944675,0.0815478094019828,54.3907898944675,"synth_conditional"
+"40","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+","Ja",12508,0.612,0.085,0.10081547809402,0.643907898944675,0.0815478094019828,54.3907898944675,"synth_conditional"
+"41","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+","Ja",12508,0.612,0.085,0.10081547809402,0.643907898944675,0.0815478094019828,54.3907898944675,"synth_conditional"

@@ -1,0 +1,181 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 1
+",8756,3060,1.35e-289,"****",1.35e-288,"****","real"
+"2","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 2
+",8756,725,4.44e-141,"****",3.99e-140,"****","real"
+"3","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 1
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 2
+",3060,725,6.54e-07,"****",4.58e-06,"****","real"
+"4","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 3
+",8756,96,1.17e-33,"****",9.32e-33,"****","real"
+"5","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 1
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 3
+",3060,96,9.03e-06,"****",5.42e-05,"****","real"
+"6","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 2
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 3
+",725,96,0.019,"*",0.0761,"ns","real"
+"7","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 4
+",8756,8,0.000324,"***",0.00162,"**","real"
+"8","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 1
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 4
+",3060,8,0.168,"ns",0.505,"ns","real"
+"9","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 2
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 4
+",725,8,0.427,"ns",0.854,"ns","real"
+"10","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 3
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 4
+",96,8,0.94,"ns",0.94,"ns","real"
+"11","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 1
+",12645,12645,1.53e-24,"****",1.07e-23,"****","real_conditional"
+"12","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 2
+",12645,12645,5.74e-26,"****",5.74e-25,"****","real_conditional"
+"13","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 1
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 2
+",12645,12645,0.754,"ns",1,"ns","real_conditional"
+"14","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 3
+",12645,12645,5.74e-26,"****",5.74e-25,"****","real_conditional"
+"15","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 1
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 3
+",12645,12645,0.754,"ns",1,"ns","real_conditional"
+"16","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 2
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"17","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 4
+",12645,12645,5.74e-26,"****",5.74e-25,"****","real_conditional"
+"18","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 1
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 4
+",12645,12645,0.754,"ns",1,"ns","real_conditional"
+"19","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 2
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"20","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 3
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"21","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 1
+",5722,6220,2.11e-215,"****",1.27e-214,"****","synth"
+"22","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 2
+",5722,684,2.24e-104,"****",1.12e-103,"****","synth"
+"23","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 1
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 2
+",6220,684,8.63e-14,"****",3.45e-13,"****","synth"
+"24","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 3
+",5722,19,1.13e-09,"****",3.39e-09,"****","synth"
+"25","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 1
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 3
+",6220,19,0.000389,"***",0.000778,"***","synth"
+"26","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 2
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 3
+",684,19,0.027,"*",0.027,"*","synth"
+"27","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 1
+",12508,12508,1.77e-37,"****",1.24e-36,"****","synth_conditional"
+"28","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 2
+",12508,12508,7.74e-38,"****",7.74e-37,"****","synth_conditional"
+"29","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 1
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 2
+",12508,12508,0.949,"ns",1,"ns","synth_conditional"
+"30","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 3
+",12508,12508,7.74e-38,"****",7.74e-37,"****","synth_conditional"
+"31","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 1
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 3
+",12508,12508,0.949,"ns",1,"ns","synth_conditional"
+"32","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 2
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"33","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 4
+",12508,12508,7.74e-38,"****",7.74e-37,"****","synth_conditional"
+"34","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 1
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 4
+",12508,12508,0.949,"ns",1,"ns","synth_conditional"
+"35","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 2
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"36","Ja","IV: 
+pla_hist_pla_categorie_doelstelling_16: 3
+","IV: 
+pla_hist_pla_categorie_doelstelling_16: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"

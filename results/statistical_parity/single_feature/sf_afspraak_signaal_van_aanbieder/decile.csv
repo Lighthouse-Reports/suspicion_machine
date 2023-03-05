@@ -1,0 +1,991 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",987,10.0172536283365,"real"
+"2",1,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",163,11.8804664723032,"real"
+"3",1,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",54,9.15254237288136,"real"
+"4",1,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",30,8.72093023255814,"real"
+"5",1,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",10,5.84795321637427,"real"
+"6",1,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",2,1.98019801980198,"real"
+"7",2,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",989,10.0375520146148,"real"
+"8",2,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",147,10.7142857142857,"real"
+"9",2,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1,20,"real"
+"10",2,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",54,9.15254237288136,"real"
+"11",2,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",32,9.30232558139535,"real"
+"12",2,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",15,8.7719298245614,"real"
+"13",2,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",8,7.92079207920792,"real"
+"14",3,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",970,9.84471734497107,"real"
+"15",3,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",142,10.3498542274052,"real"
+"16",3,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",3,18.75,"real"
+"17",3,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1,20,"real"
+"18",3,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",60,10.1694915254237,"real"
+"19",3,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",36,10.4651162790698,"real"
+"20",3,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",21,12.280701754386,"real"
+"21",3,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",12,11.8811881188119,"real"
+"22",4,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",944,9.58083832335329,"real"
+"23",4,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",159,11.5889212827988,"real"
+"24",4,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",2,12.5,"real"
+"25",4,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",67,11.3559322033898,"real"
+"26",4,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",45,13.0813953488372,"real"
+"27",4,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",17,9.94152046783626,"real"
+"28",4,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",11,10.8910891089109,"real"
+"29",5,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",916,9.29666091545722,"real"
+"30",5,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",165,12.0262390670554,"real"
+"31",5,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",2,12.5,"real"
+"32",5,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1,20,"real"
+"33",5,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",83,14.0677966101695,"real"
+"34",5,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",40,11.6279069767442,"real"
+"35",5,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",20,11.6959064327485,"real"
+"36",5,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",18,17.8217821782178,"real"
+"37",6,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",958,9.72292702730133,"real"
+"38",6,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",154,11.2244897959184,"real"
+"39",6,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",61,10.3389830508475,"real"
+"40",6,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",40,11.6279069767442,"real"
+"41",6,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",21,12.280701754386,"real"
+"42",6,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",11,10.8910891089109,"real"
+"43",7,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",958,9.72292702730133,"real"
+"44",7,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",142,10.3498542274052,"real"
+"45",7,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",6,37.5,"real"
+"46",7,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1,20,"real"
+"47",7,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",66,11.1864406779661,"real"
+"48",7,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",40,11.6279069767442,"real"
+"49",7,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",20,11.6959064327485,"real"
+"50",7,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",12,11.8811881188119,"real"
+"51",8,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",975,9.8954633106668,"real"
+"52",8,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",139,10.131195335277,"real"
+"53",8,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1,20,"real"
+"54",8,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",68,11.5254237288136,"real"
+"55",8,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",33,9.59302325581395,"real"
+"56",8,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",18,10.5263157894737,"real"
+"57",8,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",11,10.8910891089109,"real"
+"58",9,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1042,10.5754592509895,"real"
+"59",9,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",107,7.79883381924198,"real"
+"60",9,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",41,6.94915254237288,"real"
+"61",9,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",27,7.84883720930233,"real"
+"62",9,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",16,9.35672514619883,"real"
+"63",9,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",12,11.8811881188119,"real"
+"64",10,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1114,11.306201157008,"real"
+"65",10,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",54,3.93586005830904,"real"
+"66",10,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",3,18.75,"real"
+"67",10,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",36,6.10169491525424,"real"
+"68",10,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",21,6.1046511627907,"real"
+"69",10,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",13,7.60233918128655,"real"
+"70",10,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",4,3.96039603960396,"real"
+"71",1,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1142,9.03123764333729,"real_conditional"
+"72",1,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1144,9.04705417160933,"real_conditional"
+"73",1,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1270,10.0434954527481,"real_conditional"
+"74",1,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1500,11.8623962040332,"real_conditional"
+"75",1,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1144,9.04705417160933,"real_conditional"
+"76",1,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1500,11.8623962040332,"real_conditional"
+"77",1,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1143,9.03914590747331,"real_conditional"
+"78",1,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1500,11.8623962040332,"real_conditional"
+"79",1,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1137,8.99169632265718,"real_conditional"
+"80",1,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1165,9.2131277184658,"real_conditional"
+"81",2,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1234,9.75879794385133,"real_conditional"
+"82",2,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1245,9.84578884934757,"real_conditional"
+"83",2,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1286,10.1700276789245,"real_conditional"
+"84",2,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1304,10.3123764333729,"real_conditional"
+"85",2,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1245,9.84578884934757,"real_conditional"
+"86",2,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1303,10.3044681692369,"real_conditional"
+"87",2,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1242,9.8220640569395,"real_conditional"
+"88",2,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1303,10.3044681692369,"real_conditional"
+"89",2,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1243,9.82997232107552,"real_conditional"
+"90",2,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1240,9.80624752866746,"real_conditional"
+"91",3,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1231,9.73507315144326,"real_conditional"
+"92",3,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1225,9.68762356662713,"real_conditional"
+"93",3,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1293,10.2253855278766,"real_conditional"
+"94",3,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1327,10.4942665085014,"real_conditional"
+"95",3,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1225,9.68762356662713,"real_conditional"
+"96",3,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1328,10.5021747726374,"real_conditional"
+"97",3,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1226,9.69553183076315,"real_conditional"
+"98",3,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1328,10.5021747726374,"real_conditional"
+"99",3,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1230,9.72716488730724,"real_conditional"
+"100",3,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1232,9.74298141557928,"real_conditional"
+"101",4,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1256,9.93277975484381,"real_conditional"
+"102",4,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1255,9.92487149070779,"real_conditional"
+"103",4,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1247,9.86160537761961,"real_conditional"
+"104",4,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1291,10.2095689996046,"real_conditional"
+"105",4,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1255,9.92487149070779,"real_conditional"
+"106",4,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1291,10.2095689996046,"real_conditional"
+"107",4,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1253,9.90905496243574,"real_conditional"
+"108",4,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1291,10.2095689996046,"real_conditional"
+"109",4,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1248,9.86951364175563,"real_conditional"
+"110",4,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1258,9.94859628311586,"real_conditional"
+"111",5,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1261,9.97232107552392,"real_conditional"
+"112",5,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1259,9.95650454725188,"real_conditional"
+"113",5,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1273,10.0672202451562,"real_conditional"
+"114",5,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1272,10.0593119810202,"real_conditional"
+"115",5,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1259,9.95650454725188,"real_conditional"
+"116",5,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1271,10.0514037168841,"real_conditional"
+"117",5,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1260,9.9644128113879,"real_conditional"
+"118",5,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1271,10.0514037168841,"real_conditional"
+"119",5,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1262,9.98022933965994,"real_conditional"
+"120",5,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1257,9.94068801897983,"real_conditional"
+"121",6,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1303,10.3044681692369,"real_conditional"
+"122",6,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1305,10.3202846975089,"real_conditional"
+"123",6,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1264,9.99604586793199,"real_conditional"
+"124",6,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1189,9.40292605773033,"real_conditional"
+"125",6,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1305,10.3202846975089,"real_conditional"
+"126",6,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1190,9.41083432186635,"real_conditional"
+"127",6,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1297,10.2570185844207,"real_conditional"
+"128",6,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1190,9.41083432186635,"real_conditional"
+"129",6,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1298,10.2649268485567,"real_conditional"
+"130",6,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1304,10.3123764333729,"real_conditional"
+"131",7,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1250,9.88533017002768,"real_conditional"
+"132",7,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1253,9.90905496243574,"real_conditional"
+"133",7,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1290,10.2016607354686,"real_conditional"
+"134",7,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1278,10.1067615658363,"real_conditional"
+"135",7,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1253,9.90905496243574,"real_conditional"
+"136",7,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1277,10.0988533017003,"real_conditional"
+"137",7,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1261,9.97232107552392,"real_conditional"
+"138",7,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1277,10.0988533017003,"real_conditional"
+"139",7,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1263,9.98813760379597,"real_conditional"
+"140",7,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1243,9.82997232107552,"real_conditional"
+"141",8,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1296,10.2491103202847,"real_conditional"
+"142",8,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1288,10.1858442071965,"real_conditional"
+"143",8,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1243,9.82997232107552,"real_conditional"
+"144",8,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1223,9.67180703835508,"real_conditional"
+"145",8,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1288,10.1858442071965,"real_conditional"
+"146",8,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1224,9.6797153024911,"real_conditional"
+"147",8,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1285,10.1621194147885,"real_conditional"
+"148",8,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1223,9.67180703835508,"real_conditional"
+"149",8,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1283,10.1463028865164,"real_conditional"
+"150",8,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1292,10.2174772637406,"real_conditional"
+"151",9,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1317,10.4151838671412,"real_conditional"
+"152",9,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1317,10.4151838671412,"real_conditional"
+"153",9,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1246,9.85369711348359,"real_conditional"
+"154",9,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1161,9.18149466192171,"real_conditional"
+"155",9,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1317,10.4151838671412,"real_conditional"
+"156",9,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1161,9.18149466192171,"real_conditional"
+"157",9,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1324,10.4705417160933,"real_conditional"
+"158",9,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1162,9.18940292605773,"real_conditional"
+"159",9,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1326,10.4863582443654,"real_conditional"
+"160",9,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1314,10.3914590747331,"real_conditional"
+"161",10,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1355,10.71569790431,"real_conditional"
+"162",10,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1354,10.707789640174,"real_conditional"
+"163",10,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1233,9.7508896797153,"real_conditional"
+"164",10,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1100,8.69909054962436,"real_conditional"
+"165",10,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1354,10.707789640174,"real_conditional"
+"166",10,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1100,8.69909054962436,"real_conditional"
+"167",10,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1354,10.707789640174,"real_conditional"
+"168",10,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1100,8.69909054962436,"real_conditional"
+"169",10,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1355,10.71569790431,"real_conditional"
+"170",10,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1340,10.5970739422697,"real_conditional"
+"171",1,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",217,9.55947136563877,"synth"
+"172",1,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",505,10.1650563607085,"synth"
+"173",1,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",344,10.2168102168102,"synth"
+"174",1,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",135,9.16496945010183,"synth"
+"175",1,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",59,13.1991051454139,"synth"
+"176",1,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",4,3.6036036036036,"synth"
+"177",2,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",219,9.64757709251101,"synth"
+"178",2,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",479,9.64170692431562,"synth"
+"179",2,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",361,10.7217107217107,"synth"
+"180",2,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",156,10.5906313645621,"synth"
+"181",2,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",34,7.60626398210291,"synth"
+"182",2,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",15,13.5135135135135,"synth"
+"183",3,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",213,9.38325991189427,"synth"
+"184",3,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",519,10.4468599033816,"synth"
+"185",3,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",315,9.35550935550935,"synth"
+"186",3,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",153,10.3869653767821,"synth"
+"187",3,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",54,12.0805369127517,"synth"
+"188",3,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",10,9.00900900900901,"synth"
+"189",4,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",210,9.2511013215859,"synth"
+"190",4,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",532,10.7085346215781,"synth"
+"191",4,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",336,9.97920997920998,"synth"
+"192",4,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",129,8.75763747454175,"synth"
+"193",4,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",49,10.9619686800895,"synth"
+"194",4,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",8,7.20720720720721,"synth"
+"195",5,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",219,9.64757709251101,"synth"
+"196",5,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",475,9.56119162640902,"synth"
+"197",5,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",346,10.2762102762103,"synth"
+"198",5,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",161,10.9300746775289,"synth"
+"199",5,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",48,10.738255033557,"synth"
+"200",5,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",15,13.5135135135135,"synth"
+"201",6,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",221,9.73568281938326,"synth"
+"202",6,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",481,9.68196457326892,"synth"
+"203",6,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",351,10.4247104247104,"synth"
+"204",6,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",159,10.7942973523422,"synth"
+"205",6,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",43,9.61968680089485,"synth"
+"206",6,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",9,8.10810810810811,"synth"
+"207",7,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",225,9.91189427312775,"synth"
+"208",7,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",502,10.1046698872786,"synth"
+"209",7,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",322,9.56340956340956,"synth"
+"210",7,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",149,10.1154107264087,"synth"
+"211",7,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",48,10.738255033557,"synth"
+"212",7,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",17,15.3153153153153,"synth"
+"213",8,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",217,9.55947136563877,"synth"
+"214",8,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",478,9.62157809983897,"synth"
+"215",8,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",349,10.3653103653104,"synth"
+"216",8,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",158,10.7264086897488,"synth"
+"217",8,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",44,9.84340044742729,"synth"
+"218",8,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",17,15.3153153153153,"synth"
+"219",9,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",217,9.55947136563877,"synth"
+"220",9,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",509,10.2455716586151,"synth"
+"221",9,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",340,10.0980100980101,"synth"
+"222",9,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",153,10.3869653767821,"synth"
+"223",9,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",36,8.05369127516779,"synth"
+"224",9,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",8,7.20720720720721,"synth"
+"225",10,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",312,13.7444933920705,"synth"
+"226",10,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",488,9.82286634460547,"synth"
+"227",10,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",303,8.999108999109,"synth"
+"228",10,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",120,8.14663951120163,"synth"
+"229",10,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",32,7.15883668903803,"synth"
+"230",10,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",8,7.20720720720721,"synth"
+"231",1,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1100,8.79437160217461,"synth_conditional"
+"232",1,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1103,8.81835625199872,"synth_conditional"
+"233",1,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1329,10.6251998720819,"synth_conditional"
+"234",1,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1518,12.136232811001,"synth_conditional"
+"235",1,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1103,8.81835625199872,"synth_conditional"
+"236",1,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1518,12.136232811001,"synth_conditional"
+"237",1,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1103,8.81835625199872,"synth_conditional"
+"238",1,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1518,12.136232811001,"synth_conditional"
+"239",1,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1100,8.79437160217461,"synth_conditional"
+"240",1,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1116,8.92228973456987,"synth_conditional"
+"241",2,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1149,9.18612088263511,"synth_conditional"
+"242",2,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1155,9.23409018228334,"synth_conditional"
+"243",2,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1347,10.7691077710265,"synth_conditional"
+"244",2,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1412,11.2887751838823,"synth_conditional"
+"245",2,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1155,9.23409018228334,"synth_conditional"
+"246",2,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1412,11.2887751838823,"synth_conditional"
+"247",2,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1151,9.20211064918452,"synth_conditional"
+"248",2,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1412,11.2887751838823,"synth_conditional"
+"249",2,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1152,9.21010553245923,"synth_conditional"
+"250",2,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1163,9.29804924848097,"synth_conditional"
+"251",3,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1182,9.44995203070035,"synth_conditional"
+"252",3,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1179,9.42596738087624,"synth_conditional"
+"253",3,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1326,10.6012152222578,"synth_conditional"
+"254",3,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1368,10.9370003197953,"synth_conditional"
+"255",3,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1179,9.42596738087624,"synth_conditional"
+"256",3,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1368,10.9370003197953,"synth_conditional"
+"257",3,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1180,9.43396226415094,"synth_conditional"
+"258",3,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1368,10.9370003197953,"synth_conditional"
+"259",3,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1175,9.39398784777742,"synth_conditional"
+"260",3,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1183,9.45794691397506,"synth_conditional"
+"261",4,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1184,9.46594179724976,"synth_conditional"
+"262",4,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1197,9.56987527982091,"synth_conditional"
+"263",4,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1291,10.3213943076431,"synth_conditional"
+"264",4,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1361,10.8810361368724,"synth_conditional"
+"265",4,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1196,9.56188039654621,"synth_conditional"
+"266",4,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1361,10.8810361368724,"synth_conditional"
+"267",4,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1192,9.52990086344739,"synth_conditional"
+"268",4,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1361,10.8810361368724,"synth_conditional"
+"269",4,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1187,9.48992644707387,"synth_conditional"
+"270",4,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1178,9.41797249760154,"synth_conditional"
+"271",5,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1245,9.95362967700671,"synth_conditional"
+"272",5,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1236,9.88167572753438,"synth_conditional"
+"273",5,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1271,10.161496642149,"synth_conditional"
+"274",5,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1264,10.1055324592261,"synth_conditional"
+"275",5,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1237,9.88967061080908,"synth_conditional"
+"276",5,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1264,10.1055324592261,"synth_conditional"
+"277",5,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1241,9.9216501439079,"synth_conditional"
+"278",5,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1264,10.1055324592261,"synth_conditional"
+"279",5,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1245,9.95362967700671,"synth_conditional"
+"280",5,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1241,9.9216501439079,"synth_conditional"
+"281",6,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1239,9.90566037735849,"synth_conditional"
+"282",6,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1242,9.9296450271826,"synth_conditional"
+"283",6,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1247,9.96961944355612,"synth_conditional"
+"284",6,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1288,10.297409657819,"synth_conditional"
+"285",6,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1242,9.9296450271826,"synth_conditional"
+"286",6,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1288,10.297409657819,"synth_conditional"
+"287",6,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1231,9.84170131116086,"synth_conditional"
+"288",6,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1288,10.297409657819,"synth_conditional"
+"289",6,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1223,9.77774224496322,"synth_conditional"
+"290",6,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1220,9.75375759513911,"synth_conditional"
+"291",7,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1278,10.217460825072,"synth_conditional"
+"292",7,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1278,10.217460825072,"synth_conditional"
+"293",7,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1279,10.2254557083467,"synth_conditional"
+"294",7,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1176,9.40198273105213,"synth_conditional"
+"295",7,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1278,10.217460825072,"synth_conditional"
+"296",7,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1175,9.39398784777742,"synth_conditional"
+"297",7,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1283,10.2574352414455,"synth_conditional"
+"298",7,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1175,9.39398784777742,"synth_conditional"
+"299",7,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1294,10.3453789574672,"synth_conditional"
+"300",7,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1292,10.3293891909178,"synth_conditional"
+"301",8,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1307,10.4493124400384,"synth_conditional"
+"302",8,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1304,10.4253277902143,"synth_conditional"
+"303",8,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1198,9.57787016309562,"synth_conditional"
+"304",8,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1160,9.27406459865686,"synth_conditional"
+"305",8,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1303,10.4173329069396,"synth_conditional"
+"306",8,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1161,9.28205948193156,"synth_conditional"
+"307",8,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1306,10.4413175567637,"synth_conditional"
+"308",8,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1161,9.28205948193156,"synth_conditional"
+"309",8,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1307,10.4493124400384,"synth_conditional"
+"310",8,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1301,10.4013431403901,"synth_conditional"
+"311",9,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1394,11.1448672849376,"synth_conditional"
+"312",9,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1386,11.08090821874,"synth_conditional"
+"313",9,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1134,9.06619763351455,"synth_conditional"
+"314",9,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",1020,8.15478094019827,"synth_conditional"
+"315",9,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1387,11.0889031020147,"synth_conditional"
+"316",9,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",1020,8.15478094019827,"synth_conditional"
+"317",9,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1386,11.08090821874,"synth_conditional"
+"318",9,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",1020,8.15478094019827,"synth_conditional"
+"319",9,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1382,11.0489286856412,"synth_conditional"
+"320",9,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1379,11.0249440358171,"synth_conditional"
+"321",10,"IV: 
+afspraak_signaal_van_aanbieder: 0
+",1430,11.432683082827,"synth_conditional"
+"322",10,"IV: 
+afspraak_signaal_van_aanbieder: 1
+",1428,11.4166933162776,"synth_conditional"
+"323",10,"IV: 
+afspraak_signaal_van_aanbieder: 10
+",1086,8.68244323632875,"synth_conditional"
+"324",10,"IV: 
+afspraak_signaal_van_aanbieder: 15
+",941,7.52318516149664,"synth_conditional"
+"325",10,"IV: 
+afspraak_signaal_van_aanbieder: 2
+",1428,11.4166933162776,"synth_conditional"
+"326",10,"IV: 
+afspraak_signaal_van_aanbieder: 20
+",941,7.52318516149664,"synth_conditional"
+"327",10,"IV: 
+afspraak_signaal_van_aanbieder: 3
+",1435,11.4726574992005,"synth_conditional"
+"328",10,"IV: 
+afspraak_signaal_van_aanbieder: 30
+",941,7.52318516149664,"synth_conditional"
+"329",10,"IV: 
+afspraak_signaal_van_aanbieder: 4
+",1443,11.5366165653981,"synth_conditional"
+"330",10,"IV: 
+afspraak_signaal_van_aanbieder: 5
+",1435,11.4726574992005,"synth_conditional"

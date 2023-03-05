@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1222,11.4088320418262,"real"
+"2",1,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",43,2.22337125129266,"real"
+"3",2,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1154,10.7739706843432,"real"
+"4",2,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",111,5.73940020682523,"real"
+"5",3,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1096,10.232471291196,"real"
+"6",3,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",169,8.73836608066184,"real"
+"7",4,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1057,9.86835963028662,"real"
+"8",4,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",208,10.7549120992761,"real"
+"9",5,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1061,9.90570441602091,"real"
+"10",5,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",204,10.5480868665977,"real"
+"11",6,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1050,9.80300625525161,"real"
+"12",6,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",214,11.0651499482937,"real"
+"13",7,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1041,9.71898048734945,"real"
+"14",7,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",223,11.5305067218201,"real"
+"15",8,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1033,9.64429091588087,"real"
+"16",8,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",231,11.9441571871768,"real"
+"17",9,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",980,9.1494725049015,"real"
+"18",9,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",284,14.6845915201655,"real"
+"19",10,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1017,9.4949117729437,"real"
+"20",10,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",247,12.7714581178904,"real"
+"21",1,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1262,9.98022933965994,"real_conditional"
+"22",1,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1267,10.0197706603401,"real_conditional"
+"23",2,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1266,10.011862396204,"real_conditional"
+"24",2,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1263,9.98813760379597,"real_conditional"
+"25",3,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1261,9.97232107552392,"real_conditional"
+"26",3,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1268,10.0276789244761,"real_conditional"
+"27",4,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1262,9.98022933965994,"real_conditional"
+"28",4,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1267,10.0197706603401,"real_conditional"
+"29",5,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1263,9.98813760379597,"real_conditional"
+"30",5,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1266,10.011862396204,"real_conditional"
+"31",6,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1268,10.0276789244761,"real_conditional"
+"32",6,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1261,9.97232107552392,"real_conditional"
+"33",7,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1261,9.97232107552392,"real_conditional"
+"34",7,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1268,10.0276789244761,"real_conditional"
+"35",8,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1268,10.0276789244761,"real_conditional"
+"36",8,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1261,9.97232107552392,"real_conditional"
+"37",9,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1261,9.97232107552392,"real_conditional"
+"38",9,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1268,10.0276789244761,"real_conditional"
+"39",10,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1273,10.0672202451562,"real_conditional"
+"40",10,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1256,9.93277975484381,"real_conditional"
+"41",1,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1038,10.5842765371673,"synth"
+"42",1,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",227,7.99859055673009,"synth"
+"43",2,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1046,10.6658509228102,"synth"
+"44",2,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",219,7.71670190274841,"synth"
+"45",3,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",996,10.1560110125421,"synth"
+"46",3,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",269,9.4785059901339,"synth"
+"47",4,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",994,10.1356174161313,"synth"
+"48",4,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",271,9.54897815362932,"synth"
+"49",5,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",961,9.79912307535434,"synth"
+"50",5,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",304,10.7117688513037,"synth"
+"51",6,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",960,9.78892627714898,"synth"
+"52",6,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",304,10.7117688513037,"synth"
+"53",7,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",974,9.93168145202406,"synth"
+"54",7,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",290,10.2184637068358,"synth"
+"55",8,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",946,9.64617110227389,"synth"
+"56",8,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",318,11.2050739957717,"synth"
+"57",9,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",946,9.64617110227389,"synth"
+"58",9,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",318,11.2050739957717,"synth"
+"59",10,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",946,9.64617110227389,"synth"
+"60",10,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",318,11.2050739957717,"synth"
+"61",1,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1253,10.0175887432043,"synth_conditional"
+"62",1,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1249,9.98560921010553,"synth_conditional"
+"63",2,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1233,9.85769107771027,"synth_conditional"
+"64",2,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1269,10.1455068755996,"synth_conditional"
+"65",3,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1258,10.0575631595779,"synth_conditional"
+"66",3,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1244,9.94563479373201,"synth_conditional"
+"67",4,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1236,9.88167572753438,"synth_conditional"
+"68",4,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1266,10.1215222257755,"synth_conditional"
+"69",5,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1256,10.0415733930285,"synth_conditional"
+"70",5,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1246,9.96162456028142,"synth_conditional"
+"71",6,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1252,10.0095938599296,"synth_conditional"
+"72",6,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1250,9.99360409338024,"synth_conditional"
+"73",7,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1235,9.87368084425967,"synth_conditional"
+"74",7,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1266,10.1215222257755,"synth_conditional"
+"75",8,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1253,10.0175887432043,"synth_conditional"
+"76",8,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1248,9.97761432683083,"synth_conditional"
+"77",9,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1265,10.1135273425008,"synth_conditional"
+"78",9,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1236,9.88167572753438,"synth_conditional"
+"79",10,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 0
+",1267,10.1295171090502,"synth_conditional"
+"80",10,"IV: 
+persoonlijke_eigenschappen_overige_opmerkingen: 1
+",1234,9.86568596098497,"synth_conditional"

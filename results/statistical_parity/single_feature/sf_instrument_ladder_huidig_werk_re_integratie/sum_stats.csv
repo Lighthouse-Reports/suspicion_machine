@@ -1,0 +1,73 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+instrument_ladder_huidig_werk_re_integratie: 0
+","Ja",10688,0.471,0.147,0.0681137724550898,0.23811751497006,-3.18862275449102,13.811751497006,"real"
+"2","IV: 
+instrument_ladder_huidig_werk_re_integratie: 1
+","Ja",1468,0.575,0.15,0.247275204359673,0.485013623978202,14.7275204359673,38.5013623978202,"real"
+"3","IV: 
+instrument_ladder_huidig_werk_re_integratie: 2
+","Ja",368,0.625,0.136,0.35054347826087,0.614130434782609,25.054347826087,51.4130434782609,"real"
+"4","IV: 
+instrument_ladder_huidig_werk_re_integratie: 3
+","Ja",97,0.64,0.132,0.381443298969072,0.690721649484536,28.1443298969072,59.0721649484536,"real"
+"5","IV: 
+instrument_ladder_huidig_werk_re_integratie: 4
+","Ja",19,0.627,0.13,0.315789473684211,0.631578947368421,21.5789473684211,53.1578947368421,"real"
+"6","IV: 
+instrument_ladder_huidig_werk_re_integratie: 5
+","Ja",4,0.658,0.099,0.25,0.75,15,65,"real"
+"7","IV: 
+instrument_ladder_huidig_werk_re_integratie: 6
+","Ja",1,0.704,NA,1,1,90,90,"real"
+"8","IV: 
+instrument_ladder_huidig_werk_re_integratie: 0
+","Ja",12645,0.489,0.153,0.0998022933965994,0.281929616449189,-0.0197706603400558,18.1929616449189,"real_conditional"
+"9","IV: 
+instrument_ladder_huidig_werk_re_integratie: 1
+","Ja",12645,0.489,0.153,0.100276789244761,0.282404112297351,0.0276789244760767,18.2404112297351,"real_conditional"
+"10","IV: 
+instrument_ladder_huidig_werk_re_integratie: 2
+","Ja",12645,0.489,0.153,0.100276789244761,0.282404112297351,0.0276789244760767,18.2404112297351,"real_conditional"
+"11","IV: 
+instrument_ladder_huidig_werk_re_integratie: 3
+","Ja",12645,0.489,0.153,0.100276789244761,0.282404112297351,0.0276789244760767,18.2404112297351,"real_conditional"
+"12","IV: 
+instrument_ladder_huidig_werk_re_integratie: 4
+","Ja",12645,0.489,0.153,0.100276789244761,0.282404112297351,0.0276789244760767,18.2404112297351,"real_conditional"
+"13","IV: 
+instrument_ladder_huidig_werk_re_integratie: 5
+","Ja",12645,0.489,0.153,0.100276789244761,0.282404112297351,0.0276789244760767,18.2404112297351,"real_conditional"
+"14","IV: 
+instrument_ladder_huidig_werk_re_integratie: 6
+","Ja",12645,0.489,0.153,0.100276789244761,0.282404112297351,0.0276789244760767,18.2404112297351,"real_conditional"
+"15","IV: 
+instrument_ladder_huidig_werk_re_integratie: 0
+","Ja",7888,0.603,0.086,0.081262677484787,0.601926977687627,-1.8737322515213,50.1926977687627,"synth"
+"16","IV: 
+instrument_ladder_huidig_werk_re_integratie: 1
+","Ja",4664,0.626,0.082,0.128644939965695,0.703044596912521,2.86449399656947,60.3044596912521,"synth"
+"17","IV: 
+instrument_ladder_huidig_werk_re_integratie: 2
+","Ja",93,0.66,0.076,0.258064516129032,0.881720430107527,15.8064516129032,78.1720430107527,"synth"
+"18","IV: 
+instrument_ladder_huidig_werk_re_integratie: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.640869843300288,-0.0223856731691729,54.0869843300288,"synth_conditional"
+"19","IV: 
+instrument_ladder_huidig_werk_re_integratie: 1
+","Ja",12508,0.612,0.085,0.0999360409338024,0.641429485129517,-0.0063959066197633,54.1429485129517,"synth_conditional"
+"20","IV: 
+instrument_ladder_huidig_werk_re_integratie: 2
+","Ja",12508,0.612,0.085,0.0999360409338024,0.641429485129517,-0.0063959066197633,54.1429485129517,"synth_conditional"
+"21","IV: 
+instrument_ladder_huidig_werk_re_integratie: 3
+","Ja",12508,0.612,0.085,0.0999360409338024,0.641429485129517,-0.0063959066197633,54.1429485129517,"synth_conditional"
+"22","IV: 
+instrument_ladder_huidig_werk_re_integratie: 4
+","Ja",12508,0.612,0.085,0.0999360409338024,0.641429485129517,-0.0063959066197633,54.1429485129517,"synth_conditional"
+"23","IV: 
+instrument_ladder_huidig_werk_re_integratie: 5
+","Ja",12508,0.612,0.085,0.0999360409338024,0.641429485129517,-0.0063959066197633,54.1429485129517,"synth_conditional"
+"24","IV: 
+instrument_ladder_huidig_werk_re_integratie: 6
+","Ja",12508,0.612,0.085,0.0999360409338024,0.641429485129517,-0.0063959066197633,54.1429485129517,"synth_conditional"

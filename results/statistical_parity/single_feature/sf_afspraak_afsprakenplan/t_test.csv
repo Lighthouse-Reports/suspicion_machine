@@ -1,0 +1,1096 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 1
+",7423,2923,0.00414,"**",0.245,"ns","real"
+"2","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 10
+",7423,6,0.173,"ns",1,"ns","real"
+"3","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 10
+",2923,6,0.227,"ns",1,"ns","real"
+"4","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 11
+",7423,2,0.413,"ns",1,"ns","real"
+"5","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 11
+",2923,2,0.465,"ns",1,"ns","real"
+"6","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 11
+",6,2,0.977,"ns",1,"ns","real"
+"7","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 2
+",7423,1200,7.03e-06,"****",0.00045,"***","real"
+"8","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 2
+",2923,1200,0.0243,"*",1,"ns","real"
+"9","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 2
+",6,1200,0.309,"ns",1,"ns","real"
+"10","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 2
+",2,1200,0.535,"ns",1,"ns","real"
+"11","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 3
+",7423,543,1.66e-08,"****",1.09e-06,"****","real"
+"12","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 3
+",2923,543,5.54e-05,"****",0.00349,"**","real"
+"13","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 3
+",6,543,0.457,"ns",1,"ns","real"
+"14","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 3
+",2,543,0.643,"ns",1,"ns","real"
+"15","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 3
+",1200,543,0.0315,"*",1,"ns","real"
+"16","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 4
+",7423,283,3.94e-07,"****",2.56e-05,"****","real"
+"17","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 4
+",2923,283,8.5e-05,"****",0.00527,"**","real"
+"18","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 4
+",6,283,0.546,"ns",1,"ns","real"
+"19","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 4
+",2,283,0.701,"ns",1,"ns","real"
+"20","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 4
+",1200,283,0.0113,"*",0.653,"ns","real"
+"21","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 4
+",543,283,0.443,"ns",1,"ns","real"
+"22","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 5
+",7423,135,0.00182,"**",0.111,"ns","real"
+"23","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 5
+",2923,135,0.018,"*",1,"ns","real"
+"24","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 5
+",6,135,0.494,"ns",1,"ns","real"
+"25","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 5
+",2,135,0.665,"ns",1,"ns","real"
+"26","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 5
+",1200,135,0.149,"ns",1,"ns","real"
+"27","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 5
+",543,135,0.837,"ns",1,"ns","real"
+"28","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 5
+",283,135,0.727,"ns",1,"ns","real"
+"29","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 6
+",7423,68,0.0293,"*",1,"ns","real"
+"30","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 6
+",2923,68,0.0981,"ns",1,"ns","real"
+"31","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 6
+",6,68,0.495,"ns",1,"ns","real"
+"32","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 6
+",2,68,0.662,"ns",1,"ns","real"
+"33","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 6
+",1200,68,0.313,"ns",1,"ns","real"
+"34","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 6
+",543,68,0.91,"ns",1,"ns","real"
+"35","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 6
+",283,68,0.757,"ns",1,"ns","real"
+"36","Ja","IV: 
+afspraak_afsprakenplan: 5
+","IV: 
+afspraak_afsprakenplan: 6
+",135,68,0.972,"ns",1,"ns","real"
+"37","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 7
+",7423,37,0.0037,"**",0.222,"ns","real"
+"38","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 7
+",2923,37,0.012,"*",0.682,"ns","real"
+"39","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 7
+",6,37,0.86,"ns",1,"ns","real"
+"40","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 7
+",2,37,0.889,"ns",1,"ns","real"
+"41","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 7
+",1200,37,0.0425,"*",1,"ns","real"
+"42","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 7
+",543,37,0.181,"ns",1,"ns","real"
+"43","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 7
+",283,37,0.328,"ns",1,"ns","real"
+"44","Ja","IV: 
+afspraak_afsprakenplan: 5
+","IV: 
+afspraak_afsprakenplan: 7
+",135,37,0.263,"ns",1,"ns","real"
+"45","Ja","IV: 
+afspraak_afsprakenplan: 6
+","IV: 
+afspraak_afsprakenplan: 7
+",68,37,0.297,"ns",1,"ns","real"
+"46","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 8
+",7423,16,0.0236,"*",1,"ns","real"
+"47","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 8
+",2923,16,0.0444,"*",1,"ns","real"
+"48","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 8
+",6,16,0.983,"ns",1,"ns","real"
+"49","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 8
+",2,16,0.986,"ns",1,"ns","real"
+"50","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 8
+",1200,16,0.09,"ns",1,"ns","real"
+"51","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 8
+",543,16,0.214,"ns",1,"ns","real"
+"52","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 8
+",283,16,0.313,"ns",1,"ns","real"
+"53","Ja","IV: 
+afspraak_afsprakenplan: 5
+","IV: 
+afspraak_afsprakenplan: 8
+",135,16,0.263,"ns",1,"ns","real"
+"54","Ja","IV: 
+afspraak_afsprakenplan: 6
+","IV: 
+afspraak_afsprakenplan: 8
+",68,16,0.279,"ns",1,"ns","real"
+"55","Ja","IV: 
+afspraak_afsprakenplan: 7
+","IV: 
+afspraak_afsprakenplan: 8
+",37,16,0.768,"ns",1,"ns","real"
+"56","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 9
+",7423,9,0.0437,"*",1,"ns","real"
+"57","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 9
+",2923,9,0.0675,"ns",1,"ns","real"
+"58","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 9
+",6,9,0.825,"ns",1,"ns","real"
+"59","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 9
+",2,9,0.905,"ns",1,"ns","real"
+"60","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 9
+",1200,9,0.111,"ns",1,"ns","real"
+"61","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 9
+",543,9,0.209,"ns",1,"ns","real"
+"62","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 9
+",283,9,0.28,"ns",1,"ns","real"
+"63","Ja","IV: 
+afspraak_afsprakenplan: 5
+","IV: 
+afspraak_afsprakenplan: 9
+",135,9,0.243,"ns",1,"ns","real"
+"64","Ja","IV: 
+afspraak_afsprakenplan: 6
+","IV: 
+afspraak_afsprakenplan: 9
+",68,9,0.251,"ns",1,"ns","real"
+"65","Ja","IV: 
+afspraak_afsprakenplan: 7
+","IV: 
+afspraak_afsprakenplan: 9
+",37,9,0.601,"ns",1,"ns","real"
+"66","Ja","IV: 
+afspraak_afsprakenplan: 8
+","IV: 
+afspraak_afsprakenplan: 9
+",16,9,0.798,"ns",1,"ns","real"
+"67","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 1
+",12645,12645,0.965,"ns",1,"ns","real_conditional"
+"68","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 10
+",12645,12645,0.436,"ns",1,"ns","real_conditional"
+"69","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 10
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"70","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 11
+",12645,12645,0.436,"ns",1,"ns","real_conditional"
+"71","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 11
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"72","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 11
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"73","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 2
+",12645,12645,0.965,"ns",1,"ns","real_conditional"
+"74","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"75","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 2
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"76","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 2
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"77","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 3
+",12645,12645,0.965,"ns",1,"ns","real_conditional"
+"78","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"79","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 3
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"80","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 3
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"81","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"82","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 4
+",12645,12645,0.77,"ns",1,"ns","real_conditional"
+"83","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 4
+",12645,12645,0.737,"ns",1,"ns","real_conditional"
+"84","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 4
+",12645,12645,0.284,"ns",1,"ns","real_conditional"
+"85","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 4
+",12645,12645,0.284,"ns",1,"ns","real_conditional"
+"86","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 4
+",12645,12645,0.737,"ns",1,"ns","real_conditional"
+"87","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 4
+",12645,12645,0.737,"ns",1,"ns","real_conditional"
+"88","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 5
+",12645,12645,0.77,"ns",1,"ns","real_conditional"
+"89","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 5
+",12645,12645,0.737,"ns",1,"ns","real_conditional"
+"90","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 5
+",12645,12645,0.284,"ns",1,"ns","real_conditional"
+"91","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 5
+",12645,12645,0.284,"ns",1,"ns","real_conditional"
+"92","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 5
+",12645,12645,0.737,"ns",1,"ns","real_conditional"
+"93","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 5
+",12645,12645,0.737,"ns",1,"ns","real_conditional"
+"94","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"95","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 6
+",12645,12645,0.436,"ns",1,"ns","real_conditional"
+"96","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 6
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"97","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"98","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"99","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 6
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"100","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 6
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"101","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 6
+",12645,12645,0.284,"ns",1,"ns","real_conditional"
+"102","Ja","IV: 
+afspraak_afsprakenplan: 5
+","IV: 
+afspraak_afsprakenplan: 6
+",12645,12645,0.284,"ns",1,"ns","real_conditional"
+"103","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 7
+",12645,12645,0.436,"ns",1,"ns","real_conditional"
+"104","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 7
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"105","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"106","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"107","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 7
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"108","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 7
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"109","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 7
+",12645,12645,0.284,"ns",1,"ns","real_conditional"
+"110","Ja","IV: 
+afspraak_afsprakenplan: 5
+","IV: 
+afspraak_afsprakenplan: 7
+",12645,12645,0.284,"ns",1,"ns","real_conditional"
+"111","Ja","IV: 
+afspraak_afsprakenplan: 6
+","IV: 
+afspraak_afsprakenplan: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"112","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 8
+",12645,12645,0.436,"ns",1,"ns","real_conditional"
+"113","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 8
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"114","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"115","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"116","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 8
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"117","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 8
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"118","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 8
+",12645,12645,0.284,"ns",1,"ns","real_conditional"
+"119","Ja","IV: 
+afspraak_afsprakenplan: 5
+","IV: 
+afspraak_afsprakenplan: 8
+",12645,12645,0.284,"ns",1,"ns","real_conditional"
+"120","Ja","IV: 
+afspraak_afsprakenplan: 6
+","IV: 
+afspraak_afsprakenplan: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"121","Ja","IV: 
+afspraak_afsprakenplan: 7
+","IV: 
+afspraak_afsprakenplan: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"122","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 9
+",12645,12645,0.436,"ns",1,"ns","real_conditional"
+"123","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 9
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"124","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"125","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"126","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 9
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"127","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 9
+",12645,12645,0.462,"ns",1,"ns","real_conditional"
+"128","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 9
+",12645,12645,0.284,"ns",1,"ns","real_conditional"
+"129","Ja","IV: 
+afspraak_afsprakenplan: 5
+","IV: 
+afspraak_afsprakenplan: 9
+",12645,12645,0.284,"ns",1,"ns","real_conditional"
+"130","Ja","IV: 
+afspraak_afsprakenplan: 6
+","IV: 
+afspraak_afsprakenplan: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"131","Ja","IV: 
+afspraak_afsprakenplan: 7
+","IV: 
+afspraak_afsprakenplan: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"132","Ja","IV: 
+afspraak_afsprakenplan: 8
+","IV: 
+afspraak_afsprakenplan: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"133","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 1
+",2568,5420,7e-05,"****",0.0014,"**","synth"
+"134","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 2
+",2568,3215,8e-06,"****",0.000168,"***","synth"
+"135","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 2
+",5420,3215,0.303,"ns",1,"ns","synth"
+"136","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 3
+",2568,1144,9.46e-05,"****",0.0018,"**","synth"
+"137","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 3
+",5420,1144,0.181,"ns",1,"ns","synth"
+"138","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 3
+",3215,1144,0.55,"ns",1,"ns","synth"
+"139","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 4
+",2568,259,0.00181,"**",0.0326,"*","synth"
+"140","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 4
+",5420,259,0.0891,"ns",1,"ns","synth"
+"141","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 4
+",3215,259,0.187,"ns",1,"ns","synth"
+"142","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 4
+",1144,259,0.348,"ns",1,"ns","synth"
+"143","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 5
+",2568,35,0.302,"ns",1,"ns","synth"
+"144","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 5
+",5420,35,0.636,"ns",1,"ns","synth"
+"145","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 5
+",3215,35,0.736,"ns",1,"ns","synth"
+"146","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 5
+",1144,35,0.83,"ns",1,"ns","synth"
+"147","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 5
+",259,35,0.877,"ns",1,"ns","synth"
+"148","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 6
+",2568,4,0.207,"ns",1,"ns","synth"
+"149","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 6
+",5420,4,0.284,"ns",1,"ns","synth"
+"150","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 6
+",3215,4,0.305,"ns",1,"ns","synth"
+"151","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 6
+",1144,4,0.325,"ns",1,"ns","synth"
+"152","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 6
+",259,4,0.396,"ns",1,"ns","synth"
+"153","Ja","IV: 
+afspraak_afsprakenplan: 5
+","IV: 
+afspraak_afsprakenplan: 6
+",35,4,0.388,"ns",1,"ns","synth"
+"154","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 1
+",12508,12508,0.529,"ns",1,"ns","synth_conditional"
+"155","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 10
+",12508,12508,0.0161,"*",1,"ns","synth_conditional"
+"156","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 10
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"157","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 11
+",12508,12508,0.0161,"*",1,"ns","synth_conditional"
+"158","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 11
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"159","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 11
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"160","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 2
+",12508,12508,0.529,"ns",1,"ns","synth_conditional"
+"161","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"162","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 2
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"163","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 2
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"164","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 3
+",12508,12508,0.529,"ns",1,"ns","synth_conditional"
+"165","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"166","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 3
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"167","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 3
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"168","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"169","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 4
+",12508,12508,0.642,"ns",1,"ns","synth_conditional"
+"170","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 4
+",12508,12508,0.869,"ns",1,"ns","synth_conditional"
+"171","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 4
+",12508,12508,0.052,"ns",1,"ns","synth_conditional"
+"172","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 4
+",12508,12508,0.052,"ns",1,"ns","synth_conditional"
+"173","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 4
+",12508,12508,0.869,"ns",1,"ns","synth_conditional"
+"174","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 4
+",12508,12508,0.869,"ns",1,"ns","synth_conditional"
+"175","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 5
+",12508,12508,0.642,"ns",1,"ns","synth_conditional"
+"176","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 5
+",12508,12508,0.869,"ns",1,"ns","synth_conditional"
+"177","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 5
+",12508,12508,0.052,"ns",1,"ns","synth_conditional"
+"178","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 5
+",12508,12508,0.052,"ns",1,"ns","synth_conditional"
+"179","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 5
+",12508,12508,0.869,"ns",1,"ns","synth_conditional"
+"180","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 5
+",12508,12508,0.869,"ns",1,"ns","synth_conditional"
+"181","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"182","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 6
+",12508,12508,0.0161,"*",1,"ns","synth_conditional"
+"183","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 6
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"184","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"185","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"186","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 6
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"187","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 6
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"188","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 6
+",12508,12508,0.052,"ns",1,"ns","synth_conditional"
+"189","Ja","IV: 
+afspraak_afsprakenplan: 5
+","IV: 
+afspraak_afsprakenplan: 6
+",12508,12508,0.052,"ns",1,"ns","synth_conditional"
+"190","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 7
+",12508,12508,0.0161,"*",1,"ns","synth_conditional"
+"191","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 7
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"192","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"193","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"194","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 7
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"195","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 7
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"196","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 7
+",12508,12508,0.052,"ns",1,"ns","synth_conditional"
+"197","Ja","IV: 
+afspraak_afsprakenplan: 5
+","IV: 
+afspraak_afsprakenplan: 7
+",12508,12508,0.052,"ns",1,"ns","synth_conditional"
+"198","Ja","IV: 
+afspraak_afsprakenplan: 6
+","IV: 
+afspraak_afsprakenplan: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"199","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 8
+",12508,12508,0.0161,"*",1,"ns","synth_conditional"
+"200","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 8
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"201","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"202","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"203","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 8
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"204","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 8
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"205","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 8
+",12508,12508,0.052,"ns",1,"ns","synth_conditional"
+"206","Ja","IV: 
+afspraak_afsprakenplan: 5
+","IV: 
+afspraak_afsprakenplan: 8
+",12508,12508,0.052,"ns",1,"ns","synth_conditional"
+"207","Ja","IV: 
+afspraak_afsprakenplan: 6
+","IV: 
+afspraak_afsprakenplan: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"208","Ja","IV: 
+afspraak_afsprakenplan: 7
+","IV: 
+afspraak_afsprakenplan: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"209","Ja","IV: 
+afspraak_afsprakenplan: 0
+","IV: 
+afspraak_afsprakenplan: 9
+",12508,12508,0.0161,"*",1,"ns","synth_conditional"
+"210","Ja","IV: 
+afspraak_afsprakenplan: 1
+","IV: 
+afspraak_afsprakenplan: 9
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"211","Ja","IV: 
+afspraak_afsprakenplan: 10
+","IV: 
+afspraak_afsprakenplan: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"212","Ja","IV: 
+afspraak_afsprakenplan: 11
+","IV: 
+afspraak_afsprakenplan: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"213","Ja","IV: 
+afspraak_afsprakenplan: 2
+","IV: 
+afspraak_afsprakenplan: 9
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"214","Ja","IV: 
+afspraak_afsprakenplan: 3
+","IV: 
+afspraak_afsprakenplan: 9
+",12508,12508,0.0754,"ns",1,"ns","synth_conditional"
+"215","Ja","IV: 
+afspraak_afsprakenplan: 4
+","IV: 
+afspraak_afsprakenplan: 9
+",12508,12508,0.052,"ns",1,"ns","synth_conditional"
+"216","Ja","IV: 
+afspraak_afsprakenplan: 5
+","IV: 
+afspraak_afsprakenplan: 9
+",12508,12508,0.052,"ns",1,"ns","synth_conditional"
+"217","Ja","IV: 
+afspraak_afsprakenplan: 6
+","IV: 
+afspraak_afsprakenplan: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"218","Ja","IV: 
+afspraak_afsprakenplan: 7
+","IV: 
+afspraak_afsprakenplan: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"219","Ja","IV: 
+afspraak_afsprakenplan: 8
+","IV: 
+afspraak_afsprakenplan: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"

@@ -1,0 +1,3061 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+",6114,80,4.82e-11,"****",7.29e-09,"****","real"
+"2","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+",6114,19,0.877,"ns",1,"ns","real"
+"3","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+",80,19,0.00236,"**",0.285,"ns","real"
+"4","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+",6114,46,0.972,"ns",1,"ns","real"
+"5","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+",80,46,5.58e-05,"****",0.00753,"**","real"
+"6","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+",19,46,0.912,"ns",1,"ns","real"
+"7","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+",6114,42,0.00406,"**",0.476,"ns","real"
+"8","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+",80,42,0.121,"ns",1,"ns","real"
+"9","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+",19,42,0.0822,"ns",1,"ns","real"
+"10","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+",46,42,0.0349,"*",1,"ns","real"
+"11","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",6114,22,0.701,"ns",1,"ns","real"
+"12","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",80,22,0.000633,"***",0.0804,"ns","real"
+"13","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",19,22,0.882,"ns",1,"ns","real"
+"14","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",46,22,0.767,"ns",1,"ns","real"
+"15","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",42,22,0.0452,"*",1,"ns","real"
+"16","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",6114,177,0.778,"ns",1,"ns","real"
+"17","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",80,177,9.55e-08,"****",1.41e-05,"****","real"
+"18","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",19,177,0.813,"ns",1,"ns","real"
+"19","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",46,177,0.871,"ns",1,"ns","real"
+"20","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",42,177,0.0136,"*",1,"ns","real"
+"21","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",22,177,0.647,"ns",1,"ns","real"
+"22","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",6114,23,2.84e-07,"****",4.14e-05,"****","real"
+"23","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",80,23,0.16,"ns",1,"ns","real"
+"24","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",19,23,0.00035,"***",0.0452,"*","real"
+"25","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",46,23,2.43e-05,"****",0.00338,"**","real"
+"26","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",42,23,0.0155,"*",1,"ns","real"
+"27","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",22,23,0.000108,"***",0.0142,"*","real"
+"28","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",177,23,2.11e-06,"****",0.000305,"***","real"
+"29","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",6114,18,0.000889,"***",0.111,"ns","real"
+"30","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",80,18,0.866,"ns",1,"ns","real"
+"31","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",19,18,0.0127,"*",1,"ns","real"
+"32","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",46,18,0.0045,"**",0.52,"ns","real"
+"33","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",42,18,0.228,"ns",1,"ns","real"
+"34","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",22,18,0.00639,"**",0.716,"ns","real"
+"35","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",177,18,0.00204,"**",0.249,"ns","real"
+"36","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",23,18,0.359,"ns",1,"ns","real"
+"37","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",6114,5271,2.64e-15,"****",4.04e-13,"****","real"
+"38","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",80,5271,1.51e-07,"****",2.22e-05,"****","real"
+"39","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",19,5271,0.423,"ns",1,"ns","real"
+"40","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",46,5271,0.298,"ns",1,"ns","real"
+"41","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",42,5271,0.0559,"ns",1,"ns","real"
+"42","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",22,5271,0.28,"ns",1,"ns","real"
+"43","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",177,5271,0.0958,"ns",1,"ns","real"
+"44","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",23,5271,9.81e-06,"****",0.00139,"**","real"
+"45","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",18,5271,0.00708,"**",0.779,"ns","real"
+"46","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",6114,58,0.279,"ns",1,"ns","real"
+"47","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",80,58,0.000528,"***",0.0675,"ns","real"
+"48","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",19,58,0.5,"ns",1,"ns","real"
+"49","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",46,58,0.453,"ns",1,"ns","real"
+"50","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",42,58,0.136,"ns",1,"ns","real"
+"51","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",22,58,0.369,"ns",1,"ns","real"
+"52","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",177,58,0.423,"ns",1,"ns","real"
+"53","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",23,58,0.00016,"***",0.021,"*","real"
+"54","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",18,58,0.0174,"*",1,"ns","real"
+"55","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",5271,58,0.963,"ns",1,"ns","real"
+"56","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",6114,17,0.0745,"ns",1,"ns","real"
+"57","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",80,17,0.25,"ns",1,"ns","real"
+"58","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",19,17,0.16,"ns",1,"ns","real"
+"59","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",46,17,0.122,"ns",1,"ns","real"
+"60","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",42,17,0.967,"ns",1,"ns","real"
+"61","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",22,17,0.11,"ns",1,"ns","real"
+"62","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",177,17,0.105,"ns",1,"ns","real"
+"63","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",23,17,0.0455,"*",1,"ns","real"
+"64","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",18,17,0.299,"ns",1,"ns","real"
+"65","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",5271,17,0.242,"ns",1,"ns","real"
+"66","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",58,17,0.292,"ns",1,"ns","real"
+"67","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",6114,77,0.849,"ns",1,"ns","real"
+"68","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",80,77,6.77e-06,"****",0.000968,"***","real"
+"69","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",19,77,0.823,"ns",1,"ns","real"
+"70","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",46,77,0.884,"ns",1,"ns","real"
+"71","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",42,77,0.0274,"*",1,"ns","real"
+"72","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",22,77,0.667,"ns",1,"ns","real"
+"73","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",177,77,0.998,"ns",1,"ns","real"
+"74","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",23,77,9.77e-06,"****",0.00139,"**","real"
+"75","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",18,77,0.00358,"**",0.426,"ns","real"
+"76","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",5271,77,0.269,"ns",1,"ns","real"
+"77","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",58,77,0.487,"ns",1,"ns","real"
+"78","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",17,77,0.125,"ns",1,"ns","real"
+"79","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",6114,316,0.636,"ns",1,"ns","real"
+"80","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",80,316,8.7e-10,"****",1.31e-07,"****","real"
+"81","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",19,316,0.972,"ns",1,"ns","real"
+"82","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",46,316,0.889,"ns",1,"ns","real"
+"83","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",42,316,0.00404,"**",0.476,"ns","real"
+"84","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",22,316,0.804,"ns",1,"ns","real"
+"85","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",177,316,0.603,"ns",1,"ns","real"
+"86","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",23,316,3.53e-07,"****",5.12e-05,"****","real"
+"87","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",18,316,0.000808,"***",0.102,"ns","real"
+"88","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",5271,316,0.00236,"**",0.285,"ns","real"
+"89","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",58,316,0.234,"ns",1,"ns","real"
+"90","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",17,316,0.0643,"ns",1,"ns","real"
+"91","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",77,316,0.699,"ns",1,"ns","real"
+"92","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",6114,30,0.00145,"**",0.179,"ns","real"
+"93","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",80,30,0.461,"ns",1,"ns","real"
+"94","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",19,30,0.035,"*",1,"ns","real"
+"95","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",46,30,0.0122,"*",1,"ns","real"
+"96","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",42,30,0.564,"ns",1,"ns","real"
+"97","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",22,30,0.0179,"*",1,"ns","real"
+"98","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",177,30,0.00448,"**",0.52,"ns","real"
+"99","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",23,30,0.0769,"ns",1,"ns","real"
+"100","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",18,30,0.498,"ns",1,"ns","real"
+"101","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",5271,30,0.0178,"*",1,"ns","real"
+"102","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",58,30,0.0504,"ns",1,"ns","real"
+"103","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",17,30,0.622,"ns",1,"ns","real"
+"104","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",77,30,0.00916,"**",0.989,"ns","real"
+"105","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",316,30,0.00141,"**",0.175,"ns","real"
+"106","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",6114,79,0.00729,"**",0.795,"ns","real"
+"107","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",80,79,4.71e-11,"****",7.16e-09,"****","real"
+"108","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",19,79,0.294,"ns",1,"ns","real"
+"109","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",46,79,0.107,"ns",1,"ns","real"
+"110","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",42,79,8.85e-05,"****",0.0118,"*","real"
+"111","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",22,79,0.358,"ns",1,"ns","real"
+"112","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",177,79,0.0162,"*",1,"ns","real"
+"113","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",23,79,6.34e-09,"****",9.44e-07,"****","real"
+"114","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",18,79,3.09e-05,"****",0.00427,"**","real"
+"115","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",5271,79,6.55e-05,"****",0.00877,"**","real"
+"116","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",58,79,0.00981,"**",1,"ns","real"
+"117","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",17,79,0.00584,"**",0.666,"ns","real"
+"118","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",77,79,0.042,"*",1,"ns","real"
+"119","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",316,79,0.0279,"*",1,"ns","real"
+"120","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",30,79,3.58e-05,"****",0.0049,"**","real"
+"121","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",6114,12,0.722,"ns",1,"ns","real"
+"122","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",80,12,0.0394,"*",1,"ns","real"
+"123","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",19,12,0.707,"ns",1,"ns","real"
+"124","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",46,12,0.738,"ns",1,"ns","real"
+"125","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",42,12,0.296,"ns",1,"ns","real"
+"126","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",22,12,0.606,"ns",1,"ns","real"
+"127","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",177,12,0.785,"ns",1,"ns","real"
+"128","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",23,12,0.00645,"**",0.716,"ns","real"
+"129","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",18,12,0.0674,"ns",1,"ns","real"
+"130","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",5271,12,0.874,"ns",1,"ns","real"
+"131","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",58,12,0.9,"ns",1,"ns","real"
+"132","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",17,12,0.381,"ns",1,"ns","real"
+"133","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",77,12,0.794,"ns",1,"ns","real"
+"134","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",316,12,0.658,"ns",1,"ns","real"
+"135","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",30,12,0.16,"ns",1,"ns","real"
+"136","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",79,12,0.189,"ns",1,"ns","real"
+"137","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",6114,244,0.00611,"**",0.69,"ns","real"
+"138","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",80,244,1.31e-05,"****",0.00184,"**","real"
+"139","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",19,244,0.368,"ns",1,"ns","real"
+"140","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",46,244,0.252,"ns",1,"ns","real"
+"141","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",42,244,0.111,"ns",1,"ns","real"
+"142","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",22,244,0.241,"ns",1,"ns","real"
+"143","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",177,244,0.111,"ns",1,"ns","real"
+"144","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",23,244,4.18e-05,"****",0.00568,"**","real"
+"145","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",18,244,0.0132,"*",1,"ns","real"
+"146","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",5271,244,0.644,"ns",1,"ns","real"
+"147","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",58,244,0.804,"ns",1,"ns","real"
+"148","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",17,244,0.311,"ns",1,"ns","real"
+"149","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",77,244,0.229,"ns",1,"ns","real"
+"150","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",316,244,0.0155,"*",1,"ns","real"
+"151","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",30,244,0.0369,"*",1,"ns","real"
+"152","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",79,244,0.000192,"***",0.025,"*","real"
+"153","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12,244,0.797,"ns",1,"ns","real"
+"154","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+",12645,12645,0.25,"ns",1,"ns","real_conditional"
+"155","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+",12645,12645,0.00595,"**",0.881,"ns","real_conditional"
+"156","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+",12645,12645,0.11,"ns",1,"ns","real_conditional"
+"157","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+",12645,12645,0.00595,"**",0.881,"ns","real_conditional"
+"158","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+",12645,12645,0.11,"ns",1,"ns","real_conditional"
+"159","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"160","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+",12645,12645,0.0147,"*",1,"ns","real_conditional"
+"161","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+",12645,12645,0.198,"ns",1,"ns","real_conditional"
+"162","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+",12645,12645,0.755,"ns",1,"ns","real_conditional"
+"163","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+",12645,12645,0.755,"ns",1,"ns","real_conditional"
+"164","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",12645,12645,0.00595,"**",0.881,"ns","real_conditional"
+"165","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",12645,12645,0.11,"ns",1,"ns","real_conditional"
+"166","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"167","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"168","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",12645,12645,0.755,"ns",1,"ns","real_conditional"
+"169","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",12645,12645,0.0125,"*",1,"ns","real_conditional"
+"170","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",12645,12645,0.179,"ns",1,"ns","real_conditional"
+"171","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",12645,12645,0.8,"ns",1,"ns","real_conditional"
+"172","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",12645,12645,0.8,"ns",1,"ns","real_conditional"
+"173","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",12645,12645,0.954,"ns",1,"ns","real_conditional"
+"174","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",12645,12645,0.8,"ns",1,"ns","real_conditional"
+"175","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",12645,12645,0.0133,"*",1,"ns","real_conditional"
+"176","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",12645,12645,0.186,"ns",1,"ns","real_conditional"
+"177","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",12645,12645,0.783,"ns",1,"ns","real_conditional"
+"178","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",12645,12645,0.783,"ns",1,"ns","real_conditional"
+"179","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",12645,12645,0.971,"ns",1,"ns","real_conditional"
+"180","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",12645,12645,0.783,"ns",1,"ns","real_conditional"
+"181","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",12645,12645,0.982,"ns",1,"ns","real_conditional"
+"182","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12645,12645,0.0133,"*",1,"ns","real_conditional"
+"183","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12645,12645,0.186,"ns",1,"ns","real_conditional"
+"184","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12645,12645,0.783,"ns",1,"ns","real_conditional"
+"185","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12645,12645,0.783,"ns",1,"ns","real_conditional"
+"186","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12645,12645,0.971,"ns",1,"ns","real_conditional"
+"187","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12645,12645,0.783,"ns",1,"ns","real_conditional"
+"188","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12645,12645,0.982,"ns",1,"ns","real_conditional"
+"189","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"190","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12645,12645,0.00149,"**",0.224,"ns","real_conditional"
+"191","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12645,12645,0.0429,"*",1,"ns","real_conditional"
+"192","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12645,12645,0.67,"ns",1,"ns","real_conditional"
+"193","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12645,12645,0.67,"ns",1,"ns","real_conditional"
+"194","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12645,12645,0.461,"ns",1,"ns","real_conditional"
+"195","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12645,12645,0.67,"ns",1,"ns","real_conditional"
+"196","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12645,12645,0.497,"ns",1,"ns","real_conditional"
+"197","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12645,12645,0.483,"ns",1,"ns","real_conditional"
+"198","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12645,12645,0.483,"ns",1,"ns","real_conditional"
+"199","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12645,12645,0.00375,"**",0.558,"ns","real_conditional"
+"200","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12645,12645,0.0806,"ns",1,"ns","real_conditional"
+"201","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12645,12645,0.882,"ns",1,"ns","real_conditional"
+"202","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12645,12645,0.882,"ns",1,"ns","real_conditional"
+"203","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12645,12645,0.645,"ns",1,"ns","real_conditional"
+"204","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12645,12645,0.882,"ns",1,"ns","real_conditional"
+"205","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12645,12645,0.687,"ns",1,"ns","real_conditional"
+"206","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12645,12645,0.671,"ns",1,"ns","real_conditional"
+"207","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12645,12645,0.671,"ns",1,"ns","real_conditional"
+"208","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12645,12645,0.781,"ns",1,"ns","real_conditional"
+"209","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12645,12645,0.0081,"**",1,"ns","real_conditional"
+"210","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12645,12645,0.135,"ns",1,"ns","real_conditional"
+"211","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12645,12645,0.918,"ns",1,"ns","real_conditional"
+"212","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12645,12645,0.918,"ns",1,"ns","real_conditional"
+"213","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12645,12645,0.834,"ns",1,"ns","real_conditional"
+"214","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12645,12645,0.918,"ns",1,"ns","real_conditional"
+"215","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12645,12645,0.88,"ns",1,"ns","real_conditional"
+"216","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12645,12645,0.862,"ns",1,"ns","real_conditional"
+"217","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12645,12645,0.862,"ns",1,"ns","real_conditional"
+"218","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12645,12645,0.597,"ns",1,"ns","real_conditional"
+"219","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12645,12645,0.802,"ns",1,"ns","real_conditional"
+"220","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12645,12645,0.0081,"**",1,"ns","real_conditional"
+"221","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12645,12645,0.135,"ns",1,"ns","real_conditional"
+"222","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12645,12645,0.918,"ns",1,"ns","real_conditional"
+"223","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12645,12645,0.918,"ns",1,"ns","real_conditional"
+"224","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12645,12645,0.834,"ns",1,"ns","real_conditional"
+"225","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12645,12645,0.918,"ns",1,"ns","real_conditional"
+"226","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12645,12645,0.88,"ns",1,"ns","real_conditional"
+"227","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12645,12645,0.862,"ns",1,"ns","real_conditional"
+"228","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12645,12645,0.862,"ns",1,"ns","real_conditional"
+"229","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12645,12645,0.597,"ns",1,"ns","real_conditional"
+"230","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12645,12645,0.802,"ns",1,"ns","real_conditional"
+"231","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"232","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12645,12645,0.00632,"**",0.917,"ns","real_conditional"
+"233","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12645,12645,0.114,"ns",1,"ns","real_conditional"
+"234","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12645,12645,0.984,"ns",1,"ns","real_conditional"
+"235","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12645,12645,0.984,"ns",1,"ns","real_conditional"
+"236","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12645,12645,0.77,"ns",1,"ns","real_conditional"
+"237","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12645,12645,0.984,"ns",1,"ns","real_conditional"
+"238","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12645,12645,0.815,"ns",1,"ns","real_conditional"
+"239","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12645,12645,0.798,"ns",1,"ns","real_conditional"
+"240","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12645,12645,0.798,"ns",1,"ns","real_conditional"
+"241","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12645,12645,0.656,"ns",1,"ns","real_conditional"
+"242","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12645,12645,0.866,"ns",1,"ns","real_conditional"
+"243","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12645,12645,0.934,"ns",1,"ns","real_conditional"
+"244","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12645,12645,0.934,"ns",1,"ns","real_conditional"
+"245","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12645,12645,0.00932,"**",1,"ns","real_conditional"
+"246","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12645,12645,0.147,"ns",1,"ns","real_conditional"
+"247","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12645,12645,0.881,"ns",1,"ns","real_conditional"
+"248","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12645,12645,0.881,"ns",1,"ns","real_conditional"
+"249","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12645,12645,0.872,"ns",1,"ns","real_conditional"
+"250","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12645,12645,0.881,"ns",1,"ns","real_conditional"
+"251","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12645,12645,0.918,"ns",1,"ns","real_conditional"
+"252","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12645,12645,0.9,"ns",1,"ns","real_conditional"
+"253","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12645,12645,0.9,"ns",1,"ns","real_conditional"
+"254","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12645,12645,0.564,"ns",1,"ns","real_conditional"
+"255","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12645,12645,0.765,"ns",1,"ns","real_conditional"
+"256","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12645,12645,0.962,"ns",1,"ns","real_conditional"
+"257","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12645,12645,0.962,"ns",1,"ns","real_conditional"
+"258","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12645,12645,0.896,"ns",1,"ns","real_conditional"
+"259","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12645,12645,0.000141,"***",0.0215,"*","real_conditional"
+"260","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12645,12645,0.00793,"**",1,"ns","real_conditional"
+"261","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12645,12645,0.291,"ns",1,"ns","real_conditional"
+"262","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12645,12645,0.291,"ns",1,"ns","real_conditional"
+"263","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12645,12645,0.171,"ns",1,"ns","real_conditional"
+"264","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12645,12645,0.291,"ns",1,"ns","real_conditional"
+"265","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12645,12645,0.19,"ns",1,"ns","real_conditional"
+"266","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12645,12645,0.183,"ns",1,"ns","real_conditional"
+"267","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12645,12645,0.183,"ns",1,"ns","real_conditional"
+"268","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12645,12645,0.529,"ns",1,"ns","real_conditional"
+"269","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12645,12645,0.364,"ns",1,"ns","real_conditional"
+"270","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12645,12645,0.246,"ns",1,"ns","real_conditional"
+"271","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12645,12645,0.246,"ns",1,"ns","real_conditional"
+"272","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12645,12645,0.282,"ns",1,"ns","real_conditional"
+"273","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12645,12645,0.228,"ns",1,"ns","real_conditional"
+"274","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12645,12645,0.000141,"***",0.0215,"*","real_conditional"
+"275","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12645,12645,0.00793,"**",1,"ns","real_conditional"
+"276","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12645,12645,0.291,"ns",1,"ns","real_conditional"
+"277","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12645,12645,0.291,"ns",1,"ns","real_conditional"
+"278","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12645,12645,0.171,"ns",1,"ns","real_conditional"
+"279","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12645,12645,0.291,"ns",1,"ns","real_conditional"
+"280","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12645,12645,0.19,"ns",1,"ns","real_conditional"
+"281","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12645,12645,0.183,"ns",1,"ns","real_conditional"
+"282","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12645,12645,0.183,"ns",1,"ns","real_conditional"
+"283","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12645,12645,0.529,"ns",1,"ns","real_conditional"
+"284","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12645,12645,0.364,"ns",1,"ns","real_conditional"
+"285","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12645,12645,0.246,"ns",1,"ns","real_conditional"
+"286","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12645,12645,0.246,"ns",1,"ns","real_conditional"
+"287","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12645,12645,0.282,"ns",1,"ns","real_conditional"
+"288","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12645,12645,0.228,"ns",1,"ns","real_conditional"
+"289","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"290","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,0.000141,"***",0.0215,"*","real_conditional"
+"291","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,0.00793,"**",1,"ns","real_conditional"
+"292","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,0.291,"ns",1,"ns","real_conditional"
+"293","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,0.291,"ns",1,"ns","real_conditional"
+"294","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,0.171,"ns",1,"ns","real_conditional"
+"295","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,0.291,"ns",1,"ns","real_conditional"
+"296","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,0.19,"ns",1,"ns","real_conditional"
+"297","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,0.183,"ns",1,"ns","real_conditional"
+"298","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,0.183,"ns",1,"ns","real_conditional"
+"299","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,0.529,"ns",1,"ns","real_conditional"
+"300","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,0.364,"ns",1,"ns","real_conditional"
+"301","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,0.246,"ns",1,"ns","real_conditional"
+"302","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,0.246,"ns",1,"ns","real_conditional"
+"303","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,0.282,"ns",1,"ns","real_conditional"
+"304","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,0.228,"ns",1,"ns","real_conditional"
+"305","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"306","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"307","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+",5438,79,0.258,"ns",1,"ns","synth"
+"308","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+",5438,12,0.408,"ns",1,"ns","synth"
+"309","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+",79,12,0.236,"ns",1,"ns","synth"
+"310","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+",5438,36,0.353,"ns",1,"ns","synth"
+"311","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+",79,36,0.159,"ns",1,"ns","synth"
+"312","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+",12,36,0.802,"ns",1,"ns","synth"
+"313","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+",5438,46,0.599,"ns",1,"ns","synth"
+"314","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+",79,46,0.786,"ns",1,"ns","synth"
+"315","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+",12,46,0.328,"ns",1,"ns","synth"
+"316","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+",36,46,0.295,"ns",1,"ns","synth"
+"317","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",5438,20,0.584,"ns",1,"ns","synth"
+"318","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",79,20,0.317,"ns",1,"ns","synth"
+"319","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",12,20,0.75,"ns",1,"ns","synth"
+"320","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",36,20,0.906,"ns",1,"ns","synth"
+"321","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",46,20,0.454,"ns",1,"ns","synth"
+"322","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",5438,170,0.731,"ns",1,"ns","synth"
+"323","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",79,170,0.457,"ns",1,"ns","synth"
+"324","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",12,170,0.374,"ns",1,"ns","synth"
+"325","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",36,170,0.321,"ns",1,"ns","synth"
+"326","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",46,170,0.759,"ns",1,"ns","synth"
+"327","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",20,170,0.528,"ns",1,"ns","synth"
+"328","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",5438,15,0.787,"ns",1,"ns","synth"
+"329","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",79,15,0.836,"ns",1,"ns","synth"
+"330","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",12,15,0.425,"ns",1,"ns","synth"
+"331","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",36,15,0.464,"ns",1,"ns","synth"
+"332","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",46,15,0.979,"ns",1,"ns","synth"
+"333","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",20,15,0.573,"ns",1,"ns","synth"
+"334","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",170,15,0.873,"ns",1,"ns","synth"
+"335","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",5438,11,0.517,"ns",1,"ns","synth"
+"336","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",79,11,0.834,"ns",1,"ns","synth"
+"337","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12,11,0.298,"ns",1,"ns","synth"
+"338","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",36,11,0.308,"ns",1,"ns","synth"
+"339","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",46,11,0.726,"ns",1,"ns","synth"
+"340","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",20,11,0.397,"ns",1,"ns","synth"
+"341","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",170,11,0.587,"ns",1,"ns","synth"
+"342","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",15,11,0.751,"ns",1,"ns","synth"
+"343","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",5438,6065,0.00016,"***",0.0245,"*","synth"
+"344","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",79,6065,0.0794,"ns",1,"ns","synth"
+"345","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12,6065,0.56,"ns",1,"ns","synth"
+"346","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",36,6065,0.612,"ns",1,"ns","synth"
+"347","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",46,6065,0.316,"ns",1,"ns","synth"
+"348","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",20,6065,0.816,"ns",1,"ns","synth"
+"349","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",170,6065,0.211,"ns",1,"ns","synth"
+"350","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",15,6065,0.587,"ns",1,"ns","synth"
+"351","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",11,6065,0.378,"ns",1,"ns","synth"
+"352","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",5438,53,0.94,"ns",1,"ns","synth"
+"353","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",79,53,0.436,"ns",1,"ns","synth"
+"354","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12,53,0.474,"ns",1,"ns","synth"
+"355","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",36,53,0.502,"ns",1,"ns","synth"
+"356","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",46,53,0.662,"ns",1,"ns","synth"
+"357","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",20,53,0.669,"ns",1,"ns","synth"
+"358","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",170,53,0.814,"ns",1,"ns","synth"
+"359","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",15,53,0.784,"ns",1,"ns","synth"
+"360","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",11,53,0.534,"ns",1,"ns","synth"
+"361","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",6065,53,0.663,"ns",1,"ns","synth"
+"362","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",5438,11,0.256,"ns",1,"ns","synth"
+"363","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",79,11,0.505,"ns",1,"ns","synth"
+"364","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12,11,0.163,"ns",1,"ns","synth"
+"365","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",36,11,0.148,"ns",1,"ns","synth"
+"366","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",46,11,0.43,"ns",1,"ns","synth"
+"367","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",20,11,0.215,"ns",1,"ns","synth"
+"368","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",170,11,0.31,"ns",1,"ns","synth"
+"369","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",15,11,0.492,"ns",1,"ns","synth"
+"370","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",11,11,0.73,"ns",1,"ns","synth"
+"371","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",6065,11,0.171,"ns",1,"ns","synth"
+"372","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",53,11,0.287,"ns",1,"ns","synth"
+"373","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",5438,64,0.653,"ns",1,"ns","synth"
+"374","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",79,64,0.272,"ns",1,"ns","synth"
+"375","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12,64,0.562,"ns",1,"ns","synth"
+"376","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",36,64,0.635,"ns",1,"ns","synth"
+"377","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",46,64,0.487,"ns",1,"ns","synth"
+"378","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",20,64,0.797,"ns",1,"ns","synth"
+"379","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",170,64,0.57,"ns",1,"ns","synth"
+"380","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",15,64,0.659,"ns",1,"ns","synth"
+"381","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",11,64,0.44,"ns",1,"ns","synth"
+"382","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",6065,64,0.911,"ns",1,"ns","synth"
+"383","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",53,64,0.803,"ns",1,"ns","synth"
+"384","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",11,64,0.221,"ns",1,"ns","synth"
+"385","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",5438,280,0.344,"ns",1,"ns","synth"
+"386","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",79,280,0.144,"ns",1,"ns","synth"
+"387","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12,280,0.539,"ns",1,"ns","synth"
+"388","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",36,280,0.582,"ns",1,"ns","synth"
+"389","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",46,280,0.393,"ns",1,"ns","synth"
+"390","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",20,280,0.78,"ns",1,"ns","synth"
+"391","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",170,280,0.384,"ns",1,"ns","synth"
+"392","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",15,280,0.63,"ns",1,"ns","synth"
+"393","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",11,280,0.409,"ns",1,"ns","synth"
+"394","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",6065,280,0.837,"ns",1,"ns","synth"
+"395","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",53,280,0.751,"ns",1,"ns","synth"
+"396","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",11,280,0.192,"ns",1,"ns","synth"
+"397","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",64,280,0.992,"ns",1,"ns","synth"
+"398","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",5438,27,0.651,"ns",1,"ns","synth"
+"399","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",79,27,0.334,"ns",1,"ns","synth"
+"400","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12,27,0.662,"ns",1,"ns","synth"
+"401","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",36,27,0.789,"ns",1,"ns","synth"
+"402","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",46,27,0.496,"ns",1,"ns","synth"
+"403","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",20,27,0.905,"ns",1,"ns","synth"
+"404","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",170,27,0.582,"ns",1,"ns","synth"
+"405","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",15,27,0.626,"ns",1,"ns","synth"
+"406","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",11,27,0.429,"ns",1,"ns","synth"
+"407","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",6065,27,0.931,"ns",1,"ns","synth"
+"408","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",53,27,0.745,"ns",1,"ns","synth"
+"409","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",11,27,0.229,"ns",1,"ns","synth"
+"410","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",64,27,0.893,"ns",1,"ns","synth"
+"411","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",280,27,0.884,"ns",1,"ns","synth"
+"412","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",5438,67,0.23,"ns",1,"ns","synth"
+"413","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",79,67,0.0968,"ns",1,"ns","synth"
+"414","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12,67,0.771,"ns",1,"ns","synth"
+"415","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",36,67,0.97,"ns",1,"ns","synth"
+"416","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",46,67,0.239,"ns",1,"ns","synth"
+"417","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",20,67,0.921,"ns",1,"ns","synth"
+"418","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",170,67,0.227,"ns",1,"ns","synth"
+"419","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",15,67,0.446,"ns",1,"ns","synth"
+"420","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",11,67,0.291,"ns",1,"ns","synth"
+"421","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",6065,67,0.53,"ns",1,"ns","synth"
+"422","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",53,67,0.455,"ns",1,"ns","synth"
+"423","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",11,67,0.132,"ns",1,"ns","synth"
+"424","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",64,67,0.602,"ns",1,"ns","synth"
+"425","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",280,67,0.509,"ns",1,"ns","synth"
+"426","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",27,67,0.791,"ns",1,"ns","synth"
+"427","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",5438,7,0.971,"ns",1,"ns","synth"
+"428","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",79,7,0.772,"ns",1,"ns","synth"
+"429","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12,7,0.595,"ns",1,"ns","synth"
+"430","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",36,7,0.682,"ns",1,"ns","synth"
+"431","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",46,7,0.875,"ns",1,"ns","synth"
+"432","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",20,7,0.756,"ns",1,"ns","synth"
+"433","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",170,7,0.973,"ns",1,"ns","synth"
+"434","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",15,7,0.903,"ns",1,"ns","synth"
+"435","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",11,7,0.707,"ns",1,"ns","synth"
+"436","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",6065,7,0.823,"ns",1,"ns","synth"
+"437","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",53,7,0.952,"ns",1,"ns","synth"
+"438","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",11,7,0.496,"ns",1,"ns","synth"
+"439","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",64,7,0.86,"ns",1,"ns","synth"
+"440","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",280,7,0.851,"ns",1,"ns","synth"
+"441","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",27,7,0.811,"ns",1,"ns","synth"
+"442","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",67,7,0.684,"ns",1,"ns","synth"
+"443","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",5438,244,0.481,"ns",1,"ns","synth"
+"444","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",79,244,0.178,"ns",1,"ns","synth"
+"445","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12,244,0.514,"ns",1,"ns","synth"
+"446","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",36,244,0.541,"ns",1,"ns","synth"
+"447","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",46,244,0.441,"ns",1,"ns","synth"
+"448","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",20,244,0.742,"ns",1,"ns","synth"
+"449","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",170,244,0.466,"ns",1,"ns","synth"
+"450","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",15,244,0.663,"ns",1,"ns","synth"
+"451","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",11,244,0.433,"ns",1,"ns","synth"
+"452","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",6065,244,0.708,"ns",1,"ns","synth"
+"453","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",53,244,0.813,"ns",1,"ns","synth"
+"454","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",11,244,0.207,"ns",1,"ns","synth"
+"455","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",64,244,0.941,"ns",1,"ns","synth"
+"456","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",280,244,0.892,"ns",1,"ns","synth"
+"457","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",27,244,0.839,"ns",1,"ns","synth"
+"458","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",67,244,0.461,"ns",1,"ns","synth"
+"459","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",7,244,0.876,"ns",1,"ns","synth"
+"460","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+",12508,12508,0.0957,"ns",1,"ns","synth_conditional"
+"461","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+",12508,12508,1.03e-05,"****",0.0015,"**","synth_conditional"
+"462","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+",12508,12508,0.00605,"**",0.786,"ns","synth_conditional"
+"463","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+",12508,12508,1.03e-05,"****",0.0015,"**","synth_conditional"
+"464","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+",12508,12508,0.00605,"**",0.786,"ns","synth_conditional"
+"465","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"466","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+",12508,12508,3.78e-05,"****",0.00533,"**","synth_conditional"
+"467","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+",12508,12508,0.0141,"*",1,"ns","synth_conditional"
+"468","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+",12508,12508,0.772,"ns",1,"ns","synth_conditional"
+"469","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+",12508,12508,0.772,"ns",1,"ns","synth_conditional"
+"470","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",12508,12508,1.03e-05,"****",0.0015,"**","synth_conditional"
+"471","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",12508,12508,0.00605,"**",0.786,"ns","synth_conditional"
+"472","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"473","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"474","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+",12508,12508,0.772,"ns",1,"ns","synth_conditional"
+"475","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",12508,12508,4.1e-05,"****",0.00574,"**","synth_conditional"
+"476","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",12508,12508,0.0148,"*",1,"ns","synth_conditional"
+"477","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",12508,12508,0.757,"ns",1,"ns","synth_conditional"
+"478","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",12508,12508,0.757,"ns",1,"ns","synth_conditional"
+"479","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",12508,12508,0.985,"ns",1,"ns","synth_conditional"
+"480","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+",12508,12508,0.757,"ns",1,"ns","synth_conditional"
+"481","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",12508,12508,4.44e-05,"****",0.00617,"**","synth_conditional"
+"482","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",12508,12508,0.0156,"*",1,"ns","synth_conditional"
+"483","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",12508,12508,0.743,"ns",1,"ns","synth_conditional"
+"484","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",12508,12508,0.743,"ns",1,"ns","synth_conditional"
+"485","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",12508,12508,0.97,"ns",1,"ns","synth_conditional"
+"486","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",12508,12508,0.743,"ns",1,"ns","synth_conditional"
+"487","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+",12508,12508,0.985,"ns",1,"ns","synth_conditional"
+"488","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12508,12508,4.44e-05,"****",0.00617,"**","synth_conditional"
+"489","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12508,12508,0.0156,"*",1,"ns","synth_conditional"
+"490","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12508,12508,0.743,"ns",1,"ns","synth_conditional"
+"491","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12508,12508,0.743,"ns",1,"ns","synth_conditional"
+"492","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12508,12508,0.97,"ns",1,"ns","synth_conditional"
+"493","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12508,12508,0.743,"ns",1,"ns","synth_conditional"
+"494","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12508,12508,0.985,"ns",1,"ns","synth_conditional"
+"495","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"496","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12508,12508,1.56e-07,"****",2.33e-05,"****","synth_conditional"
+"497","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12508,12508,0.000344,"***",0.046,"*","synth_conditional"
+"498","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12508,12508,0.404,"ns",1,"ns","synth_conditional"
+"499","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12508,12508,0.404,"ns",1,"ns","synth_conditional"
+"500","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12508,12508,0.26,"ns",1,"ns","synth_conditional"
+"501","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12508,12508,0.404,"ns",1,"ns","synth_conditional"
+"502","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12508,12508,0.253,"ns",1,"ns","synth_conditional"
+"503","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12508,12508,0.245,"ns",1,"ns","synth_conditional"
+"504","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+",12508,12508,0.245,"ns",1,"ns","synth_conditional"
+"505","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12508,12508,1.58e-06,"****",0.000235,"***","synth_conditional"
+"506","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12508,12508,0.00172,"**",0.228,"ns","synth_conditional"
+"507","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12508,12508,0.696,"ns",1,"ns","synth_conditional"
+"508","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12508,12508,0.696,"ns",1,"ns","synth_conditional"
+"509","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12508,12508,0.496,"ns",1,"ns","synth_conditional"
+"510","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12508,12508,0.696,"ns",1,"ns","synth_conditional"
+"511","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12508,12508,0.484,"ns",1,"ns","synth_conditional"
+"512","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12508,12508,0.473,"ns",1,"ns","synth_conditional"
+"513","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12508,12508,0.473,"ns",1,"ns","synth_conditional"
+"514","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+",12508,12508,0.657,"ns",1,"ns","synth_conditional"
+"515","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12508,12508,2.45e-06,"****",0.000363,"***","synth_conditional"
+"516","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12508,12508,0.00232,"**",0.306,"ns","synth_conditional"
+"517","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12508,12508,0.763,"ns",1,"ns","synth_conditional"
+"518","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12508,12508,0.763,"ns",1,"ns","synth_conditional"
+"519","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12508,12508,0.554,"ns",1,"ns","synth_conditional"
+"520","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12508,12508,0.763,"ns",1,"ns","synth_conditional"
+"521","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12508,12508,0.542,"ns",1,"ns","synth_conditional"
+"522","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12508,12508,0.529,"ns",1,"ns","synth_conditional"
+"523","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12508,12508,0.529,"ns",1,"ns","synth_conditional"
+"524","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12508,12508,0.594,"ns",1,"ns","synth_conditional"
+"525","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+",12508,12508,0.929,"ns",1,"ns","synth_conditional"
+"526","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12508,12508,2.45e-06,"****",0.000363,"***","synth_conditional"
+"527","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12508,12508,0.00232,"**",0.306,"ns","synth_conditional"
+"528","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12508,12508,0.763,"ns",1,"ns","synth_conditional"
+"529","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12508,12508,0.763,"ns",1,"ns","synth_conditional"
+"530","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12508,12508,0.554,"ns",1,"ns","synth_conditional"
+"531","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12508,12508,0.763,"ns",1,"ns","synth_conditional"
+"532","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12508,12508,0.542,"ns",1,"ns","synth_conditional"
+"533","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12508,12508,0.529,"ns",1,"ns","synth_conditional"
+"534","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12508,12508,0.529,"ns",1,"ns","synth_conditional"
+"535","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12508,12508,0.594,"ns",1,"ns","synth_conditional"
+"536","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12508,12508,0.929,"ns",1,"ns","synth_conditional"
+"537","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"538","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12508,12508,2.39e-05,"****",0.00342,"**","synth_conditional"
+"539","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12508,12508,0.0105,"*",1,"ns","synth_conditional"
+"540","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12508,12508,0.852,"ns",1,"ns","synth_conditional"
+"541","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12508,12508,0.852,"ns",1,"ns","synth_conditional"
+"542","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12508,12508,0.917,"ns",1,"ns","synth_conditional"
+"543","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12508,12508,0.852,"ns",1,"ns","synth_conditional"
+"544","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12508,12508,0.902,"ns",1,"ns","synth_conditional"
+"545","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12508,12508,0.888,"ns",1,"ns","synth_conditional"
+"546","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12508,12508,0.888,"ns",1,"ns","synth_conditional"
+"547","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12508,12508,0.307,"ns",1,"ns","synth_conditional"
+"548","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12508,12508,0.564,"ns",1,"ns","synth_conditional"
+"549","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12508,12508,0.626,"ns",1,"ns","synth_conditional"
+"550","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+",12508,12508,0.626,"ns",1,"ns","synth_conditional"
+"551","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12508,12508,3.43e-05,"****",0.00486,"**","synth_conditional"
+"552","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12508,12508,0.0132,"*",1,"ns","synth_conditional"
+"553","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12508,12508,0.789,"ns",1,"ns","synth_conditional"
+"554","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12508,12508,0.789,"ns",1,"ns","synth_conditional"
+"555","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12508,12508,0.982,"ns",1,"ns","synth_conditional"
+"556","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12508,12508,0.789,"ns",1,"ns","synth_conditional"
+"557","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12508,12508,0.967,"ns",1,"ns","synth_conditional"
+"558","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12508,12508,0.952,"ns",1,"ns","synth_conditional"
+"559","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12508,12508,0.952,"ns",1,"ns","synth_conditional"
+"560","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12508,12508,0.27,"ns",1,"ns","synth_conditional"
+"561","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12508,12508,0.51,"ns",1,"ns","synth_conditional"
+"562","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12508,12508,0.569,"ns",1,"ns","synth_conditional"
+"563","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12508,12508,0.569,"ns",1,"ns","synth_conditional"
+"564","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+",12508,12508,0.935,"ns",1,"ns","synth_conditional"
+"565","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12508,12508,1.69e-08,"****",2.59e-06,"****","synth_conditional"
+"566","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12508,12508,7.04e-05,"****",0.00964,"**","synth_conditional"
+"567","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12508,12508,0.219,"ns",1,"ns","synth_conditional"
+"568","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12508,12508,0.219,"ns",1,"ns","synth_conditional"
+"569","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12508,12508,0.128,"ns",1,"ns","synth_conditional"
+"570","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12508,12508,0.219,"ns",1,"ns","synth_conditional"
+"571","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12508,12508,0.124,"ns",1,"ns","synth_conditional"
+"572","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12508,12508,0.119,"ns",1,"ns","synth_conditional"
+"573","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12508,12508,0.119,"ns",1,"ns","synth_conditional"
+"574","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12508,12508,0.693,"ns",1,"ns","synth_conditional"
+"575","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12508,12508,0.401,"ns",1,"ns","synth_conditional"
+"576","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12508,12508,0.353,"ns",1,"ns","synth_conditional"
+"577","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12508,12508,0.353,"ns",1,"ns","synth_conditional"
+"578","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12508,12508,0.157,"ns",1,"ns","synth_conditional"
+"579","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+",12508,12508,0.134,"ns",1,"ns","synth_conditional"
+"580","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12508,12508,1.69e-08,"****",2.59e-06,"****","synth_conditional"
+"581","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12508,12508,7.04e-05,"****",0.00964,"**","synth_conditional"
+"582","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12508,12508,0.219,"ns",1,"ns","synth_conditional"
+"583","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12508,12508,0.219,"ns",1,"ns","synth_conditional"
+"584","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12508,12508,0.128,"ns",1,"ns","synth_conditional"
+"585","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12508,12508,0.219,"ns",1,"ns","synth_conditional"
+"586","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12508,12508,0.124,"ns",1,"ns","synth_conditional"
+"587","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12508,12508,0.119,"ns",1,"ns","synth_conditional"
+"588","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12508,12508,0.119,"ns",1,"ns","synth_conditional"
+"589","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12508,12508,0.693,"ns",1,"ns","synth_conditional"
+"590","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12508,12508,0.401,"ns",1,"ns","synth_conditional"
+"591","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12508,12508,0.353,"ns",1,"ns","synth_conditional"
+"592","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12508,12508,0.353,"ns",1,"ns","synth_conditional"
+"593","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12508,12508,0.157,"ns",1,"ns","synth_conditional"
+"594","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12508,12508,0.134,"ns",1,"ns","synth_conditional"
+"595","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"596","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,1.69e-08,"****",2.59e-06,"****","synth_conditional"
+"597","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 1
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,7.04e-05,"****",0.00964,"**","synth_conditional"
+"598","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 14
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,0.219,"ns",1,"ns","synth_conditional"
+"599","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 19
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,0.219,"ns",1,"ns","synth_conditional"
+"600","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 2
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,0.128,"ns",1,"ns","synth_conditional"
+"601","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 25
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,0.219,"ns",1,"ns","synth_conditional"
+"602","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 3
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,0.124,"ns",1,"ns","synth_conditional"
+"603","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,0.119,"ns",1,"ns","synth_conditional"
+"604","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 5
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,0.119,"ns",1,"ns","synth_conditional"
+"605","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 57
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,0.693,"ns",1,"ns","synth_conditional"
+"606","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 59
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,0.401,"ns",1,"ns","synth_conditional"
+"607","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 61
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,0.353,"ns",1,"ns","synth_conditional"
+"608","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 70
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,0.353,"ns",1,"ns","synth_conditional"
+"609","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 73
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,0.157,"ns",1,"ns","synth_conditional"
+"610","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 9
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,0.134,"ns",1,"ns","synth_conditional"
+"611","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 95
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"612","Ja","IV: 
+persoonlijke_eigenschappen_spreektaal: 96
+","IV: 
+persoonlijke_eigenschappen_spreektaal: 99
+",12508,12508,1,"ns",1,"ns","synth_conditional"

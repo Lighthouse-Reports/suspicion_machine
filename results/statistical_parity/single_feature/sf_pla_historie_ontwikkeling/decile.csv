@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+pla_historie_ontwikkeling: 0
+",304,5.37767557049354,"real"
+"2",1,"IV: 
+pla_historie_ontwikkeling: 1
+",961,13.7442791762014,"real"
+"3",2,"IV: 
+pla_historie_ontwikkeling: 0
+",419,7.41199363169998,"real"
+"4",2,"IV: 
+pla_historie_ontwikkeling: 1
+",846,12.0995423340961,"real"
+"5",3,"IV: 
+pla_historie_ontwikkeling: 0
+",453,8.01344418892623,"real"
+"6",3,"IV: 
+pla_historie_ontwikkeling: 1
+",812,11.6132723112128,"real"
+"7",4,"IV: 
+pla_historie_ontwikkeling: 0
+",428,7.57120113214223,"real"
+"8",4,"IV: 
+pla_historie_ontwikkeling: 1
+",837,11.970823798627,"real"
+"9",5,"IV: 
+pla_historie_ontwikkeling: 0
+",482,8.52644613479568,"real"
+"10",5,"IV: 
+pla_historie_ontwikkeling: 1
+",783,11.1985125858124,"real"
+"11",6,"IV: 
+pla_historie_ontwikkeling: 0
+",532,9.4109322483637,"real"
+"12",6,"IV: 
+pla_historie_ontwikkeling: 1
+",732,10.4691075514874,"real"
+"13",7,"IV: 
+pla_historie_ontwikkeling: 0
+",547,9.67627808243411,"real"
+"14",7,"IV: 
+pla_historie_ontwikkeling: 1
+",717,10.2545766590389,"real"
+"15",8,"IV: 
+pla_historie_ontwikkeling: 0
+",638,11.2860428091279,"real"
+"16",8,"IV: 
+pla_historie_ontwikkeling: 1
+",626,8.95308924485126,"real"
+"17",9,"IV: 
+pla_historie_ontwikkeling: 0
+",799,14.1340880948169,"real"
+"18",9,"IV: 
+pla_historie_ontwikkeling: 1
+",465,6.65045766590389,"real"
+"19",10,"IV: 
+pla_historie_ontwikkeling: 0
+",1051,18.5918981071997,"real"
+"20",10,"IV: 
+pla_historie_ontwikkeling: 1
+",213,3.04633867276888,"real"
+"21",1,"IV: 
+pla_historie_ontwikkeling: 0
+",1124,8.88888888888889,"real_conditional"
+"22",1,"IV: 
+pla_historie_ontwikkeling: 1
+",1405,11.1111111111111,"real_conditional"
+"23",2,"IV: 
+pla_historie_ontwikkeling: 0
+",1147,9.0707789640174,"real_conditional"
+"24",2,"IV: 
+pla_historie_ontwikkeling: 1
+",1382,10.9292210359826,"real_conditional"
+"25",3,"IV: 
+pla_historie_ontwikkeling: 0
+",1176,9.30011862396204,"real_conditional"
+"26",3,"IV: 
+pla_historie_ontwikkeling: 1
+",1353,10.699881376038,"real_conditional"
+"27",4,"IV: 
+pla_historie_ontwikkeling: 0
+",1183,9.3554764729142,"real_conditional"
+"28",4,"IV: 
+pla_historie_ontwikkeling: 1
+",1346,10.6445235270858,"real_conditional"
+"29",5,"IV: 
+pla_historie_ontwikkeling: 0
+",1196,9.45828390668248,"real_conditional"
+"30",5,"IV: 
+pla_historie_ontwikkeling: 1
+",1333,10.5417160933175,"real_conditional"
+"31",6,"IV: 
+pla_historie_ontwikkeling: 0
+",1269,10.0355871886121,"real_conditional"
+"32",6,"IV: 
+pla_historie_ontwikkeling: 1
+",1260,9.9644128113879,"real_conditional"
+"33",7,"IV: 
+pla_historie_ontwikkeling: 0
+",1245,9.84578884934757,"real_conditional"
+"34",7,"IV: 
+pla_historie_ontwikkeling: 1
+",1284,10.1542111506524,"real_conditional"
+"35",8,"IV: 
+pla_historie_ontwikkeling: 0
+",1328,10.5021747726374,"real_conditional"
+"36",8,"IV: 
+pla_historie_ontwikkeling: 1
+",1201,9.49782522736259,"real_conditional"
+"37",9,"IV: 
+pla_historie_ontwikkeling: 0
+",1414,11.1822854883353,"real_conditional"
+"38",9,"IV: 
+pla_historie_ontwikkeling: 1
+",1115,8.81771451166469,"real_conditional"
+"39",10,"IV: 
+pla_historie_ontwikkeling: 0
+",1563,12.3606168446026,"real_conditional"
+"40",10,"IV: 
+pla_historie_ontwikkeling: 1
+",966,7.63938315539739,"real_conditional"
+"41",1,"IV: 
+pla_historie_ontwikkeling: 0
+",279,5.71370059389719,"synth"
+"42",1,"IV: 
+pla_historie_ontwikkeling: 1
+",986,12.7029116207163,"synth"
+"43",2,"IV: 
+pla_historie_ontwikkeling: 0
+",317,6.49191071062871,"synth"
+"44",2,"IV: 
+pla_historie_ontwikkeling: 1
+",948,12.213347075496,"synth"
+"45",3,"IV: 
+pla_historie_ontwikkeling: 0
+",327,6.69670284661069,"synth"
+"46",3,"IV: 
+pla_historie_ontwikkeling: 1
+",938,12.084514300438,"synth"
+"47",4,"IV: 
+pla_historie_ontwikkeling: 0
+",405,8.29408150727012,"synth"
+"48",4,"IV: 
+pla_historie_ontwikkeling: 1
+",860,11.0796186549858,"synth"
+"49",5,"IV: 
+pla_historie_ontwikkeling: 0
+",413,8.4579152160557,"synth"
+"50",5,"IV: 
+pla_historie_ontwikkeling: 1
+",852,10.9765524349394,"synth"
+"51",6,"IV: 
+pla_historie_ontwikkeling: 0
+",460,9.420438255171,"synth"
+"52",6,"IV: 
+pla_historie_ontwikkeling: 1
+",804,10.3581551146612,"synth"
+"53",7,"IV: 
+pla_historie_ontwikkeling: 0
+",505,10.3420028670899,"synth"
+"54",7,"IV: 
+pla_historie_ontwikkeling: 1
+",759,9.77840762690028,"synth"
+"55",8,"IV: 
+pla_historie_ontwikkeling: 0
+",561,11.488838828589,"synth"
+"56",8,"IV: 
+pla_historie_ontwikkeling: 1
+",703,9.05694408657562,"synth"
+"57",9,"IV: 
+pla_historie_ontwikkeling: 0
+",686,14.0487405283637,"synth"
+"58",9,"IV: 
+pla_historie_ontwikkeling: 1
+",578,7.44653439835094,"synth"
+"59",10,"IV: 
+pla_historie_ontwikkeling: 0
+",930,19.045668646324,"synth"
+"60",10,"IV: 
+pla_historie_ontwikkeling: 1
+",334,4.30301468693636,"synth"
+"61",1,"IV: 
+pla_historie_ontwikkeling: 0
+",1039,8.30668372241765,"synth_conditional"
+"62",1,"IV: 
+pla_historie_ontwikkeling: 1
+",1463,11.6965142308922,"synth_conditional"
+"63",2,"IV: 
+pla_historie_ontwikkeling: 0
+",1088,8.69843300287816,"synth_conditional"
+"64",2,"IV: 
+pla_historie_ontwikkeling: 1
+",1414,11.3047649504317,"synth_conditional"
+"65",3,"IV: 
+pla_historie_ontwikkeling: 0
+",1113,8.89830508474576,"synth_conditional"
+"66",3,"IV: 
+pla_historie_ontwikkeling: 1
+",1389,11.1048928685641,"synth_conditional"
+"67",4,"IV: 
+pla_historie_ontwikkeling: 0
+",1180,9.43396226415094,"synth_conditional"
+"68",4,"IV: 
+pla_historie_ontwikkeling: 1
+",1322,10.5692356891589,"synth_conditional"
+"69",5,"IV: 
+pla_historie_ontwikkeling: 0
+",1165,9.31403901503038,"synth_conditional"
+"70",5,"IV: 
+pla_historie_ontwikkeling: 1
+",1337,10.6891589382795,"synth_conditional"
+"71",6,"IV: 
+pla_historie_ontwikkeling: 0
+",1210,9.67380876239207,"synth_conditional"
+"72",6,"IV: 
+pla_historie_ontwikkeling: 1
+",1292,10.3293891909178,"synth_conditional"
+"73",7,"IV: 
+pla_historie_ontwikkeling: 0
+",1265,10.1135273425008,"synth_conditional"
+"74",7,"IV: 
+pla_historie_ontwikkeling: 1
+",1236,9.88167572753438,"synth_conditional"
+"75",8,"IV: 
+pla_historie_ontwikkeling: 0
+",1315,10.513271506236,"synth_conditional"
+"76",8,"IV: 
+pla_historie_ontwikkeling: 1
+",1186,9.48193156379917,"synth_conditional"
+"77",9,"IV: 
+pla_historie_ontwikkeling: 0
+",1430,11.432683082827,"synth_conditional"
+"78",9,"IV: 
+pla_historie_ontwikkeling: 1
+",1071,8.56251998720819,"synth_conditional"
+"79",10,"IV: 
+pla_historie_ontwikkeling: 0
+",1703,13.6152862168212,"synth_conditional"
+"80",10,"IV: 
+pla_historie_ontwikkeling: 1
+",798,6.37991685321394,"synth_conditional"

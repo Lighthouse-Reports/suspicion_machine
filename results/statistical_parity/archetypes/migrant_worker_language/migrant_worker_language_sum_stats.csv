@@ -1,0 +1,41 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+","Ja",12645,0.536,0.145,0.152708580466588,0.383708975879794,5.27085804665876,28.3708975879794,"real_conditional"
+"2","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+","Ja",12645,0.529,0.142,0.134677738236457,0.363621984974298,3.46777382364571,26.3621984974298,"real_conditional"
+"3","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+","Ja",12645,0.495,0.144,0.088572558323448,0.283906682483195,-1.1427441676552,18.3906682483195,"real_conditional"
+"4","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+","Ja",12645,0.49,0.142,0.0771846579675761,0.265638592328984,-2.28153420324239,16.5638592328984,"real_conditional"
+"5","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+","Ja",12645,0.64,0.08,0.182443653618031,0.755318307631475,8.24436536180308,65.5318307631475,"synth_conditional"
+"6","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+","Ja",12645,0.634,0.079,0.15357848952155,0.736338473705022,5.357848952155,63.6338473705022,"synth_conditional"
+"7","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+","Ja",12645,0.612,0.082,0.0862791617240016,0.643732700672202,-1.37208382759984,54.3732700672202,"synth_conditional"
+"8","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+","Ja",12645,0.607,0.081,0.0691182285488335,0.623803875049427,-3.08817714511665,52.3803875049427,"synth_conditional"

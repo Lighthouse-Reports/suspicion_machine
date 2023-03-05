@@ -1,0 +1,46 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+competentie_plannen_en_organiseren: 0
+","Ja",9470,0.465,0.152,0.0729672650475185,0.233790918690602,-2.70327349524815,13.3790918690602,"real"
+"2","IV: 
+competentie_plannen_en_organiseren: 1
+","Ja",3123,0.561,0.132,0.177393531860391,0.421709894332373,7.73935318603906,32.1709894332373,"real"
+"3","IV: 
+competentie_plannen_en_organiseren: 2
+","Ja",50,0.639,0.118,0.36,0.66,26,56,"real"
+"4","IV: 
+competentie_plannen_en_organiseren: 3
+","Ja",2,0.809,0.057,1,1,90,90,"real"
+"5","IV: 
+competentie_plannen_en_organiseren: 0
+","Ja",12645,0.488,0.153,0.0977461447212337,0.279319889284302,-0.225385527876631,17.9319889284302,"real_conditional"
+"6","IV: 
+competentie_plannen_en_organiseren: 1
+","Ja",12645,0.494,0.152,0.103914590747331,0.289837880585212,0.391459074733096,18.9837880585212,"real_conditional"
+"7","IV: 
+competentie_plannen_en_organiseren: 2
+","Ja",12645,0.494,0.152,0.103914590747331,0.289837880585212,0.391459074733096,18.9837880585212,"real_conditional"
+"8","IV: 
+competentie_plannen_en_organiseren: 3
+","Ja",12645,0.494,0.152,0.103914590747331,0.289837880585212,0.391459074733096,18.9837880585212,"real_conditional"
+"9","IV: 
+competentie_plannen_en_organiseren: 0
+","Ja",8491,0.603,0.087,0.0816158285243199,0.601578141561654,-1.83841714756801,50.1578141561654,"synth"
+"10","IV: 
+competentie_plannen_en_organiseren: 1
+","Ja",4119,0.63,0.079,0.136683661082787,0.720806020878854,3.66836610827871,62.0806020878854,"synth"
+"11","IV: 
+competentie_plannen_en_organiseren: 2
+","Ja",35,0.669,0.062,0.257142857142857,0.914285714285714,15.7142857142857,81.4285714285714,"synth"
+"12","IV: 
+competentie_plannen_en_organiseren: 0
+","Ja",12508,0.611,0.085,0.095378957467221,0.635913015669971,-0.462104253277902,53.5913015669971,"synth_conditional"
+"13","IV: 
+competentie_plannen_en_organiseren: 1
+","Ja",12508,0.614,0.085,0.104173329069396,0.650943396226415,0.417332906939558,55.0943396226415,"synth_conditional"
+"14","IV: 
+competentie_plannen_en_organiseren: 2
+","Ja",12508,0.614,0.085,0.104173329069396,0.650943396226415,0.417332906939558,55.0943396226415,"synth_conditional"
+"15","IV: 
+competentie_plannen_en_organiseren: 3
+","Ja",12508,0.614,0.085,0.104173329069396,0.650943396226415,0.417332906939558,55.0943396226415,"synth_conditional"

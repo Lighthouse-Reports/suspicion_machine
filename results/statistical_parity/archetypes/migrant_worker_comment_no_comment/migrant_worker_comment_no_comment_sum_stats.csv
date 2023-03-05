@@ -1,0 +1,33 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+competentie_plannen_en_organiseren: 0
+persoonlijke_eigenschappen_opstelling: 0
+","Ja",12645,0.539,0.144,0.154922894424674,0.38916567813365,5.49228944246738,28.916567813365,"real_conditional"
+"2","IV: 
+competentie_plannen_en_organiseren: 0
+persoonlijke_eigenschappen_opstelling: 1
+","Ja",12645,0.537,0.144,0.152471332542507,0.385448793989719,5.24713325425069,28.5448793989719,"real_conditional"
+"3","IV: 
+competentie_plannen_en_organiseren: 1
+persoonlijke_eigenschappen_opstelling: 0
+","Ja",12645,0.544,0.144,0.162277580071174,0.400316330565441,6.22775800711744,30.0316330565441,"real_conditional"
+"4","IV: 
+competentie_plannen_en_organiseren: 1
+persoonlijke_eigenschappen_opstelling: 1
+","Ja",12645,0.541,0.143,0.158481613285884,0.393989719256623,5.84816132858838,29.3989719256623,"real_conditional"
+"5","IV: 
+competentie_plannen_en_organiseren: 0
+persoonlijke_eigenschappen_opstelling: 0
+","Ja",12645,0.645,0.079,0.19652036378015,0.770660340055358,9.65203637801502,67.0660340055358,"synth_conditional"
+"6","IV: 
+competentie_plannen_en_organiseren: 0
+persoonlijke_eigenschappen_opstelling: 1
+","Ja",12645,0.644,0.079,0.192566231712139,0.768129695531831,9.25662317121392,66.8129695531831,"synth_conditional"
+"7","IV: 
+competentie_plannen_en_organiseren: 1
+persoonlijke_eigenschappen_opstelling: 0
+","Ja",12645,0.648,0.079,0.211071569790431,0.78204824041123,11.1071569790431,68.204824041123,"synth_conditional"
+"8","IV: 
+competentie_plannen_en_organiseren: 1
+persoonlijke_eigenschappen_opstelling: 1
+","Ja",12645,0.646,0.079,0.204112297350732,0.776591538157374,10.4112297350732,67.6591538157375,"synth_conditional"

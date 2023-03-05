@@ -1,0 +1,73 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+instrument_ladder_huidig_other: 0
+","Ja",10660,0.483,0.153,0.0915572232645403,0.270544090056285,-0.844277673545967,17.0544090056285,"real"
+"2","IV: 
+instrument_ladder_huidig_other: 1
+","Ja",1687,0.518,0.153,0.139300533491405,0.337285121517487,3.93005334914049,23.7285121517487,"real"
+"3","IV: 
+instrument_ladder_huidig_other: 2
+","Ja",254,0.541,0.145,0.181102362204724,0.362204724409449,8.11023622047244,26.2204724409449,"real"
+"4","IV: 
+instrument_ladder_huidig_other: 3
+","Ja",33,0.552,0.142,0.181818181818182,0.454545454545455,8.18181818181818,35.4545454545455,"real"
+"5","IV: 
+instrument_ladder_huidig_other: 4
+","Ja",9,0.616,0.105,0.222222222222222,0.666666666666667,12.2222222222222,56.6666666666667,"real"
+"6","IV: 
+instrument_ladder_huidig_other: 5
+","Ja",1,0.524,NA,0,0,-10,-10,"real"
+"7","IV: 
+instrument_ladder_huidig_other: 6
+","Ja",1,0.5,NA,0,0,-10,-10,"real"
+"8","IV: 
+instrument_ladder_huidig_other: 0
+","Ja",12645,0.489,0.153,0.0999604586793199,0.281929616449189,-0.00395413206801115,18.1929616449189,"real_conditional"
+"9","IV: 
+instrument_ladder_huidig_other: 1
+","Ja",12645,0.489,0.153,0.10003954132068,0.281692368525109,0.00395413206801115,18.1692368525109,"real_conditional"
+"10","IV: 
+instrument_ladder_huidig_other: 2
+","Ja",12645,0.491,0.153,0.100988533017003,0.283432186635034,0.098853301700276,18.3432186635034,"real_conditional"
+"11","IV: 
+instrument_ladder_huidig_other: 3
+","Ja",12645,0.491,0.153,0.100988533017003,0.283432186635034,0.098853301700276,18.3432186635034,"real_conditional"
+"12","IV: 
+instrument_ladder_huidig_other: 4
+","Ja",12645,0.491,0.153,0.100988533017003,0.283432186635034,0.098853301700276,18.3432186635034,"real_conditional"
+"13","IV: 
+instrument_ladder_huidig_other: 5
+","Ja",12645,0.491,0.153,0.100988533017003,0.283432186635034,0.098853301700276,18.3432186635034,"real_conditional"
+"14","IV: 
+instrument_ladder_huidig_other: 6
+","Ja",12645,0.491,0.153,0.100988533017003,0.283432186635034,0.098853301700276,18.3432186635034,"real_conditional"
+"15","IV: 
+instrument_ladder_huidig_other: 0
+","Ja",8335,0.608,0.086,0.0907018596280744,0.627354529094181,-0.929814037192563,52.7354529094181,"synth"
+"16","IV: 
+instrument_ladder_huidig_other: 1
+","Ja",4270,0.619,0.083,0.118032786885246,0.666744730679157,1.80327868852459,56.6744730679157,"synth"
+"17","IV: 
+instrument_ladder_huidig_other: 2
+","Ja",40,0.642,0.069,0.125,0.825,2.5,72.5,"synth"
+"18","IV: 
+instrument_ladder_huidig_other: 0
+","Ja",12508,0.612,0.085,0.099216501439079,0.639270866645347,-0.0783498560921012,53.9270866645347,"synth_conditional"
+"19","IV: 
+instrument_ladder_huidig_other: 1
+","Ja",12508,0.612,0.085,0.100255836264791,0.642388871122482,0.0255836264790532,54.2388871122482,"synth_conditional"
+"20","IV: 
+instrument_ladder_huidig_other: 2
+","Ja",12508,0.612,0.085,0.10081547809402,0.643188359449952,0.0815478094019828,54.3188359449952,"synth_conditional"
+"21","IV: 
+instrument_ladder_huidig_other: 3
+","Ja",12508,0.612,0.085,0.10081547809402,0.643188359449952,0.0815478094019828,54.3188359449952,"synth_conditional"
+"22","IV: 
+instrument_ladder_huidig_other: 4
+","Ja",12508,0.612,0.085,0.10081547809402,0.643188359449952,0.0815478094019828,54.3188359449952,"synth_conditional"
+"23","IV: 
+instrument_ladder_huidig_other: 5
+","Ja",12508,0.612,0.085,0.10081547809402,0.643188359449952,0.0815478094019828,54.3188359449952,"synth_conditional"
+"24","IV: 
+instrument_ladder_huidig_other: 6
+","Ja",12508,0.612,0.085,0.10081547809402,0.643188359449952,0.0815478094019828,54.3188359449952,"synth_conditional"

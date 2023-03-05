@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+belemmering_ind_hist: 0
+",606,14.6306132303235,"real"
+"2",1,"IV: 
+belemmering_ind_hist: 1
+",659,7.75020580971422,"real"
+"3",2,"IV: 
+belemmering_ind_hist: 0
+",543,13.1096088845968,"real"
+"4",2,"IV: 
+belemmering_ind_hist: 1
+",722,8.49112078090086,"real"
+"5",3,"IV: 
+belemmering_ind_hist: 0
+",441,10.6470304200869,"real"
+"6",3,"IV: 
+belemmering_ind_hist: 1
+",824,9.69069740091732,"real"
+"7",4,"IV: 
+belemmering_ind_hist: 0
+",378,9.12602607436021,"real"
+"8",4,"IV: 
+belemmering_ind_hist: 1
+",887,10.431612372104,"real"
+"9",5,"IV: 
+belemmering_ind_hist: 0
+",334,8.06373732496379,"real"
+"10",5,"IV: 
+belemmering_ind_hist: 1
+",931,10.9490767964248,"real"
+"11",6,"IV: 
+belemmering_ind_hist: 0
+",342,8.25688073394495,"real"
+"12",6,"IV: 
+belemmering_ind_hist: 1
+",922,10.843231800541,"real"
+"13",7,"IV: 
+belemmering_ind_hist: 0
+",346,8.35345243843554,"real"
+"14",7,"IV: 
+belemmering_ind_hist: 1
+",918,10.7961895801482,"real"
+"15",8,"IV: 
+belemmering_ind_hist: 0
+",365,8.81216803476581,"real"
+"16",8,"IV: 
+belemmering_ind_hist: 1
+",899,10.5727390332824,"real"
+"17",9,"IV: 
+belemmering_ind_hist: 0
+",348,8.40173829068083,"real"
+"18",9,"IV: 
+belemmering_ind_hist: 1
+",916,10.7726684699518,"real"
+"19",10,"IV: 
+belemmering_ind_hist: 0
+",439,10.5987445678416,"real"
+"20",10,"IV: 
+belemmering_ind_hist: 1
+",825,9.70245795601552,"real"
+"21",1,"IV: 
+belemmering_ind_hist: 0
+",1256,9.93277975484381,"real_conditional"
+"22",1,"IV: 
+belemmering_ind_hist: 1
+",1273,10.0672202451562,"real_conditional"
+"23",2,"IV: 
+belemmering_ind_hist: 0
+",1257,9.94068801897983,"real_conditional"
+"24",2,"IV: 
+belemmering_ind_hist: 1
+",1272,10.0593119810202,"real_conditional"
+"25",3,"IV: 
+belemmering_ind_hist: 0
+",1263,9.98813760379597,"real_conditional"
+"26",3,"IV: 
+belemmering_ind_hist: 1
+",1266,10.011862396204,"real_conditional"
+"27",4,"IV: 
+belemmering_ind_hist: 0
+",1263,9.98813760379597,"real_conditional"
+"28",4,"IV: 
+belemmering_ind_hist: 1
+",1266,10.011862396204,"real_conditional"
+"29",5,"IV: 
+belemmering_ind_hist: 0
+",1266,10.011862396204,"real_conditional"
+"30",5,"IV: 
+belemmering_ind_hist: 1
+",1263,9.98813760379597,"real_conditional"
+"31",6,"IV: 
+belemmering_ind_hist: 0
+",1266,10.011862396204,"real_conditional"
+"32",6,"IV: 
+belemmering_ind_hist: 1
+",1263,9.98813760379597,"real_conditional"
+"33",7,"IV: 
+belemmering_ind_hist: 0
+",1261,9.97232107552392,"real_conditional"
+"34",7,"IV: 
+belemmering_ind_hist: 1
+",1268,10.0276789244761,"real_conditional"
+"35",8,"IV: 
+belemmering_ind_hist: 0
+",1267,10.0197706603401,"real_conditional"
+"36",8,"IV: 
+belemmering_ind_hist: 1
+",1262,9.98022933965994,"real_conditional"
+"37",9,"IV: 
+belemmering_ind_hist: 0
+",1271,10.0514037168841,"real_conditional"
+"38",9,"IV: 
+belemmering_ind_hist: 1
+",1258,9.94859628311586,"real_conditional"
+"39",10,"IV: 
+belemmering_ind_hist: 0
+",1275,10.0830367734282,"real_conditional"
+"40",10,"IV: 
+belemmering_ind_hist: 1
+",1254,9.91696322657177,"real_conditional"
+"41",1,"IV: 
+belemmering_ind_hist: 0
+",571,12.2453356208449,"synth"
+"42",1,"IV: 
+belemmering_ind_hist: 1
+",694,8.694562766224,"synth"
+"43",2,"IV: 
+belemmering_ind_hist: 0
+",508,10.8942740724855,"synth"
+"44",2,"IV: 
+belemmering_ind_hist: 1
+",757,9.4838386369331,"synth"
+"45",3,"IV: 
+belemmering_ind_hist: 0
+",478,10.2509114304096,"synth"
+"46",3,"IV: 
+belemmering_ind_hist: 1
+",787,9.85968428965172,"synth"
+"47",4,"IV: 
+belemmering_ind_hist: 0
+",446,9.56465794552863,"synth"
+"48",4,"IV: 
+belemmering_ind_hist: 1
+",819,10.2605863192182,"synth"
+"49",5,"IV: 
+belemmering_ind_hist: 0
+",414,8.87840446064765,"synth"
+"50",5,"IV: 
+belemmering_ind_hist: 1
+",851,10.6614883487848,"synth"
+"51",6,"IV: 
+belemmering_ind_hist: 0
+",436,9.35020373150332,"synth"
+"52",6,"IV: 
+belemmering_ind_hist: 1
+",828,10.3733400150338,"synth"
+"53",7,"IV: 
+belemmering_ind_hist: 0
+",427,9.15719493888055,"synth"
+"54",7,"IV: 
+belemmering_ind_hist: 1
+",837,10.4860937108494,"synth"
+"55",8,"IV: 
+belemmering_ind_hist: 0
+",458,9.822003002359,"synth"
+"56",8,"IV: 
+belemmering_ind_hist: 1
+",806,10.0977198697068,"synth"
+"57",9,"IV: 
+belemmering_ind_hist: 0
+",462,9.90778468796912,"synth"
+"58",9,"IV: 
+belemmering_ind_hist: 1
+",802,10.047607116011,"synth"
+"59",10,"IV: 
+belemmering_ind_hist: 0
+",463,9.92923010937165,"synth"
+"60",10,"IV: 
+belemmering_ind_hist: 1
+",801,10.0350789275871,"synth"
+"61",1,"IV: 
+belemmering_ind_hist: 0
+",1238,9.89766549408379,"synth_conditional"
+"62",1,"IV: 
+belemmering_ind_hist: 1
+",1264,10.1055324592261,"synth_conditional"
+"63",2,"IV: 
+belemmering_ind_hist: 0
+",1240,9.9136552606332,"synth_conditional"
+"64",2,"IV: 
+belemmering_ind_hist: 1
+",1262,10.0895426926767,"synth_conditional"
+"65",3,"IV: 
+belemmering_ind_hist: 0
+",1243,9.93763991045731,"synth_conditional"
+"66",3,"IV: 
+belemmering_ind_hist: 1
+",1259,10.0655580428526,"synth_conditional"
+"67",4,"IV: 
+belemmering_ind_hist: 0
+",1248,9.97761432683083,"synth_conditional"
+"68",4,"IV: 
+belemmering_ind_hist: 1
+",1254,10.0255836264791,"synth_conditional"
+"69",5,"IV: 
+belemmering_ind_hist: 0
+",1245,9.95362967700671,"synth_conditional"
+"70",5,"IV: 
+belemmering_ind_hist: 1
+",1257,10.0495682763032,"synth_conditional"
+"71",6,"IV: 
+belemmering_ind_hist: 0
+",1249,9.98560921010553,"synth_conditional"
+"72",6,"IV: 
+belemmering_ind_hist: 1
+",1253,10.0175887432043,"synth_conditional"
+"73",7,"IV: 
+belemmering_ind_hist: 0
+",1250,9.99360409338024,"synth_conditional"
+"74",7,"IV: 
+belemmering_ind_hist: 1
+",1251,10.0015989766549,"synth_conditional"
+"75",8,"IV: 
+belemmering_ind_hist: 0
+",1252,10.0095938599296,"synth_conditional"
+"76",8,"IV: 
+belemmering_ind_hist: 1
+",1249,9.98560921010553,"synth_conditional"
+"77",9,"IV: 
+belemmering_ind_hist: 0
+",1270,10.1535017588743,"synth_conditional"
+"78",9,"IV: 
+belemmering_ind_hist: 1
+",1231,9.84170131116086,"synth_conditional"
+"79",10,"IV: 
+belemmering_ind_hist: 0
+",1273,10.1774864086984,"synth_conditional"
+"80",10,"IV: 
+belemmering_ind_hist: 1
+",1228,9.81771666133674,"synth_conditional"

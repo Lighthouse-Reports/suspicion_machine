@@ -1,0 +1,835 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+afspraak_galo_gesprek: 0
+",1249,11.9532969662169,"real"
+"2",1,"IV: 
+afspraak_galo_gesprek: 1
+",15,1.00133511348465,"real"
+"3",1,"IV: 
+afspraak_galo_gesprek: 2
+",1,0.22075055187638,"real"
+"4",2,"IV: 
+afspraak_galo_gesprek: 0
+",1213,11.6087663891281,"real"
+"5",2,"IV: 
+afspraak_galo_gesprek: 1
+",47,3.13751668891856,"real"
+"6",2,"IV: 
+afspraak_galo_gesprek: 2
+",4,0.883002207505519,"real"
+"7",2,"IV: 
+afspraak_galo_gesprek: 3
+",1,0.675675675675676,"real"
+"8",3,"IV: 
+afspraak_galo_gesprek: 0
+",1144,10.9484161163748,"real"
+"9",3,"IV: 
+afspraak_galo_gesprek: 1
+",111,7.40987983978638,"real"
+"10",3,"IV: 
+afspraak_galo_gesprek: 2
+",8,1.76600441501104,"real"
+"11",3,"IV: 
+afspraak_galo_gesprek: 3
+",2,1.35135135135135,"real"
+"12",4,"IV: 
+afspraak_galo_gesprek: 0
+",1089,10.4220499569337,"real"
+"13",4,"IV: 
+afspraak_galo_gesprek: 1
+",139,9.27903871829105,"real"
+"14",4,"IV: 
+afspraak_galo_gesprek: 2
+",27,5.96026490066225,"real"
+"15",4,"IV: 
+afspraak_galo_gesprek: 3
+",7,4.72972972972973,"real"
+"16",4,"IV: 
+afspraak_galo_gesprek: 4
+",2,3.57142857142857,"real"
+"17",4,"IV: 
+afspraak_galo_gesprek: 6
+",1,9.09090909090909,"real"
+"18",5,"IV: 
+afspraak_galo_gesprek: 0
+",1064,10.1827926117332,"real"
+"19",5,"IV: 
+afspraak_galo_gesprek: 1
+",138,9.21228304405875,"real"
+"20",5,"IV: 
+afspraak_galo_gesprek: 2
+",48,10.5960264900662,"real"
+"21",5,"IV: 
+afspraak_galo_gesprek: 3
+",10,6.75675675675676,"real"
+"22",5,"IV: 
+afspraak_galo_gesprek: 4
+",5,8.92857142857143,"real"
+"23",6,"IV: 
+afspraak_galo_gesprek: 0
+",1012,9.68513733371615,"real"
+"24",6,"IV: 
+afspraak_galo_gesprek: 1
+",169,11.2817089452603,"real"
+"25",6,"IV: 
+afspraak_galo_gesprek: 2
+",55,12.1412803532009,"real"
+"26",6,"IV: 
+afspraak_galo_gesprek: 3
+",14,9.45945945945946,"real"
+"27",6,"IV: 
+afspraak_galo_gesprek: 4
+",7,12.5,"real"
+"28",6,"IV: 
+afspraak_galo_gesprek: 5
+",4,16.6666666666667,"real"
+"29",6,"IV: 
+afspraak_galo_gesprek: 6
+",2,18.1818181818182,"real"
+"30",6,"IV: 
+afspraak_galo_gesprek: 7
+",1,20,"real"
+"31",7,"IV: 
+afspraak_galo_gesprek: 0
+",974,9.32146616901139,"real"
+"32",7,"IV: 
+afspraak_galo_gesprek: 1
+",194,12.9506008010681,"real"
+"33",7,"IV: 
+afspraak_galo_gesprek: 2
+",55,12.1412803532009,"real"
+"34",7,"IV: 
+afspraak_galo_gesprek: 3
+",27,18.2432432432432,"real"
+"35",7,"IV: 
+afspraak_galo_gesprek: 4
+",8,14.2857142857143,"real"
+"36",7,"IV: 
+afspraak_galo_gesprek: 5
+",2,8.33333333333333,"real"
+"37",7,"IV: 
+afspraak_galo_gesprek: 6
+",2,18.1818181818182,"real"
+"38",7,"IV: 
+afspraak_galo_gesprek: 7
+",1,20,"real"
+"39",7,"IV: 
+afspraak_galo_gesprek: 8
+",1,100,"real"
+"40",8,"IV: 
+afspraak_galo_gesprek: 0
+",982,9.39802851947555,"real"
+"41",8,"IV: 
+afspraak_galo_gesprek: 1
+",187,12.4833110814419,"real"
+"42",8,"IV: 
+afspraak_galo_gesprek: 2
+",58,12.80353200883,"real"
+"43",8,"IV: 
+afspraak_galo_gesprek: 3
+",24,16.2162162162162,"real"
+"44",8,"IV: 
+afspraak_galo_gesprek: 4
+",7,12.5,"real"
+"45",8,"IV: 
+afspraak_galo_gesprek: 5
+",4,16.6666666666667,"real"
+"46",8,"IV: 
+afspraak_galo_gesprek: 6
+",1,9.09090909090909,"real"
+"47",8,"IV: 
+afspraak_galo_gesprek: 7
+",1,20,"real"
+"48",9,"IV: 
+afspraak_galo_gesprek: 0
+",922,8.82381089099435,"real"
+"49",9,"IV: 
+afspraak_galo_gesprek: 1
+",202,13.4846461949266,"real"
+"50",9,"IV: 
+afspraak_galo_gesprek: 2
+",90,19.8675496688742,"real"
+"51",9,"IV: 
+afspraak_galo_gesprek: 3
+",27,18.2432432432432,"real"
+"52",9,"IV: 
+afspraak_galo_gesprek: 4
+",11,19.6428571428571,"real"
+"53",9,"IV: 
+afspraak_galo_gesprek: 5
+",7,29.1666666666667,"real"
+"54",9,"IV: 
+afspraak_galo_gesprek: 6
+",4,36.3636363636364,"real"
+"55",9,"IV: 
+afspraak_galo_gesprek: 7
+",1,20,"real"
+"56",10,"IV: 
+afspraak_galo_gesprek: 0
+",800,7.65623504641593,"real"
+"57",10,"IV: 
+afspraak_galo_gesprek: 1
+",296,19.7596795727637,"real"
+"58",10,"IV: 
+afspraak_galo_gesprek: 2
+",107,23.6203090507726,"real"
+"59",10,"IV: 
+afspraak_galo_gesprek: 3
+",36,24.3243243243243,"real"
+"60",10,"IV: 
+afspraak_galo_gesprek: 4
+",16,28.5714285714286,"real"
+"61",10,"IV: 
+afspraak_galo_gesprek: 5
+",7,29.1666666666667,"real"
+"62",10,"IV: 
+afspraak_galo_gesprek: 6
+",1,9.09090909090909,"real"
+"63",10,"IV: 
+afspraak_galo_gesprek: 7
+",1,20,"real"
+"64",1,"IV: 
+afspraak_galo_gesprek: 0
+",1341,10.6049822064057,"real_conditional"
+"65",1,"IV: 
+afspraak_galo_gesprek: 1
+",1312,10.3756425464611,"real_conditional"
+"66",1,"IV: 
+afspraak_galo_gesprek: 2
+",1274,10.0751285092922,"real_conditional"
+"67",1,"IV: 
+afspraak_galo_gesprek: 3
+",1243,9.82997232107552,"real_conditional"
+"68",1,"IV: 
+afspraak_galo_gesprek: 4
+",1242,9.8220640569395,"real_conditional"
+"69",1,"IV: 
+afspraak_galo_gesprek: 5
+",1242,9.8220640569395,"real_conditional"
+"70",1,"IV: 
+afspraak_galo_gesprek: 6
+",1242,9.8220640569395,"real_conditional"
+"71",1,"IV: 
+afspraak_galo_gesprek: 7
+",1243,9.82997232107552,"real_conditional"
+"72",1,"IV: 
+afspraak_galo_gesprek: 8
+",1242,9.8220640569395,"real_conditional"
+"73",2,"IV: 
+afspraak_galo_gesprek: 0
+",1272,10.0593119810202,"real_conditional"
+"74",2,"IV: 
+afspraak_galo_gesprek: 1
+",1274,10.0751285092922,"real_conditional"
+"75",2,"IV: 
+afspraak_galo_gesprek: 2
+",1265,10.003954132068,"real_conditional"
+"76",2,"IV: 
+afspraak_galo_gesprek: 3
+",1261,9.97232107552392,"real_conditional"
+"77",2,"IV: 
+afspraak_galo_gesprek: 4
+",1262,9.98022933965994,"real_conditional"
+"78",2,"IV: 
+afspraak_galo_gesprek: 5
+",1262,9.98022933965994,"real_conditional"
+"79",2,"IV: 
+afspraak_galo_gesprek: 6
+",1262,9.98022933965994,"real_conditional"
+"80",2,"IV: 
+afspraak_galo_gesprek: 7
+",1261,9.97232107552392,"real_conditional"
+"81",2,"IV: 
+afspraak_galo_gesprek: 8
+",1262,9.98022933965994,"real_conditional"
+"82",3,"IV: 
+afspraak_galo_gesprek: 0
+",1271,10.0514037168841,"real_conditional"
+"83",3,"IV: 
+afspraak_galo_gesprek: 1
+",1269,10.0355871886121,"real_conditional"
+"84",3,"IV: 
+afspraak_galo_gesprek: 2
+",1269,10.0355871886121,"real_conditional"
+"85",3,"IV: 
+afspraak_galo_gesprek: 3
+",1262,9.98022933965994,"real_conditional"
+"86",3,"IV: 
+afspraak_galo_gesprek: 4
+",1262,9.98022933965994,"real_conditional"
+"87",3,"IV: 
+afspraak_galo_gesprek: 5
+",1262,9.98022933965994,"real_conditional"
+"88",3,"IV: 
+afspraak_galo_gesprek: 6
+",1262,9.98022933965994,"real_conditional"
+"89",3,"IV: 
+afspraak_galo_gesprek: 7
+",1262,9.98022933965994,"real_conditional"
+"90",3,"IV: 
+afspraak_galo_gesprek: 8
+",1262,9.98022933965994,"real_conditional"
+"91",4,"IV: 
+afspraak_galo_gesprek: 0
+",1276,10.0909450375643,"real_conditional"
+"92",4,"IV: 
+afspraak_galo_gesprek: 1
+",1268,10.0276789244761,"real_conditional"
+"93",4,"IV: 
+afspraak_galo_gesprek: 2
+",1265,10.003954132068,"real_conditional"
+"94",4,"IV: 
+afspraak_galo_gesprek: 3
+",1262,9.98022933965994,"real_conditional"
+"95",4,"IV: 
+afspraak_galo_gesprek: 4
+",1262,9.98022933965994,"real_conditional"
+"96",4,"IV: 
+afspraak_galo_gesprek: 5
+",1262,9.98022933965994,"real_conditional"
+"97",4,"IV: 
+afspraak_galo_gesprek: 6
+",1262,9.98022933965994,"real_conditional"
+"98",4,"IV: 
+afspraak_galo_gesprek: 7
+",1262,9.98022933965994,"real_conditional"
+"99",4,"IV: 
+afspraak_galo_gesprek: 8
+",1262,9.98022933965994,"real_conditional"
+"100",5,"IV: 
+afspraak_galo_gesprek: 0
+",1248,9.86951364175563,"real_conditional"
+"101",5,"IV: 
+afspraak_galo_gesprek: 1
+",1257,9.94068801897983,"real_conditional"
+"102",5,"IV: 
+afspraak_galo_gesprek: 2
+",1264,9.99604586793199,"real_conditional"
+"103",5,"IV: 
+afspraak_galo_gesprek: 3
+",1269,10.0355871886121,"real_conditional"
+"104",5,"IV: 
+afspraak_galo_gesprek: 4
+",1269,10.0355871886121,"real_conditional"
+"105",5,"IV: 
+afspraak_galo_gesprek: 5
+",1269,10.0355871886121,"real_conditional"
+"106",5,"IV: 
+afspraak_galo_gesprek: 6
+",1268,10.0276789244761,"real_conditional"
+"107",5,"IV: 
+afspraak_galo_gesprek: 7
+",1269,10.0355871886121,"real_conditional"
+"108",5,"IV: 
+afspraak_galo_gesprek: 8
+",1268,10.0276789244761,"real_conditional"
+"109",6,"IV: 
+afspraak_galo_gesprek: 0
+",1239,9.79833926453144,"real_conditional"
+"110",6,"IV: 
+afspraak_galo_gesprek: 1
+",1247,9.86160537761961,"real_conditional"
+"111",6,"IV: 
+afspraak_galo_gesprek: 2
+",1260,9.9644128113879,"real_conditional"
+"112",6,"IV: 
+afspraak_galo_gesprek: 3
+",1272,10.0593119810202,"real_conditional"
+"113",6,"IV: 
+afspraak_galo_gesprek: 4
+",1272,10.0593119810202,"real_conditional"
+"114",6,"IV: 
+afspraak_galo_gesprek: 5
+",1272,10.0593119810202,"real_conditional"
+"115",6,"IV: 
+afspraak_galo_gesprek: 6
+",1273,10.0672202451562,"real_conditional"
+"116",6,"IV: 
+afspraak_galo_gesprek: 7
+",1272,10.0593119810202,"real_conditional"
+"117",6,"IV: 
+afspraak_galo_gesprek: 8
+",1273,10.0672202451562,"real_conditional"
+"118",7,"IV: 
+afspraak_galo_gesprek: 0
+",1286,10.1700276789245,"real_conditional"
+"119",7,"IV: 
+afspraak_galo_gesprek: 1
+",1261,9.97232107552392,"real_conditional"
+"120",7,"IV: 
+afspraak_galo_gesprek: 2
+",1263,9.98813760379597,"real_conditional"
+"121",7,"IV: 
+afspraak_galo_gesprek: 3
+",1262,9.98022933965994,"real_conditional"
+"122",7,"IV: 
+afspraak_galo_gesprek: 4
+",1262,9.98022933965994,"real_conditional"
+"123",7,"IV: 
+afspraak_galo_gesprek: 5
+",1262,9.98022933965994,"real_conditional"
+"124",7,"IV: 
+afspraak_galo_gesprek: 6
+",1261,9.97232107552392,"real_conditional"
+"125",7,"IV: 
+afspraak_galo_gesprek: 7
+",1262,9.98022933965994,"real_conditional"
+"126",7,"IV: 
+afspraak_galo_gesprek: 8
+",1261,9.97232107552392,"real_conditional"
+"127",8,"IV: 
+afspraak_galo_gesprek: 0
+",1239,9.79833926453144,"real_conditional"
+"128",8,"IV: 
+afspraak_galo_gesprek: 1
+",1259,9.95650454725188,"real_conditional"
+"129",8,"IV: 
+afspraak_galo_gesprek: 2
+",1260,9.9644128113879,"real_conditional"
+"130",8,"IV: 
+afspraak_galo_gesprek: 3
+",1270,10.0434954527481,"real_conditional"
+"131",8,"IV: 
+afspraak_galo_gesprek: 4
+",1270,10.0434954527481,"real_conditional"
+"132",8,"IV: 
+afspraak_galo_gesprek: 5
+",1270,10.0434954527481,"real_conditional"
+"133",8,"IV: 
+afspraak_galo_gesprek: 6
+",1271,10.0514037168841,"real_conditional"
+"134",8,"IV: 
+afspraak_galo_gesprek: 7
+",1270,10.0434954527481,"real_conditional"
+"135",8,"IV: 
+afspraak_galo_gesprek: 8
+",1271,10.0514037168841,"real_conditional"
+"136",9,"IV: 
+afspraak_galo_gesprek: 0
+",1247,9.86160537761961,"real_conditional"
+"137",9,"IV: 
+afspraak_galo_gesprek: 1
+",1251,9.8932384341637,"real_conditional"
+"138",9,"IV: 
+afspraak_galo_gesprek: 2
+",1261,9.97232107552392,"real_conditional"
+"139",9,"IV: 
+afspraak_galo_gesprek: 3
+",1271,10.0514037168841,"real_conditional"
+"140",9,"IV: 
+afspraak_galo_gesprek: 4
+",1270,10.0434954527481,"real_conditional"
+"141",9,"IV: 
+afspraak_galo_gesprek: 5
+",1270,10.0434954527481,"real_conditional"
+"142",9,"IV: 
+afspraak_galo_gesprek: 6
+",1270,10.0434954527481,"real_conditional"
+"143",9,"IV: 
+afspraak_galo_gesprek: 7
+",1270,10.0434954527481,"real_conditional"
+"144",9,"IV: 
+afspraak_galo_gesprek: 8
+",1270,10.0434954527481,"real_conditional"
+"145",10,"IV: 
+afspraak_galo_gesprek: 0
+",1226,9.69553183076315,"real_conditional"
+"146",10,"IV: 
+afspraak_galo_gesprek: 1
+",1247,9.86160537761961,"real_conditional"
+"147",10,"IV: 
+afspraak_galo_gesprek: 2
+",1264,9.99604586793199,"real_conditional"
+"148",10,"IV: 
+afspraak_galo_gesprek: 3
+",1273,10.0672202451562,"real_conditional"
+"149",10,"IV: 
+afspraak_galo_gesprek: 4
+",1274,10.0751285092922,"real_conditional"
+"150",10,"IV: 
+afspraak_galo_gesprek: 5
+",1274,10.0751285092922,"real_conditional"
+"151",10,"IV: 
+afspraak_galo_gesprek: 6
+",1274,10.0751285092922,"real_conditional"
+"152",10,"IV: 
+afspraak_galo_gesprek: 7
+",1274,10.0751285092922,"real_conditional"
+"153",10,"IV: 
+afspraak_galo_gesprek: 8
+",1274,10.0751285092922,"real_conditional"
+"154",1,"IV: 
+afspraak_galo_gesprek: 0
+",858,13.1192660550459,"synth"
+"155",1,"IV: 
+afspraak_galo_gesprek: 1
+",392,6.86034301715086,"synth"
+"156",1,"IV: 
+afspraak_galo_gesprek: 2
+",14,3.63636363636364,"synth"
+"157",1,"IV: 
+afspraak_galo_gesprek: 3
+",1,16.6666666666667,"synth"
+"158",2,"IV: 
+afspraak_galo_gesprek: 0
+",766,11.7125382262997,"synth"
+"159",2,"IV: 
+afspraak_galo_gesprek: 1
+",481,8.4179208960448,"synth"
+"160",2,"IV: 
+afspraak_galo_gesprek: 2
+",18,4.67532467532468,"synth"
+"161",3,"IV: 
+afspraak_galo_gesprek: 0
+",699,10.6880733944954,"synth"
+"162",3,"IV: 
+afspraak_galo_gesprek: 1
+",546,9.5554777738887,"synth"
+"163",3,"IV: 
+afspraak_galo_gesprek: 2
+",19,4.93506493506494,"synth"
+"164",3,"IV: 
+afspraak_galo_gesprek: 3
+",1,16.6666666666667,"synth"
+"165",4,"IV: 
+afspraak_galo_gesprek: 0
+",671,10.2599388379205,"synth"
+"166",4,"IV: 
+afspraak_galo_gesprek: 1
+",565,9.88799439971999,"synth"
+"167",4,"IV: 
+afspraak_galo_gesprek: 2
+",28,7.27272727272727,"synth"
+"168",4,"IV: 
+afspraak_galo_gesprek: 3
+",1,16.6666666666667,"synth"
+"169",5,"IV: 
+afspraak_galo_gesprek: 0
+",613,9.37308868501529,"synth"
+"170",5,"IV: 
+afspraak_galo_gesprek: 1
+",616,10.7805390269513,"synth"
+"171",5,"IV: 
+afspraak_galo_gesprek: 2
+",36,9.35064935064935,"synth"
+"172",6,"IV: 
+afspraak_galo_gesprek: 0
+",637,9.74006116207951,"synth"
+"173",6,"IV: 
+afspraak_galo_gesprek: 1
+",582,10.1855092754638,"synth"
+"174",6,"IV: 
+afspraak_galo_gesprek: 2
+",45,11.6883116883117,"synth"
+"175",7,"IV: 
+afspraak_galo_gesprek: 0
+",610,9.32721712538226,"synth"
+"176",7,"IV: 
+afspraak_galo_gesprek: 1
+",603,10.5530276513826,"synth"
+"177",7,"IV: 
+afspraak_galo_gesprek: 2
+",51,13.2467532467532,"synth"
+"178",8,"IV: 
+afspraak_galo_gesprek: 0
+",593,9.06727828746177,"synth"
+"179",8,"IV: 
+afspraak_galo_gesprek: 1
+",631,11.0430521526076,"synth"
+"180",8,"IV: 
+afspraak_galo_gesprek: 2
+",40,10.3896103896104,"synth"
+"181",9,"IV: 
+afspraak_galo_gesprek: 0
+",563,8.6085626911315,"synth"
+"182",9,"IV: 
+afspraak_galo_gesprek: 1
+",637,11.1480574028701,"synth"
+"183",9,"IV: 
+afspraak_galo_gesprek: 2
+",62,16.1038961038961,"synth"
+"184",9,"IV: 
+afspraak_galo_gesprek: 3
+",2,33.3333333333333,"synth"
+"185",10,"IV: 
+afspraak_galo_gesprek: 0
+",530,8.1039755351682,"synth"
+"186",10,"IV: 
+afspraak_galo_gesprek: 1
+",661,11.5680784039202,"synth"
+"187",10,"IV: 
+afspraak_galo_gesprek: 2
+",72,18.7012987012987,"synth"
+"188",10,"IV: 
+afspraak_galo_gesprek: 3
+",1,16.6666666666667,"synth"
+"189",1,"IV: 
+afspraak_galo_gesprek: 0
+",1266,10.1215222257755,"synth_conditional"
+"190",1,"IV: 
+afspraak_galo_gesprek: 1
+",1257,10.0495682763032,"synth_conditional"
+"191",1,"IV: 
+afspraak_galo_gesprek: 2
+",1255,10.0335785097538,"synth_conditional"
+"192",1,"IV: 
+afspraak_galo_gesprek: 3
+",1247,9.96961944355612,"synth_conditional"
+"193",1,"IV: 
+afspraak_galo_gesprek: 4
+",1247,9.96961944355612,"synth_conditional"
+"194",1,"IV: 
+afspraak_galo_gesprek: 5
+",1247,9.96961944355612,"synth_conditional"
+"195",1,"IV: 
+afspraak_galo_gesprek: 6
+",1246,9.96162456028142,"synth_conditional"
+"196",1,"IV: 
+afspraak_galo_gesprek: 7
+",1247,9.96961944355612,"synth_conditional"
+"197",1,"IV: 
+afspraak_galo_gesprek: 8
+",1246,9.96162456028142,"synth_conditional"
+"198",2,"IV: 
+afspraak_galo_gesprek: 0
+",1280,10.2334505916214,"synth_conditional"
+"199",2,"IV: 
+afspraak_galo_gesprek: 1
+",1266,10.1215222257755,"synth_conditional"
+"200",2,"IV: 
+afspraak_galo_gesprek: 2
+",1251,10.0015989766549,"synth_conditional"
+"201",2,"IV: 
+afspraak_galo_gesprek: 3
+",1244,9.94563479373201,"synth_conditional"
+"202",2,"IV: 
+afspraak_galo_gesprek: 4
+",1243,9.93763991045731,"synth_conditional"
+"203",2,"IV: 
+afspraak_galo_gesprek: 5
+",1243,9.93763991045731,"synth_conditional"
+"204",2,"IV: 
+afspraak_galo_gesprek: 6
+",1244,9.94563479373201,"synth_conditional"
+"205",2,"IV: 
+afspraak_galo_gesprek: 7
+",1243,9.93763991045731,"synth_conditional"
+"206",2,"IV: 
+afspraak_galo_gesprek: 8
+",1244,9.94563479373201,"synth_conditional"
+"207",3,"IV: 
+afspraak_galo_gesprek: 0
+",1250,9.99360409338024,"synth_conditional"
+"208",3,"IV: 
+afspraak_galo_gesprek: 1
+",1246,9.96162456028142,"synth_conditional"
+"209",3,"IV: 
+afspraak_galo_gesprek: 2
+",1249,9.98560921010553,"synth_conditional"
+"210",3,"IV: 
+afspraak_galo_gesprek: 3
+",1252,10.0095938599296,"synth_conditional"
+"211",3,"IV: 
+afspraak_galo_gesprek: 4
+",1252,10.0095938599296,"synth_conditional"
+"212",3,"IV: 
+afspraak_galo_gesprek: 5
+",1252,10.0095938599296,"synth_conditional"
+"213",3,"IV: 
+afspraak_galo_gesprek: 6
+",1252,10.0095938599296,"synth_conditional"
+"214",3,"IV: 
+afspraak_galo_gesprek: 7
+",1252,10.0095938599296,"synth_conditional"
+"215",3,"IV: 
+afspraak_galo_gesprek: 8
+",1252,10.0095938599296,"synth_conditional"
+"216",4,"IV: 
+afspraak_galo_gesprek: 0
+",1269,10.1455068755996,"synth_conditional"
+"217",4,"IV: 
+afspraak_galo_gesprek: 1
+",1247,9.96961944355612,"synth_conditional"
+"218",4,"IV: 
+afspraak_galo_gesprek: 2
+",1248,9.97761432683083,"synth_conditional"
+"219",4,"IV: 
+afspraak_galo_gesprek: 3
+",1248,9.97761432683083,"synth_conditional"
+"220",4,"IV: 
+afspraak_galo_gesprek: 4
+",1249,9.98560921010553,"synth_conditional"
+"221",4,"IV: 
+afspraak_galo_gesprek: 5
+",1249,9.98560921010553,"synth_conditional"
+"222",4,"IV: 
+afspraak_galo_gesprek: 6
+",1249,9.98560921010553,"synth_conditional"
+"223",4,"IV: 
+afspraak_galo_gesprek: 7
+",1249,9.98560921010553,"synth_conditional"
+"224",4,"IV: 
+afspraak_galo_gesprek: 8
+",1249,9.98560921010553,"synth_conditional"
+"225",5,"IV: 
+afspraak_galo_gesprek: 0
+",1239,9.90566037735849,"synth_conditional"
+"226",5,"IV: 
+afspraak_galo_gesprek: 1
+",1246,9.96162456028142,"synth_conditional"
+"227",5,"IV: 
+afspraak_galo_gesprek: 2
+",1250,9.99360409338024,"synth_conditional"
+"228",5,"IV: 
+afspraak_galo_gesprek: 3
+",1254,10.0255836264791,"synth_conditional"
+"229",5,"IV: 
+afspraak_galo_gesprek: 4
+",1254,10.0255836264791,"synth_conditional"
+"230",5,"IV: 
+afspraak_galo_gesprek: 5
+",1254,10.0255836264791,"synth_conditional"
+"231",5,"IV: 
+afspraak_galo_gesprek: 6
+",1253,10.0175887432043,"synth_conditional"
+"232",5,"IV: 
+afspraak_galo_gesprek: 7
+",1254,10.0255836264791,"synth_conditional"
+"233",5,"IV: 
+afspraak_galo_gesprek: 8
+",1253,10.0175887432043,"synth_conditional"
+"234",6,"IV: 
+afspraak_galo_gesprek: 0
+",1258,10.0575631595779,"synth_conditional"
+"235",6,"IV: 
+afspraak_galo_gesprek: 1
+",1250,9.99360409338024,"synth_conditional"
+"236",6,"IV: 
+afspraak_galo_gesprek: 2
+",1252,10.0095938599296,"synth_conditional"
+"237",6,"IV: 
+afspraak_galo_gesprek: 3
+",1250,9.99360409338024,"synth_conditional"
+"238",6,"IV: 
+afspraak_galo_gesprek: 4
+",1249,9.98560921010553,"synth_conditional"
+"239",6,"IV: 
+afspraak_galo_gesprek: 5
+",1249,9.98560921010553,"synth_conditional"
+"240",6,"IV: 
+afspraak_galo_gesprek: 6
+",1250,9.99360409338024,"synth_conditional"
+"241",6,"IV: 
+afspraak_galo_gesprek: 7
+",1249,9.98560921010553,"synth_conditional"
+"242",6,"IV: 
+afspraak_galo_gesprek: 8
+",1250,9.99360409338024,"synth_conditional"
+"243",7,"IV: 
+afspraak_galo_gesprek: 0
+",1238,9.89766549408379,"synth_conditional"
+"244",7,"IV: 
+afspraak_galo_gesprek: 1
+",1249,9.98560921010553,"synth_conditional"
+"245",7,"IV: 
+afspraak_galo_gesprek: 2
+",1250,9.99360409338024,"synth_conditional"
+"246",7,"IV: 
+afspraak_galo_gesprek: 3
+",1253,10.0175887432043,"synth_conditional"
+"247",7,"IV: 
+afspraak_galo_gesprek: 4
+",1253,10.0175887432043,"synth_conditional"
+"248",7,"IV: 
+afspraak_galo_gesprek: 5
+",1254,10.0255836264791,"synth_conditional"
+"249",7,"IV: 
+afspraak_galo_gesprek: 6
+",1253,10.0175887432043,"synth_conditional"
+"250",7,"IV: 
+afspraak_galo_gesprek: 7
+",1254,10.0255836264791,"synth_conditional"
+"251",7,"IV: 
+afspraak_galo_gesprek: 8
+",1253,10.0175887432043,"synth_conditional"
+"252",8,"IV: 
+afspraak_galo_gesprek: 0
+",1243,9.93763991045731,"synth_conditional"
+"253",8,"IV: 
+afspraak_galo_gesprek: 1
+",1250,9.99360409338024,"synth_conditional"
+"254",8,"IV: 
+afspraak_galo_gesprek: 2
+",1250,9.99360409338024,"synth_conditional"
+"255",8,"IV: 
+afspraak_galo_gesprek: 3
+",1252,10.0095938599296,"synth_conditional"
+"256",8,"IV: 
+afspraak_galo_gesprek: 4
+",1253,10.0175887432043,"synth_conditional"
+"257",8,"IV: 
+afspraak_galo_gesprek: 5
+",1252,10.0095938599296,"synth_conditional"
+"258",8,"IV: 
+afspraak_galo_gesprek: 6
+",1253,10.0175887432043,"synth_conditional"
+"259",8,"IV: 
+afspraak_galo_gesprek: 7
+",1252,10.0095938599296,"synth_conditional"
+"260",8,"IV: 
+afspraak_galo_gesprek: 8
+",1252,10.0095938599296,"synth_conditional"
+"261",9,"IV: 
+afspraak_galo_gesprek: 0
+",1253,10.0175887432043,"synth_conditional"
+"262",9,"IV: 
+afspraak_galo_gesprek: 1
+",1244,9.94563479373201,"synth_conditional"
+"263",9,"IV: 
+afspraak_galo_gesprek: 2
+",1249,9.98560921010553,"synth_conditional"
+"264",9,"IV: 
+afspraak_galo_gesprek: 3
+",1252,10.0095938599296,"synth_conditional"
+"265",9,"IV: 
+afspraak_galo_gesprek: 4
+",1252,10.0095938599296,"synth_conditional"
+"266",9,"IV: 
+afspraak_galo_gesprek: 5
+",1252,10.0095938599296,"synth_conditional"
+"267",9,"IV: 
+afspraak_galo_gesprek: 6
+",1251,10.0015989766549,"synth_conditional"
+"268",9,"IV: 
+afspraak_galo_gesprek: 7
+",1252,10.0095938599296,"synth_conditional"
+"269",9,"IV: 
+afspraak_galo_gesprek: 8
+",1252,10.0095938599296,"synth_conditional"
+"270",10,"IV: 
+afspraak_galo_gesprek: 0
+",1212,9.68979852894148,"synth_conditional"
+"271",10,"IV: 
+afspraak_galo_gesprek: 1
+",1253,10.0175887432043,"synth_conditional"
+"272",10,"IV: 
+afspraak_galo_gesprek: 2
+",1254,10.0255836264791,"synth_conditional"
+"273",10,"IV: 
+afspraak_galo_gesprek: 3
+",1256,10.0415733930285,"synth_conditional"
+"274",10,"IV: 
+afspraak_galo_gesprek: 4
+",1256,10.0415733930285,"synth_conditional"
+"275",10,"IV: 
+afspraak_galo_gesprek: 5
+",1256,10.0415733930285,"synth_conditional"
+"276",10,"IV: 
+afspraak_galo_gesprek: 6
+",1257,10.0495682763032,"synth_conditional"
+"277",10,"IV: 
+afspraak_galo_gesprek: 7
+",1256,10.0415733930285,"synth_conditional"
+"278",10,"IV: 
+afspraak_galo_gesprek: 8
+",1257,10.0495682763032,"synth_conditional"

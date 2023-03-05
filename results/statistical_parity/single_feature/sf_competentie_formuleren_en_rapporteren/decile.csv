@@ -1,0 +1,409 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1242,12.3019017432647,"real"
+"2",1,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",23,0.915240748109829,"real"
+"3",2,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1175,11.6382725832013,"real"
+"4",2,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",90,3.58137684042977,"real"
+"5",3,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1093,10.8260697305864,"real"
+"6",3,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",169,6.725029844807,"real"
+"7",3,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",3,8.57142857142857,"real"
+"8",4,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1012,10.0237717908082,"real"
+"9",4,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",249,9.90847592518902,"real"
+"10",4,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",4,11.4285714285714,"real"
+"11",5,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",976,9.66719492868463,"real"
+"12",5,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",288,11.4604058893752,"real"
+"13",5,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1,2.85714285714286,"real"
+"14",6,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",971,9.61767036450079,"real"
+"15",6,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",292,11.6195781933944,"real"
+"16",6,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1,2.85714285714286,"real"
+"17",7,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",948,9.38985736925515,"real"
+"18",7,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",312,12.4154397134899,"real"
+"19",7,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",4,11.4285714285714,"real"
+"20",8,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",929,9.20166402535658,"real"
+"21",8,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",331,13.1715081575806,"real"
+"22",8,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",4,11.4285714285714,"real"
+"23",9,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",915,9.06299524564184,"real"
+"24",9,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",342,13.6092319936331,"real"
+"25",9,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",7,20,"real"
+"26",10,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",835,8.27060221870047,"real"
+"27",10,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",417,16.5937126939912,"real"
+"28",10,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",11,31.4285714285714,"real"
+"29",10,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1,100,"real"
+"30",1,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1237,9.78252273625939,"real_conditional"
+"31",1,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1231,9.73507315144326,"real_conditional"
+"32",1,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1295,10.2412020561487,"real_conditional"
+"33",1,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1295,10.2412020561487,"real_conditional"
+"34",2,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1258,9.94859628311586,"real_conditional"
+"35",2,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1258,9.94859628311586,"real_conditional"
+"36",2,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1271,10.0514037168841,"real_conditional"
+"37",2,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1271,10.0514037168841,"real_conditional"
+"38",3,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1258,9.94859628311586,"real_conditional"
+"39",3,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1257,9.94068801897983,"real_conditional"
+"40",3,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1272,10.0593119810202,"real_conditional"
+"41",3,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1271,10.0514037168841,"real_conditional"
+"42",4,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1266,10.011862396204,"real_conditional"
+"43",4,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1267,10.0197706603401,"real_conditional"
+"44",4,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1262,9.98022933965994,"real_conditional"
+"45",4,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1263,9.98813760379597,"real_conditional"
+"46",5,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1276,10.0909450375643,"real_conditional"
+"47",5,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1271,10.0514037168841,"real_conditional"
+"48",5,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1256,9.93277975484381,"real_conditional"
+"49",5,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1255,9.92487149070779,"real_conditional"
+"50",6,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1272,10.0593119810202,"real_conditional"
+"51",6,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1275,10.0830367734282,"real_conditional"
+"52",6,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1255,9.92487149070779,"real_conditional"
+"53",6,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1256,9.93277975484381,"real_conditional"
+"54",7,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1264,9.99604586793199,"real_conditional"
+"55",7,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1260,9.9644128113879,"real_conditional"
+"56",7,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1267,10.0197706603401,"real_conditional"
+"57",7,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1267,10.0197706603401,"real_conditional"
+"58",8,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1275,10.0830367734282,"real_conditional"
+"59",8,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1276,10.0909450375643,"real_conditional"
+"60",8,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1254,9.91696322657177,"real_conditional"
+"61",8,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1253,9.90905496243574,"real_conditional"
+"62",9,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1269,10.0355871886121,"real_conditional"
+"63",9,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1276,10.0909450375643,"real_conditional"
+"64",9,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1256,9.93277975484381,"real_conditional"
+"65",9,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1257,9.94068801897983,"real_conditional"
+"66",10,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1270,10.0434954527481,"real_conditional"
+"67",10,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1274,10.0751285092922,"real_conditional"
+"68",10,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1257,9.94068801897983,"real_conditional"
+"69",10,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1257,9.94068801897983,"real_conditional"
+"70",1,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1039,11.2287906624878,"synth"
+"71",1,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",226,6.68243642814902,"synth"
+"72",2,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",998,10.785691127202,"synth"
+"73",2,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",266,7.86516853932584,"synth"
+"74",2,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1,10,"synth"
+"75",3,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",978,10.5695450124284,"synth"
+"76",3,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",286,8.45653459491425,"synth"
+"77",3,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1,10,"synth"
+"78",4,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",926,10.0075651140171,"synth"
+"79",4,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",336,9.93494973388528,"synth"
+"80",4,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",3,30,"synth"
+"81",5,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",954,10.3101696747001,"synth"
+"82",5,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",311,9.19574216439976,"synth"
+"83",6,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",885,9.56446557873122,"synth"
+"84",6,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",378,11.1768184506209,"synth"
+"85",6,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1,10,"synth"
+"86",7,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",894,9.66173133037934,"synth"
+"87",7,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",370,10.9402720283856,"synth"
+"88",8,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",905,9.78061169350481,"synth"
+"89",8,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",358,10.5854523950325,"synth"
+"90",8,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1,10,"synth"
+"91",9,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",848,9.16459526640009,"synth"
+"92",9,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",414,12.2412773506801,"synth"
+"93",9,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",2,20,"synth"
+"94",10,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",826,8.92683454014914,"synth"
+"95",10,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",437,12.9213483146067,"synth"
+"96",10,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1,10,"synth"
+"97",1,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1245,9.95362967700671,"synth_conditional"
+"98",1,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1241,9.9216501439079,"synth_conditional"
+"99",1,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1259,10.0655580428526,"synth_conditional"
+"100",1,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1259,10.0655580428526,"synth_conditional"
+"101",2,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1258,10.0575631595779,"synth_conditional"
+"102",2,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1248,9.97761432683083,"synth_conditional"
+"103",2,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1249,9.98560921010553,"synth_conditional"
+"104",2,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1249,9.98560921010553,"synth_conditional"
+"105",3,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1248,9.97761432683083,"synth_conditional"
+"106",3,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1253,10.0175887432043,"synth_conditional"
+"107",3,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1251,10.0015989766549,"synth_conditional"
+"108",3,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1251,10.0015989766549,"synth_conditional"
+"109",4,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1251,10.0015989766549,"synth_conditional"
+"110",4,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1250,9.99360409338024,"synth_conditional"
+"111",4,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1251,10.0015989766549,"synth_conditional"
+"112",4,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1251,10.0015989766549,"synth_conditional"
+"113",5,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1260,10.0735529261273,"synth_conditional"
+"114",5,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1251,10.0015989766549,"synth_conditional"
+"115",5,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1246,9.96162456028142,"synth_conditional"
+"116",5,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1246,9.96162456028142,"synth_conditional"
+"117",6,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1254,10.0255836264791,"synth_conditional"
+"118",6,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1253,10.0175887432043,"synth_conditional"
+"119",6,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1248,9.97761432683083,"synth_conditional"
+"120",6,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1248,9.97761432683083,"synth_conditional"
+"121",7,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1245,9.95362967700671,"synth_conditional"
+"122",7,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1248,9.97761432683083,"synth_conditional"
+"123",7,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1255,10.0335785097538,"synth_conditional"
+"124",7,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1255,10.0335785097538,"synth_conditional"
+"125",8,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1252,10.0095938599296,"synth_conditional"
+"126",8,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1254,10.0255836264791,"synth_conditional"
+"127",8,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1249,9.98560921010553,"synth_conditional"
+"128",8,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1248,9.97761432683083,"synth_conditional"
+"129",9,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1248,9.97761432683083,"synth_conditional"
+"130",9,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1254,10.0255836264791,"synth_conditional"
+"131",9,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1250,9.99360409338024,"synth_conditional"
+"132",9,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1251,10.0015989766549,"synth_conditional"
+"133",10,"IV: 
+competentie_formuleren_en_rapporteren: 0
+",1247,9.96961944355612,"synth_conditional"
+"134",10,"IV: 
+competentie_formuleren_en_rapporteren: 1
+",1256,10.0415733930285,"synth_conditional"
+"135",10,"IV: 
+competentie_formuleren_en_rapporteren: 2
+",1250,9.99360409338024,"synth_conditional"
+"136",10,"IV: 
+competentie_formuleren_en_rapporteren: 3
+",1250,9.99360409338024,"synth_conditional"

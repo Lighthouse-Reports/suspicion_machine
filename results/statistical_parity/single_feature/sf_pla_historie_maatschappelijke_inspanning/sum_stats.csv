@@ -1,0 +1,25 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+pla_historie_maatschappelijke_inspanning: 0
+","Ja",7559,0.525,0.148,0.138907262865458,0.351104643471359,3.89072628654584,25.1104643471359,"real"
+"2","IV: 
+pla_historie_maatschappelijke_inspanning: 1
+","Ja",5086,0.436,0.146,0.0422729060165159,0.179315768777035,-5.77270939834841,7.9315768777035,"real"
+"3","IV: 
+pla_historie_maatschappelijke_inspanning: 0
+","Ja",12645,0.489,0.153,0.0997232107552392,0.281771451166469,-0.0276789244760794,18.1771451166469,"real_conditional"
+"4","IV: 
+pla_historie_maatschappelijke_inspanning: 1
+","Ja",12645,0.489,0.153,0.100197706603401,0.28200869909055,0.0197706603400558,18.200869909055,"real_conditional"
+"5","IV: 
+pla_historie_maatschappelijke_inspanning: 0
+","Ja",6832,0.623,0.082,0.122218969555035,0.692330210772834,2.22189695550351,59.2330210772834,"synth"
+"6","IV: 
+pla_historie_maatschappelijke_inspanning: 1
+","Ja",5813,0.599,0.087,0.0739721314295544,0.581283330466196,-2.60278685704456,48.1283330466196,"synth"
+"7","IV: 
+pla_historie_maatschappelijke_inspanning: 0
+","Ja",12508,0.612,0.085,0.100255836264791,0.641669331627758,0.0255836264790532,54.1669331627758,"synth_conditional"
+"8","IV: 
+pla_historie_maatschappelijke_inspanning: 1
+","Ja",12508,0.612,0.085,0.099296450271826,0.640709945634794,-0.0703549728173977,54.0709945634794,"synth_conditional"

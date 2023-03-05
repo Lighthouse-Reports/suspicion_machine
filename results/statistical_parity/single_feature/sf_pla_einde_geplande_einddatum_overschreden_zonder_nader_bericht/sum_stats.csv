@@ -1,0 +1,46 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+","Ja",10199,0.499,0.152,0.10903029708795,0.299931365820178,0.903029708794979,19.9931365820178,"real"
+"2","IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+","Ja",2196,0.45,0.153,0.0655737704918033,0.211748633879781,-3.44262295081967,11.1748633879781,"real"
+"3","IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+","Ja",237,0.439,0.141,0.0379746835443038,0.164556962025316,-6.20253164556962,6.45569620253164,"real"
+"4","IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+","Ja",13,0.508,0.114,0,0.230769230769231,-10,13.0769230769231,"real"
+"5","IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+","Ja",12645,0.489,0.153,0.100276789244761,0.28208778173191,0.0276789244760767,18.208778173191,"real_conditional"
+"6","IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+","Ja",12645,0.489,0.153,0.0991696322657177,0.280743376828786,-0.0830367734282328,18.0743376828786,"real_conditional"
+"7","IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+","Ja",12645,0.489,0.153,0.0991696322657177,0.280743376828786,-0.0830367734282328,18.0743376828786,"real_conditional"
+"8","IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+","Ja",12645,0.489,0.153,0.0991696322657177,0.280743376828786,-0.0830367734282328,18.0743376828786,"real_conditional"
+"9","IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+","Ja",8255,0.615,0.084,0.106602059357965,0.659479103573592,0.660205935796486,55.9479103573592,"synth"
+"10","IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+","Ja",4331,0.605,0.086,0.0879704456245671,0.60678827060725,-1.20295543754329,50.678827060725,"synth"
+"11","IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+","Ja",59,0.604,0.084,0.0677966101694915,0.627118644067797,-3.22033898305085,52.7118644067797,"synth"
+"12","IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+","Ja",12508,0.612,0.085,0.100575631595779,0.641509433962264,0.0575631595778697,54.1509433962264,"synth_conditional"
+"13","IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+","Ja",12508,0.611,0.085,0.0977774224496322,0.638231531819635,-0.222257755036777,53.8231531819635,"synth_conditional"
+"14","IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+","Ja",12508,0.611,0.085,0.0977774224496322,0.638231531819635,-0.222257755036777,53.8231531819635,"synth_conditional"
+"15","IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+","Ja",12508,0.611,0.085,0.0977774224496322,0.638231531819635,-0.222257755036777,53.8231531819635,"synth_conditional"

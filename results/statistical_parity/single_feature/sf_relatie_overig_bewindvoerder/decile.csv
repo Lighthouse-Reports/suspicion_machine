@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+relatie_overig_bewindvoerder: 0
+",1241,10.2064314499548,"real"
+"2",1,"IV: 
+relatie_overig_bewindvoerder: 1
+",24,4.93827160493827,"real"
+"3",2,"IV: 
+relatie_overig_bewindvoerder: 0
+",1224,10.0666173205033,"real"
+"4",2,"IV: 
+relatie_overig_bewindvoerder: 1
+",41,8.43621399176955,"real"
+"5",3,"IV: 
+relatie_overig_bewindvoerder: 0
+",1206,9.91857883049593,"real"
+"6",3,"IV: 
+relatie_overig_bewindvoerder: 1
+",59,12.1399176954733,"real"
+"7",4,"IV: 
+relatie_overig_bewindvoerder: 0
+",1219,10.0254955177235,"real"
+"8",4,"IV: 
+relatie_overig_bewindvoerder: 1
+",46,9.46502057613169,"real"
+"9",5,"IV: 
+relatie_overig_bewindvoerder: 0
+",1199,9.86100830660416,"real"
+"10",5,"IV: 
+relatie_overig_bewindvoerder: 1
+",66,13.5802469135802,"real"
+"11",6,"IV: 
+relatie_overig_bewindvoerder: 0
+",1197,9.84455958549223,"real"
+"12",6,"IV: 
+relatie_overig_bewindvoerder: 1
+",67,13.7860082304527,"real"
+"13",7,"IV: 
+relatie_overig_bewindvoerder: 0
+",1198,9.85278394604819,"real"
+"14",7,"IV: 
+relatie_overig_bewindvoerder: 1
+",66,13.5802469135802,"real"
+"15",8,"IV: 
+relatie_overig_bewindvoerder: 0
+",1210,9.9514762727198,"real"
+"16",8,"IV: 
+relatie_overig_bewindvoerder: 1
+",54,11.1111111111111,"real"
+"17",9,"IV: 
+relatie_overig_bewindvoerder: 0
+",1214,9.98437371494366,"real"
+"18",9,"IV: 
+relatie_overig_bewindvoerder: 1
+",50,10.2880658436214,"real"
+"19",10,"IV: 
+relatie_overig_bewindvoerder: 0
+",1251,10.2886750555144,"real"
+"20",10,"IV: 
+relatie_overig_bewindvoerder: 1
+",13,2.67489711934156,"real"
+"21",1,"IV: 
+relatie_overig_bewindvoerder: 0
+",1201,9.49782522736259,"real_conditional"
+"22",1,"IV: 
+relatie_overig_bewindvoerder: 1
+",1328,10.5021747726374,"real_conditional"
+"23",2,"IV: 
+relatie_overig_bewindvoerder: 0
+",1243,9.82997232107552,"real_conditional"
+"24",2,"IV: 
+relatie_overig_bewindvoerder: 1
+",1286,10.1700276789245,"real_conditional"
+"25",3,"IV: 
+relatie_overig_bewindvoerder: 0
+",1228,9.71134835903519,"real_conditional"
+"26",3,"IV: 
+relatie_overig_bewindvoerder: 1
+",1301,10.2886516409648,"real_conditional"
+"27",4,"IV: 
+relatie_overig_bewindvoerder: 0
+",1249,9.87742190589166,"real_conditional"
+"28",4,"IV: 
+relatie_overig_bewindvoerder: 1
+",1280,10.1225780941083,"real_conditional"
+"29",5,"IV: 
+relatie_overig_bewindvoerder: 0
+",1239,9.79833926453144,"real_conditional"
+"30",5,"IV: 
+relatie_overig_bewindvoerder: 1
+",1290,10.2016607354686,"real_conditional"
+"31",6,"IV: 
+relatie_overig_bewindvoerder: 0
+",1286,10.1700276789245,"real_conditional"
+"32",6,"IV: 
+relatie_overig_bewindvoerder: 1
+",1243,9.82997232107552,"real_conditional"
+"33",7,"IV: 
+relatie_overig_bewindvoerder: 0
+",1235,9.76670620798735,"real_conditional"
+"34",7,"IV: 
+relatie_overig_bewindvoerder: 1
+",1294,10.2332937920127,"real_conditional"
+"35",8,"IV: 
+relatie_overig_bewindvoerder: 0
+",1284,10.1542111506524,"real_conditional"
+"36",8,"IV: 
+relatie_overig_bewindvoerder: 1
+",1245,9.84578884934757,"real_conditional"
+"37",9,"IV: 
+relatie_overig_bewindvoerder: 0
+",1319,10.4310003954132,"real_conditional"
+"38",9,"IV: 
+relatie_overig_bewindvoerder: 1
+",1210,9.56899960458679,"real_conditional"
+"39",10,"IV: 
+relatie_overig_bewindvoerder: 0
+",1361,10.7631474891261,"real_conditional"
+"40",10,"IV: 
+relatie_overig_bewindvoerder: 1
+",1168,9.23685251087386,"real_conditional"
+"41",1,"IV: 
+relatie_overig_bewindvoerder: 0
+",1252,9.99600798403194,"synth"
+"42",1,"IV: 
+relatie_overig_bewindvoerder: 1
+",13,10.8333333333333,"synth"
+"43",2,"IV: 
+relatie_overig_bewindvoerder: 0
+",1251,9.98802395209581,"synth"
+"44",2,"IV: 
+relatie_overig_bewindvoerder: 1
+",14,11.6666666666667,"synth"
+"45",3,"IV: 
+relatie_overig_bewindvoerder: 0
+",1255,10.0199600798403,"synth"
+"46",3,"IV: 
+relatie_overig_bewindvoerder: 1
+",10,8.33333333333333,"synth"
+"47",4,"IV: 
+relatie_overig_bewindvoerder: 0
+",1252,9.99600798403194,"synth"
+"48",4,"IV: 
+relatie_overig_bewindvoerder: 1
+",13,10.8333333333333,"synth"
+"49",5,"IV: 
+relatie_overig_bewindvoerder: 0
+",1253,10.0039920159681,"synth"
+"50",5,"IV: 
+relatie_overig_bewindvoerder: 1
+",12,10,"synth"
+"51",6,"IV: 
+relatie_overig_bewindvoerder: 0
+",1250,9.98003992015968,"synth"
+"52",6,"IV: 
+relatie_overig_bewindvoerder: 1
+",14,11.6666666666667,"synth"
+"53",7,"IV: 
+relatie_overig_bewindvoerder: 0
+",1246,9.94810379241517,"synth"
+"54",7,"IV: 
+relatie_overig_bewindvoerder: 1
+",18,15,"synth"
+"55",8,"IV: 
+relatie_overig_bewindvoerder: 0
+",1258,10.0439121756487,"synth"
+"56",8,"IV: 
+relatie_overig_bewindvoerder: 1
+",6,5,"synth"
+"57",9,"IV: 
+relatie_overig_bewindvoerder: 0
+",1255,10.0199600798403,"synth"
+"58",9,"IV: 
+relatie_overig_bewindvoerder: 1
+",9,7.5,"synth"
+"59",10,"IV: 
+relatie_overig_bewindvoerder: 0
+",1253,10.0039920159681,"synth"
+"60",10,"IV: 
+relatie_overig_bewindvoerder: 1
+",11,9.16666666666667,"synth"
+"61",1,"IV: 
+relatie_overig_bewindvoerder: 0
+",1152,9.21010553245923,"synth_conditional"
+"62",1,"IV: 
+relatie_overig_bewindvoerder: 1
+",1350,10.7930924208507,"synth_conditional"
+"63",2,"IV: 
+relatie_overig_bewindvoerder: 0
+",1151,9.20211064918452,"synth_conditional"
+"64",2,"IV: 
+relatie_overig_bewindvoerder: 1
+",1351,10.8010873041254,"synth_conditional"
+"65",3,"IV: 
+relatie_overig_bewindvoerder: 0
+",1176,9.40198273105213,"synth_conditional"
+"66",3,"IV: 
+relatie_overig_bewindvoerder: 1
+",1326,10.6012152222578,"synth_conditional"
+"67",4,"IV: 
+relatie_overig_bewindvoerder: 0
+",1181,9.44195714742565,"synth_conditional"
+"68",4,"IV: 
+relatie_overig_bewindvoerder: 1
+",1321,10.5612408058842,"synth_conditional"
+"69",5,"IV: 
+relatie_overig_bewindvoerder: 0
+",1220,9.75375759513911,"synth_conditional"
+"70",5,"IV: 
+relatie_overig_bewindvoerder: 1
+",1282,10.2494403581708,"synth_conditional"
+"71",6,"IV: 
+relatie_overig_bewindvoerder: 0
+",1259,10.0655580428526,"synth_conditional"
+"72",6,"IV: 
+relatie_overig_bewindvoerder: 1
+",1243,9.93763991045731,"synth_conditional"
+"73",7,"IV: 
+relatie_overig_bewindvoerder: 0
+",1247,9.96961944355612,"synth_conditional"
+"74",7,"IV: 
+relatie_overig_bewindvoerder: 1
+",1254,10.0255836264791,"synth_conditional"
+"75",8,"IV: 
+relatie_overig_bewindvoerder: 0
+",1323,10.5772305724336,"synth_conditional"
+"76",8,"IV: 
+relatie_overig_bewindvoerder: 1
+",1178,9.41797249760154,"synth_conditional"
+"77",9,"IV: 
+relatie_overig_bewindvoerder: 0
+",1356,10.8410617204989,"synth_conditional"
+"78",9,"IV: 
+relatie_overig_bewindvoerder: 1
+",1145,9.1541413495363,"synth_conditional"
+"79",10,"IV: 
+relatie_overig_bewindvoerder: 0
+",1443,11.5366165653981,"synth_conditional"
+"80",10,"IV: 
+relatie_overig_bewindvoerder: 1
+",1058,8.45858650463703,"synth_conditional"

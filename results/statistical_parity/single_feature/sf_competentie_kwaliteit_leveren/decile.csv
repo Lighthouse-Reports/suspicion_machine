@@ -1,0 +1,424 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+competentie_kwaliteit_leveren: 0
+",1225,14.6601244614648,"real"
+"2",1,"IV: 
+competentie_kwaliteit_leveren: 1
+",40,0.952834683182468,"real"
+"3",2,"IV: 
+competentie_kwaliteit_leveren: 0
+",1115,13.343705122068,"real"
+"4",2,"IV: 
+competentie_kwaliteit_leveren: 1
+",149,3.54930919485469,"real"
+"5",2,"IV: 
+competentie_kwaliteit_leveren: 2
+",1,1.12359550561798,"real"
+"6",3,"IV: 
+competentie_kwaliteit_leveren: 0
+",972,11.6323599808521,"real"
+"7",3,"IV: 
+competentie_kwaliteit_leveren: 1
+",290,6.90805145307289,"real"
+"8",3,"IV: 
+competentie_kwaliteit_leveren: 2
+",3,3.37078651685393,"real"
+"9",4,"IV: 
+competentie_kwaliteit_leveren: 0
+",841,10.0646242221158,"real"
+"10",4,"IV: 
+competentie_kwaliteit_leveren: 1
+",420,10.0047641734159,"real"
+"11",4,"IV: 
+competentie_kwaliteit_leveren: 2
+",4,4.49438202247191,"real"
+"12",5,"IV: 
+competentie_kwaliteit_leveren: 0
+",791,9.46625179511728,"real"
+"13",5,"IV: 
+competentie_kwaliteit_leveren: 1
+",470,11.195807527394,"real"
+"14",5,"IV: 
+competentie_kwaliteit_leveren: 2
+",4,4.49438202247191,"real"
+"15",6,"IV: 
+competentie_kwaliteit_leveren: 0
+",777,9.29870751555768,"real"
+"16",6,"IV: 
+competentie_kwaliteit_leveren: 1
+",481,11.4578370652692,"real"
+"17",6,"IV: 
+competentie_kwaliteit_leveren: 2
+",6,6.74157303370786,"real"
+"18",7,"IV: 
+competentie_kwaliteit_leveren: 0
+",713,8.53279080899952,"real"
+"19",7,"IV: 
+competentie_kwaliteit_leveren: 1
+",539,12.8394473558838,"real"
+"20",7,"IV: 
+competentie_kwaliteit_leveren: 2
+",12,13.4831460674157,"real"
+"21",8,"IV: 
+competentie_kwaliteit_leveren: 0
+",736,8.80804212541886,"real"
+"22",8,"IV: 
+competentie_kwaliteit_leveren: 1
+",519,12.3630300142925,"real"
+"23",8,"IV: 
+competentie_kwaliteit_leveren: 2
+",9,10.1123595505618,"real"
+"24",9,"IV: 
+competentie_kwaliteit_leveren: 0
+",639,7.64719961704165,"real"
+"25",9,"IV: 
+competentie_kwaliteit_leveren: 1
+",608,14.4830871843735,"real"
+"26",9,"IV: 
+competentie_kwaliteit_leveren: 2
+",17,19.1011235955056,"real"
+"27",10,"IV: 
+competentie_kwaliteit_leveren: 0
+",547,6.54619435136429,"real"
+"28",10,"IV: 
+competentie_kwaliteit_leveren: 1
+",682,16.2458313482611,"real"
+"29",10,"IV: 
+competentie_kwaliteit_leveren: 2
+",33,37.0786516853933,"real"
+"30",10,"IV: 
+competentie_kwaliteit_leveren: 3
+",2,100,"real"
+"31",1,"IV: 
+competentie_kwaliteit_leveren: 0
+",1341,10.6049822064057,"real_conditional"
+"32",1,"IV: 
+competentie_kwaliteit_leveren: 1
+",1239,9.79833926453144,"real_conditional"
+"33",1,"IV: 
+competentie_kwaliteit_leveren: 2
+",1239,9.79833926453144,"real_conditional"
+"34",1,"IV: 
+competentie_kwaliteit_leveren: 3
+",1239,9.79833926453144,"real_conditional"
+"35",2,"IV: 
+competentie_kwaliteit_leveren: 0
+",1272,10.0593119810202,"real_conditional"
+"36",2,"IV: 
+competentie_kwaliteit_leveren: 1
+",1262,9.98022933965994,"real_conditional"
+"37",2,"IV: 
+competentie_kwaliteit_leveren: 2
+",1262,9.98022933965994,"real_conditional"
+"38",2,"IV: 
+competentie_kwaliteit_leveren: 3
+",1262,9.98022933965994,"real_conditional"
+"39",3,"IV: 
+competentie_kwaliteit_leveren: 0
+",1268,10.0276789244761,"real_conditional"
+"40",3,"IV: 
+competentie_kwaliteit_leveren: 1
+",1264,9.99604586793199,"real_conditional"
+"41",3,"IV: 
+competentie_kwaliteit_leveren: 2
+",1263,9.98813760379597,"real_conditional"
+"42",3,"IV: 
+competentie_kwaliteit_leveren: 3
+",1263,9.98813760379597,"real_conditional"
+"43",4,"IV: 
+competentie_kwaliteit_leveren: 0
+",1252,9.90114669829972,"real_conditional"
+"44",4,"IV: 
+competentie_kwaliteit_leveren: 1
+",1268,10.0276789244761,"real_conditional"
+"45",4,"IV: 
+competentie_kwaliteit_leveren: 2
+",1269,10.0355871886121,"real_conditional"
+"46",4,"IV: 
+competentie_kwaliteit_leveren: 3
+",1269,10.0355871886121,"real_conditional"
+"47",5,"IV: 
+competentie_kwaliteit_leveren: 0
+",1266,10.011862396204,"real_conditional"
+"48",5,"IV: 
+competentie_kwaliteit_leveren: 1
+",1264,9.99604586793199,"real_conditional"
+"49",5,"IV: 
+competentie_kwaliteit_leveren: 2
+",1264,9.99604586793199,"real_conditional"
+"50",5,"IV: 
+competentie_kwaliteit_leveren: 3
+",1264,9.99604586793199,"real_conditional"
+"51",6,"IV: 
+competentie_kwaliteit_leveren: 0
+",1230,9.72716488730724,"real_conditional"
+"52",6,"IV: 
+competentie_kwaliteit_leveren: 1
+",1276,10.0909450375643,"real_conditional"
+"53",6,"IV: 
+competentie_kwaliteit_leveren: 2
+",1276,10.0909450375643,"real_conditional"
+"54",6,"IV: 
+competentie_kwaliteit_leveren: 3
+",1276,10.0909450375643,"real_conditional"
+"55",7,"IV: 
+competentie_kwaliteit_leveren: 0
+",1264,9.99604586793199,"real_conditional"
+"56",7,"IV: 
+competentie_kwaliteit_leveren: 1
+",1265,10.003954132068,"real_conditional"
+"57",7,"IV: 
+competentie_kwaliteit_leveren: 2
+",1265,10.003954132068,"real_conditional"
+"58",7,"IV: 
+competentie_kwaliteit_leveren: 3
+",1264,9.99604586793199,"real_conditional"
+"59",8,"IV: 
+competentie_kwaliteit_leveren: 0
+",1258,9.94859628311586,"real_conditional"
+"60",8,"IV: 
+competentie_kwaliteit_leveren: 1
+",1267,10.0197706603401,"real_conditional"
+"61",8,"IV: 
+competentie_kwaliteit_leveren: 2
+",1266,10.011862396204,"real_conditional"
+"62",8,"IV: 
+competentie_kwaliteit_leveren: 3
+",1267,10.0197706603401,"real_conditional"
+"63",9,"IV: 
+competentie_kwaliteit_leveren: 0
+",1246,9.85369711348359,"real_conditional"
+"64",9,"IV: 
+competentie_kwaliteit_leveren: 1
+",1270,10.0434954527481,"real_conditional"
+"65",9,"IV: 
+competentie_kwaliteit_leveren: 2
+",1271,10.0514037168841,"real_conditional"
+"66",9,"IV: 
+competentie_kwaliteit_leveren: 3
+",1271,10.0514037168841,"real_conditional"
+"67",10,"IV: 
+competentie_kwaliteit_leveren: 0
+",1248,9.86951364175563,"real_conditional"
+"68",10,"IV: 
+competentie_kwaliteit_leveren: 1
+",1270,10.0434954527481,"real_conditional"
+"69",10,"IV: 
+competentie_kwaliteit_leveren: 2
+",1270,10.0434954527481,"real_conditional"
+"70",10,"IV: 
+competentie_kwaliteit_leveren: 3
+",1270,10.0434954527481,"real_conditional"
+"71",1,"IV: 
+competentie_kwaliteit_leveren: 0
+",1004,12.8241154681313,"synth"
+"72",1,"IV: 
+competentie_kwaliteit_leveren: 1
+",260,5.53309214726538,"synth"
+"73",1,"IV: 
+competentie_kwaliteit_leveren: 2
+",1,0.862068965517241,"synth"
+"74",2,"IV: 
+competentie_kwaliteit_leveren: 0
+",864,11.0358921956827,"synth"
+"75",2,"IV: 
+competentie_kwaliteit_leveren: 1
+",397,8.44860608640136,"synth"
+"76",2,"IV: 
+competentie_kwaliteit_leveren: 2
+",4,3.44827586206897,"synth"
+"77",3,"IV: 
+competentie_kwaliteit_leveren: 0
+",838,10.7037935879423,"synth"
+"78",3,"IV: 
+competentie_kwaliteit_leveren: 1
+",420,8.93807193019791,"synth"
+"79",3,"IV: 
+competentie_kwaliteit_leveren: 2
+",7,6.03448275862069,"synth"
+"80",4,"IV: 
+competentie_kwaliteit_leveren: 0
+",824,10.5249712606974,"synth"
+"81",4,"IV: 
+competentie_kwaliteit_leveren: 1
+",433,9.21472653756118,"synth"
+"82",4,"IV: 
+competentie_kwaliteit_leveren: 2
+",8,6.89655172413793,"synth"
+"83",5,"IV: 
+competentie_kwaliteit_leveren: 0
+",795,10.1545535828331,"synth"
+"84",5,"IV: 
+competentie_kwaliteit_leveren: 1
+",460,9.78931687593105,"synth"
+"85",5,"IV: 
+competentie_kwaliteit_leveren: 2
+",10,8.62068965517241,"synth"
+"86",6,"IV: 
+competentie_kwaliteit_leveren: 0
+",739,9.43926427385362,"synth"
+"87",6,"IV: 
+competentie_kwaliteit_leveren: 1
+",511,10.8746541817408,"synth"
+"88",6,"IV: 
+competentie_kwaliteit_leveren: 2
+",14,12.0689655172414,"synth"
+"89",7,"IV: 
+competentie_kwaliteit_leveren: 0
+",752,9.60531357772385,"synth"
+"90",7,"IV: 
+competentie_kwaliteit_leveren: 1
+",495,10.5341562034475,"synth"
+"91",7,"IV: 
+competentie_kwaliteit_leveren: 2
+",17,14.6551724137931,"synth"
+"92",8,"IV: 
+competentie_kwaliteit_leveren: 0
+",732,9.34985311023119,"synth"
+"93",8,"IV: 
+competentie_kwaliteit_leveren: 1
+",513,10.9172164290275,"synth"
+"94",8,"IV: 
+competentie_kwaliteit_leveren: 2
+",19,16.3793103448276,"synth"
+"95",9,"IV: 
+competentie_kwaliteit_leveren: 0
+",677,8.64733682462639,"synth"
+"96",9,"IV: 
+competentie_kwaliteit_leveren: 1
+",575,12.2366460949138,"synth"
+"97",9,"IV: 
+competentie_kwaliteit_leveren: 2
+",12,10.3448275862069,"synth"
+"98",10,"IV: 
+competentie_kwaliteit_leveren: 0
+",604,7.7149061182782,"synth"
+"99",10,"IV: 
+competentie_kwaliteit_leveren: 1
+",635,13.5135135135135,"synth"
+"100",10,"IV: 
+competentie_kwaliteit_leveren: 2
+",24,20.6896551724138,"synth"
+"101",10,"IV: 
+competentie_kwaliteit_leveren: 3
+",1,100,"synth"
+"102",1,"IV: 
+competentie_kwaliteit_leveren: 0
+",1305,10.433322673489,"synth_conditional"
+"103",1,"IV: 
+competentie_kwaliteit_leveren: 1
+",1233,9.85769107771027,"synth_conditional"
+"104",1,"IV: 
+competentie_kwaliteit_leveren: 2
+",1233,9.85769107771027,"synth_conditional"
+"105",1,"IV: 
+competentie_kwaliteit_leveren: 3
+",1233,9.85769107771027,"synth_conditional"
+"106",2,"IV: 
+competentie_kwaliteit_leveren: 0
+",1275,10.1934761752478,"synth_conditional"
+"107",2,"IV: 
+competentie_kwaliteit_leveren: 1
+",1243,9.93763991045731,"synth_conditional"
+"108",2,"IV: 
+competentie_kwaliteit_leveren: 2
+",1243,9.93763991045731,"synth_conditional"
+"109",2,"IV: 
+competentie_kwaliteit_leveren: 3
+",1243,9.93763991045731,"synth_conditional"
+"110",3,"IV: 
+competentie_kwaliteit_leveren: 0
+",1259,10.0655580428526,"synth_conditional"
+"111",3,"IV: 
+competentie_kwaliteit_leveren: 1
+",1248,9.97761432683083,"synth_conditional"
+"112",3,"IV: 
+competentie_kwaliteit_leveren: 2
+",1248,9.97761432683083,"synth_conditional"
+"113",3,"IV: 
+competentie_kwaliteit_leveren: 3
+",1248,9.97761432683083,"synth_conditional"
+"114",4,"IV: 
+competentie_kwaliteit_leveren: 0
+",1268,10.1375119923249,"synth_conditional"
+"115",4,"IV: 
+competentie_kwaliteit_leveren: 1
+",1245,9.95362967700671,"synth_conditional"
+"116",4,"IV: 
+competentie_kwaliteit_leveren: 2
+",1245,9.95362967700671,"synth_conditional"
+"117",4,"IV: 
+competentie_kwaliteit_leveren: 3
+",1245,9.95362967700671,"synth_conditional"
+"118",5,"IV: 
+competentie_kwaliteit_leveren: 0
+",1234,9.86568596098497,"synth_conditional"
+"119",5,"IV: 
+competentie_kwaliteit_leveren: 1
+",1257,10.0495682763032,"synth_conditional"
+"120",5,"IV: 
+competentie_kwaliteit_leveren: 2
+",1256,10.0415733930285,"synth_conditional"
+"121",5,"IV: 
+competentie_kwaliteit_leveren: 3
+",1256,10.0415733930285,"synth_conditional"
+"122",6,"IV: 
+competentie_kwaliteit_leveren: 0
+",1243,9.93763991045731,"synth_conditional"
+"123",6,"IV: 
+competentie_kwaliteit_leveren: 1
+",1253,10.0175887432043,"synth_conditional"
+"124",6,"IV: 
+competentie_kwaliteit_leveren: 2
+",1254,10.0255836264791,"synth_conditional"
+"125",6,"IV: 
+competentie_kwaliteit_leveren: 3
+",1253,10.0175887432043,"synth_conditional"
+"126",7,"IV: 
+competentie_kwaliteit_leveren: 0
+",1231,9.84170131116086,"synth_conditional"
+"127",7,"IV: 
+competentie_kwaliteit_leveren: 1
+",1257,10.0495682763032,"synth_conditional"
+"128",7,"IV: 
+competentie_kwaliteit_leveren: 2
+",1257,10.0495682763032,"synth_conditional"
+"129",7,"IV: 
+competentie_kwaliteit_leveren: 3
+",1258,10.0575631595779,"synth_conditional"
+"130",8,"IV: 
+competentie_kwaliteit_leveren: 0
+",1244,9.94563479373201,"synth_conditional"
+"131",8,"IV: 
+competentie_kwaliteit_leveren: 1
+",1253,10.0175887432043,"synth_conditional"
+"132",8,"IV: 
+competentie_kwaliteit_leveren: 2
+",1253,10.0175887432043,"synth_conditional"
+"133",8,"IV: 
+competentie_kwaliteit_leveren: 3
+",1253,10.0175887432043,"synth_conditional"
+"134",9,"IV: 
+competentie_kwaliteit_leveren: 0
+",1218,9.7377678285897,"synth_conditional"
+"135",9,"IV: 
+competentie_kwaliteit_leveren: 1
+",1262,10.0895426926767,"synth_conditional"
+"136",9,"IV: 
+competentie_kwaliteit_leveren: 2
+",1262,10.0895426926767,"synth_conditional"
+"137",9,"IV: 
+competentie_kwaliteit_leveren: 3
+",1261,10.081547809402,"synth_conditional"
+"138",10,"IV: 
+competentie_kwaliteit_leveren: 0
+",1231,9.84170131116086,"synth_conditional"
+"139",10,"IV: 
+competentie_kwaliteit_leveren: 1
+",1257,10.0495682763032,"synth_conditional"
+"140",10,"IV: 
+competentie_kwaliteit_leveren: 2
+",1257,10.0495682763032,"synth_conditional"
+"141",10,"IV: 
+competentie_kwaliteit_leveren: 3
+",1258,10.0575631595779,"synth_conditional"

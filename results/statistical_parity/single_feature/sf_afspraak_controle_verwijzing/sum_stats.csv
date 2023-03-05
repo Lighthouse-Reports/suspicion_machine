@@ -1,0 +1,73 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+afspraak_controle_verwijzing: 0
+","Ja",11342,0.489,0.154,0.101393052371716,0.28222535707988,0.139305237171573,18.222535707988,"real"
+"2","IV: 
+afspraak_controle_verwijzing: 1
+","Ja",1093,0.486,0.151,0.0860018298261665,0.280878316559927,-1.39981701738335,18.0878316559927,"real"
+"3","IV: 
+afspraak_controle_verwijzing: 2
+","Ja",171,0.486,0.145,0.0994152046783626,0.233918128654971,-0.0584795321637438,13.3918128654971,"real"
+"4","IV: 
+afspraak_controle_verwijzing: 3
+","Ja",30,0.514,0.154,0.1,0.433333333333333,0,33.3333333333333,"real"
+"5","IV: 
+afspraak_controle_verwijzing: 4
+","Ja",5,0.6,0.117,0.2,0.6,10,50,"real"
+"6","IV: 
+afspraak_controle_verwijzing: 5
+","Ja",3,0.589,0.077,0,0.333333333333333,-10,23.3333333333333,"real"
+"7","IV: 
+afspraak_controle_verwijzing: 6
+","Ja",1,0.637,NA,0,1,-10,90,"real"
+"8","IV: 
+afspraak_controle_verwijzing: 0
+","Ja",12645,0.489,0.153,0.10003954132068,0.281929616449189,0.00395413206801115,18.1929616449189,"real_conditional"
+"9","IV: 
+afspraak_controle_verwijzing: 1
+","Ja",12645,0.489,0.153,0.10011862396204,0.282325029655991,0.0118623962040335,18.2325029655991,"real_conditional"
+"10","IV: 
+afspraak_controle_verwijzing: 2
+","Ja",12645,0.489,0.153,0.10011862396204,0.282325029655991,0.0118623962040335,18.2325029655991,"real_conditional"
+"11","IV: 
+afspraak_controle_verwijzing: 3
+","Ja",12645,0.489,0.153,0.10011862396204,0.282325029655991,0.0118623962040335,18.2325029655991,"real_conditional"
+"12","IV: 
+afspraak_controle_verwijzing: 4
+","Ja",12645,0.489,0.153,0.10011862396204,0.282325029655991,0.0118623962040335,18.2325029655991,"real_conditional"
+"13","IV: 
+afspraak_controle_verwijzing: 5
+","Ja",12645,0.489,0.153,0.10011862396204,0.282325029655991,0.0118623962040335,18.2325029655991,"real_conditional"
+"14","IV: 
+afspraak_controle_verwijzing: 6
+","Ja",12645,0.489,0.153,0.10011862396204,0.282325029655991,0.0118623962040335,18.2325029655991,"real_conditional"
+"15","IV: 
+afspraak_controle_verwijzing: 0
+","Ja",9497,0.611,0.086,0.0988733284195009,0.638201537327577,-0.112667158049912,53.8201537327577,"synth"
+"16","IV: 
+afspraak_controle_verwijzing: 1
+","Ja",3147,0.614,0.084,0.103590721321894,0.650460756275818,0.359072132189386,55.0460756275818,"synth"
+"17","IV: 
+afspraak_controle_verwijzing: 2
+","Ja",1,0.663,NA,0,1,-10,90,"synth"
+"18","IV: 
+afspraak_controle_verwijzing: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"19","IV: 
+afspraak_controle_verwijzing: 1
+","Ja",12508,0.612,0.085,0.0998560921010553,0.641029740965782,-0.0143907898944681,54.1029740965782,"synth_conditional"
+"20","IV: 
+afspraak_controle_verwijzing: 2
+","Ja",12508,0.612,0.085,0.0998560921010553,0.641029740965782,-0.0143907898944681,54.1029740965782,"synth_conditional"
+"21","IV: 
+afspraak_controle_verwijzing: 3
+","Ja",12508,0.612,0.085,0.0998560921010553,0.641029740965782,-0.0143907898944681,54.1029740965782,"synth_conditional"
+"22","IV: 
+afspraak_controle_verwijzing: 4
+","Ja",12508,0.612,0.085,0.0998560921010553,0.641029740965782,-0.0143907898944681,54.1029740965782,"synth_conditional"
+"23","IV: 
+afspraak_controle_verwijzing: 5
+","Ja",12508,0.612,0.085,0.0998560921010553,0.641029740965782,-0.0143907898944681,54.1029740965782,"synth_conditional"
+"24","IV: 
+afspraak_controle_verwijzing: 6
+","Ja",12508,0.612,0.085,0.0998560921010553,0.641029740965782,-0.0143907898944681,54.1029740965782,"synth_conditional"

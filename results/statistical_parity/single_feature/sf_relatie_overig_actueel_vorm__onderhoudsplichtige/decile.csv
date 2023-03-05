@@ -1,0 +1,478 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1185,10.9448600720421,"real"
+"2",1,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",75,4.43000590667454,"real"
+"3",1,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",5,4.27350427350427,"real"
+"4",2,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1151,10.6308303315785,"real"
+"5",2,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",107,6.32014176018901,"real"
+"6",2,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",7,5.98290598290598,"real"
+"7",3,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1118,10.326036759952,"real"
+"8",3,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",144,8.50561134081512,"real"
+"9",3,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",3,2.56410256410256,"real"
+"10",4,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1099,10.1505495520458,"real"
+"11",4,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",155,9.15534554046072,"real"
+"12",4,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",9,7.69230769230769,"real"
+"13",4,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",2,28.5714285714286,"real"
+"14",5,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1098,10.1413133832086,"real"
+"15",5,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",159,9.39161252215003,"real"
+"16",5,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",7,5.98290598290598,"real"
+"17",5,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1,100,"real"
+"18",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1057,9.76263046088483,"real"
+"19",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",194,11.4589486119315,"real"
+"20",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",12,10.2564102564103,"real"
+"21",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1,14.2857142857143,"real"
+"22",7,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1063,9.81804747390782,"real"
+"23",7,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",188,11.1045481393975,"real"
+"24",7,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",12,10.2564102564103,"real"
+"25",7,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1,14.2857142857143,"real"
+"26",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1038,9.58714325297866,"real"
+"27",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",209,12.3449497932664,"real"
+"28",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",15,12.8205128205128,"real"
+"29",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",2,28.5714285714286,"real"
+"30",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1007,9.30082201902651,"real"
+"31",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",240,14.1760189013585,"real"
+"32",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",16,13.6752136752137,"real"
+"33",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1,14.2857142857143,"real"
+"34",10,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1011,9.33776669437517,"real"
+"35",10,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",222,13.1128174837566,"real"
+"36",10,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",31,26.4957264957265,"real"
+"37",1,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1257,9.94068801897983,"real_conditional"
+"38",1,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1256,9.93277975484381,"real_conditional"
+"39",1,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1270,10.0434954527481,"real_conditional"
+"40",1,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1270,10.0434954527481,"real_conditional"
+"41",1,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1270,10.0434954527481,"real_conditional"
+"42",2,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1261,9.97232107552392,"real_conditional"
+"43",2,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1262,9.98022933965994,"real_conditional"
+"44",2,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1267,10.0197706603401,"real_conditional"
+"45",2,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1267,10.0197706603401,"real_conditional"
+"46",2,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1266,10.011862396204,"real_conditional"
+"47",3,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1259,9.95650454725188,"real_conditional"
+"48",3,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1259,9.95650454725188,"real_conditional"
+"49",3,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1268,10.0276789244761,"real_conditional"
+"50",3,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1268,10.0276789244761,"real_conditional"
+"51",3,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1269,10.0355871886121,"real_conditional"
+"52",4,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1260,9.9644128113879,"real_conditional"
+"53",4,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1259,9.95650454725188,"real_conditional"
+"54",4,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1268,10.0276789244761,"real_conditional"
+"55",4,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1268,10.0276789244761,"real_conditional"
+"56",4,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1268,10.0276789244761,"real_conditional"
+"57",5,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1264,9.99604586793199,"real_conditional"
+"58",5,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1265,10.003954132068,"real_conditional"
+"59",5,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1265,10.003954132068,"real_conditional"
+"60",5,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1265,10.003954132068,"real_conditional"
+"61",5,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1264,9.99604586793199,"real_conditional"
+"62",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1274,10.0751285092922,"real_conditional"
+"63",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1273,10.0672202451562,"real_conditional"
+"64",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1258,9.94859628311586,"real_conditional"
+"65",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1258,9.94859628311586,"real_conditional"
+"66",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1259,9.95650454725188,"real_conditional"
+"67",7,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1254,9.91696322657177,"real_conditional"
+"68",7,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1255,9.92487149070779,"real_conditional"
+"69",7,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1271,10.0514037168841,"real_conditional"
+"70",7,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1271,10.0514037168841,"real_conditional"
+"71",7,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1271,10.0514037168841,"real_conditional"
+"72",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1274,10.0751285092922,"real_conditional"
+"73",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1274,10.0751285092922,"real_conditional"
+"74",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1258,9.94859628311586,"real_conditional"
+"75",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1258,9.94859628311586,"real_conditional"
+"76",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1258,9.94859628311586,"real_conditional"
+"77",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1273,10.0672202451562,"real_conditional"
+"78",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1272,10.0593119810202,"real_conditional"
+"79",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1259,9.95650454725188,"real_conditional"
+"80",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1259,9.95650454725188,"real_conditional"
+"81",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1259,9.95650454725188,"real_conditional"
+"82",10,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1269,10.0355871886121,"real_conditional"
+"83",10,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1270,10.0434954527481,"real_conditional"
+"84",10,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1261,9.97232107552392,"real_conditional"
+"85",10,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1261,9.97232107552392,"real_conditional"
+"86",10,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1261,9.97232107552392,"real_conditional"
+"87",1,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1015,10.7396042746799,"synth"
+"88",1,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",250,7.83699059561128,"synth"
+"89",2,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",978,10.3481113109724,"synth"
+"90",2,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",287,8.99686520376176,"synth"
+"91",3,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",975,10.3163686382393,"synth"
+"92",3,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",290,9.09090909090909,"synth"
+"93",4,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",977,10.3375304200614,"synth"
+"94",4,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",288,9.0282131661442,"synth"
+"95",5,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",967,10.2317215109512,"synth"
+"96",5,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",298,9.34169278996865,"synth"
+"97",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",935,9.89313300179875,"synth"
+"98",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",328,10.282131661442,"synth"
+"99",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1,25,"synth"
+"100",7,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",922,9.75558141995556,"synth"
+"101",7,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",342,10.7210031347962,"synth"
+"102",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",887,9.38525023807004,"synth"
+"103",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",376,11.7868338557994,"synth"
+"104",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1,25,"synth"
+"105",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",893,9.44873558353613,"synth"
+"106",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",369,11.5673981191223,"synth"
+"107",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",2,50,"synth"
+"108",10,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",902,9.54396360173527,"synth"
+"109",10,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",362,11.3479623824451,"synth"
+"110",1,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1233,9.85769107771027,"synth_conditional"
+"111",1,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1232,9.84969619443556,"synth_conditional"
+"112",1,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1263,10.0975375759514,"synth_conditional"
+"113",1,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1263,10.0975375759514,"synth_conditional"
+"114",1,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1263,10.0975375759514,"synth_conditional"
+"115",2,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1230,9.83370642788615,"synth_conditional"
+"116",2,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1231,9.84170131116086,"synth_conditional"
+"117",2,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1265,10.1135273425008,"synth_conditional"
+"118",2,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1264,10.1055324592261,"synth_conditional"
+"119",2,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1264,10.1055324592261,"synth_conditional"
+"120",3,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1238,9.89766549408379,"synth_conditional"
+"121",3,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1238,9.89766549408379,"synth_conditional"
+"122",3,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1259,10.0655580428526,"synth_conditional"
+"123",3,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1260,10.0735529261273,"synth_conditional"
+"124",3,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1259,10.0655580428526,"synth_conditional"
+"125",4,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1238,9.89766549408379,"synth_conditional"
+"126",4,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1238,9.89766549408379,"synth_conditional"
+"127",4,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1259,10.0655580428526,"synth_conditional"
+"128",4,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1259,10.0655580428526,"synth_conditional"
+"129",4,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1260,10.0735529261273,"synth_conditional"
+"130",5,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1252,10.0095938599296,"synth_conditional"
+"131",5,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1252,10.0095938599296,"synth_conditional"
+"132",5,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1250,9.99360409338024,"synth_conditional"
+"133",5,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1250,9.99360409338024,"synth_conditional"
+"134",5,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1250,9.99360409338024,"synth_conditional"
+"135",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1251,10.0015989766549,"synth_conditional"
+"136",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1251,10.0015989766549,"synth_conditional"
+"137",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1251,10.0015989766549,"synth_conditional"
+"138",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1251,10.0015989766549,"synth_conditional"
+"139",6,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1250,9.99360409338024,"synth_conditional"
+"140",7,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1237,9.88967061080908,"synth_conditional"
+"141",7,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1236,9.88167572753438,"synth_conditional"
+"142",7,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1260,10.0735529261273,"synth_conditional"
+"143",7,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1260,10.0735529261273,"synth_conditional"
+"144",7,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1261,10.081547809402,"synth_conditional"
+"145",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1279,10.2254557083467,"synth_conditional"
+"146",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1279,10.2254557083467,"synth_conditional"
+"147",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1232,9.84969619443556,"synth_conditional"
+"148",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1232,9.84969619443556,"synth_conditional"
+"149",8,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1232,9.84969619443556,"synth_conditional"
+"150",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1271,10.161496642149,"synth_conditional"
+"151",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1272,10.1694915254237,"synth_conditional"
+"152",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1237,9.88967061080908,"synth_conditional"
+"153",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1237,9.88967061080908,"synth_conditional"
+"154",9,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1237,9.88967061080908,"synth_conditional"
+"155",10,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 0
+",1279,10.2254557083467,"synth_conditional"
+"156",10,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 1
+",1279,10.2254557083467,"synth_conditional"
+"157",10,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 2
+",1232,9.84969619443556,"synth_conditional"
+"158",10,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 3
+",1232,9.84969619443556,"synth_conditional"
+"159",10,"IV: 
+relatie_overig_actueel_vorm__onderhoudsplichtige: 4
+",1232,9.84969619443556,"synth_conditional"

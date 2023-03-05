@@ -1,0 +1,451 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 1
+",9871,2048,5.86e-212,"****",1.64e-210,"****","real"
+"2","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 2
+",9871,523,1.04e-127,"****",2.8e-126,"****","real"
+"3","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 2
+",2048,523,5.08e-11,"****",1.22e-09,"****","real"
+"4","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 3
+",9871,149,5.26e-44,"****",1.37e-42,"****","real"
+"5","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 3
+",2048,149,6.18e-06,"****",0.000136,"***","real"
+"6","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","IV: 
+contacten_onderwerp_inspanningstoets: 3
+",523,149,0.507,"ns",1,"ns","real"
+"7","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 4
+",9871,36,3.13e-14,"****",7.84e-13,"****","real"
+"8","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 4
+",2048,36,0.00294,"**",0.0588,"ns","real"
+"9","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","IV: 
+contacten_onderwerp_inspanningstoets: 4
+",523,36,0.302,"ns",1,"ns","real"
+"10","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 3
+","IV: 
+contacten_onderwerp_inspanningstoets: 4
+",149,36,0.531,"ns",1,"ns","real"
+"11","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 5
+",9871,14,2.85e-10,"****",6.55e-09,"****","real"
+"12","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 5
+",2048,14,0.000612,"***",0.0129,"*","real"
+"13","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","IV: 
+contacten_onderwerp_inspanningstoets: 5
+",523,14,0.0275,"*",0.468,"ns","real"
+"14","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 3
+","IV: 
+contacten_onderwerp_inspanningstoets: 5
+",149,14,0.0555,"ns",0.888,"ns","real"
+"15","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 4
+","IV: 
+contacten_onderwerp_inspanningstoets: 5
+",36,14,0.184,"ns",1,"ns","real"
+"16","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",9871,2,0.0251,"*",0.451,"ns","real"
+"17","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",2048,2,0.249,"ns",1,"ns","real"
+"18","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",523,2,0.486,"ns",1,"ns","real"
+"19","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 3
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",149,2,0.544,"ns",1,"ns","real"
+"20","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 4
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",36,2,0.664,"ns",1,"ns","real"
+"21","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 5
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",14,2,0.891,"ns",1,"ns","real"
+"22","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",9871,2,0.00379,"**",0.0719,"ns","real"
+"23","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",2048,2,0.0707,"ns",1,"ns","real"
+"24","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",523,2,0.177,"ns",1,"ns","real"
+"25","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 3
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",149,2,0.209,"ns",1,"ns","real"
+"26","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 4
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",36,2,0.284,"ns",1,"ns","real"
+"27","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 5
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",14,2,0.634,"ns",1,"ns","real"
+"28","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 6
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",2,2,0.643,"ns",1,"ns","real"
+"29","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 1
+",12645,12645,0.0632,"ns",1,"ns","real_conditional"
+"30","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 2
+",12645,12645,0.0143,"*",0.33,"ns","real_conditional"
+"31","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 2
+",12645,12645,0.554,"ns",1,"ns","real_conditional"
+"32","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 3
+",12645,12645,0.00186,"**",0.0521,"ns","real_conditional"
+"33","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 3
+",12645,12645,0.21,"ns",1,"ns","real_conditional"
+"34","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","IV: 
+contacten_onderwerp_inspanningstoets: 3
+",12645,12645,0.507,"ns",1,"ns","real_conditional"
+"35","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 4
+",12645,12645,0.00186,"**",0.0521,"ns","real_conditional"
+"36","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 4
+",12645,12645,0.21,"ns",1,"ns","real_conditional"
+"37","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","IV: 
+contacten_onderwerp_inspanningstoets: 4
+",12645,12645,0.507,"ns",1,"ns","real_conditional"
+"38","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 3
+","IV: 
+contacten_onderwerp_inspanningstoets: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"39","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 5
+",12645,12645,0.00186,"**",0.0521,"ns","real_conditional"
+"40","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 5
+",12645,12645,0.21,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","IV: 
+contacten_onderwerp_inspanningstoets: 5
+",12645,12645,0.507,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 3
+","IV: 
+contacten_onderwerp_inspanningstoets: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 4
+","IV: 
+contacten_onderwerp_inspanningstoets: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"44","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",12645,12645,0.00186,"**",0.0521,"ns","real_conditional"
+"45","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",12645,12645,0.21,"ns",1,"ns","real_conditional"
+"46","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",12645,12645,0.507,"ns",1,"ns","real_conditional"
+"47","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 3
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"48","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 4
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"49","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 5
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"50","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",12645,12645,0.00186,"**",0.0521,"ns","real_conditional"
+"51","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",12645,12645,0.21,"ns",1,"ns","real_conditional"
+"52","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",12645,12645,0.507,"ns",1,"ns","real_conditional"
+"53","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 3
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 4
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"55","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 5
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"56","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 6
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"57","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 1
+",6739,5584,3.41e-87,"****",2.05e-86,"****","synth"
+"58","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 2
+",6739,317,3.33e-35,"****",1.66e-34,"****","synth"
+"59","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 2
+",5584,317,1.03e-09,"****",4.12e-09,"****","synth"
+"60","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 3
+",6739,5,0.15,"ns",0.449,"ns","synth"
+"61","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 3
+",5584,5,0.526,"ns",1,"ns","synth"
+"62","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","IV: 
+contacten_onderwerp_inspanningstoets: 3
+",317,5,0.878,"ns",1,"ns","synth"
+"63","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 1
+",12508,12508,0.106,"ns",1,"ns","synth_conditional"
+"64","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 2
+",12508,12508,0.0097,"**",0.223,"ns","synth_conditional"
+"65","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 2
+",12508,12508,0.332,"ns",1,"ns","synth_conditional"
+"66","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 3
+",12508,12508,0.00114,"**",0.0318,"*","synth_conditional"
+"67","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 3
+",12508,12508,0.101,"ns",1,"ns","synth_conditional"
+"68","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","IV: 
+contacten_onderwerp_inspanningstoets: 3
+",12508,12508,0.504,"ns",1,"ns","synth_conditional"
+"69","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 4
+",12508,12508,0.00114,"**",0.0318,"*","synth_conditional"
+"70","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 4
+",12508,12508,0.101,"ns",1,"ns","synth_conditional"
+"71","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","IV: 
+contacten_onderwerp_inspanningstoets: 4
+",12508,12508,0.504,"ns",1,"ns","synth_conditional"
+"72","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 3
+","IV: 
+contacten_onderwerp_inspanningstoets: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"73","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 5
+",12508,12508,0.00114,"**",0.0318,"*","synth_conditional"
+"74","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 5
+",12508,12508,0.101,"ns",1,"ns","synth_conditional"
+"75","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","IV: 
+contacten_onderwerp_inspanningstoets: 5
+",12508,12508,0.504,"ns",1,"ns","synth_conditional"
+"76","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 3
+","IV: 
+contacten_onderwerp_inspanningstoets: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"77","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 4
+","IV: 
+contacten_onderwerp_inspanningstoets: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"78","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",12508,12508,0.00114,"**",0.0318,"*","synth_conditional"
+"79","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",12508,12508,0.101,"ns",1,"ns","synth_conditional"
+"80","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",12508,12508,0.504,"ns",1,"ns","synth_conditional"
+"81","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 3
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"82","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 4
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"83","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 5
+","IV: 
+contacten_onderwerp_inspanningstoets: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"84","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",12508,12508,0.00114,"**",0.0318,"*","synth_conditional"
+"85","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",12508,12508,0.101,"ns",1,"ns","synth_conditional"
+"86","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",12508,12508,0.504,"ns",1,"ns","synth_conditional"
+"87","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 3
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"88","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 4
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"89","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 5
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"90","Ja","IV: 
+contacten_onderwerp_inspanningstoets: 6
+","IV: 
+contacten_onderwerp_inspanningstoets: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"

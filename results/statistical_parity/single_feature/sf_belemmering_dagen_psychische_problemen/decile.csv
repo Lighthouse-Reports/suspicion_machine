@@ -1,0 +1,394 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",846,10,"real"
+"2",2,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",846,10,"real"
+"3",3,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",846,10,"real"
+"4",4,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",846,10,"real"
+"5",5,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",846,10,"real"
+"6",6,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",846,10,"real"
+"7",7,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",846,10,"real"
+"8",8,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",846,10,"real"
+"9",9,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",846,10,"real"
+"10",10,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",846,10,"real"
+"11",1,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1171,9.26057730328193,"real_conditional"
+"12",1,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1171,9.26057730328193,"real_conditional"
+"13",1,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1171,9.26057730328193,"real_conditional"
+"14",1,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1230,9.72716488730724,"real_conditional"
+"15",1,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1435,11.3483590351918,"real_conditional"
+"16",1,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1409,11.1427441676552,"real_conditional"
+"17",2,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1234,9.75879794385133,"real_conditional"
+"18",2,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1234,9.75879794385133,"real_conditional"
+"19",2,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1234,9.75879794385133,"real_conditional"
+"20",2,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1260,9.9644128113879,"real_conditional"
+"21",2,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1310,10.359826018189,"real_conditional"
+"22",2,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1315,10.3993673388691,"real_conditional"
+"23",3,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1258,9.94859628311586,"real_conditional"
+"24",3,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1258,9.94859628311586,"real_conditional"
+"25",3,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1257,9.94068801897983,"real_conditional"
+"26",3,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1259,9.95650454725188,"real_conditional"
+"27",3,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1280,10.1225780941083,"real_conditional"
+"28",3,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1275,10.0830367734282,"real_conditional"
+"29",4,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1243,9.82997232107552,"real_conditional"
+"30",4,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1243,9.82997232107552,"real_conditional"
+"31",4,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1244,9.83788058521155,"real_conditional"
+"32",4,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1251,9.8932384341637,"real_conditional"
+"33",4,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1304,10.3123764333729,"real_conditional"
+"34",4,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1302,10.2965599051008,"real_conditional"
+"35",5,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1254,9.91696322657177,"real_conditional"
+"36",5,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1253,9.90905496243574,"real_conditional"
+"37",5,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1253,9.90905496243574,"real_conditional"
+"38",5,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1260,9.9644128113879,"real_conditional"
+"39",5,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1288,10.1858442071965,"real_conditional"
+"40",5,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1279,10.1146698299723,"real_conditional"
+"41",6,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1289,10.1937524713325,"real_conditional"
+"42",6,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1290,10.2016607354686,"real_conditional"
+"43",6,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1290,10.2016607354686,"real_conditional"
+"44",6,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1267,10.0197706603401,"real_conditional"
+"45",6,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1223,9.67180703835508,"real_conditional"
+"46",6,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1228,9.71134835903519,"real_conditional"
+"47",7,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1256,9.93277975484381,"real_conditional"
+"48",7,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1256,9.93277975484381,"real_conditional"
+"49",7,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1255,9.92487149070779,"real_conditional"
+"50",7,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1270,10.0434954527481,"real_conditional"
+"51",7,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1278,10.1067615658363,"real_conditional"
+"52",7,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1272,10.0593119810202,"real_conditional"
+"53",8,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1288,10.1858442071965,"real_conditional"
+"54",8,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1288,10.1858442071965,"real_conditional"
+"55",8,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1289,10.1937524713325,"real_conditional"
+"56",8,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1275,10.0830367734282,"real_conditional"
+"57",8,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1230,9.72716488730724,"real_conditional"
+"58",8,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1217,9.62435745353895,"real_conditional"
+"59",9,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1308,10.344009489917,"real_conditional"
+"60",9,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1308,10.344009489917,"real_conditional"
+"61",9,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1308,10.344009489917,"real_conditional"
+"62",9,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1284,10.1542111506524,"real_conditional"
+"63",9,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1179,9.32384341637011,"real_conditional"
+"64",9,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1200,9.48991696322657,"real_conditional"
+"65",10,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1344,10.6287069988138,"real_conditional"
+"66",10,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1344,10.6287069988138,"real_conditional"
+"67",10,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1344,10.6287069988138,"real_conditional"
+"68",10,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1289,10.1937524713325,"real_conditional"
+"69",10,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1118,8.84143930407276,"real_conditional"
+"70",10,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1148,9.07868722815342,"real_conditional"
+"71",1,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1,100,"synth"
+"72",1,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1209,9.66581387911737,"synth_conditional"
+"73",1,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1209,9.66581387911737,"synth_conditional"
+"74",1,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1209,9.66581387911737,"synth_conditional"
+"75",1,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1234,9.86568596098497,"synth_conditional"
+"76",1,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1332,10.649184521906,"synth_conditional"
+"77",1,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1312,10.4892868564119,"synth_conditional"
+"78",2,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1221,9.76175247841381,"synth_conditional"
+"79",2,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1221,9.76175247841381,"synth_conditional"
+"80",2,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1221,9.76175247841381,"synth_conditional"
+"81",2,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1226,9.80172689478734,"synth_conditional"
+"82",2,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1326,10.6012152222578,"synth_conditional"
+"83",2,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1290,10.3133994243684,"synth_conditional"
+"84",3,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1223,9.77774224496322,"synth_conditional"
+"85",3,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1223,9.77774224496322,"synth_conditional"
+"86",3,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1223,9.77774224496322,"synth_conditional"
+"87",3,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1243,9.93763991045731,"synth_conditional"
+"88",3,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1295,10.3533738407419,"synth_conditional"
+"89",3,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1298,10.377358490566,"synth_conditional"
+"90",4,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1239,9.90566037735849,"synth_conditional"
+"91",4,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1239,9.90566037735849,"synth_conditional"
+"92",4,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1239,9.90566037735849,"synth_conditional"
+"93",4,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1242,9.9296450271826,"synth_conditional"
+"94",4,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1288,10.297409657819,"synth_conditional"
+"95",4,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1258,10.0575631595779,"synth_conditional"
+"96",5,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1259,10.0655580428526,"synth_conditional"
+"97",5,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1259,10.0655580428526,"synth_conditional"
+"98",5,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1259,10.0655580428526,"synth_conditional"
+"99",5,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1251,10.0015989766549,"synth_conditional"
+"100",5,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1236,9.88167572753438,"synth_conditional"
+"101",5,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1241,9.9216501439079,"synth_conditional"
+"102",6,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1239,9.90566037735849,"synth_conditional"
+"103",6,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1238,9.89766549408379,"synth_conditional"
+"104",6,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1238,9.89766549408379,"synth_conditional"
+"105",6,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1251,10.0015989766549,"synth_conditional"
+"106",6,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1287,10.2894147745443,"synth_conditional"
+"107",6,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1252,10.0095938599296,"synth_conditional"
+"108",7,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1267,10.1295171090502,"synth_conditional"
+"109",7,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1268,10.1375119923249,"synth_conditional"
+"110",7,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1268,10.1375119923249,"synth_conditional"
+"111",7,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1263,10.0975375759514,"synth_conditional"
+"112",7,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1225,9.79373201151263,"synth_conditional"
+"113",7,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1214,9.70578829549089,"synth_conditional"
+"114",8,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1264,10.1055324592261,"synth_conditional"
+"115",8,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1264,10.1055324592261,"synth_conditional"
+"116",8,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1264,10.1055324592261,"synth_conditional"
+"117",8,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1253,10.0175887432043,"synth_conditional"
+"118",8,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1215,9.71378317876559,"synth_conditional"
+"119",8,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1245,9.95362967700671,"synth_conditional"
+"120",9,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1283,10.2574352414455,"synth_conditional"
+"121",9,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1283,10.2574352414455,"synth_conditional"
+"122",9,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1283,10.2574352414455,"synth_conditional"
+"123",9,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1257,10.0495682763032,"synth_conditional"
+"124",9,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1186,9.48193156379917,"synth_conditional"
+"125",9,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1212,9.68979852894148,"synth_conditional"
+"126",10,"IV: 
+belemmering_dagen_psychische_problemen: 0
+",1304,10.4253277902143,"synth_conditional"
+"127",10,"IV: 
+belemmering_dagen_psychische_problemen: 1
+",1304,10.4253277902143,"synth_conditional"
+"128",10,"IV: 
+belemmering_dagen_psychische_problemen: 10
+",1304,10.4253277902143,"synth_conditional"
+"129",10,"IV: 
+belemmering_dagen_psychische_problemen: 100
+",1288,10.297409657819,"synth_conditional"
+"130",10,"IV: 
+belemmering_dagen_psychische_problemen: 1000
+",1118,8.93827950111928,"synth_conditional"
+"131",10,"IV: 
+belemmering_dagen_psychische_problemen: 10000
+",1186,9.48193156379917,"synth_conditional"

@@ -1,0 +1,666 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",8490,2530,1.55e-12,"****",3.25e-11,"****","real"
+"2","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",8490,6,3.22e-05,"****",0.000515,"***","real"
+"3","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",2530,6,0.000169,"***",0.00253,"**","real"
+"4","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",8490,3,0.00154,"**",0.02,"*","real"
+"5","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",2530,3,0.00388,"**",0.0465,"*","real"
+"6","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",6,3,0.853,"ns",0.853,"ns","real"
+"7","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",8490,906,1.87e-26,"****",5.04e-25,"****","real"
+"8","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",2530,906,4.11e-08,"****",7.8e-07,"****","real"
+"9","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",6,906,0.00121,"**",0.017,"*","real"
+"10","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",3,906,0.0118,"*",0.118,"ns","real"
+"11","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",8490,356,3.63e-37,"****",1.02e-35,"****","real"
+"12","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",2530,356,7.59e-21,"****",1.82e-19,"****","real"
+"13","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",6,356,0.0145,"*",0.13,"ns","real"
+"14","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",3,356,0.0498,"*",0.348,"ns","real"
+"15","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",906,356,3.59e-07,"****",6.11e-06,"****","real"
+"16","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",8490,161,2.21e-25,"****",5.74e-24,"****","real"
+"17","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",2530,161,1.89e-16,"****",4.35e-15,"****","real"
+"18","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",6,161,0.0368,"*",0.294,"ns","real"
+"19","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",3,161,0.0865,"ns",0.519,"ns","real"
+"20","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",906,161,9.17e-08,"****",1.65e-06,"****","real"
+"21","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",356,161,0.144,"ns",0.593,"ns","real"
+"22","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",8490,85,1.79e-21,"****",4.48e-20,"****","real"
+"23","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",2530,85,1.71e-15,"****",3.77e-14,"****","real"
+"24","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",6,85,0.119,"ns",0.593,"ns","real"
+"25","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",3,85,0.179,"ns",0.593,"ns","real"
+"26","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",906,85,4.35e-09,"****",8.69e-08,"****","real"
+"27","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",356,85,0.00396,"**",0.0465,"*","real"
+"28","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",161,85,0.119,"ns",0.593,"ns","real"
+"29","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",12645,12645,0.919,"ns",1,"ns","real_conditional"
+"30","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",12645,12645,4.77e-27,"****",2.15e-25,"****","real_conditional"
+"31","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",12645,12645,1.44e-26,"****",5.62e-25,"****","real_conditional"
+"32","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",12645,12645,4.77e-27,"****",2.15e-25,"****","real_conditional"
+"33","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",12645,12645,1.44e-26,"****",5.62e-25,"****","real_conditional"
+"34","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"35","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",12645,12645,0.00642,"**",0.154,"ns","real_conditional"
+"36","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",12645,12645,0.0087,"**",0.2,"ns","real_conditional"
+"37","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",12645,12645,8.58e-16,"****",2.66e-14,"****","real_conditional"
+"38","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",12645,12645,8.58e-16,"****",2.66e-14,"****","real_conditional"
+"39","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",12645,12645,4.77e-27,"****",2.15e-25,"****","real_conditional"
+"40","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",12645,12645,1.44e-26,"****",5.62e-25,"****","real_conditional"
+"41","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",12645,12645,8.58e-16,"****",2.66e-14,"****","real_conditional"
+"44","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",12645,12645,1.31e-21,"****",4.32e-20,"****","real_conditional"
+"45","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",12645,12645,3.5e-21,"****",1.12e-19,"****","real_conditional"
+"46","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",12645,12645,0.222,"ns",1,"ns","real_conditional"
+"47","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",12645,12645,0.222,"ns",1,"ns","real_conditional"
+"48","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",12645,12645,8.84e-12,"****",2.21e-10,"****","real_conditional"
+"49","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",12645,12645,0.222,"ns",1,"ns","real_conditional"
+"50","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",12645,12645,4.77e-27,"****",2.15e-25,"****","real_conditional"
+"51","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",12645,12645,1.44e-26,"****",5.62e-25,"****","real_conditional"
+"52","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"53","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",12645,12645,8.58e-16,"****",2.66e-14,"****","real_conditional"
+"55","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"56","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",12645,12645,0.222,"ns",1,"ns","real_conditional"
+"57","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12645,12645,4.77e-27,"****",2.15e-25,"****","real_conditional"
+"58","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12645,12645,1.44e-26,"****",5.62e-25,"****","real_conditional"
+"59","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"60","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"61","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12645,12645,8.58e-16,"****",2.66e-14,"****","real_conditional"
+"62","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"63","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12645,12645,0.222,"ns",1,"ns","real_conditional"
+"64","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"65","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12645,12645,4.77e-27,"****",2.15e-25,"****","real_conditional"
+"66","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12645,12645,1.44e-26,"****",5.62e-25,"****","real_conditional"
+"67","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"68","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"69","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12645,12645,8.58e-16,"****",2.66e-14,"****","real_conditional"
+"70","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"71","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12645,12645,0.222,"ns",1,"ns","real_conditional"
+"72","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"73","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"74","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",3435,5551,1.16e-10,"****",1.04e-09,"****","synth"
+"75","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",3435,2649,3.02e-55,"****",4.22e-54,"****","synth"
+"76","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",5551,2649,1.86e-29,"****",2.23e-28,"****","synth"
+"77","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",3435,844,1.28e-64,"****",1.92e-63,"****","synth"
+"78","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",5551,844,5.63e-44,"****",7.32e-43,"****","synth"
+"79","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",2649,844,3.06e-10,"****",2.45e-09,"****","synth"
+"80","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",3435,148,4.18e-26,"****",4.59e-25,"****","synth"
+"81","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",5551,148,2.69e-19,"****",2.69e-18,"****","synth"
+"82","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",2649,148,1.15e-08,"****",8.02e-08,"****","synth"
+"83","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",844,148,0.00884,"**",0.0354,"*","synth"
+"84","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",3435,17,0.00071,"***",0.00426,"**","synth"
+"85","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",5551,17,0.00491,"**",0.0246,"*","synth"
+"86","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",2649,17,0.0869,"ns",0.261,"ns","synth"
+"87","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",844,17,0.494,"ns",0.988,"ns","synth"
+"88","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",148,17,0.797,"ns",0.988,"ns","synth"
+"89","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",12508,12508,0.88,"ns",1,"ns","synth_conditional"
+"90","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",12508,12508,2.45e-80,"****",1.1e-78,"****","synth_conditional"
+"91","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",12508,12508,4.29e-79,"****",1.67e-77,"****","synth_conditional"
+"92","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",12508,12508,2.45e-80,"****",1.1e-78,"****","synth_conditional"
+"93","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",12508,12508,4.29e-79,"****",1.67e-77,"****","synth_conditional"
+"94","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"95","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",12508,12508,3.02e-09,"****",7.25e-08,"****","synth_conditional"
+"96","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",12508,12508,7.5e-09,"****",1.73e-07,"****","synth_conditional"
+"97","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",12508,12508,5.63e-39,"****",1.75e-37,"****","synth_conditional"
+"98","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",12508,12508,5.63e-39,"****",1.75e-37,"****","synth_conditional"
+"99","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",12508,12508,2.45e-80,"****",1.1e-78,"****","synth_conditional"
+"100","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",12508,12508,4.29e-79,"****",1.67e-77,"****","synth_conditional"
+"101","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"102","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"103","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",12508,12508,5.63e-39,"****",1.75e-37,"****","synth_conditional"
+"104","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",12508,12508,4.65e-66,"****",1.54e-64,"****","synth_conditional"
+"105","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",12508,12508,6.2e-65,"****",1.98e-63,"****","synth_conditional"
+"106","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",12508,12508,0.0692,"ns",1,"ns","synth_conditional"
+"107","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",12508,12508,0.0692,"ns",1,"ns","synth_conditional"
+"108","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",12508,12508,2.48e-29,"****",6.21e-28,"****","synth_conditional"
+"109","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",12508,12508,0.0692,"ns",1,"ns","synth_conditional"
+"110","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",12508,12508,2.45e-80,"****",1.1e-78,"****","synth_conditional"
+"111","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",12508,12508,4.29e-79,"****",1.67e-77,"****","synth_conditional"
+"112","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"113","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"114","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",12508,12508,5.63e-39,"****",1.75e-37,"****","synth_conditional"
+"115","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"116","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",12508,12508,0.0692,"ns",1,"ns","synth_conditional"
+"117","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12508,12508,2.45e-80,"****",1.1e-78,"****","synth_conditional"
+"118","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12508,12508,4.29e-79,"****",1.67e-77,"****","synth_conditional"
+"119","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"120","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"121","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12508,12508,5.63e-39,"****",1.75e-37,"****","synth_conditional"
+"122","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"123","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12508,12508,0.0692,"ns",1,"ns","synth_conditional"
+"124","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"125","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 0
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12508,12508,2.45e-80,"****",1.1e-78,"****","synth_conditional"
+"126","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 1
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12508,12508,4.29e-79,"****",1.67e-77,"****","synth_conditional"
+"127","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 10
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"128","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 15
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"129","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 2
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12508,12508,5.63e-39,"****",1.75e-37,"****","synth_conditional"
+"130","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 20
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"131","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 3
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12508,12508,0.0692,"ns",1,"ns","synth_conditional"
+"132","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 30
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"133","Ja","IV: 
+contacten_soort_afgelopenjaar_anders: 4
+","IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"

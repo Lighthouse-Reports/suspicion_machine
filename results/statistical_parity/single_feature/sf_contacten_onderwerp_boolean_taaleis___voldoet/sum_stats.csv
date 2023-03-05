@@ -1,0 +1,25 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+","Ja",10413,0.492,0.156,0.106213387112264,0.292134831460674,0.62133871122635,19.2134831460674,"real"
+"2","IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+","Ja",2232,0.478,0.142,0.071236559139785,0.234767025089606,-2.87634408602151,13.4767025089606,"real"
+"3","IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+","Ja",12645,0.489,0.153,0.10003954132068,0.28200869909055,0.00395413206801115,18.200869909055,"real_conditional"
+"4","IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+","Ja",12645,0.489,0.153,0.10003954132068,0.28200869909055,0.00395413206801115,18.200869909055,"real_conditional"
+"5","IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+","Ja",9167,0.614,0.085,0.103959856005236,0.649176393585688,0.395985600523617,54.9176393585688,"synth"
+"6","IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+","Ja",3478,0.607,0.085,0.0897067280046003,0.620471535365152,-1.02932719953997,52.0471535365152,"synth"
+"7","IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"8","IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"

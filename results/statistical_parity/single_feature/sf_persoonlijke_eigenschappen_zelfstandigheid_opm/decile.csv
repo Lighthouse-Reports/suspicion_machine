@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",986,14.5664056729207,"real"
+"2",1,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",279,4.74812797821647,"real"
+"3",2,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",863,12.749298271532,"real"
+"4",2,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",402,6.84138869979578,"real"
+"5",3,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",741,10.9469641010489,"real"
+"6",3,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",524,8.91763104152485,"real"
+"7",4,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",637,9.4105480868666,"real"
+"8",4,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",628,10.6875425459496,"real"
+"9",5,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",601,8.87871177426503,"real"
+"10",5,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",664,11.3002042205582,"real"
+"11",6,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",606,8.95257792879303,"real"
+"12",6,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",658,11.1980939414568,"real"
+"13",7,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",603,8.90825823607623,"real"
+"14",7,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",661,11.2491490810075,"real"
+"15",8,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",577,8.52415423253065,"real"
+"16",8,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",687,11.6916269571137,"real"
+"17",9,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",579,8.55370069434185,"real"
+"18",9,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",685,11.6575901974132,"real"
+"19",10,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",576,8.50938100162506,"real"
+"20",10,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",688,11.7086453369639,"real"
+"21",1,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1265,10.003954132068,"real_conditional"
+"22",1,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1264,9.99604586793199,"real_conditional"
+"23",2,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1264,9.99604586793199,"real_conditional"
+"24",2,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1265,10.003954132068,"real_conditional"
+"25",3,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1265,10.003954132068,"real_conditional"
+"26",3,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1264,9.99604586793199,"real_conditional"
+"27",4,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1264,9.99604586793199,"real_conditional"
+"28",4,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1265,10.003954132068,"real_conditional"
+"29",5,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1265,10.003954132068,"real_conditional"
+"30",5,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1264,9.99604586793199,"real_conditional"
+"31",6,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1264,9.99604586793199,"real_conditional"
+"32",6,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1265,10.003954132068,"real_conditional"
+"33",7,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1265,10.003954132068,"real_conditional"
+"34",7,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1264,9.99604586793199,"real_conditional"
+"35",8,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1264,9.99604586793199,"real_conditional"
+"36",8,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1265,10.003954132068,"real_conditional"
+"37",9,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1265,10.003954132068,"real_conditional"
+"38",9,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1264,9.99604586793199,"real_conditional"
+"39",10,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1264,9.99604586793199,"real_conditional"
+"40",10,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1265,10.003954132068,"real_conditional"
+"41",1,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",796,11.8399524022014,"synth"
+"42",1,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",469,7.91962174940898,"synth"
+"43",2,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",709,10.5458872527146,"synth"
+"44",2,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",556,9.3887200270179,"synth"
+"45",3,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",675,10.0401606425703,"synth"
+"46",3,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",590,9.9628503883823,"synth"
+"47",4,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",680,10.1145322028856,"synth"
+"48",4,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",585,9.87841945288754,"synth"
+"49",5,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",636,9.46006247211066,"synth"
+"50",5,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",629,10.6214116852415,"synth"
+"51",6,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",644,9.5790569686152,"synth"
+"52",6,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",620,10.4694360013509,"synth"
+"53",7,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",650,9.6683028409936,"synth"
+"54",7,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",614,10.3681188787572,"synth"
+"55",8,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",661,9.83192027368734,"synth"
+"56",8,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",603,10.1823708206687,"synth"
+"57",9,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",624,9.28157072735386,"synth"
+"58",9,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",640,10.80715974333,"synth"
+"59",10,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",648,9.63855421686747,"synth"
+"60",10,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",616,10.4018912529551,"synth"
+"61",1,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1251,10.0015989766549,"synth_conditional"
+"62",1,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1251,10.0015989766549,"synth_conditional"
+"63",2,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1251,10.0015989766549,"synth_conditional"
+"64",2,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1251,10.0015989766549,"synth_conditional"
+"65",3,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1251,10.0015989766549,"synth_conditional"
+"66",3,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1251,10.0015989766549,"synth_conditional"
+"67",4,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1251,10.0015989766549,"synth_conditional"
+"68",4,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1251,10.0015989766549,"synth_conditional"
+"69",5,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1251,10.0015989766549,"synth_conditional"
+"70",5,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1251,10.0015989766549,"synth_conditional"
+"71",6,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1251,10.0015989766549,"synth_conditional"
+"72",6,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1251,10.0015989766549,"synth_conditional"
+"73",7,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1251,10.0015989766549,"synth_conditional"
+"74",7,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1250,9.99360409338024,"synth_conditional"
+"75",8,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1250,9.99360409338024,"synth_conditional"
+"76",8,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1251,10.0015989766549,"synth_conditional"
+"77",9,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1251,10.0015989766549,"synth_conditional"
+"78",9,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1250,9.99360409338024,"synth_conditional"
+"79",10,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 0
+",1250,9.99360409338024,"synth_conditional"
+"80",10,"IV: 
+persoonlijke_eigenschappen_zelfstandigheid_opm: 1
+",1251,10.0015989766549,"synth_conditional"

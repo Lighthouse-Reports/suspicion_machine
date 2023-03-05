@@ -1,0 +1,757 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",2348,1948,0.00557,"**",0.201,"ns","real"
+"2","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",2348,193,0.446,"ns",1,"ns","real"
+"3","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",1948,193,0.0599,"ns",1,"ns","real"
+"4","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",2348,26,0.113,"ns",1,"ns","real"
+"5","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",1948,26,0.0442,"*",1,"ns","real"
+"6","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",193,26,0.222,"ns",1,"ns","real"
+"7","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",2348,1902,0.00923,"**",0.323,"ns","real"
+"8","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",1948,1902,0.886,"ns",1,"ns","real"
+"9","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",193,1902,0.069,"ns",1,"ns","real"
+"10","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",26,1902,0.0467,"*",1,"ns","real"
+"11","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",2348,5,0.0352,"*",1,"ns","real"
+"12","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",1948,5,0.0217,"*",0.739,"ns","real"
+"13","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",193,5,0.0506,"ns",1,"ns","real"
+"14","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",26,5,0.197,"ns",1,"ns","real"
+"15","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",1902,5,0.0223,"*",0.739,"ns","real"
+"16","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",2348,1672,0.0516,"ns",1,"ns","real"
+"17","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",1948,1672,0.496,"ns",1,"ns","real"
+"18","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",193,1672,0.116,"ns",1,"ns","real"
+"19","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",26,1672,0.058,"ns",1,"ns","real"
+"20","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",1902,1672,0.59,"ns",1,"ns","real"
+"21","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",5,1672,0.0248,"*",0.795,"ns","real"
+"22","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",2348,1272,0.28,"ns",1,"ns","real"
+"23","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",1948,1272,0.189,"ns",1,"ns","real"
+"24","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",193,1272,0.22,"ns",1,"ns","real"
+"25","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",26,1272,0.0773,"ns",1,"ns","real"
+"26","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",1902,1272,0.239,"ns",1,"ns","real"
+"27","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",5,1272,0.0287,"*",0.889,"ns","real"
+"28","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",1672,1272,0.508,"ns",1,"ns","real"
+"29","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",2348,1034,0.704,"ns",1,"ns","real"
+"30","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",1948,1034,0.0659,"ns",1,"ns","real"
+"31","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",193,1034,0.363,"ns",1,"ns","real"
+"32","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",26,1034,0.1,"ns",1,"ns","real"
+"33","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",1902,1034,0.087,"ns",1,"ns","real"
+"34","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",5,1034,0.0328,"*",0.984,"ns","real"
+"35","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",1672,1034,0.224,"ns",1,"ns","real"
+"36","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",1272,1034,0.576,"ns",1,"ns","real"
+"37","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.752,"ns",1,"ns","real_conditional"
+"38","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.206,"ns",1,"ns","real_conditional"
+"39","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.343,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.466,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.68,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.592,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.648,"ns",1,"ns","real_conditional"
+"44","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.889,"ns",1,"ns","real_conditional"
+"45","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.419,"ns",1,"ns","real_conditional"
+"46","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.785,"ns",1,"ns","real_conditional"
+"47","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.449,"ns",1,"ns","real_conditional"
+"48","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.283,"ns",1,"ns","real_conditional"
+"49","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.0431,"*",1,"ns","real_conditional"
+"50","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.137,"ns",1,"ns","real_conditional"
+"51","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.225,"ns",1,"ns","real_conditional"
+"52","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.733,"ns",1,"ns","real_conditional"
+"53","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.98,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.356,"ns",1,"ns","real_conditional"
+"55","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.698,"ns",1,"ns","real_conditional"
+"56","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.909,"ns",1,"ns","real_conditional"
+"57","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.272,"ns",1,"ns","real_conditional"
+"58","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.755,"ns",1,"ns","real_conditional"
+"59","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.997,"ns",1,"ns","real_conditional"
+"60","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.341,"ns",1,"ns","real_conditional"
+"61","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.677,"ns",1,"ns","real_conditional"
+"62","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.886,"ns",1,"ns","real_conditional"
+"63","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.284,"ns",1,"ns","real_conditional"
+"64","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.977,"ns",1,"ns","real_conditional"
+"65","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.791,"ns",1,"ns","real_conditional"
+"66","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.959,"ns",1,"ns","real_conditional"
+"67","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.317,"ns",1,"ns","real_conditional"
+"68","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.643,"ns",1,"ns","real_conditional"
+"69","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.849,"ns",1,"ns","real_conditional"
+"70","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.306,"ns",1,"ns","real_conditional"
+"71","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.94,"ns",1,"ns","real_conditional"
+"72","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12645,12645,0.963,"ns",1,"ns","real_conditional"
+"73","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.709,"ns",1,"ns","synth_conditional"
+"74","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.989,"ns",1,"ns","synth_conditional"
+"75","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.719,"ns",1,"ns","synth_conditional"
+"76","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.352,"ns",1,"ns","synth_conditional"
+"77","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.192,"ns",1,"ns","synth_conditional"
+"78","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.345,"ns",1,"ns","synth_conditional"
+"79","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.625,"ns",1,"ns","synth_conditional"
+"80","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.909,"ns",1,"ns","synth_conditional"
+"81","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.635,"ns",1,"ns","synth_conditional"
+"82","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.156,"ns",1,"ns","synth_conditional"
+"83","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.000245,"***",0.00809,"**","synth_conditional"
+"84","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,5.33e-05,"****",0.00187,"**","synth_conditional"
+"85","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.000233,"***",0.00791,"**","synth_conditional"
+"86","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.0062,"**",0.186,"ns","synth_conditional"
+"87","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,3.25e-05,"****",0.00117,"**","synth_conditional"
+"88","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.561,"ns",1,"ns","synth_conditional"
+"89","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.34,"ns",1,"ns","synth_conditional"
+"90","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.552,"ns",1,"ns","synth_conditional"
+"91","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.727,"ns",1,"ns","synth_conditional"
+"92","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.285,"ns",1,"ns","synth_conditional"
+"93","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.00203,"**",0.0648,"ns","synth_conditional"
+"94","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.426,"ns",1,"ns","synth_conditional"
+"95","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.242,"ns",1,"ns","synth_conditional"
+"96","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.418,"ns",1,"ns","synth_conditional"
+"97","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.893,"ns",1,"ns","synth_conditional"
+"98","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.199,"ns",1,"ns","synth_conditional"
+"99","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.00409,"**",0.127,"ns","synth_conditional"
+"100","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.829,"ns",1,"ns","synth_conditional"
+"101","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 0
+contacten_onderwerp_boolean_documenten__innemen_: 0
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.341,"ns",1,"ns","synth_conditional"
+"102","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 1
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.185,"ns",1,"ns","synth_conditional"
+"103","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 10
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.334,"ns",1,"ns","synth_conditional"
+"104","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 15
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.983,"ns",1,"ns","synth_conditional"
+"105","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 2
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.15,"ns",1,"ns","synth_conditional"
+"106","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 20
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.00663,"**",0.192,"ns","synth_conditional"
+"107","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 3
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.71,"ns",1,"ns","synth_conditional"
+"108","Ja","IV: 
+contacten_onderwerp_documenten__innemen_: 4
+contacten_onderwerp_boolean_documenten__innemen_: 1
+","IV: 
+contacten_onderwerp_documenten__innemen_: 5
+contacten_onderwerp_boolean_documenten__innemen_: 1
+",12508,12508,0.876,"ns",1,"ns","synth_conditional"

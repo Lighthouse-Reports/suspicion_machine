@@ -1,0 +1,85 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+competentie_plannen_en_organiseren: 0
+persoonlijke_eigenschappen_opstelling: 0
+","IV: 
+competentie_plannen_en_organiseren: 0
+persoonlijke_eigenschappen_opstelling: 1
+",12645,12645,0.443,"ns",0.555,"ns","real_conditional"
+"2","Ja","IV: 
+competentie_plannen_en_organiseren: 0
+persoonlijke_eigenschappen_opstelling: 0
+","IV: 
+competentie_plannen_en_organiseren: 1
+persoonlijke_eigenschappen_opstelling: 0
+",12645,12645,0.00852,"**",0.0426,"*","real_conditional"
+"3","Ja","IV: 
+competentie_plannen_en_organiseren: 0
+persoonlijke_eigenschappen_opstelling: 1
+","IV: 
+competentie_plannen_en_organiseren: 1
+persoonlijke_eigenschappen_opstelling: 0
+",12645,12645,0.000681,"***",0.00409,"**","real_conditional"
+"4","Ja","IV: 
+competentie_plannen_en_organiseren: 0
+persoonlijke_eigenschappen_opstelling: 0
+","IV: 
+competentie_plannen_en_organiseren: 1
+persoonlijke_eigenschappen_opstelling: 1
+",12645,12645,0.185,"ns",0.555,"ns","real_conditional"
+"5","Ja","IV: 
+competentie_plannen_en_organiseren: 0
+persoonlijke_eigenschappen_opstelling: 1
+","IV: 
+competentie_plannen_en_organiseren: 1
+persoonlijke_eigenschappen_opstelling: 1
+",12645,12645,0.0365,"*",0.146,"ns","real_conditional"
+"6","Ja","IV: 
+competentie_plannen_en_organiseren: 1
+persoonlijke_eigenschappen_opstelling: 0
+","IV: 
+competentie_plannen_en_organiseren: 1
+persoonlijke_eigenschappen_opstelling: 1
+",12645,12645,0.192,"ns",0.555,"ns","real_conditional"
+"7","Ja","IV: 
+competentie_plannen_en_organiseren: 0
+persoonlijke_eigenschappen_opstelling: 0
+","IV: 
+competentie_plannen_en_organiseren: 0
+persoonlijke_eigenschappen_opstelling: 1
+",12645,12645,0.347,"ns",0.347,"ns","synth_conditional"
+"8","Ja","IV: 
+competentie_plannen_en_organiseren: 0
+persoonlijke_eigenschappen_opstelling: 0
+","IV: 
+competentie_plannen_en_organiseren: 1
+persoonlijke_eigenschappen_opstelling: 0
+",12645,12645,0.000506,"***",0.00253,"**","synth_conditional"
+"9","Ja","IV: 
+competentie_plannen_en_organiseren: 0
+persoonlijke_eigenschappen_opstelling: 1
+","IV: 
+competentie_plannen_en_organiseren: 1
+persoonlijke_eigenschappen_opstelling: 0
+",12645,12645,9.95e-06,"****",5.97e-05,"****","synth_conditional"
+"10","Ja","IV: 
+competentie_plannen_en_organiseren: 0
+persoonlijke_eigenschappen_opstelling: 0
+","IV: 
+competentie_plannen_en_organiseren: 1
+persoonlijke_eigenschappen_opstelling: 1
+",12645,12645,0.0683,"ns",0.205,"ns","synth_conditional"
+"11","Ja","IV: 
+competentie_plannen_en_organiseren: 0
+persoonlijke_eigenschappen_opstelling: 1
+","IV: 
+competentie_plannen_en_organiseren: 1
+persoonlijke_eigenschappen_opstelling: 1
+",12645,12645,0.00571,"**",0.0229,"*","synth_conditional"
+"12","Ja","IV: 
+competentie_plannen_en_organiseren: 1
+persoonlijke_eigenschappen_opstelling: 0
+","IV: 
+competentie_plannen_en_organiseren: 1
+persoonlijke_eigenschappen_opstelling: 1
+",12645,12645,0.098,"ns",0.205,"ns","synth_conditional"

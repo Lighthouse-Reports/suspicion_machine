@@ -1,0 +1,226 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+",12645,12645,0.0791,"ns",1,"ns","real_conditional"
+"2","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+",12645,12645,0.0414,"*",0.87,"ns","real_conditional"
+"3","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+",12645,12645,0.777,"ns",1,"ns","real_conditional"
+"4","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 3
+",12645,12645,0.0414,"*",0.87,"ns","real_conditional"
+"5","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 3
+",12645,12645,0.777,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 4
+",12645,12645,0.0414,"*",0.87,"ns","real_conditional"
+"8","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 4
+",12645,12645,0.777,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 3
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"11","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 5
+",12645,12645,0.0414,"*",0.87,"ns","real_conditional"
+"12","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 5
+",12645,12645,0.777,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"14","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 3
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"15","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 4
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"16","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 7
+",12645,12645,0.0414,"*",0.87,"ns","real_conditional"
+"17","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 7
+",12645,12645,0.777,"ns",1,"ns","real_conditional"
+"18","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"19","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 3
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"20","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 4
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"21","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 5
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"22","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+",8675,3942,4.22e-46,"****",1.27e-45,"****","synth"
+"23","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+",8675,28,0.00578,"**",0.0116,"*","synth"
+"24","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+",3942,28,0.192,"ns",0.192,"ns","synth"
+"25","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+",12508,12508,0.0123,"*",0.197,"ns","synth_conditional"
+"26","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+",12508,12508,0.00153,"**",0.0321,"*","synth_conditional"
+"27","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+",12508,12508,0.505,"ns",1,"ns","synth_conditional"
+"28","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 3
+",12508,12508,0.00153,"**",0.0321,"*","synth_conditional"
+"29","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 3
+",12508,12508,0.505,"ns",1,"ns","synth_conditional"
+"30","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"31","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 4
+",12508,12508,0.00153,"**",0.0321,"*","synth_conditional"
+"32","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 4
+",12508,12508,0.505,"ns",1,"ns","synth_conditional"
+"33","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"34","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 3
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"35","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 5
+",12508,12508,0.00153,"**",0.0321,"*","synth_conditional"
+"36","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 5
+",12508,12508,0.505,"ns",1,"ns","synth_conditional"
+"37","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"38","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 3
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"39","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 4
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"40","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 7
+",12508,12508,0.00153,"**",0.0321,"*","synth_conditional"
+"41","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 7
+",12508,12508,0.505,"ns",1,"ns","synth_conditional"
+"42","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"43","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 3
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"44","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 4
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"45","Ja","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 5
+","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"

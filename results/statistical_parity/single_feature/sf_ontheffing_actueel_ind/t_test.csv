@@ -1,0 +1,21 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+ontheffing_actueel_ind: 0
+","IV: 
+ontheffing_actueel_ind: 1
+",10763,1882,7.78e-41,"****",7.78e-41,"****","real"
+"2","Ja","IV: 
+ontheffing_actueel_ind: 0
+","IV: 
+ontheffing_actueel_ind: 1
+",12645,12645,0.342,"ns",0.342,"ns","real_conditional"
+"3","Ja","IV: 
+ontheffing_actueel_ind: 0
+","IV: 
+ontheffing_actueel_ind: 1
+",8863,3782,0.00216,"**",0.00216,"**","synth"
+"4","Ja","IV: 
+ontheffing_actueel_ind: 0
+","IV: 
+ontheffing_actueel_ind: 1
+",12508,12508,0.0567,"ns",0.0567,"ns","synth_conditional"

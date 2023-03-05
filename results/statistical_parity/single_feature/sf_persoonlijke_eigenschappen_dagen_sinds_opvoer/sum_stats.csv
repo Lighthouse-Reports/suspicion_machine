@@ -1,0 +1,61 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 0
+","Ja",614,0.474,0.147,0.0814332247557003,0.255700325732899,-1.85667752442997,15.5700325732899,"real"
+"2","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 1
+","Ja",15,0.538,0.163,0.2,0.466666666666667,10,36.6666666666667,"real"
+"3","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 10
+","Ja",13,0.532,0.166,0.230769230769231,0.307692307692308,13.0769230769231,20.7692307692308,"real"
+"4","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 100
+","Ja",12,0.51,0.171,0.166666666666667,0.333333333333333,6.66666666666667,23.3333333333333,"real"
+"5","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 1000
+","Ja",3,0.312,0.111,0,0,-10,-10,"real"
+"6","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 0
+","Ja",12645,0.498,0.152,0.11071569790431,0.301146698299723,1.071569790431,20.1146698299723,"real_conditional"
+"7","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 1
+","Ja",12645,0.498,0.152,0.109292210359826,0.299644128113879,0.929221035982601,19.9644128113879,"real_conditional"
+"8","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 10
+","Ja",12645,0.497,0.152,0.107868722815342,0.298141557928035,0.786872281534202,19.8141557928035,"real_conditional"
+"9","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 100
+","Ja",12645,0.497,0.152,0.108185053380783,0.298299723210755,0.818505338078292,19.8299723210755,"real_conditional"
+"10","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 1000
+","Ja",12645,0.477,0.151,0.0820086990905496,0.254171609331752,-1.79913009094504,15.4171609331752,"real_conditional"
+"11","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 0
+","Ja",10,0.633,0.127,0.3,0.9,20,80,"synth"
+"12","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 1
+","Ja",12,0.633,0.106,0.25,0.666666666666667,15,56.6666666666667,"synth"
+"13","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 10
+","Ja",12,0.635,0.111,0.166666666666667,0.833333333333333,6.66666666666667,73.3333333333333,"synth"
+"14","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 100
+","Ja",21,0.616,0.075,0.0952380952380952,0.714285714285714,-0.476190476190477,61.4285714285714,"synth"
+"15","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 1000
+","Ja",4,0.645,0.085,0.25,0.75,15,65,"synth"
+"16","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 0
+","Ja",12508,0.621,0.084,0.120642788615286,0.678205948193156,2.06427886152862,57.8205948193156,"synth_conditional"
+"17","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 1
+","Ja",12508,0.62,0.084,0.118963863127598,0.67676686920371,1.89638631275983,57.676686920371,"synth_conditional"
+"18","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 10
+","Ja",12508,0.619,0.084,0.116165653981452,0.67324912056284,1.61656539814519,57.324912056284,"synth_conditional"
+"19","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 100
+","Ja",12508,0.618,0.084,0.113767188999041,0.669971218420211,1.37671889990406,56.9971218420211,"synth_conditional"
+"20","IV: 
+persoonlijke_eigenschappen_dagen_sinds_opvoer: 1000
+","Ja",12508,0.602,0.084,0.0722737448033259,0.597537575951391,-2.77262551966741,49.7537575951391,"synth_conditional"

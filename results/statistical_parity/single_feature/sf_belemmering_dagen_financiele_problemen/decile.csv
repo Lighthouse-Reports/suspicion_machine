@@ -1,0 +1,415 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",987,10.0070972320795,"real"
+"2",2,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",987,10.0070972320795,"real"
+"3",3,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",986,9.99695832910879,"real"
+"4",3,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1,50,"real"
+"5",4,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",987,10.0070972320795,"real"
+"6",5,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",987,10.0070972320795,"real"
+"7",6,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",986,9.99695832910879,"real"
+"8",7,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",986,9.99695832910879,"real"
+"9",8,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",986,9.99695832910879,"real"
+"10",9,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",986,9.99695832910879,"real"
+"11",10,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",985,9.98681942613809,"real"
+"12",10,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1,50,"real"
+"13",1,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1494,11.8149466192171,"real_conditional"
+"14",1,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1473,11.6488730723606,"real_conditional"
+"15",1,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1462,11.5618821668644,"real_conditional"
+"16",1,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1330,10.5179913009095,"real_conditional"
+"17",1,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1003,7.93198892843021,"real_conditional"
+"18",1,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",825,6.52431791221827,"real_conditional"
+"19",2,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1320,10.4389086595492,"real_conditional"
+"20",2,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1307,10.3361012257809,"real_conditional"
+"21",2,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1309,10.351917754053,"real_conditional"
+"22",2,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1306,10.3281929616449,"real_conditional"
+"23",2,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1215,9.6085409252669,"real_conditional"
+"24",2,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1130,8.93633847370502,"real_conditional"
+"25",3,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1281,10.1304863582444,"real_conditional"
+"26",3,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1283,10.1463028865164,"real_conditional"
+"27",3,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1275,10.0830367734282,"real_conditional"
+"28",3,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1274,10.0751285092922,"real_conditional"
+"29",3,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1251,9.8932384341637,"real_conditional"
+"30",3,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1223,9.67180703835508,"real_conditional"
+"31",4,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1260,9.9644128113879,"real_conditional"
+"32",4,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1264,9.99604586793199,"real_conditional"
+"33",4,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1265,10.003954132068,"real_conditional"
+"34",4,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1283,10.1463028865164,"real_conditional"
+"35",4,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1258,9.94859628311586,"real_conditional"
+"36",4,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1257,9.94068801897983,"real_conditional"
+"37",5,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1253,9.90905496243574,"real_conditional"
+"38",5,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1253,9.90905496243574,"real_conditional"
+"39",5,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1249,9.87742190589166,"real_conditional"
+"40",5,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1271,10.0514037168841,"real_conditional"
+"41",5,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1305,10.3202846975089,"real_conditional"
+"42",5,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1256,9.93277975484381,"real_conditional"
+"43",6,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1216,9.61644918940293,"real_conditional"
+"44",6,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1225,9.68762356662713,"real_conditional"
+"45",6,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1226,9.69553183076315,"real_conditional"
+"46",6,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1251,9.8932384341637,"real_conditional"
+"47",6,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1315,10.3993673388691,"real_conditional"
+"48",6,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1354,10.707789640174,"real_conditional"
+"49",7,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1257,9.94068801897983,"real_conditional"
+"50",7,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1257,9.94068801897983,"real_conditional"
+"51",7,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1265,10.003954132068,"real_conditional"
+"52",7,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1259,9.95650454725188,"real_conditional"
+"53",7,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1268,10.0276789244761,"real_conditional"
+"54",7,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1281,10.1304863582444,"real_conditional"
+"55",8,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1194,9.44246737841044,"real_conditional"
+"56",8,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1206,9.53736654804271,"real_conditional"
+"57",8,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1212,9.58481613285884,"real_conditional"
+"58",8,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1237,9.78252273625939,"real_conditional"
+"59",8,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1346,10.6445235270858,"real_conditional"
+"60",8,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1392,11.0083036773428,"real_conditional"
+"61",9,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1197,9.46619217081851,"real_conditional"
+"62",9,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1198,9.47410043495453,"real_conditional"
+"63",9,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1200,9.48991696322657,"real_conditional"
+"64",9,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1223,9.67180703835508,"real_conditional"
+"65",9,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1333,10.5417160933175,"real_conditional"
+"66",9,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1436,11.3562672993278,"real_conditional"
+"67",10,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1173,9.27639383155397,"real_conditional"
+"68",10,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1179,9.32384341637011,"real_conditional"
+"69",10,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1182,9.34756820877817,"real_conditional"
+"70",10,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1211,9.57690786872281,"real_conditional"
+"71",10,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1351,10.6840648477659,"real_conditional"
+"72",10,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1491,11.791221826809,"real_conditional"
+"73",1,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1,50,"synth"
+"74",2,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1,50,"synth"
+"75",3,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1,100,"synth"
+"76",4,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1,50,"synth"
+"77",5,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1,50,"synth"
+"78",6,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1,100,"synth"
+"79",1,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1409,11.2647905340582,"synth_conditional"
+"80",1,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1397,11.1688519347618,"synth_conditional"
+"81",1,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1390,11.1128877518388,"synth_conditional"
+"82",1,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1334,10.6651742884554,"synth_conditional"
+"83",1,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1077,8.61048928685641,"synth_conditional"
+"84",1,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",898,7.17940518068436,"synth_conditional"
+"85",2,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1344,10.7451231212024,"synth_conditional"
+"86",2,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1341,10.7211384713783,"synth_conditional"
+"87",2,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1335,10.6731691717301,"synth_conditional"
+"88",2,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1326,10.6012152222578,"synth_conditional"
+"89",2,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1165,9.31403901503038,"synth_conditional"
+"90",2,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",994,7.94691397505596,"synth_conditional"
+"91",3,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1316,10.5212663895107,"synth_conditional"
+"92",3,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1311,10.4812919731372,"synth_conditional"
+"93",3,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1304,10.4253277902143,"synth_conditional"
+"94",3,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1284,10.2654301247202,"synth_conditional"
+"95",3,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1173,9.37799808122801,"synth_conditional"
+"96",3,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1117,8.93028461784458,"synth_conditional"
+"97",4,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1280,10.2334505916214,"synth_conditional"
+"98",4,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1275,10.1934761752478,"synth_conditional"
+"99",4,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1288,10.297409657819,"synth_conditional"
+"100",4,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1291,10.3213943076431,"synth_conditional"
+"101",4,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1217,9.729772945315,"synth_conditional"
+"102",4,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1154,9.22609529900863,"synth_conditional"
+"103",5,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1244,9.94563479373201,"synth_conditional"
+"104",5,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1244,9.94563479373201,"synth_conditional"
+"105",5,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1249,9.98560921010553,"synth_conditional"
+"106",5,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1277,10.2094659417972,"synth_conditional"
+"107",5,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1298,10.377358490566,"synth_conditional"
+"108",5,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1193,9.5378957467221,"synth_conditional"
+"109",6,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1242,9.9296450271826,"synth_conditional"
+"110",6,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1243,9.93763991045731,"synth_conditional"
+"111",6,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1246,9.96162456028142,"synth_conditional"
+"112",6,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1244,9.94563479373201,"synth_conditional"
+"113",6,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1268,10.1375119923249,"synth_conditional"
+"114",6,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1262,10.0895426926767,"synth_conditional"
+"115",7,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1237,9.88967061080908,"synth_conditional"
+"116",7,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1242,9.9296450271826,"synth_conditional"
+"117",7,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1239,9.90566037735849,"synth_conditional"
+"118",7,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1254,10.0255836264791,"synth_conditional"
+"119",7,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1285,10.2734250079949,"synth_conditional"
+"120",7,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1248,9.97761432683083,"synth_conditional"
+"121",8,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1161,9.28205948193156,"synth_conditional"
+"122",8,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1162,9.29005436520627,"synth_conditional"
+"123",8,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1162,9.29005436520627,"synth_conditional"
+"124",8,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1182,9.44995203070035,"synth_conditional"
+"125",8,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1343,10.7371282379277,"synth_conditional"
+"126",8,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1495,11.9523504956828,"synth_conditional"
+"127",9,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1163,9.29804924848097,"synth_conditional"
+"128",9,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1174,9.38599296450272,"synth_conditional"
+"129",9,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1175,9.39398784777742,"synth_conditional"
+"130",9,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1182,9.44995203070035,"synth_conditional"
+"131",9,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1320,10.5532459226095,"synth_conditional"
+"132",9,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1490,11.9123760793092,"synth_conditional"
+"133",10,"IV: 
+belemmering_dagen_financiele_problemen: 0
+",1112,8.89031020147106,"synth_conditional"
+"134",10,"IV: 
+belemmering_dagen_financiele_problemen: 1
+",1119,8.94627438439399,"synth_conditional"
+"135",10,"IV: 
+belemmering_dagen_financiele_problemen: 10
+",1120,8.95426926766869,"synth_conditional"
+"136",10,"IV: 
+belemmering_dagen_financiele_problemen: 100
+",1134,9.06619763351455,"synth_conditional"
+"137",10,"IV: 
+belemmering_dagen_financiele_problemen: 1000
+",1362,10.8890310201471,"synth_conditional"
+"138",10,"IV: 
+belemmering_dagen_financiele_problemen: 10000
+",1657,13.2475215861848,"synth_conditional"

@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1100,11.6698493528538,"real"
+"2",1,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",165,5.12581547064306,"real"
+"3",2,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1027,10.8953957139826,"real"
+"4",2,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",238,7.39360049704877,"real"
+"5",3,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",966,10.2482495225971,"real"
+"6",3,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",299,9.28859894377136,"real"
+"7",4,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",893,9.47379588372586,"real"
+"8",4,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",372,11.5563839701771,"real"
+"9",5,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",908,9.63293019308296,"real"
+"10",5,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",357,11.0904007455732,"real"
+"11",6,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",919,9.7496286866115,"real"
+"12",6,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",345,10.71761416589,"real"
+"13",7,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",923,9.79206450244006,"real"
+"14",7,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",341,10.5933519726623,"real"
+"15",8,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",911,9.66475705495438,"real"
+"16",8,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",353,10.9661385523454,"real"
+"17",9,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",894,9.48440483768301,"real"
+"18",9,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",370,11.4942528735632,"real"
+"19",10,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",885,9.38892425206875,"real"
+"20",10,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",379,11.7738428083256,"real"
+"21",1,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1256,9.93277975484381,"real_conditional"
+"22",1,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1273,10.0672202451562,"real_conditional"
+"23",2,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1266,10.011862396204,"real_conditional"
+"24",2,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1263,9.98813760379597,"real_conditional"
+"25",3,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1255,9.92487149070779,"real_conditional"
+"26",3,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1274,10.0751285092922,"real_conditional"
+"27",4,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1265,10.003954132068,"real_conditional"
+"28",4,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1264,9.99604586793199,"real_conditional"
+"29",5,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1262,9.98022933965994,"real_conditional"
+"30",5,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1267,10.0197706603401,"real_conditional"
+"31",6,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1269,10.0355871886121,"real_conditional"
+"32",6,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1260,9.9644128113879,"real_conditional"
+"33",7,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1261,9.97232107552392,"real_conditional"
+"34",7,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1268,10.0276789244761,"real_conditional"
+"35",8,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1271,10.0514037168841,"real_conditional"
+"36",8,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1258,9.94859628311586,"real_conditional"
+"37",9,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1270,10.0434954527481,"real_conditional"
+"38",9,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1259,9.95650454725188,"real_conditional"
+"39",10,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1270,10.0434954527481,"real_conditional"
+"40",10,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1259,9.95650454725188,"real_conditional"
+"41",1,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",817,10.6881214024071,"synth"
+"42",1,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",448,8.95820835832833,"synth"
+"43",2,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",791,10.3479853479853,"synth"
+"44",2,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",474,9.47810437912418,"synth"
+"45",3,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",749,9.7985347985348,"synth"
+"46",3,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",516,10.3179364127175,"synth"
+"47",4,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",782,10.2302459445317,"synth"
+"48",4,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",483,9.65806838632274,"synth"
+"49",5,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",749,9.7985347985348,"synth"
+"50",5,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",516,10.3179364127175,"synth"
+"51",6,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",752,9.83778126635269,"synth"
+"52",6,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",512,10.2379524095181,"synth"
+"53",7,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",778,10.1779173207745,"synth"
+"54",7,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",486,9.71805638872226,"synth"
+"55",8,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",726,9.49764521193093,"synth"
+"56",8,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",538,10.7578484303139,"synth"
+"57",9,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",749,9.7985347985348,"synth"
+"58",9,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",515,10.2979404119176,"synth"
+"59",10,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",751,9.8246991104134,"synth"
+"60",10,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",513,10.2579484103179,"synth"
+"61",1,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1243,9.93763991045731,"synth_conditional"
+"62",1,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1259,10.0655580428526,"synth_conditional"
+"63",2,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1240,9.9136552606332,"synth_conditional"
+"64",2,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1262,10.0895426926767,"synth_conditional"
+"65",3,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1243,9.93763991045731,"synth_conditional"
+"66",3,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1259,10.0655580428526,"synth_conditional"
+"67",4,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1247,9.96961944355612,"synth_conditional"
+"68",4,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1255,10.0335785097538,"synth_conditional"
+"69",5,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1252,10.0095938599296,"synth_conditional"
+"70",5,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1250,9.99360409338024,"synth_conditional"
+"71",6,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1252,10.0095938599296,"synth_conditional"
+"72",6,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1250,9.99360409338024,"synth_conditional"
+"73",7,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1244,9.94563479373201,"synth_conditional"
+"74",7,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1257,10.0495682763032,"synth_conditional"
+"75",8,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1263,10.0975375759514,"synth_conditional"
+"76",8,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1238,9.89766549408379,"synth_conditional"
+"77",9,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1261,10.081547809402,"synth_conditional"
+"78",9,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1240,9.9136552606332,"synth_conditional"
+"79",10,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+",1263,10.0975375759514,"synth_conditional"
+"80",10,"IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",1238,9.89766549408379,"synth_conditional"

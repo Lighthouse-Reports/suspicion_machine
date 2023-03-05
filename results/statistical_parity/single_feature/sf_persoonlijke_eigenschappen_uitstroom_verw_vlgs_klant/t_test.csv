@@ -1,0 +1,421 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+",7288,429,9.8e-161,"****",2.06e-159,"****","real"
+"2","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+",7288,414,8.08e-96,"****",1.62e-94,"****","real"
+"3","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+",429,414,1.08e-05,"****",6.45e-05,"****","real"
+"4","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+",7288,597,4.62e-74,"****",7.85e-73,"****","real"
+"5","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+",429,597,4.57e-20,"****",5.48e-19,"****","real"
+"6","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+",414,597,1.37e-05,"****",6.84e-05,"****","real"
+"7","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+",7288,241,8.34e-33,"****",1.17e-31,"****","real"
+"8","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+",429,241,7.01e-13,"****",7.01e-12,"****","real"
+"9","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+",414,241,0.000685,"***",0.00274,"**","real"
+"10","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+",597,241,0.968,"ns",0.968,"ns","real"
+"11","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",7288,495,8.78e-43,"****",1.41e-41,"****","real"
+"12","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",429,495,8.47e-28,"****",1.1e-26,"****","real"
+"13","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",414,495,3.19e-10,"****",2.87e-09,"****","real"
+"14","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",597,495,0.0204,"*",0.0613,"ns","real"
+"15","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",241,495,0.0667,"ns",0.133,"ns","real"
+"16","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",7288,3181,3.65e-80,"****",6.93e-79,"****","real"
+"17","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",429,3181,4.22e-76,"****",7.6e-75,"****","real"
+"18","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",414,3181,1.36e-35,"****",2.03e-34,"****","real"
+"19","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",597,3181,5.22e-17,"****",5.74e-16,"****","real"
+"20","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",241,3181,1.64e-08,"****",1.32e-07,"****","real"
+"21","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",495,3181,1.38e-06,"****",9.63e-06,"****","real"
+"22","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+",12645,12645,0.939,"ns",1,"ns","real_conditional"
+"23","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+",12645,12645,0.696,"ns",1,"ns","real_conditional"
+"24","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+",12645,12645,0.753,"ns",1,"ns","real_conditional"
+"25","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+",12645,12645,0.343,"ns",1,"ns","real_conditional"
+"26","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+",12645,12645,0.383,"ns",1,"ns","real_conditional"
+"27","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+",12645,12645,0.577,"ns",1,"ns","real_conditional"
+"28","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+",12645,12645,0.316,"ns",1,"ns","real_conditional"
+"29","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+",12645,12645,0.354,"ns",1,"ns","real_conditional"
+"30","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"31","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+",12645,12645,0.957,"ns",1,"ns","real_conditional"
+"32","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",12645,12645,0.205,"ns",1,"ns","real_conditional"
+"33","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",12645,12645,0.234,"ns",1,"ns","real_conditional"
+"34","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",12645,12645,0.381,"ns",1,"ns","real_conditional"
+"35","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",12645,12645,0.751,"ns",1,"ns","real_conditional"
+"36","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",12645,12645,0.792,"ns",1,"ns","real_conditional"
+"37","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",12645,12645,0.168,"ns",1,"ns","real_conditional"
+"38","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",12645,12645,0.193,"ns",1,"ns","real_conditional"
+"39","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",12645,12645,0.324,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",12645,12645,0.667,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",12645,12645,0.707,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",12645,12645,0.911,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+",7432,325,1.64e-11,"****",2.79e-10,"****","synth"
+"44","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+",7432,253,4.6e-14,"****",9.2e-13,"****","synth"
+"45","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+",325,253,0.229,"ns",0.918,"ns","synth"
+"46","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+",7432,538,4.42e-13,"****",8.39e-12,"****","synth"
+"47","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+",325,538,0.406,"ns",1,"ns","synth"
+"48","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+",253,538,0.0369,"*",0.258,"ns","synth"
+"49","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+",7432,97,1.35e-12,"****",2.43e-11,"****","synth"
+"50","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+",325,97,0.00302,"**",0.0302,"*","synth"
+"51","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+",253,97,0.0424,"*",0.258,"ns","synth"
+"52","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+",538,97,0.000274,"***",0.00356,"**","synth"
+"53","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",7432,441,4.14e-11,"****",6.62e-10,"****","synth"
+"54","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",325,441,0.425,"ns",1,"ns","synth"
+"55","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",253,441,0.0437,"*",0.258,"ns","synth"
+"56","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",538,441,1,"ns",1,"ns","synth"
+"57","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",97,441,0.000345,"***",0.00414,"**","synth"
+"58","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",7432,3559,1.15e-22,"****",2.41e-21,"****","synth"
+"59","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",325,3559,0.0017,"**",0.0187,"*","synth"
+"60","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",253,3559,1.41e-05,"****",0.000197,"***","synth"
+"61","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",538,3559,0.00757,"**",0.0681,"ns","synth"
+"62","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",97,3559,3.41e-07,"****",5.11e-06,"****","synth"
+"63","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",441,3559,0.0144,"*",0.115,"ns","synth"
+"64","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+",12508,12508,0.889,"ns",1,"ns","synth_conditional"
+"65","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+",12508,12508,0.709,"ns",1,"ns","synth_conditional"
+"66","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+",12508,12508,0.815,"ns",1,"ns","synth_conditional"
+"67","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+",12508,12508,0.0678,"ns",0.949,"ns","synth_conditional"
+"68","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+",12508,12508,0.0915,"ns",1,"ns","synth_conditional"
+"69","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+",12508,12508,0.146,"ns",1,"ns","synth_conditional"
+"70","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+",12508,12508,0.0608,"ns",0.912,"ns","synth_conditional"
+"71","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+",12508,12508,0.0826,"ns",1,"ns","synth_conditional"
+"72","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+",12508,12508,0.133,"ns",1,"ns","synth_conditional"
+"73","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+",12508,12508,0.961,"ns",1,"ns","synth_conditional"
+"74","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",12508,12508,0.0124,"*",0.236,"ns","synth_conditional"
+"75","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",12508,12508,0.0182,"*",0.328,"ns","synth_conditional"
+"76","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",12508,12508,0.0334,"*",0.534,"ns","synth_conditional"
+"77","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",12508,12508,0.5,"ns",1,"ns","synth_conditional"
+"78","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+",12508,12508,0.532,"ns",1,"ns","synth_conditional"
+"79","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",12508,12508,0.00705,"**",0.148,"ns","synth_conditional"
+"80","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",12508,12508,0.0106,"*",0.212,"ns","synth_conditional"
+"81","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",12508,12508,0.0203,"*",0.344,"ns","synth_conditional"
+"82","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",12508,12508,0.385,"ns",1,"ns","synth_conditional"
+"83","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",12508,12508,0.413,"ns",1,"ns","synth_conditional"
+"84","Ja","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+",12508,12508,0.846,"ns",1,"ns","synth_conditional"

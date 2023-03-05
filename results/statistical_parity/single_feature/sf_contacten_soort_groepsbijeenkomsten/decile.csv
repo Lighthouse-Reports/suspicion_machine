@@ -1,0 +1,646 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1117,9.65511280145216,"real"
+"2",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",132,14.7651006711409,"real"
+"3",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",14,9.79020979020979,"real"
+"4",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1,4.76190476190476,"real"
+"5",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1124,9.71561932751318,"real"
+"6",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",116,12.9753914988814,"real"
+"7",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",20,13.986013986014,"real"
+"8",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1,4.76190476190476,"real"
+"9",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1,33.3333333333333,"real"
+"10",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",2,40,"real"
+"11",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1145,9.89713890569626,"real"
+"12",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",105,11.744966442953,"real"
+"13",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",13,9.09090909090909,"real"
+"14",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1,4.76190476190476,"real"
+"15",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1147,9.91442648457084,"real"
+"16",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",102,11.4093959731544,"real"
+"17",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",10,6.99300699300699,"real"
+"18",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",3,14.2857142857143,"real"
+"19",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",2,40,"real"
+"20",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1148,9.92307027400813,"real"
+"21",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",105,11.744966442953,"real"
+"22",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",10,6.99300699300699,"real"
+"23",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1,4.76190476190476,"real"
+"24",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1158,10.009508168381,"real"
+"25",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",87,9.73154362416107,"real"
+"26",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",15,10.4895104895105,"real"
+"27",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",2,9.52380952380952,"real"
+"28",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1,33.3333333333333,"real"
+"29",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1158,10.009508168381,"real"
+"30",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",78,8.7248322147651,"real"
+"31",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",22,15.3846153846154,"real"
+"32",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",4,19.047619047619,"real"
+"33",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1,33.3333333333333,"real"
+"34",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1164,10.0613709050048,"real"
+"35",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",79,8.83668903803132,"real"
+"36",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",17,11.8881118881119,"real"
+"37",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",3,14.2857142857143,"real"
+"38",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1189,10.277465640937,"real"
+"39",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",59,6.59955257270694,"real"
+"40",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",13,9.09090909090909,"real"
+"41",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",2,9.52380952380952,"real"
+"42",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1219,10.5367793240557,"real"
+"43",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",31,3.4675615212528,"real"
+"44",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",9,6.29370629370629,"real"
+"45",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",3,14.2857142857143,"real"
+"46",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1,20,"real"
+"47",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1273,10.0672202451562,"real_conditional"
+"48",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1277,10.0988533017003,"real_conditional"
+"49",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1260,9.9644128113879,"real_conditional"
+"50",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1261,9.97232107552392,"real_conditional"
+"51",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1261,9.97232107552392,"real_conditional"
+"52",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1260,9.9644128113879,"real_conditional"
+"53",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1260,9.9644128113879,"real_conditional"
+"54",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1265,10.003954132068,"real_conditional"
+"55",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1270,10.0434954527481,"real_conditional"
+"56",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1263,9.98813760379597,"real_conditional"
+"57",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1263,9.98813760379597,"real_conditional"
+"58",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1263,9.98813760379597,"real_conditional"
+"59",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1264,9.99604586793199,"real_conditional"
+"60",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1264,9.99604586793199,"real_conditional"
+"61",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1277,10.0988533017003,"real_conditional"
+"62",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1275,10.0830367734282,"real_conditional"
+"63",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1260,9.9644128113879,"real_conditional"
+"64",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1260,9.9644128113879,"real_conditional"
+"65",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1260,9.9644128113879,"real_conditional"
+"66",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1260,9.9644128113879,"real_conditional"
+"67",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1260,9.9644128113879,"real_conditional"
+"68",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1254,9.91696322657177,"real_conditional"
+"69",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1262,9.98022933965994,"real_conditional"
+"70",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1268,10.0276789244761,"real_conditional"
+"71",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1267,10.0197706603401,"real_conditional"
+"72",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1267,10.0197706603401,"real_conditional"
+"73",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1267,10.0197706603401,"real_conditional"
+"74",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1267,10.0197706603401,"real_conditional"
+"75",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1268,10.0276789244761,"real_conditional"
+"76",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1274,10.0751285092922,"real_conditional"
+"77",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1262,9.98022933965994,"real_conditional"
+"78",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1262,9.98022933965994,"real_conditional"
+"79",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1262,9.98022933965994,"real_conditional"
+"80",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1262,9.98022933965994,"real_conditional"
+"81",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1262,9.98022933965994,"real_conditional"
+"82",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1262,9.98022933965994,"real_conditional"
+"83",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1253,9.90905496243574,"real_conditional"
+"84",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1267,10.0197706603401,"real_conditional"
+"85",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1268,10.0276789244761,"real_conditional"
+"86",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1267,10.0197706603401,"real_conditional"
+"87",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1267,10.0197706603401,"real_conditional"
+"88",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1267,10.0197706603401,"real_conditional"
+"89",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1262,9.98022933965994,"real_conditional"
+"90",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1270,10.0434954527481,"real_conditional"
+"91",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1264,9.99604586793199,"real_conditional"
+"92",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1263,9.98813760379597,"real_conditional"
+"93",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1264,9.99604586793199,"real_conditional"
+"94",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1264,9.99604586793199,"real_conditional"
+"95",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1264,9.99604586793199,"real_conditional"
+"96",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1264,9.99604586793199,"real_conditional"
+"97",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1258,9.94859628311586,"real_conditional"
+"98",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1265,10.003954132068,"real_conditional"
+"99",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1266,10.011862396204,"real_conditional"
+"100",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1266,10.011862396204,"real_conditional"
+"101",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1266,10.011862396204,"real_conditional"
+"102",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1266,10.011862396204,"real_conditional"
+"103",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1257,9.94068801897983,"real_conditional"
+"104",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1258,9.94859628311586,"real_conditional"
+"105",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1268,10.0276789244761,"real_conditional"
+"106",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1267,10.0197706603401,"real_conditional"
+"107",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1267,10.0197706603401,"real_conditional"
+"108",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1267,10.0197706603401,"real_conditional"
+"109",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1267,10.0197706603401,"real_conditional"
+"110",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1263,9.98813760379597,"real_conditional"
+"111",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1248,9.86951364175563,"real_conditional"
+"112",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1268,10.0276789244761,"real_conditional"
+"113",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1268,10.0276789244761,"real_conditional"
+"114",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1268,10.0276789244761,"real_conditional"
+"115",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1268,10.0276789244761,"real_conditional"
+"116",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1268,10.0276789244761,"real_conditional"
+"117",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",816,9.59435626102293,"synth"
+"118",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",445,10.8748778103617,"synth"
+"119",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",4,8.33333333333333,"synth"
+"120",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",810,9.52380952380952,"synth"
+"121",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",450,10.9970674486804,"synth"
+"122",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",5,10.4166666666667,"synth"
+"123",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",828,9.73544973544974,"synth"
+"124",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",434,10.6060606060606,"synth"
+"125",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",3,6.25,"synth"
+"126",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",864,10.1587301587302,"synth"
+"127",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",395,9.65298142717497,"synth"
+"128",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",6,12.5,"synth"
+"129",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",840,9.87654320987654,"synth"
+"130",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",414,10.1173020527859,"synth"
+"131",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",11,22.9166666666667,"synth"
+"132",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",827,9.72369194591417,"synth"
+"133",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",429,10.4838709677419,"synth"
+"134",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",8,16.6666666666667,"synth"
+"135",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",827,9.72369194591417,"synth"
+"136",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",432,10.5571847507331,"synth"
+"137",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",5,10.4166666666667,"synth"
+"138",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",859,10.0999412110523,"synth"
+"139",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",401,9.79960899315738,"synth"
+"140",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",4,8.33333333333333,"synth"
+"141",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",889,10.4526748971193,"synth"
+"142",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",373,9.11534701857282,"synth"
+"143",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",2,4.16666666666667,"synth"
+"144",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",945,11.1111111111111,"synth"
+"145",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",319,7.79569892473118,"synth"
+"146",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1256,10.0415733930285,"synth_conditional"
+"147",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1285,10.2734250079949,"synth_conditional"
+"148",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1243,9.93763991045731,"synth_conditional"
+"149",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1243,9.93763991045731,"synth_conditional"
+"150",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1243,9.93763991045731,"synth_conditional"
+"151",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1243,9.93763991045731,"synth_conditional"
+"152",1,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1243,9.93763991045731,"synth_conditional"
+"153",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1276,10.2014710585225,"synth_conditional"
+"154",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1282,10.2494403581708,"synth_conditional"
+"155",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1239,9.90566037735849,"synth_conditional"
+"156",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1240,9.9136552606332,"synth_conditional"
+"157",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1240,9.9136552606332,"synth_conditional"
+"158",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1240,9.9136552606332,"synth_conditional"
+"159",2,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1239,9.90566037735849,"synth_conditional"
+"160",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1269,10.1455068755996,"synth_conditional"
+"161",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1272,10.1694915254237,"synth_conditional"
+"162",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1243,9.93763991045731,"synth_conditional"
+"163",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1243,9.93763991045731,"synth_conditional"
+"164",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1243,9.93763991045731,"synth_conditional"
+"165",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1243,9.93763991045731,"synth_conditional"
+"166",3,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1243,9.93763991045731,"synth_conditional"
+"167",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1255,10.0335785097538,"synth_conditional"
+"168",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1283,10.2574352414455,"synth_conditional"
+"169",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1244,9.94563479373201,"synth_conditional"
+"170",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1244,9.94563479373201,"synth_conditional"
+"171",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1243,9.93763991045731,"synth_conditional"
+"172",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1243,9.93763991045731,"synth_conditional"
+"173",4,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1244,9.94563479373201,"synth_conditional"
+"174",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1254,10.0255836264791,"synth_conditional"
+"175",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1266,10.1215222257755,"synth_conditional"
+"176",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1247,9.96961944355612,"synth_conditional"
+"177",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1247,9.96961944355612,"synth_conditional"
+"178",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1248,9.97761432683083,"synth_conditional"
+"179",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1247,9.96961944355612,"synth_conditional"
+"180",5,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1247,9.96961944355612,"synth_conditional"
+"181",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1237,9.88967061080908,"synth_conditional"
+"182",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1248,9.97761432683083,"synth_conditional"
+"183",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1254,10.0255836264791,"synth_conditional"
+"184",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1254,10.0255836264791,"synth_conditional"
+"185",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1254,10.0255836264791,"synth_conditional"
+"186",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1255,10.0335785097538,"synth_conditional"
+"187",6,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1254,10.0255836264791,"synth_conditional"
+"188",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1262,10.0895426926767,"synth_conditional"
+"189",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1242,9.9296450271826,"synth_conditional"
+"190",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1250,9.99360409338024,"synth_conditional"
+"191",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1250,9.99360409338024,"synth_conditional"
+"192",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1250,9.99360409338024,"synth_conditional"
+"193",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1250,9.99360409338024,"synth_conditional"
+"194",7,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1251,10.0015989766549,"synth_conditional"
+"195",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1241,9.9216501439079,"synth_conditional"
+"196",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1234,9.86568596098497,"synth_conditional"
+"197",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1256,10.0415733930285,"synth_conditional"
+"198",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1256,10.0415733930285,"synth_conditional"
+"199",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1256,10.0415733930285,"synth_conditional"
+"200",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1256,10.0415733930285,"synth_conditional"
+"201",8,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1256,10.0415733930285,"synth_conditional"
+"202",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1222,9.76974736168852,"synth_conditional"
+"203",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1211,9.68180364566677,"synth_conditional"
+"204",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1265,10.1135273425008,"synth_conditional"
+"205",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1265,10.1135273425008,"synth_conditional"
+"206",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1264,10.1055324592261,"synth_conditional"
+"207",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1264,10.1055324592261,"synth_conditional"
+"208",9,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1264,10.1055324592261,"synth_conditional"
+"209",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 0
+",1236,9.88167572753438,"synth_conditional"
+"210",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 1
+",1185,9.47393668052446,"synth_conditional"
+"211",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 10
+",1267,10.1295171090502,"synth_conditional"
+"212",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 2
+",1266,10.1215222257755,"synth_conditional"
+"213",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 3
+",1267,10.1295171090502,"synth_conditional"
+"214",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 4
+",1267,10.1295171090502,"synth_conditional"
+"215",10,"IV: 
+contacten_soort_groepsbijeenkomsten: 5
+",1267,10.1295171090502,"synth_conditional"

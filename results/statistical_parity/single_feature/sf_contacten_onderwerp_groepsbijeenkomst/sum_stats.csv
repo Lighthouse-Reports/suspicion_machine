@@ -1,0 +1,125 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_onderwerp_groepsbijeenkomst: 0
+contacten_onderwerp_boolean_groepsbijeenkomst: 0
+","Ja",9148,0.495,0.153,0.104831657192829,0.293725404459991,0.483165719282903,19.3725404459991,"real"
+"2","IV: 
+contacten_onderwerp_groepsbijeenkomst: 1
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",2230,0.469,0.152,0.0762331838565022,0.236771300448431,-2.37668161434978,13.6771300448431,"real"
+"3","IV: 
+contacten_onderwerp_groepsbijeenkomst: 10
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",5,0.524,0.116,0,0.4,-10,30,"real"
+"4","IV: 
+contacten_onderwerp_groepsbijeenkomst: 15
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",2,0.396,0.032,0,0,-10,-10,"real"
+"5","IV: 
+contacten_onderwerp_groepsbijeenkomst: 2
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",797,0.473,0.159,0.0928481806775408,0.257214554579674,-0.715181932245923,15.7214554579674,"real"
+"6","IV: 
+contacten_onderwerp_groepsbijeenkomst: 3
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",251,0.478,0.155,0.0956175298804781,0.254980079681275,-0.438247011952192,15.4980079681275,"real"
+"7","IV: 
+contacten_onderwerp_groepsbijeenkomst: 4
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",99,0.539,0.157,0.202020202020202,0.383838383838384,10.2020202020202,28.3838383838384,"real"
+"8","IV: 
+contacten_onderwerp_groepsbijeenkomst: 5
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",51,0.558,0.144,0.176470588235294,0.411764705882353,7.64705882352941,31.1764705882353,"real"
+"9","IV: 
+contacten_onderwerp_groepsbijeenkomst: 0
+contacten_onderwerp_boolean_groepsbijeenkomst: 0
+","Ja",12645,0.489,0.153,0.100276789244761,0.28224594701463,0.0276789244760767,18.224594701463,"real_conditional"
+"10","IV: 
+contacten_onderwerp_groepsbijeenkomst: 1
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",12645,0.489,0.154,0.0998813760379597,0.281534203242388,-0.0118623962040335,18.1534203242388,"real_conditional"
+"11","IV: 
+contacten_onderwerp_groepsbijeenkomst: 10
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",12645,0.482,0.153,0.0918149466192171,0.267615658362989,-0.818505338078292,16.7615658362989,"real_conditional"
+"12","IV: 
+contacten_onderwerp_groepsbijeenkomst: 15
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",12645,0.482,0.153,0.0918149466192171,0.267615658362989,-0.818505338078292,16.7615658362989,"real_conditional"
+"13","IV: 
+contacten_onderwerp_groepsbijeenkomst: 2
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",12645,0.489,0.154,0.0998813760379597,0.281534203242388,-0.0118623962040335,18.1534203242388,"real_conditional"
+"14","IV: 
+contacten_onderwerp_groepsbijeenkomst: 3
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",12645,0.489,0.154,0.0998813760379597,0.281534203242388,-0.0118623962040335,18.1534203242388,"real_conditional"
+"15","IV: 
+contacten_onderwerp_groepsbijeenkomst: 4
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",12645,0.489,0.154,0.100988533017003,0.28224594701463,0.098853301700276,18.224594701463,"real_conditional"
+"16","IV: 
+contacten_onderwerp_groepsbijeenkomst: 5
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",12645,0.486,0.153,0.0962435745353895,0.27504942665085,-0.375642546461052,17.504942665085,"real_conditional"
+"17","IV: 
+contacten_onderwerp_groepsbijeenkomst: 0
+contacten_onderwerp_boolean_groepsbijeenkomst: 0
+","Ja",4171,0.615,0.085,0.110525053943898,0.655238551906018,1.05250539438983,55.5238551906018,"synth"
+"18","IV: 
+contacten_onderwerp_groepsbijeenkomst: 1
+contacten_onderwerp_boolean_groepsbijeenkomst: 0
+","Ja",3068,0.613,0.086,0.104628422425033,0.643415906127771,0.462842242503259,54.3415906127771,"synth"
+"19","IV: 
+contacten_onderwerp_groepsbijeenkomst: 1
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",2960,0.61,0.086,0.0962837837837838,0.640202702702703,-0.371621621621622,54.0202702702703,"synth"
+"20","IV: 
+contacten_onderwerp_groepsbijeenkomst: 2
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",2098,0.607,0.085,0.0857959961868446,0.614394661582459,-1.42040038131554,51.4394661582459,"synth"
+"21","IV: 
+contacten_onderwerp_groepsbijeenkomst: 3
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",325,0.605,0.079,0.0461538461538462,0.624615384615385,-5.38461538461539,52.4615384615385,"synth"
+"22","IV: 
+contacten_onderwerp_groepsbijeenkomst: 4
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",22,0.613,0.081,0.136363636363636,0.636363636363636,3.63636363636363,53.6363636363636,"synth"
+"23","IV: 
+contacten_onderwerp_groepsbijeenkomst: 5
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",1,0.659,NA,0,1,-10,90,"synth"
+"24","IV: 
+contacten_onderwerp_groepsbijeenkomst: 0
+contacten_onderwerp_boolean_groepsbijeenkomst: 0
+","Ja",12508,0.612,0.085,0.0996162456028142,0.641109689798529,-0.0383754397185812,54.1109689798529,"synth_conditional"
+"25","IV: 
+contacten_onderwerp_groepsbijeenkomst: 1
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",12508,0.612,0.085,0.0996162456028142,0.640709945634794,-0.0383754397185812,54.0709945634794,"synth_conditional"
+"26","IV: 
+contacten_onderwerp_groepsbijeenkomst: 10
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",12508,0.606,0.085,0.084026223217141,0.613207547169811,-1.5973776782859,51.3207547169811,"synth_conditional"
+"27","IV: 
+contacten_onderwerp_groepsbijeenkomst: 15
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",12508,0.606,0.085,0.084026223217141,0.613207547169811,-1.5973776782859,51.3207547169811,"synth_conditional"
+"28","IV: 
+contacten_onderwerp_groepsbijeenkomst: 2
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",12508,0.612,0.085,0.0996162456028142,0.640709945634794,-0.0383754397185812,54.0709945634794,"synth_conditional"
+"29","IV: 
+contacten_onderwerp_groepsbijeenkomst: 3
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",12508,0.612,0.085,0.0996162456028142,0.640709945634794,-0.0383754397185812,54.0709945634794,"synth_conditional"
+"30","IV: 
+contacten_onderwerp_groepsbijeenkomst: 4
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",12508,0.613,0.085,0.102254557083467,0.647505596418292,0.225455708346657,54.7505596418292,"synth_conditional"
+"31","IV: 
+contacten_onderwerp_groepsbijeenkomst: 5
+contacten_onderwerp_boolean_groepsbijeenkomst: 1
+","Ja",12508,0.61,0.085,0.0939398784777742,0.634953629677007,-0.606012152222578,53.4953629677007,"synth_conditional"

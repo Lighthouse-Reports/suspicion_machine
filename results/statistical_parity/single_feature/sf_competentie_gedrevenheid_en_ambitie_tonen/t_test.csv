@@ -1,0 +1,46 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",11046,1581,4.94e-87,"****",1.48e-86,"****","real"
+"2","Ja","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",11046,18,3.88e-06,"****",7.77e-06,"****","real"
+"3","Ja","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1581,18,0.0195,"*",0.0195,"*","real"
+"4","Ja","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",12645,12645,0.00785,"**",0.0235,"*","real_conditional"
+"5","Ja","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",12645,12645,0.00785,"**",0.0235,"*","real_conditional"
+"6","Ja","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",12508,12508,0.00778,"**",0.0234,"*","synth_conditional"
+"8","Ja","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",12508,12508,0.00778,"**",0.0234,"*","synth_conditional"
+"9","Ja","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"

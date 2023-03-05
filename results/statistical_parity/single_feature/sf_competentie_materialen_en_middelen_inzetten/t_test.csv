@@ -1,0 +1,61 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+competentie_materialen_en_middelen_inzetten: 0
+","IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",9777,2832,8.57e-180,"****",2.57e-179,"****","real"
+"2","Ja","IV: 
+competentie_materialen_en_middelen_inzetten: 0
+","IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",9777,36,3.26e-08,"****",6.53e-08,"****","real"
+"3","Ja","IV: 
+competentie_materialen_en_middelen_inzetten: 1
+","IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",2832,36,0.0706,"ns",0.0706,"ns","real"
+"4","Ja","IV: 
+competentie_materialen_en_middelen_inzetten: 0
+","IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",12645,12645,0.804,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+competentie_materialen_en_middelen_inzetten: 0
+","IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",12645,12645,0.804,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+competentie_materialen_en_middelen_inzetten: 1
+","IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+competentie_materialen_en_middelen_inzetten: 0
+","IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",8969,3656,4.57e-39,"****",1.37e-38,"****","synth"
+"8","Ja","IV: 
+competentie_materialen_en_middelen_inzetten: 0
+","IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",8969,20,0.00318,"**",0.00636,"**","synth"
+"9","Ja","IV: 
+competentie_materialen_en_middelen_inzetten: 1
+","IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",3656,20,0.0723,"ns",0.0723,"ns","synth"
+"10","Ja","IV: 
+competentie_materialen_en_middelen_inzetten: 0
+","IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",12508,12508,0.678,"ns",1,"ns","synth_conditional"
+"11","Ja","IV: 
+competentie_materialen_en_middelen_inzetten: 0
+","IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",12508,12508,0.678,"ns",1,"ns","synth_conditional"
+"12","Ja","IV: 
+competentie_materialen_en_middelen_inzetten: 1
+","IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"

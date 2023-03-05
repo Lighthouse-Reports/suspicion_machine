@@ -1,0 +1,85 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 0
+","Ja",7134,0.453,0.157,0.075273338940286,0.223016540510233,-2.47266610597141,12.3016540510233,"real"
+"2","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+","Ja",226,0.682,0.129,0.557522123893805,0.778761061946903,45.7522123893805,67.8761061946903,"real"
+"3","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 2
+","Ja",274,0.634,0.135,0.394160583941606,0.667883211678832,29.4160583941606,56.7883211678832,"real"
+"4","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 3
+","Ja",509,0.587,0.135,0.239685658153242,0.512770137524558,13.9685658153242,41.2770137524558,"real"
+"5","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 4
+","Ja",218,0.566,0.127,0.178899082568807,0.426605504587156,7.88990825688073,32.6605504587156,"real"
+"6","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+","Ja",480,0.542,0.124,0.102083333333333,0.372916666666667,0.208333333333333,27.2916666666667,"real"
+"7","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 6
+","Ja",3804,0.512,0.126,0.07465825446898,0.284700315457413,-2.534174553102,18.4700315457413,"real"
+"8","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 0
+","Ja",12645,0.492,0.155,0.104784499802293,0.291103202846975,0.478449980229338,19.1103202846975,"real_conditional"
+"9","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+","Ja",12645,0.492,0.155,0.103993673388691,0.290154211150652,0.399367338869118,19.0154211150652,"real_conditional"
+"10","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 2
+","Ja",12645,0.491,0.154,0.102491103202847,0.287386318703045,0.249110320284697,18.7386318703045,"real_conditional"
+"11","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 3
+","Ja",12645,0.49,0.154,0.101067615658363,0.285092922103598,0.106761565836298,18.5092922103598,"real_conditional"
+"12","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 4
+","Ja",12645,0.488,0.153,0.0979833926453143,0.281138790035587,-0.201660735468566,18.1138790035587,"real_conditional"
+"13","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+","Ja",12645,0.486,0.152,0.0937920126532226,0.275365757216291,-0.62079873467774,17.5365757216291,"real_conditional"
+"14","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 6
+","Ja",12645,0.486,0.152,0.0932384341637011,0.274258600237248,-0.676156583629893,17.4258600237248,"real_conditional"
+"15","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 0
+","Ja",7160,0.604,0.089,0.0888268156424581,0.604329608938547,-1.11731843575419,50.4329608938547,"synth"
+"16","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+","Ja",158,0.657,0.076,0.246835443037975,0.822784810126582,14.6835443037975,72.2784810126582,"synth"
+"17","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 2
+","Ja",196,0.641,0.077,0.178571428571429,0.780612244897959,7.85714285714286,68.0612244897959,"synth"
+"18","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 3
+","Ja",443,0.639,0.075,0.146726862302483,0.781038374717833,4.67268623024831,68.1038374717833,"synth"
+"19","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 4
+","Ja",84,0.654,0.066,0.214285714285714,0.80952380952381,11.4285714285714,70.9523809523809,"synth"
+"20","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+","Ja",348,0.628,0.076,0.112068965517241,0.735632183908046,1.20689655172414,63.5632183908046,"synth"
+"21","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 6
+","Ja",4256,0.617,0.079,0.101738721804511,0.664708646616541,0.173872180451128,56.4708646616541,"synth"
+"22","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 0
+","Ja",12508,0.614,0.086,0.109050207866965,0.650303805564439,0.905020786696514,55.0303805564439,"synth_conditional"
+"23","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+","Ja",12508,0.614,0.086,0.108250719539495,0.648624880076751,0.825071953949472,54.8624880076751,"synth_conditional"
+"24","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 2
+","Ja",12508,0.613,0.086,0.105692356891589,0.646706108090822,0.569235689158938,54.6706108090822,"synth_conditional"
+"25","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 3
+","Ja",12508,0.612,0.086,0.102414454748961,0.642548768787976,0.241445474896065,54.2548768787976,"synth_conditional"
+"26","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 4
+","Ja",12508,0.611,0.085,0.0981771666133675,0.637751838823153,-0.182283338663256,53.7751838823153,"synth_conditional"
+"27","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+","Ja",12508,0.609,0.085,0.089622641509434,0.627518388231532,-1.0377358490566,52.7518388231532,"synth_conditional"
+"28","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 6
+","Ja",12508,0.608,0.085,0.0884234090182283,0.626958746402303,-1.15765909817717,52.6958746402303,"synth_conditional"

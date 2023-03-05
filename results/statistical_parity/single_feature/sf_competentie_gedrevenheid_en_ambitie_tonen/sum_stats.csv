@@ -1,0 +1,37 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+","Ja",11046,0.479,0.153,0.0893536121673004,0.260637334781821,-1.06463878326996,16.0637334781821,"real"
+"2","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+","Ja",1581,0.56,0.133,0.172043010752688,0.426312460468058,7.20430107526882,32.6312460468058,"real"
+"3","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+","Ja",18,0.643,0.105,0.333333333333333,0.722222222222222,23.3333333333333,62.2222222222222,"real"
+"4","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+","Ja",12645,0.489,0.153,0.0994068801897983,0.280901542111507,-0.0593119810201673,18.0901542111507,"real_conditional"
+"5","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+","Ja",12645,0.494,0.152,0.103914590747331,0.28920521945433,0.391459074733096,18.920521945433,"real_conditional"
+"6","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+","Ja",12645,0.494,0.152,0.103914590747331,0.28920521945433,0.391459074733096,18.920521945433,"real_conditional"
+"7","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+","Ja",10516,0.609,0.086,0.0929060479269684,0.625713198934956,-0.709395207303158,52.5713198934956,"synth"
+"8","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+","Ja",2128,0.628,0.081,0.135338345864662,0.718045112781955,3.53383458646616,61.8045112781955,"synth"
+"9","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+","Ja",1,0.627,NA,0,1,-10,90,"synth"
+"10","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+","Ja",12508,0.611,0.085,0.0984969619443556,0.639031020147106,-0.150303805564439,53.9031020147106,"synth_conditional"
+"11","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+","Ja",12508,0.614,0.084,0.10433322673489,0.65134314039015,0.433322673488966,55.134314039015,"synth_conditional"
+"12","IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+","Ja",12508,0.614,0.084,0.10433322673489,0.65134314039015,0.433322673488966,55.134314039015,"synth_conditional"

@@ -1,0 +1,155 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_delfshaven
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_stadscentru
+",12645,12645,0.114,"ns",0.221,"ns","real_conditional"
+"2","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_delfshaven
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: adres_recentste_wijk_delfshaven
+",12645,12645,6.73e-29,"****",3.36e-28,"****","real_conditional"
+"3","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_stadscentru
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: adres_recentste_wijk_delfshaven
+",12645,12645,3.92e-37,"****",2.35e-36,"****","real_conditional"
+"4","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_delfshaven
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: adres_recentste_wijk_stadscentru
+",12645,12645,1.14e-21,"****",3.43e-21,"****","real_conditional"
+"5","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_stadscentru
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: adres_recentste_wijk_stadscentru
+",12645,12645,7.97e-29,"****",3.36e-28,"****","real_conditional"
+"6","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: adres_recentste_wijk_delfshaven
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: adres_recentste_wijk_stadscentru
+",12645,12645,0.111,"ns",0.221,"ns","real_conditional"
+"7","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_delfshaven
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_stadscentru
+",404,29,0.73,"ns",1,"ns","synth"
+"8","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_delfshaven
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: NA
+",404,747,0.645,"ns",1,"ns","synth"
+"9","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_stadscentru
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: NA
+",29,747,0.617,"ns",1,"ns","synth"
+"10","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_delfshaven
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: adres_recentste_wijk_delfshaven
+",404,3,0.0887,"ns",0.826,"ns","synth"
+"11","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_stadscentru
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: adres_recentste_wijk_delfshaven
+",29,3,0.0826,"ns",0.826,"ns","synth"
+"12","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: NA
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: adres_recentste_wijk_delfshaven
+",747,3,0.0977,"ns",0.826,"ns","synth"
+"13","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_delfshaven
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: NA
+",404,4,0.629,"ns",1,"ns","synth"
+"14","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_stadscentru
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: NA
+",29,4,0.562,"ns",1,"ns","synth"
+"15","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: NA
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: NA
+",747,4,0.669,"ns",1,"ns","synth"
+"16","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: adres_recentste_wijk_delfshaven
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: NA
+",3,4,0.33,"ns",1,"ns","synth"
+"17","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_delfshaven
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_stadscentru
+",12645,12645,0.673,"ns",1,"ns","synth_conditional"
+"18","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_delfshaven
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: adres_recentste_wijk_delfshaven
+",12645,12645,3.27e-31,"****",1.51e-30,"****","synth_conditional"
+"19","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_stadscentru
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: adres_recentste_wijk_delfshaven
+",12645,12645,2.17e-33,"****",1.3e-32,"****","synth_conditional"
+"20","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_delfshaven
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: adres_recentste_wijk_stadscentru
+",12645,12645,3.81e-29,"****",1.14e-28,"****","synth_conditional"
+"21","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+var_2: adres_recentste_wijk_stadscentru
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: adres_recentste_wijk_stadscentru
+",12645,12645,3.01e-31,"****",1.51e-30,"****","synth_conditional"
+"22","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: adres_recentste_wijk_delfshaven
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+var_2: adres_recentste_wijk_stadscentru
+",12645,12645,0.678,"ns",1,"ns","synth_conditional"

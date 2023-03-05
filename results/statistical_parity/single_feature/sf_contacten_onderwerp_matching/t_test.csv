@@ -1,0 +1,1478 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+",10930,769,6.17e-08,"****",3.14e-06,"****","real"
+"2","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+",10930,31,1.28e-05,"****",0.000625,"***","real"
+"3","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+",769,31,0.00146,"**",0.0657,"ns","real"
+"4","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+",10930,13,0.0458,"*",1,"ns","real"
+"5","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+",769,13,0.208,"ns",1,"ns","real"
+"6","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+",31,13,0.485,"ns",1,"ns","real"
+"7","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+",10930,253,2.38e-09,"****",1.29e-07,"****","real"
+"8","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+",769,253,0.0142,"*",0.582,"ns","real"
+"9","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+",31,253,0.0332,"*",1,"ns","real"
+"10","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+",13,253,0.54,"ns",1,"ns","real"
+"11","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",10930,8,0.016,"*",0.638,"ns","real"
+"12","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",769,8,0.0673,"ns",1,"ns","real"
+"13","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",31,8,0.866,"ns",1,"ns","real"
+"14","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",13,8,0.507,"ns",1,"ns","real"
+"15","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",253,8,0.188,"ns",1,"ns","real"
+"16","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",10930,121,2.43e-09,"****",1.29e-07,"****","real"
+"17","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",769,121,0.000443,"***",0.0204,"*","real"
+"18","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",31,121,0.234,"ns",1,"ns","real"
+"19","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",13,121,0.977,"ns",1,"ns","real"
+"20","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",253,121,0.133,"ns",1,"ns","real"
+"21","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",8,121,0.401,"ns",1,"ns","real"
+"22","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",10930,6,0.000389,"***",0.0183,"*","real"
+"23","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",769,6,0.00235,"**",0.103,"ns","real"
+"24","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",31,6,0.137,"ns",1,"ns","real"
+"25","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",13,6,0.0699,"ns",1,"ns","real"
+"26","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",253,6,0.00965,"**",0.405,"ns","real"
+"27","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",8,6,0.269,"ns",1,"ns","real"
+"28","Ja","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",121,6,0.0308,"*",1,"ns","real"
+"29","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",10930,81,3.31e-09,"****",1.72e-07,"****","real"
+"30","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",769,81,8.85e-05,"****",0.00425,"**","real"
+"31","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",31,81,0.554,"ns",1,"ns","real"
+"32","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",13,81,0.723,"ns",1,"ns","real"
+"33","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",253,81,0.0281,"*",1,"ns","real"
+"34","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",8,81,0.604,"ns",1,"ns","real"
+"35","Ja","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",121,81,0.426,"ns",1,"ns","real"
+"36","Ja","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",6,81,0.0623,"ns",1,"ns","real"
+"37","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",10930,84,1e-11,"****",5.52e-10,"****","real"
+"38","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",769,84,2.22e-06,"****",0.000111,"***","real"
+"39","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",31,84,0.852,"ns",1,"ns","real"
+"40","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",13,84,0.52,"ns",1,"ns","real"
+"41","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",253,84,0.00364,"**",0.156,"ns","real"
+"42","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",8,84,0.774,"ns",1,"ns","real"
+"43","Ja","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",121,84,0.158,"ns",1,"ns","real"
+"44","Ja","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",6,84,0.0963,"ns",1,"ns","real"
+"45","Ja","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",81,84,0.581,"ns",1,"ns","real"
+"46","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",10930,2,0.14,"ns",1,"ns","real"
+"47","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",769,2,0.235,"ns",1,"ns","real"
+"48","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",31,2,0.724,"ns",1,"ns","real"
+"49","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",13,2,0.52,"ns",1,"ns","real"
+"50","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",253,2,0.35,"ns",1,"ns","real"
+"51","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",8,2,0.809,"ns",1,"ns","real"
+"52","Ja","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",121,2,0.485,"ns",1,"ns","real"
+"53","Ja","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",6,2,0.619,"ns",1,"ns","real"
+"54","Ja","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",81,2,0.593,"ns",1,"ns","real"
+"55","Ja","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",84,2,0.678,"ns",1,"ns","real"
+"56","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.457,"ns",1,"ns","real_conditional"
+"57","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.0225,"*",1,"ns","real_conditional"
+"58","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.124,"ns",1,"ns","real_conditional"
+"59","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.0225,"*",1,"ns","real_conditional"
+"60","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.124,"ns",1,"ns","real_conditional"
+"61","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"62","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.0225,"*",1,"ns","real_conditional"
+"63","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.124,"ns",1,"ns","real_conditional"
+"64","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"65","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"66","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.241,"ns",1,"ns","real_conditional"
+"67","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.668,"ns",1,"ns","real_conditional"
+"68","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.267,"ns",1,"ns","real_conditional"
+"69","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.267,"ns",1,"ns","real_conditional"
+"70","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.267,"ns",1,"ns","real_conditional"
+"71","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.0225,"*",1,"ns","real_conditional"
+"72","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.124,"ns",1,"ns","real_conditional"
+"73","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"74","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"75","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"76","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.267,"ns",1,"ns","real_conditional"
+"77","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.0948,"ns",1,"ns","real_conditional"
+"78","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.354,"ns",1,"ns","real_conditional"
+"79","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"80","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"81","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"82","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.619,"ns",1,"ns","real_conditional"
+"83","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"84","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.0225,"*",1,"ns","real_conditional"
+"85","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.124,"ns",1,"ns","real_conditional"
+"86","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"87","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"88","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"89","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.267,"ns",1,"ns","real_conditional"
+"90","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"91","Ja","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"92","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.0948,"ns",1,"ns","real_conditional"
+"93","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.354,"ns",1,"ns","real_conditional"
+"94","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"95","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"96","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"97","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.619,"ns",1,"ns","real_conditional"
+"98","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"99","Ja","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"100","Ja","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"101","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.0948,"ns",1,"ns","real_conditional"
+"102","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.354,"ns",1,"ns","real_conditional"
+"103","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"104","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"105","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"106","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.619,"ns",1,"ns","real_conditional"
+"107","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"108","Ja","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"109","Ja","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"110","Ja","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"111","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.0225,"*",1,"ns","real_conditional"
+"112","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.124,"ns",1,"ns","real_conditional"
+"113","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"114","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"115","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"116","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.267,"ns",1,"ns","real_conditional"
+"117","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"118","Ja","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"119","Ja","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"120","Ja","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"121","Ja","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"122","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.0225,"*",1,"ns","real_conditional"
+"123","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.124,"ns",1,"ns","real_conditional"
+"124","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"125","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"126","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"127","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.267,"ns",1,"ns","real_conditional"
+"128","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"129","Ja","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"130","Ja","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"131","Ja","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"132","Ja","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,0.541,"ns",1,"ns","real_conditional"
+"133","Ja","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"134","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.107,"ns",1,"ns","synth_conditional"
+"135","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.000431,"***",0.0337,"*","synth_conditional"
+"136","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.0561,"ns",1,"ns","synth_conditional"
+"137","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.000431,"***",0.0337,"*","synth_conditional"
+"138","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.0561,"ns",1,"ns","synth_conditional"
+"139","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"140","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.000431,"***",0.0337,"*","synth_conditional"
+"141","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.0561,"ns",1,"ns","synth_conditional"
+"142","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"143","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"144","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.0959,"ns",1,"ns","synth_conditional"
+"145","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.956,"ns",1,"ns","synth_conditional"
+"146","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.0636,"ns",1,"ns","synth_conditional"
+"147","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.0636,"ns",1,"ns","synth_conditional"
+"148","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.0636,"ns",1,"ns","synth_conditional"
+"149","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.000431,"***",0.0337,"*","synth_conditional"
+"150","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.0561,"ns",1,"ns","synth_conditional"
+"151","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"152","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"153","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"154","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.0636,"ns",1,"ns","synth_conditional"
+"155","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.00399,"**",0.283,"ns","synth_conditional"
+"156","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.204,"ns",1,"ns","synth_conditional"
+"157","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"158","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"159","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"160","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.225,"ns",1,"ns","synth_conditional"
+"161","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"162","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.000431,"***",0.0337,"*","synth_conditional"
+"163","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.0561,"ns",1,"ns","synth_conditional"
+"164","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"165","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"166","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"167","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.0636,"ns",1,"ns","synth_conditional"
+"168","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"169","Ja","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"170","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.00399,"**",0.283,"ns","synth_conditional"
+"171","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.204,"ns",1,"ns","synth_conditional"
+"172","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"173","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"174","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"175","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.225,"ns",1,"ns","synth_conditional"
+"176","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"177","Ja","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"178","Ja","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"179","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.00399,"**",0.283,"ns","synth_conditional"
+"180","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.204,"ns",1,"ns","synth_conditional"
+"181","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"182","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"183","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"184","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.225,"ns",1,"ns","synth_conditional"
+"185","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"186","Ja","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"187","Ja","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"188","Ja","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"189","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.000431,"***",0.0337,"*","synth_conditional"
+"190","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.0561,"ns",1,"ns","synth_conditional"
+"191","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"192","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"193","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"194","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.0636,"ns",1,"ns","synth_conditional"
+"195","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"196","Ja","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"197","Ja","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"198","Ja","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"199","Ja","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"200","Ja","IV: 
+contacten_onderwerp_matching: 0
+contacten_onderwerp_boolean_matching: 0
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.000431,"***",0.0337,"*","synth_conditional"
+"201","Ja","IV: 
+contacten_onderwerp_matching: 1
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.0561,"ns",1,"ns","synth_conditional"
+"202","Ja","IV: 
+contacten_onderwerp_matching: 10
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"203","Ja","IV: 
+contacten_onderwerp_matching: 100
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"204","Ja","IV: 
+contacten_onderwerp_matching: 15
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"205","Ja","IV: 
+contacten_onderwerp_matching: 2
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.0636,"ns",1,"ns","synth_conditional"
+"206","Ja","IV: 
+contacten_onderwerp_matching: 20
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"207","Ja","IV: 
+contacten_onderwerp_matching: 3
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"208","Ja","IV: 
+contacten_onderwerp_matching: 30
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"209","Ja","IV: 
+contacten_onderwerp_matching: 4
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"210","Ja","IV: 
+contacten_onderwerp_matching: 5
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,0.521,"ns",1,"ns","synth_conditional"
+"211","Ja","IV: 
+contacten_onderwerp_matching: 50
+contacten_onderwerp_boolean_matching: 1
+","IV: 
+contacten_onderwerp_matching: 70
+contacten_onderwerp_boolean_matching: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"

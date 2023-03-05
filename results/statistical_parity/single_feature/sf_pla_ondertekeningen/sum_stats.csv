@@ -1,0 +1,685 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 0
+","Ja",1798,0.544,0.138,0.146829810901001,0.406562847608454,4.68298109010011,30.6562847608454,"real"
+"2","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 1
+","Ja",1874,0.518,0.149,0.12059765208111,0.355389541088581,2.05976520811099,25.5389541088581,"real"
+"3","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 10
+","Ja",4,0.631,0.104,0.25,0.75,15,65,"real"
+"4","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 11
+","Ja",2,0.682,0.025,0.5,1,40,90,"real"
+"5","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 12
+","Ja",1,0.667,NA,0,1,-10,90,"real"
+"6","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 13
+","Ja",1,0.719,NA,1,1,90,90,"real"
+"7","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 2
+","Ja",1216,0.504,0.154,0.116776315789474,0.326480263157895,1.67763157894737,22.6480263157895,"real"
+"8","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 3
+","Ja",716,0.503,0.153,0.113128491620112,0.324022346368715,1.31284916201117,22.4022346368715,"real"
+"9","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 4
+","Ja",356,0.51,0.156,0.148876404494382,0.351123595505618,4.8876404494382,25.1123595505618,"real"
+"10","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 5
+","Ja",171,0.514,0.162,0.152046783625731,0.333333333333333,5.2046783625731,23.3333333333333,"real"
+"11","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 6
+","Ja",72,0.539,0.156,0.111111111111111,0.5,1.11111111111111,40,"real"
+"12","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 7
+","Ja",26,0.525,0.157,0.153846153846154,0.346153846153846,5.38461538461539,24.6153846153846,"real"
+"13","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 8
+","Ja",12,0.575,0.146,0.25,0.5,15,40,"real"
+"14","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 9
+","Ja",6,0.55,0.092,0,0.5,-10,40,"real"
+"15","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 1
+","Ja",993,0.48,0.152,0.108761329305136,0.23766364551863,0.876132930513594,13.766364551863,"real"
+"16","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 10
+","Ja",10,0.549,0.147,0.1,0.5,0,40,"real"
+"17","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 11
+","Ja",7,0.546,0.127,0,0.285714285714286,-10,18.5714285714286,"real"
+"18","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 12
+","Ja",1,0.6,NA,0,1,-10,90,"real"
+"19","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 13
+","Ja",1,0.648,NA,0,1,-10,90,"real"
+"20","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 2
+","Ja",1696,0.464,0.148,0.076061320754717,0.207547169811321,-2.3938679245283,10.7547169811321,"real"
+"21","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 3
+","Ja",1496,0.455,0.149,0.0614973262032086,0.202540106951872,-3.85026737967914,10.2540106951872,"real"
+"22","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 4
+","Ja",1079,0.438,0.151,0.0407784986098239,0.172381835032437,-5.92215013901761,7.23818350324374,"real"
+"23","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 5
+","Ja",569,0.445,0.149,0.0650263620386643,0.16871704745167,-3.49736379613357,6.87170474516696,"real"
+"24","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 6
+","Ja",300,0.441,0.159,0.0633333333333333,0.183333333333333,-3.66666666666667,8.33333333333333,"real"
+"25","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 7
+","Ja",117,0.448,0.155,0.0769230769230769,0.162393162393162,-2.30769230769231,6.23931623931624,"real"
+"26","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 8
+","Ja",54,0.475,0.154,0.0740740740740741,0.314814814814815,-2.59259259259259,21.4814814814815,"real"
+"27","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 9
+","Ja",35,0.514,0.166,0.142857142857143,0.314285714285714,4.28571428571428,21.4285714285714,"real"
+"28","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 2
+","Ja",4,0.766,0.034,1,1,90,90,"real"
+"29","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 3
+","Ja",8,0.501,0.145,0.125,0.25,2.5,15,"real"
+"30","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 4
+","Ja",7,0.512,0.09,0,0.285714285714286,-10,18.5714285714286,"real"
+"31","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 5
+","Ja",6,0.575,0.166,0.166666666666667,0.5,6.66666666666667,40,"real"
+"32","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 7
+","Ja",2,0.314,0.13,0,0,-10,-10,"real"
+"33","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 8
+","Ja",2,0.596,0.026,0,0.5,-10,40,"real"
+"34","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 9
+","Ja",1,0.776,NA,1,1,90,90,"real"
+"35","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 3
+","Ja",1,0.371,NA,0,0,-10,-10,"real"
+"36","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 4
+","Ja",1,0.409,NA,0,0,-10,-10,"real"
+"37","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 0
+","Ja",12645,0.506,0.147,0.110003954132068,0.304863582443654,1.0003954132068,20.4863582443654,"real_conditional"
+"38","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 1
+","Ja",12645,0.487,0.153,0.0971134835903519,0.275840253064452,-0.288651640964808,17.5840253064452,"real_conditional"
+"39","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 10
+","Ja",12645,0.483,0.154,0.0942665085013839,0.268406484776592,-0.573349149861606,16.8406484776592,"real_conditional"
+"40","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 11
+","Ja",12645,0.483,0.154,0.0942665085013839,0.268406484776592,-0.573349149861606,16.8406484776592,"real_conditional"
+"41","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 12
+","Ja",12645,0.483,0.154,0.0942665085013839,0.268406484776592,-0.573349149861606,16.8406484776592,"real_conditional"
+"42","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 13
+","Ja",12645,0.483,0.154,0.0942665085013839,0.268406484776592,-0.573349149861606,16.8406484776592,"real_conditional"
+"43","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 2
+","Ja",12645,0.486,0.153,0.0963226571767497,0.274733096085409,-0.36773428232503,17.4733096085409,"real_conditional"
+"44","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 3
+","Ja",12645,0.486,0.153,0.0964808224594702,0.274812178726769,-0.351917754052986,17.4812178726769,"real_conditional"
+"45","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 4
+","Ja",12645,0.486,0.153,0.0964017398181099,0.274416765519968,-0.359826018189008,17.4416765519968,"real_conditional"
+"46","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 5
+","Ja",12645,0.486,0.153,0.0964017398181099,0.274416765519968,-0.359826018189008,17.4416765519968,"real_conditional"
+"47","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 6
+","Ja",12645,0.485,0.153,0.0944246737841044,0.270778964017398,-0.557532621589561,17.0778964017398,"real_conditional"
+"48","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 7
+","Ja",12645,0.482,0.153,0.0929221035982602,0.266903914590747,-0.707789640173982,16.6903914590747,"real_conditional"
+"49","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 8
+","Ja",12645,0.483,0.154,0.0942665085013839,0.268406484776592,-0.573349149861606,16.8406484776592,"real_conditional"
+"50","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 9
+","Ja",12645,0.483,0.154,0.0942665085013839,0.268406484776592,-0.573349149861606,16.8406484776592,"real_conditional"
+"51","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 1
+","Ja",12645,0.486,0.153,0.0957690786872282,0.274337682878608,-0.423092131277185,17.4337682878608,"real_conditional"
+"52","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 10
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"53","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 11
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"54","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 12
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"55","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 13
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"56","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 2
+","Ja",12645,0.485,0.153,0.0950573349149862,0.272360616844603,-0.494266508501384,17.2360616844603,"real_conditional"
+"57","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 3
+","Ja",12645,0.485,0.153,0.0951364175563464,0.272518782127323,-0.486358244365363,17.2518782127323,"real_conditional"
+"58","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 4
+","Ja",12645,0.485,0.153,0.0948200869909055,0.272044286279162,-0.517991300909451,17.2044286279162,"real_conditional"
+"59","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 5
+","Ja",12645,0.485,0.153,0.0948200869909055,0.272044286279162,-0.517991300909451,17.2044286279162,"real_conditional"
+"60","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 6
+","Ja",12645,0.484,0.153,0.0933175168050613,0.268880980624753,-0.668248319493871,16.8880980624753,"real_conditional"
+"61","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 7
+","Ja",12645,0.481,0.153,0.091419533412416,0.264768683274021,-0.858046658758403,16.4768683274021,"real_conditional"
+"62","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 8
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"63","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 9
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"64","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 10
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"65","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 11
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"66","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 12
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"67","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 13
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"68","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 2
+","Ja",12645,0.485,0.153,0.0950573349149862,0.272360616844603,-0.494266508501384,17.2360616844603,"real_conditional"
+"69","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 3
+","Ja",12645,0.485,0.153,0.0951364175563464,0.272518782127323,-0.486358244365363,17.2518782127323,"real_conditional"
+"70","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 4
+","Ja",12645,0.485,0.153,0.0948200869909055,0.272044286279162,-0.517991300909451,17.2044286279162,"real_conditional"
+"71","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 5
+","Ja",12645,0.485,0.153,0.0948200869909055,0.272044286279162,-0.517991300909451,17.2044286279162,"real_conditional"
+"72","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 6
+","Ja",12645,0.484,0.153,0.0933175168050613,0.268880980624753,-0.668248319493871,16.8880980624753,"real_conditional"
+"73","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 7
+","Ja",12645,0.481,0.153,0.091419533412416,0.264768683274021,-0.858046658758403,16.4768683274021,"real_conditional"
+"74","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 8
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"75","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 9
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"76","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 10
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"77","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 11
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"78","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 12
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"79","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 13
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"80","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 3
+","Ja",12645,0.485,0.153,0.0951364175563464,0.272518782127323,-0.486358244365363,17.2518782127323,"real_conditional"
+"81","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 4
+","Ja",12645,0.485,0.153,0.0948200869909055,0.272044286279162,-0.517991300909451,17.2044286279162,"real_conditional"
+"82","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 5
+","Ja",12645,0.485,0.153,0.0948200869909055,0.272044286279162,-0.517991300909451,17.2044286279162,"real_conditional"
+"83","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 6
+","Ja",12645,0.484,0.153,0.0933175168050613,0.268880980624753,-0.668248319493871,16.8880980624753,"real_conditional"
+"84","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 7
+","Ja",12645,0.481,0.153,0.091419533412416,0.264768683274021,-0.858046658758403,16.4768683274021,"real_conditional"
+"85","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 8
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"86","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 9
+","Ja",12645,0.482,0.154,0.0926848556741795,0.266271253459866,-0.731514432582049,16.6271253459866,"real_conditional"
+"87","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 0
+","Ja",1090,0.641,0.079,0.18348623853211,0.771559633027523,8.34862385321101,67.1559633027523,"synth"
+"88","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 1
+","Ja",2022,0.624,0.085,0.145895153313551,0.69782393669634,4.58951533135509,59.782393669634,"synth"
+"89","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 2
+","Ja",1624,0.621,0.084,0.120689655172414,0.682266009852217,2.06896551724138,58.2266009852217,"synth"
+"90","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 3
+","Ja",1025,0.622,0.084,0.119024390243902,0.686829268292683,1.90243902439024,58.6829268292683,"synth"
+"91","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 4
+","Ja",588,0.62,0.086,0.115646258503401,0.685374149659864,1.56462585034014,58.5374149659864,"synth"
+"92","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 5
+","Ja",265,0.613,0.077,0.0905660377358491,0.607547169811321,-0.943396226415095,50.7547169811321,"synth"
+"93","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 6
+","Ja",101,0.613,0.082,0.0792079207920792,0.653465346534653,-2.07920792079208,55.3465346534654,"synth"
+"94","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 7
+","Ja",52,0.627,0.067,0.0769230769230769,0.769230769230769,-2.30769230769231,66.9230769230769,"synth"
+"95","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 8
+","Ja",9,0.636,0.08,0.111111111111111,0.666666666666667,1.11111111111111,56.6666666666667,"synth"
+"96","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 9
+","Ja",2,0.61,0.069,0,0.5,-10,40,"synth"
+"97","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 1
+","Ja",957,0.603,0.087,0.0794148380355277,0.595611285266458,-2.05851619644723,49.5611285266458,"synth"
+"98","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 10
+","Ja",6,0.58,0.08,0,0.666666666666667,-10,56.6666666666667,"synth"
+"99","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 11
+","Ja",1,0.528,NA,0,0,-10,-10,"synth"
+"100","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 2
+","Ja",1187,0.6,0.085,0.0707666385846672,0.580454928390901,-2.92333614153328,48.0454928390901,"synth"
+"101","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 3
+","Ja",1173,0.596,0.086,0.0596760443307758,0.578857630008525,-4.03239556692242,47.8857630008525,"synth"
+"102","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 4
+","Ja",905,0.599,0.081,0.050828729281768,0.575690607734807,-4.9171270718232,47.5690607734807,"synth"
+"103","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 5
+","Ja",611,0.586,0.086,0.044189852700491,0.527004909983633,-5.5810147299509,42.7004909983633,"synth"
+"104","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 6
+","Ja",379,0.602,0.084,0.0554089709762533,0.609498680738786,-4.45910290237467,50.9498680738786,"synth"
+"105","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 7
+","Ja",168,0.585,0.079,0.0238095238095238,0.535714285714286,-7.61904761904762,43.5714285714286,"synth"
+"106","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 8
+","Ja",71,0.592,0.077,0.028169014084507,0.563380281690141,-7.1830985915493,46.3380281690141,"synth"
+"107","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 9
+","Ja",32,0.611,0.076,0.03125,0.625,-6.875,52.5,"synth"
+"108","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 10
+","Ja",3,0.683,0.03,0,1,-10,90,"synth"
+"109","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 11
+","Ja",1,0.659,NA,0,1,-10,90,"synth"
+"110","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 2
+","Ja",31,0.568,0.094,0.032258064516129,0.483870967741935,-6.7741935483871,38.3870967741936,"synth"
+"111","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 3
+","Ja",51,0.579,0.088,0.0588235294117647,0.470588235294118,-4.11764705882353,37.0588235294118,"synth"
+"112","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 4
+","Ja",88,0.59,0.086,0.0681818181818182,0.534090909090909,-3.18181818181818,43.4090909090909,"synth"
+"113","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 5
+","Ja",72,0.589,0.085,0.0277777777777778,0.555555555555556,-7.22222222222222,45.5555555555556,"synth"
+"114","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 6
+","Ja",50,0.594,0.069,0.02,0.48,-8,38,"synth"
+"115","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 7
+","Ja",38,0.599,0.086,0.0789473684210526,0.631578947368421,-2.10526315789474,53.1578947368421,"synth"
+"116","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 8
+","Ja",28,0.597,0.064,0,0.607142857142857,-10,50.7142857142857,"synth"
+"117","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 9
+","Ja",11,0.55,0.068,0,0.363636363636364,-10,26.3636363636364,"synth"
+"118","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 10
+","Ja",1,0.603,NA,0,1,-10,90,"synth"
+"119","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 4
+","Ja",1,0.656,NA,0,1,-10,90,"synth"
+"120","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 5
+","Ja",1,0.454,NA,0,0,-10,-10,"synth"
+"121","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 6
+","Ja",1,0.63,NA,0,1,-10,90,"synth"
+"122","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 0
+","Ja",12508,0.619,0.082,0.110889031020147,0.670131116085705,1.08890310201471,57.0131116085705,"synth_conditional"
+"123","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 1
+","Ja",12508,0.612,0.085,0.0989766549408379,0.639750559641829,-0.102334505916214,53.9750559641829,"synth_conditional"
+"124","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 10
+","Ja",12508,0.609,0.086,0.0964182922929325,0.628797569555484,-0.358170770706748,52.8797569555485,"synth_conditional"
+"125","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 11
+","Ja",12508,0.609,0.086,0.0964182922929325,0.628797569555484,-0.358170770706748,52.8797569555485,"synth_conditional"
+"126","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 12
+","Ja",12508,0.609,0.086,0.0964182922929325,0.628797569555484,-0.358170770706748,52.8797569555485,"synth_conditional"
+"127","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 13
+","Ja",12508,0.609,0.086,0.0964182922929325,0.628797569555484,-0.358170770706748,52.8797569555485,"synth_conditional"
+"128","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 2
+","Ja",12508,0.612,0.085,0.0988967061080908,0.638951071314359,-0.110329389190919,53.8951071314359,"synth_conditional"
+"129","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 3
+","Ja",12508,0.612,0.085,0.0985769107771026,0.638631275983371,-0.142308922289736,53.8631275983371,"synth_conditional"
+"130","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 4
+","Ja",12508,0.612,0.085,0.0983370642788615,0.63839142948513,-0.166293572113847,53.839142948513,"synth_conditional"
+"131","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 5
+","Ja",12508,0.612,0.085,0.0983370642788615,0.63839142948513,-0.166293572113847,53.839142948513,"synth_conditional"
+"132","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 6
+","Ja",12508,0.61,0.085,0.0952190598017269,0.633594499520307,-0.478094019827312,53.3594499520307,"synth_conditional"
+"133","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 7
+","Ja",12508,0.609,0.086,0.0931403901503038,0.625599616245603,-0.68596098496962,52.5599616245603,"synth_conditional"
+"134","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 8
+","Ja",12508,0.609,0.086,0.0964182922929325,0.628797569555484,-0.358170770706748,52.8797569555485,"synth_conditional"
+"135","IV: 
+pla_ondertekeningen_actueel: 0
+pla_ondertekeningen_historie: 9
+","Ja",12508,0.609,0.086,0.0964182922929325,0.628797569555484,-0.358170770706748,52.8797569555485,"synth_conditional"
+"136","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 1
+","Ja",12508,0.611,0.085,0.0964982411256796,0.636872401662936,-0.350175887432044,53.6872401662936,"synth_conditional"
+"137","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 10
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"138","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 11
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"139","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 12
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"140","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 13
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"141","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 2
+","Ja",12508,0.611,0.085,0.0968979852894148,0.635913015669971,-0.310201471058523,53.5913015669971,"synth_conditional"
+"142","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 3
+","Ja",12508,0.611,0.085,0.0964182922929325,0.635513271506236,-0.358170770706748,53.5513271506236,"synth_conditional"
+"143","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 4
+","Ja",12508,0.611,0.085,0.0963383434601855,0.635513271506236,-0.366165653981453,53.5513271506236,"synth_conditional"
+"144","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 5
+","Ja",12508,0.611,0.085,0.0963383434601855,0.635513271506236,-0.366165653981453,53.5513271506236,"synth_conditional"
+"145","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 6
+","Ja",12508,0.609,0.086,0.0932203389830508,0.630076750879437,-0.677966101694916,53.0076750879437,"synth_conditional"
+"146","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 7
+","Ja",12508,0.608,0.086,0.0908218740006396,0.621682123440998,-0.917812599936041,52.1682123440998,"synth_conditional"
+"147","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 8
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"148","IV: 
+pla_ondertekeningen_actueel: 1
+pla_ondertekeningen_historie: 9
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"149","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 10
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"150","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 11
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"151","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 12
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"152","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 13
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"153","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 2
+","Ja",12508,0.611,0.085,0.0968979852894148,0.635913015669971,-0.310201471058523,53.5913015669971,"synth_conditional"
+"154","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 3
+","Ja",12508,0.611,0.085,0.0964182922929325,0.635513271506236,-0.358170770706748,53.5513271506236,"synth_conditional"
+"155","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 4
+","Ja",12508,0.611,0.085,0.0963383434601855,0.635513271506236,-0.366165653981453,53.5513271506236,"synth_conditional"
+"156","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 5
+","Ja",12508,0.611,0.085,0.0963383434601855,0.635513271506236,-0.366165653981453,53.5513271506236,"synth_conditional"
+"157","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 6
+","Ja",12508,0.609,0.086,0.0932203389830508,0.630076750879437,-0.677966101694916,53.0076750879437,"synth_conditional"
+"158","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 7
+","Ja",12508,0.608,0.086,0.0908218740006396,0.621682123440998,-0.917812599936041,52.1682123440998,"synth_conditional"
+"159","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 8
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"160","IV: 
+pla_ondertekeningen_actueel: 2
+pla_ondertekeningen_historie: 9
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"161","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 10
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"162","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 11
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"163","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 12
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"164","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 13
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"165","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 3
+","Ja",12508,0.611,0.085,0.0964182922929325,0.635513271506236,-0.358170770706748,53.5513271506236,"synth_conditional"
+"166","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 4
+","Ja",12508,0.611,0.085,0.0963383434601855,0.635513271506236,-0.366165653981453,53.5513271506236,"synth_conditional"
+"167","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 5
+","Ja",12508,0.611,0.085,0.0963383434601855,0.635513271506236,-0.366165653981453,53.5513271506236,"synth_conditional"
+"168","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 6
+","Ja",12508,0.609,0.086,0.0932203389830508,0.630076750879437,-0.677966101694916,53.0076750879437,"synth_conditional"
+"169","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 7
+","Ja",12508,0.608,0.086,0.0908218740006396,0.621682123440998,-0.917812599936041,52.1682123440998,"synth_conditional"
+"170","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 8
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"
+"171","IV: 
+pla_ondertekeningen_actueel: 3
+pla_ondertekeningen_historie: 9
+","Ja",12508,0.609,0.086,0.0940997761432683,0.625359769747362,-0.59002238567317,52.5359769747362,"synth_conditional"

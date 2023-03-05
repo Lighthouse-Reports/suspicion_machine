@@ -1,0 +1,535 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1214,10.0123711340206,"real"
+"2",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",50,10.6837606837607,"real"
+"3",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1,2.38095238095238,"real"
+"4",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1234,10.1773195876289,"real"
+"5",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",29,6.1965811965812,"real"
+"6",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",2,4.76190476190476,"real"
+"7",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1220,10.0618556701031,"real"
+"8",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",44,9.4017094017094,"real"
+"9",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1,2.38095238095238,"real"
+"10",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1203,9.92164948453608,"real"
+"11",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",53,11.3247863247863,"real"
+"12",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",6,14.2857142857143,"real"
+"13",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",2,28.5714285714286,"real"
+"14",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1,50,"real"
+"15",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1209,9.97113402061856,"real"
+"16",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",50,10.6837606837607,"real"
+"17",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",6,14.2857142857143,"real"
+"18",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1213,10.0041237113402,"real"
+"19",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",45,9.61538461538461,"real"
+"20",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",5,11.9047619047619,"real"
+"21",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1,50,"real"
+"22",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1205,9.93814432989691,"real"
+"23",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",54,11.5384615384615,"real"
+"24",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",4,9.52380952380952,"real"
+"25",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1,14.2857142857143,"real"
+"26",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1213,10.0041237113402,"real"
+"27",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",43,9.18803418803419,"real"
+"28",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",7,16.6666666666667,"real"
+"29",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1,14.2857142857143,"real"
+"30",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1217,10.0371134020619,"real"
+"31",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",38,8.11965811965812,"real"
+"32",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",7,16.6666666666667,"real"
+"33",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",2,28.5714285714286,"real"
+"34",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1197,9.87216494845361,"real"
+"35",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",62,13.2478632478632,"real"
+"36",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",3,7.14285714285714,"real"
+"37",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1,14.2857142857143,"real"
+"38",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1,100,"real"
+"39",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1265,10.003954132068,"real_conditional"
+"40",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1265,10.003954132068,"real_conditional"
+"41",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1264,9.99604586793199,"real_conditional"
+"42",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1264,9.99604586793199,"real_conditional"
+"43",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1265,10.003954132068,"real_conditional"
+"44",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1264,9.99604586793199,"real_conditional"
+"45",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1264,9.99604586793199,"real_conditional"
+"46",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1264,9.99604586793199,"real_conditional"
+"47",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1265,10.003954132068,"real_conditional"
+"48",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1265,10.003954132068,"real_conditional"
+"49",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1264,9.99604586793199,"real_conditional"
+"50",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1265,10.003954132068,"real_conditional"
+"51",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1265,10.003954132068,"real_conditional"
+"52",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1265,10.003954132068,"real_conditional"
+"53",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1264,9.99604586793199,"real_conditional"
+"54",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1264,9.99604586793199,"real_conditional"
+"55",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1265,10.003954132068,"real_conditional"
+"56",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1264,9.99604586793199,"real_conditional"
+"57",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1264,9.99604586793199,"real_conditional"
+"58",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1264,9.99604586793199,"real_conditional"
+"59",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1265,10.003954132068,"real_conditional"
+"60",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1265,10.003954132068,"real_conditional"
+"61",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1264,9.99604586793199,"real_conditional"
+"62",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1265,10.003954132068,"real_conditional"
+"63",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1265,10.003954132068,"real_conditional"
+"64",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1265,10.003954132068,"real_conditional"
+"65",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1264,9.99604586793199,"real_conditional"
+"66",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1264,9.99604586793199,"real_conditional"
+"67",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1265,10.003954132068,"real_conditional"
+"68",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1264,9.99604586793199,"real_conditional"
+"69",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1264,9.99604586793199,"real_conditional"
+"70",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1264,9.99604586793199,"real_conditional"
+"71",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1265,10.003954132068,"real_conditional"
+"72",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1265,10.003954132068,"real_conditional"
+"73",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1264,9.99604586793199,"real_conditional"
+"74",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1265,10.003954132068,"real_conditional"
+"75",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1265,10.003954132068,"real_conditional"
+"76",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1265,10.003954132068,"real_conditional"
+"77",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1264,9.99604586793199,"real_conditional"
+"78",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1264,9.99604586793199,"real_conditional"
+"79",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1265,10.003954132068,"real_conditional"
+"80",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1264,9.99604586793199,"real_conditional"
+"81",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1264,9.99604586793199,"real_conditional"
+"82",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1264,9.99604586793199,"real_conditional"
+"83",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1265,10.003954132068,"real_conditional"
+"84",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1265,10.003954132068,"real_conditional"
+"85",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1264,9.99604586793199,"real_conditional"
+"86",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1265,10.003954132068,"real_conditional"
+"87",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1265,10.003954132068,"real_conditional"
+"88",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1265,10.003954132068,"real_conditional"
+"89",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1264,9.99604586793199,"real_conditional"
+"90",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1264,9.99604586793199,"real_conditional"
+"91",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1265,10.003954132068,"real_conditional"
+"92",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1264,9.99604586793199,"real_conditional"
+"93",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1264,9.99604586793199,"real_conditional"
+"94",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1264,9.99604586793199,"real_conditional"
+"95",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1265,10.003954132068,"real_conditional"
+"96",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1265,10.003954132068,"real_conditional"
+"97",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1264,9.99604586793199,"real_conditional"
+"98",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1265,10.003954132068,"real_conditional"
+"99",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1217,10.0578512396694,"synth"
+"100",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",48,8.80733944954128,"synth"
+"101",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1215,10.0413223140496,"synth"
+"102",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",50,9.1743119266055,"synth"
+"103",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1216,10.0495867768595,"synth"
+"104",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",49,8.99082568807339,"synth"
+"105",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1205,9.95867768595041,"synth"
+"106",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",60,11.0091743119266,"synth"
+"107",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1215,10.0413223140496,"synth"
+"108",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",50,9.1743119266055,"synth"
+"109",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1203,9.94214876033058,"synth"
+"110",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",61,11.1926605504587,"synth"
+"111",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1210,10,"synth"
+"112",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",54,9.90825688073394,"synth"
+"113",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1210,10,"synth"
+"114",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",54,9.90825688073394,"synth"
+"115",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1204,9.9504132231405,"synth"
+"116",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",60,11.0091743119266,"synth"
+"117",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1205,9.95867768595041,"synth"
+"118",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",59,10.8256880733945,"synth"
+"119",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1251,10.0015989766549,"synth_conditional"
+"120",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1251,10.0015989766549,"synth_conditional"
+"121",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1251,10.0015989766549,"synth_conditional"
+"122",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1251,10.0015989766549,"synth_conditional"
+"123",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1251,10.0015989766549,"synth_conditional"
+"124",1,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1250,9.99360409338024,"synth_conditional"
+"125",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1251,10.0015989766549,"synth_conditional"
+"126",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1251,10.0015989766549,"synth_conditional"
+"127",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1251,10.0015989766549,"synth_conditional"
+"128",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1250,9.99360409338024,"synth_conditional"
+"129",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1251,10.0015989766549,"synth_conditional"
+"130",2,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1251,10.0015989766549,"synth_conditional"
+"131",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1251,10.0015989766549,"synth_conditional"
+"132",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1251,10.0015989766549,"synth_conditional"
+"133",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1250,9.99360409338024,"synth_conditional"
+"134",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1251,10.0015989766549,"synth_conditional"
+"135",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1251,10.0015989766549,"synth_conditional"
+"136",3,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1251,10.0015989766549,"synth_conditional"
+"137",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1251,10.0015989766549,"synth_conditional"
+"138",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1251,10.0015989766549,"synth_conditional"
+"139",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1251,10.0015989766549,"synth_conditional"
+"140",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1251,10.0015989766549,"synth_conditional"
+"141",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1250,9.99360409338024,"synth_conditional"
+"142",4,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1251,10.0015989766549,"synth_conditional"
+"143",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1251,10.0015989766549,"synth_conditional"
+"144",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1250,9.99360409338024,"synth_conditional"
+"145",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1251,10.0015989766549,"synth_conditional"
+"146",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1251,10.0015989766549,"synth_conditional"
+"147",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1251,10.0015989766549,"synth_conditional"
+"148",5,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1251,10.0015989766549,"synth_conditional"
+"149",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1250,9.99360409338024,"synth_conditional"
+"150",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1251,10.0015989766549,"synth_conditional"
+"151",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1251,10.0015989766549,"synth_conditional"
+"152",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1251,10.0015989766549,"synth_conditional"
+"153",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1251,10.0015989766549,"synth_conditional"
+"154",6,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1251,10.0015989766549,"synth_conditional"
+"155",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1251,10.0015989766549,"synth_conditional"
+"156",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1251,10.0015989766549,"synth_conditional"
+"157",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1251,10.0015989766549,"synth_conditional"
+"158",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1251,10.0015989766549,"synth_conditional"
+"159",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1251,10.0015989766549,"synth_conditional"
+"160",7,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1250,9.99360409338024,"synth_conditional"
+"161",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1251,10.0015989766549,"synth_conditional"
+"162",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1251,10.0015989766549,"synth_conditional"
+"163",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1251,10.0015989766549,"synth_conditional"
+"164",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1250,9.99360409338024,"synth_conditional"
+"165",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1251,10.0015989766549,"synth_conditional"
+"166",8,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1251,10.0015989766549,"synth_conditional"
+"167",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1251,10.0015989766549,"synth_conditional"
+"168",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1251,10.0015989766549,"synth_conditional"
+"169",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1250,9.99360409338024,"synth_conditional"
+"170",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1251,10.0015989766549,"synth_conditional"
+"171",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1250,9.99360409338024,"synth_conditional"
+"172",9,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1251,10.0015989766549,"synth_conditional"
+"173",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 0
+",1250,9.99360409338024,"synth_conditional"
+"174",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 1
+",1250,9.99360409338024,"synth_conditional"
+"175",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 2
+",1251,10.0015989766549,"synth_conditional"
+"176",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 3
+",1251,10.0015989766549,"synth_conditional"
+"177",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 4
+",1251,10.0015989766549,"synth_conditional"
+"178",10,"IV: 
+instrument_reden_beeindiging_historie_niet_succesvol__reden_bij_werkzoekende: 5
+",1251,10.0015989766549,"synth_conditional"

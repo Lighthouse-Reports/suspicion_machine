@@ -1,0 +1,53 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+ontheffing_reden_hist_sociale_gronden: 0
+ontheffing_hist_ind: 0
+","Ja",6289,0.534,0.152,0.161233900461123,0.387501987597392,6.12339004611226,28.7501987597392,"real"
+"2","IV: 
+ontheffing_reden_hist_sociale_gronden: 0
+ontheffing_hist_ind: 0
+","Ja",12645,0.501,0.15,0.108185053380783,0.303281929616449,0.818505338078292,20.3281929616449,"real_conditional"
+"3","IV: 
+ontheffing_reden_hist_sociale_gronden: 0
+ontheffing_hist_ind: 1
+","Ja",12645,0.5,0.15,0.107631474891261,0.302412020561487,0.763147489126136,20.2412020561487,"real_conditional"
+"4","IV: 
+ontheffing_reden_hist_sociale_gronden: 1
+ontheffing_hist_ind: 1
+","Ja",12645,0.5,0.15,0.107710557532622,0.302491103202847,0.771055753262158,20.2491103202847,"real_conditional"
+"5","IV: 
+ontheffing_reden_hist_sociale_gronden: 2
+ontheffing_hist_ind: 1
+","Ja",12645,0.502,0.149,0.108026888098062,0.303202846975089,0.802688809806247,20.3202846975089,"real_conditional"
+"6","IV: 
+ontheffing_reden_hist_sociale_gronden: 3
+ontheffing_hist_ind: 1
+","Ja",12645,0.502,0.149,0.108026888098062,0.303202846975089,0.802688809806247,20.3202846975089,"real_conditional"
+"7","IV: 
+ontheffing_reden_hist_sociale_gronden: 4
+ontheffing_hist_ind: 1
+","Ja",12645,0.502,0.149,0.108026888098062,0.303202846975089,0.802688809806247,20.3202846975089,"real_conditional"
+"8","IV: 
+ontheffing_reden_hist_sociale_gronden: 0
+ontheffing_hist_ind: 0
+","Ja",12508,0.63,0.086,0.164454748960665,0.703709625839463,6.44547489606652,60.3709625839463,"synth_conditional"
+"9","IV: 
+ontheffing_reden_hist_sociale_gronden: 0
+ontheffing_hist_ind: 1
+","Ja",12508,0.63,0.086,0.16405500479693,0.703389830508475,6.405500479693,60.3389830508475,"synth_conditional"
+"10","IV: 
+ontheffing_reden_hist_sociale_gronden: 1
+ontheffing_hist_ind: 1
+","Ja",12508,0.63,0.086,0.164374800127918,0.703869523504957,6.43748001279181,60.3869523504957,"synth_conditional"
+"11","IV: 
+ontheffing_reden_hist_sociale_gronden: 2
+ontheffing_hist_ind: 1
+","Ja",12508,0.63,0.086,0.164374800127918,0.704109370003198,6.43748001279181,60.4109370003198,"synth_conditional"
+"12","IV: 
+ontheffing_reden_hist_sociale_gronden: 3
+ontheffing_hist_ind: 1
+","Ja",12508,0.63,0.086,0.164374800127918,0.704109370003198,6.43748001279181,60.4109370003198,"synth_conditional"
+"13","IV: 
+ontheffing_reden_hist_sociale_gronden: 4
+ontheffing_hist_ind: 1
+","Ja",12508,0.63,0.086,0.164374800127918,0.704109370003198,6.43748001279181,60.4109370003198,"synth_conditional"

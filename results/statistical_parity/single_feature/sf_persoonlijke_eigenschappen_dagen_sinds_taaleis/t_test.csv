@@ -1,0 +1,201 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",5979,7,0.459,"ns",1,"ns","real"
+"2","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",5979,5,0.764,"ns",1,"ns","real"
+"3","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",7,5,0.479,"ns",1,"ns","real"
+"4","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",5979,3,0.791,"ns",1,"ns","real"
+"5","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",7,3,0.854,"ns",1,"ns","real"
+"6","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",5,3,0.694,"ns",1,"ns","real"
+"7","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",5979,3,0.0237,"*",0.237,"ns","real"
+"8","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",7,3,0.137,"ns",1,"ns","real"
+"9","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",5,3,0.0484,"*",0.436,"ns","real"
+"10","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",3,3,0.158,"ns",1,"ns","real"
+"11","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",12645,12645,0.806,"ns",1,"ns","real_conditional"
+"12","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",12645,12645,0.537,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",12645,12645,0.71,"ns",1,"ns","real_conditional"
+"14","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",12645,12645,0.00195,"**",0.0117,"*","real_conditional"
+"15","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",12645,12645,0.00433,"**",0.0217,"*","real_conditional"
+"16","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",12645,12645,0.0131,"*",0.0524,"ns","real_conditional"
+"17","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",12645,12645,5.06e-34,"****",5.06e-33,"****","real_conditional"
+"18","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",12645,12645,9.81e-33,"****",8.83e-32,"****","real_conditional"
+"19","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",12645,12645,7.9e-31,"****",6.32e-30,"****","real_conditional"
+"20","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",12645,12645,1.23e-19,"****",8.62e-19,"****","real_conditional"
+"21","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",6,8,0.821,"ns",1,"ns","synth"
+"22","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",6,12,0.589,"ns",1,"ns","synth"
+"23","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",8,12,0.745,"ns",1,"ns","synth"
+"24","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",6,16,0.594,"ns",1,"ns","synth"
+"25","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",8,16,0.758,"ns",1,"ns","synth"
+"26","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",12,16,0.968,"ns",1,"ns","synth"
+"27","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",6,2,0.399,"ns",1,"ns","synth"
+"28","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",8,2,0.473,"ns",1,"ns","synth"
+"29","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",12,2,0.583,"ns",1,"ns","synth"
+"30","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",16,2,0.562,"ns",1,"ns","synth"
+"31","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",12508,12508,0.761,"ns",1,"ns","synth_conditional"
+"32","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",12508,12508,0.678,"ns",1,"ns","synth_conditional"
+"33","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",12508,12508,0.911,"ns",1,"ns","synth_conditional"
+"34","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",12508,12508,2.86e-05,"****",0.000172,"***","synth_conditional"
+"35","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",12508,12508,0.000104,"***",0.000521,"***","synth_conditional"
+"36","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",12508,12508,0.000164,"***",0.000655,"***","synth_conditional"
+"37","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",12508,12508,1.19e-57,"****",1.19e-56,"****","synth_conditional"
+"38","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",12508,12508,1.48e-55,"****",1.33e-54,"****","synth_conditional"
+"39","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",12508,12508,8.45e-55,"****",6.76e-54,"****","synth_conditional"
+"40","Ja","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+","IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",12508,12508,2.75e-32,"****",1.92e-31,"****","synth_conditional"

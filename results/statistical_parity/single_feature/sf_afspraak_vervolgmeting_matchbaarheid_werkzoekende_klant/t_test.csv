@@ -1,0 +1,106 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",9511,3046,1.53e-13,"****",9.16e-13,"****","real"
+"2","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",9511,84,0.0214,"*",0.107,"ns","real"
+"3","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",3046,84,0.374,"ns",1,"ns","real"
+"4","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",9511,4,0.748,"ns",1,"ns","real"
+"5","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",3046,4,0.989,"ns",1,"ns","real"
+"6","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",84,4,0.858,"ns",1,"ns","real"
+"7","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",12645,12645,0.996,"ns",1,"ns","real_conditional"
+"8","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",12645,12645,0.555,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",12645,12645,0.558,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",12645,12645,0.555,"ns",1,"ns","real_conditional"
+"11","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",12645,12645,0.558,"ns",1,"ns","real_conditional"
+"12","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",7896,4691,0.00769,"**",0.0231,"*","synth"
+"14","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",7896,58,0.304,"ns",0.608,"ns","synth"
+"15","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",4691,58,0.514,"ns",0.608,"ns","synth"
+"16","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",12508,12508,0.999,"ns",1,"ns","synth_conditional"
+"17","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",12508,12508,0.0112,"*",0.0674,"ns","synth_conditional"
+"18","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",12508,12508,0.0113,"*",0.0674,"ns","synth_conditional"
+"19","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",12508,12508,0.0112,"*",0.0674,"ns","synth_conditional"
+"20","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",12508,12508,0.0113,"*",0.0674,"ns","synth_conditional"
+"21","Ja","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+","IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"

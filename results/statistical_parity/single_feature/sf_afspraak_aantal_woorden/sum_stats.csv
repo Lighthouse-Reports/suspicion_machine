@@ -1,0 +1,217 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+afspraak_aantal_woorden: 0
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",235,0.562,0.129,0.170212765957447,0.425531914893617,7.02127659574468,32.5531914893617,"real"
+"2","IV: 
+afspraak_aantal_woorden: 1
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",138,0.504,0.137,0.0942028985507246,0.289855072463768,-0.579710144927537,18.9855072463768,"real"
+"3","IV: 
+afspraak_aantal_woorden: 1
+afspraak_laatstejaar_aantal_woorden: 1
+","Ja",20,0.639,0.111,0.4,0.6,30,50,"real"
+"4","IV: 
+afspraak_aantal_woorden: 10
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",58,0.496,0.148,0.103448275862069,0.327586206896552,0.344827586206896,22.7586206896552,"real"
+"5","IV: 
+afspraak_aantal_woorden: 10
+afspraak_laatstejaar_aantal_woorden: 1
+","Ja",3,0.752,0.053,1,1,90,90,"real"
+"6","IV: 
+afspraak_aantal_woorden: 10
+afspraak_laatstejaar_aantal_woorden: 10
+","Ja",12,0.573,0.118,0.0833333333333333,0.5,-1.66666666666667,40,"real"
+"7","IV: 
+afspraak_aantal_woorden: 100
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",18,0.5,0.146,0.166666666666667,0.222222222222222,6.66666666666667,12.2222222222222,"real"
+"8","IV: 
+afspraak_aantal_woorden: 100
+afspraak_laatstejaar_aantal_woorden: 100
+","Ja",2,0.645,0.073,0,1,-10,90,"real"
+"9","IV: 
+afspraak_aantal_woorden: 1000
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",1,0.308,NA,0,0,-10,-10,"real"
+"10","IV: 
+afspraak_aantal_woorden: 0
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",12645,0.495,0.153,0.10731514432582,0.295689996045868,0.731514432582048,19.5689996045868,"real_conditional"
+"11","IV: 
+afspraak_aantal_woorden: 1
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",12645,0.495,0.153,0.10731514432582,0.295689996045868,0.731514432582048,19.5689996045868,"real_conditional"
+"12","IV: 
+afspraak_aantal_woorden: 1
+afspraak_laatstejaar_aantal_woorden: 1
+","Ja",12645,0.495,0.153,0.106603400553579,0.295531830763147,0.66034005535785,19.5531830763147,"real_conditional"
+"13","IV: 
+afspraak_aantal_woorden: 10
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",12645,0.495,0.153,0.10731514432582,0.294978252273626,0.731514432582048,19.4978252273626,"real_conditional"
+"14","IV: 
+afspraak_aantal_woorden: 10
+afspraak_laatstejaar_aantal_woorden: 1
+","Ja",12645,0.495,0.153,0.106761565836299,0.294741004349545,0.676156583629893,19.4741004349545,"real_conditional"
+"15","IV: 
+afspraak_aantal_woorden: 10
+afspraak_laatstejaar_aantal_woorden: 10
+","Ja",12645,0.495,0.153,0.106366152629498,0.294187425860024,0.636615262949781,19.4187425860024,"real_conditional"
+"16","IV: 
+afspraak_aantal_woorden: 100
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",12645,0.493,0.154,0.106128904705417,0.29276393831554,0.612890470541716,19.276393831554,"real_conditional"
+"17","IV: 
+afspraak_aantal_woorden: 100
+afspraak_laatstejaar_aantal_woorden: 1
+","Ja",12645,0.493,0.154,0.105496243574535,0.2928430209569,0.549624357453539,19.28430209569,"real_conditional"
+"18","IV: 
+afspraak_aantal_woorden: 100
+afspraak_laatstejaar_aantal_woorden: 10
+","Ja",12645,0.493,0.154,0.105258995650455,0.292605773032819,0.525899565045472,19.2605773032819,"real_conditional"
+"19","IV: 
+afspraak_aantal_woorden: 100
+afspraak_laatstejaar_aantal_woorden: 100
+","Ja",12645,0.491,0.153,0.101463028865164,0.287069988137604,0.14630288651641,18.7069988137604,"real_conditional"
+"20","IV: 
+afspraak_aantal_woorden: 1000
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",12645,0.483,0.152,0.0924476077500988,0.269988137603796,-0.755239224990116,16.9988137603796,"real_conditional"
+"21","IV: 
+afspraak_aantal_woorden: 1000
+afspraak_laatstejaar_aantal_woorden: 1
+","Ja",12645,0.483,0.152,0.0917358639778569,0.270304468169237,-0.826413602214314,17.0304468169237,"real_conditional"
+"22","IV: 
+afspraak_aantal_woorden: 1000
+afspraak_laatstejaar_aantal_woorden: 10
+","Ja",12645,0.483,0.152,0.0917358639778569,0.270067220245156,-0.826413602214314,17.0067220245156,"real_conditional"
+"23","IV: 
+afspraak_aantal_woorden: 1000
+afspraak_laatstejaar_aantal_woorden: 100
+","Ja",12645,0.481,0.151,0.0888098062475287,0.263345195729537,-1.11901937524713,16.3345195729537,"real_conditional"
+"24","IV: 
+afspraak_aantal_woorden: 1000
+afspraak_laatstejaar_aantal_woorden: 1000
+","Ja",12645,0.459,0.148,0.0615262949782523,0.203954132068011,-3.84737050217477,10.3954132068011,"real_conditional"
+"25","IV: 
+afspraak_aantal_woorden: 2000
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",12645,0.49,0.153,0.100593119810202,0.287228153420324,0.0593119810201659,18.7228153420324,"real_conditional"
+"26","IV: 
+afspraak_aantal_woorden: 2000
+afspraak_laatstejaar_aantal_woorden: 1
+","Ja",12645,0.49,0.153,0.0998022933965994,0.286595492289442,-0.0197706603400558,18.6595492289442,"real_conditional"
+"27","IV: 
+afspraak_aantal_woorden: 2000
+afspraak_laatstejaar_aantal_woorden: 10
+","Ja",12645,0.49,0.153,0.0995650454725188,0.286516409648082,-0.0434954527481227,18.6516409648082,"real_conditional"
+"28","IV: 
+afspraak_aantal_woorden: 2000
+afspraak_laatstejaar_aantal_woorden: 100
+","Ja",12645,0.488,0.152,0.0966389877421906,0.28224594701463,-0.336101225780942,18.224594701463,"real_conditional"
+"29","IV: 
+afspraak_aantal_woorden: 2000
+afspraak_laatstejaar_aantal_woorden: 1000
+","Ja",12645,0.466,0.149,0.0688018979833926,0.221035982601819,-3.11981020166074,12.1035982601819,"real_conditional"
+"30","IV: 
+afspraak_aantal_woorden: 0
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",3,0.572,0.149,0.333333333333333,0.333333333333333,23.3333333333333,23.3333333333333,"synth"
+"31","IV: 
+afspraak_aantal_woorden: 1
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",4,0.594,0.171,0.25,0.75,15,65,"synth"
+"32","IV: 
+afspraak_aantal_woorden: 1
+afspraak_laatstejaar_aantal_woorden: 1
+","Ja",2,0.556,0.038,0,0,-10,-10,"synth"
+"33","IV: 
+afspraak_aantal_woorden: 10
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",1,0.447,NA,0,0,-10,-10,"synth"
+"34","IV: 
+afspraak_aantal_woorden: 100
+afspraak_laatstejaar_aantal_woorden: 10
+","Ja",1,0.471,NA,0,0,-10,-10,"synth"
+"35","IV: 
+afspraak_aantal_woorden: 0
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",12508,0.618,0.085,0.116565398145187,0.660697153821554,1.65653981451871,56.0697153821554,"synth_conditional"
+"36","IV: 
+afspraak_aantal_woorden: 1
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",12508,0.618,0.085,0.116565398145187,0.660697153821554,1.65653981451871,56.0697153821554,"synth_conditional"
+"37","IV: 
+afspraak_aantal_woorden: 1
+afspraak_laatstejaar_aantal_woorden: 1
+","Ja",12508,0.618,0.085,0.116565398145187,0.66325551646946,1.65653981451871,56.325551646946,"synth_conditional"
+"38","IV: 
+afspraak_aantal_woorden: 10
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",12508,0.618,0.085,0.116405500479693,0.660857051487048,1.6405500479693,56.0857051487048,"synth_conditional"
+"39","IV: 
+afspraak_aantal_woorden: 10
+afspraak_laatstejaar_aantal_woorden: 1
+","Ja",12508,0.618,0.085,0.11648544931244,0.663495362967701,1.648544931244,56.3495362967701,"synth_conditional"
+"40","IV: 
+afspraak_aantal_woorden: 10
+afspraak_laatstejaar_aantal_woorden: 10
+","Ja",12508,0.618,0.085,0.114886472657499,0.662216181643748,1.48864726574992,56.2216181643748,"synth_conditional"
+"41","IV: 
+afspraak_aantal_woorden: 100
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",12508,0.619,0.086,0.120482890949792,0.665174288455389,2.04828909497921,56.5174288455389,"synth_conditional"
+"42","IV: 
+afspraak_aantal_woorden: 100
+afspraak_laatstejaar_aantal_woorden: 1
+","Ja",12508,0.619,0.085,0.120083146786057,0.6675727534378,2.00831467860569,56.75727534378,"synth_conditional"
+"43","IV: 
+afspraak_aantal_woorden: 100
+afspraak_laatstejaar_aantal_woorden: 10
+","Ja",12508,0.618,0.085,0.118164374800128,0.665733930284618,1.81643748001279,56.5733930284618,"synth_conditional"
+"44","IV: 
+afspraak_aantal_woorden: 100
+afspraak_laatstejaar_aantal_woorden: 100
+","Ja",12508,0.615,0.085,0.109210105532459,0.652222577550368,0.921010553245923,55.2222577550368,"synth_conditional"
+"45","IV: 
+afspraak_aantal_woorden: 1000
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",12508,0.608,0.085,0.0911416693316278,0.619523504956828,-0.885833066837224,51.9523504956828,"synth_conditional"
+"46","IV: 
+afspraak_aantal_woorden: 1000
+afspraak_laatstejaar_aantal_woorden: 1
+","Ja",12508,0.608,0.085,0.0906619763351455,0.621122481611768,-0.933802366485449,52.1122481611768,"synth_conditional"
+"47","IV: 
+afspraak_aantal_woorden: 1000
+afspraak_laatstejaar_aantal_woorden: 10
+","Ja",12508,0.608,0.085,0.0907419251678925,0.620722737448033,-0.925807483210746,52.0722737448033,"synth_conditional"
+"48","IV: 
+afspraak_aantal_woorden: 1000
+afspraak_laatstejaar_aantal_woorden: 100
+","Ja",12508,0.605,0.085,0.0833866325551647,0.607930924208507,-1.66133674448353,50.7930924208507,"synth_conditional"
+"49","IV: 
+afspraak_aantal_woorden: 1000
+afspraak_laatstejaar_aantal_woorden: 1000
+","Ja",12508,0.578,0.084,0.0326990725935401,0.482811000959386,-6.73009274064599,38.2811000959386,"synth_conditional"
+"50","IV: 
+afspraak_aantal_woorden: 2000
+afspraak_laatstejaar_aantal_woorden: 0
+","Ja",12508,0.615,0.086,0.110409338023665,0.649904061400704,1.04093380236649,54.9904061400704,"synth_conditional"
+"51","IV: 
+afspraak_aantal_woorden: 2000
+afspraak_laatstejaar_aantal_woorden: 1
+","Ja",12508,0.615,0.085,0.110089542692677,0.651742884553886,1.00895426926767,55.1742884553886,"synth_conditional"
+"52","IV: 
+afspraak_aantal_woorden: 2000
+afspraak_laatstejaar_aantal_woorden: 10
+","Ja",12508,0.615,0.085,0.110169491525424,0.651423089222897,1.01694915254237,55.1423089222897,"synth_conditional"
+"53","IV: 
+afspraak_aantal_woorden: 2000
+afspraak_laatstejaar_aantal_woorden: 100
+","Ja",12508,0.612,0.085,0.102494403581708,0.638951071314359,0.24944035817077,53.8951071314359,"synth_conditional"
+"54","IV: 
+afspraak_aantal_woorden: 2000
+afspraak_laatstejaar_aantal_woorden: 1000
+","Ja",12508,0.585,0.084,0.043891909178126,0.518148385033579,-5.6108090821874,41.8148385033579,"synth_conditional"

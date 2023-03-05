@@ -1,0 +1,76 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 0
+","Ja",9866,0.486,0.154,0.0988242448814109,0.273261706872086,-0.11757551185891,17.3261706872086,"real"
+"2","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 1
+","Ja",2097,0.498,0.151,0.103958035288507,0.314258464473057,0.395803528850738,21.4258464473057,"real"
+"3","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 2
+","Ja",538,0.51,0.145,0.111524163568773,0.308550185873606,1.15241635687732,20.8550185873606,"real"
+"4","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 3
+","Ja",123,0.5,0.142,0.0813008130081301,0.300813008130081,-1.86991869918699,20.0813008130081,"real"
+"5","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 4
+","Ja",16,0.497,0.161,0.125,0.375,2.5,27.5,"real"
+"6","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 5
+","Ja",4,0.547,0.113,0,0.5,-10,40,"real"
+"7","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 6
+","Ja",1,0.558,NA,0,0,-10,-10,"real"
+"8","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 0
+","Ja",12645,0.489,0.153,0.10003954132068,0.28208778173191,0.00395413206801115,18.208778173191,"real_conditional"
+"9","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 1
+","Ja",12645,0.489,0.153,0.10003954132068,0.281850533807829,0.00395413206801115,18.1850533807829,"real_conditional"
+"10","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 2
+","Ja",12645,0.49,0.153,0.100434954527481,0.282325029655991,0.0434954527481213,18.2325029655991,"real_conditional"
+"11","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 3
+","Ja",12645,0.49,0.153,0.100434954527481,0.282325029655991,0.0434954527481213,18.2325029655991,"real_conditional"
+"12","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 4
+","Ja",12645,0.49,0.153,0.100434954527481,0.282325029655991,0.0434954527481213,18.2325029655991,"real_conditional"
+"13","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 5
+","Ja",12645,0.49,0.153,0.100434954527481,0.282325029655991,0.0434954527481213,18.2325029655991,"real_conditional"
+"14","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 6
+","Ja",12645,0.49,0.153,0.100434954527481,0.282325029655991,0.0434954527481213,18.2325029655991,"real_conditional"
+"15","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 0
+","Ja",6233,0.61,0.086,0.0951387774747313,0.63292154660677,-0.486122252526873,53.292154660677,"synth"
+"16","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 1
+","Ja",5976,0.614,0.084,0.103915662650602,0.651606425702811,0.391566265060241,55.1606425702811,"synth"
+"17","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 2
+","Ja",427,0.612,0.087,0.114754098360656,0.622950819672131,1.47540983606557,52.2950819672131,"synth"
+"18","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 3
+","Ja",9,0.613,0.092,0.222222222222222,0.444444444444444,12.2222222222222,34.4444444444444,"synth"
+"19","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641109689798529,-0.0223856731691729,54.1109689798529,"synth_conditional"
+"20","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 1
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"21","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 2
+","Ja",12508,0.612,0.085,0.100095938599296,0.641909178125999,0.00959385992964495,54.1909178125999,"synth_conditional"
+"22","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 3
+","Ja",12508,0.612,0.085,0.100095938599296,0.641909178125999,0.00959385992964495,54.1909178125999,"synth_conditional"
+"23","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 4
+","Ja",12508,0.612,0.085,0.100095938599296,0.641909178125999,0.00959385992964495,54.1909178125999,"synth_conditional"
+"24","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 5
+","Ja",12508,0.612,0.085,0.100095938599296,0.641909178125999,0.00959385992964495,54.1909178125999,"synth_conditional"
+"25","IV: 
+instrument_reden_beeindiging_historie_uitval__aanbod_niet_langer_zinvol_volgens_gemeente: 6
+","Ja",12508,0.612,0.085,0.100095938599296,0.641909178125999,0.00959385992964495,54.1909178125999,"synth_conditional"

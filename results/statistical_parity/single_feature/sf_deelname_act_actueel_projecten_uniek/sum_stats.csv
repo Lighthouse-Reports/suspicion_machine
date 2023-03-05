@@ -1,0 +1,70 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","Ja",6250,0.524,0.149,0.13728,0.37104,3.728,27.104,"real"
+"2","IV: 
+deelname_act_actueel_projecten_uniek: 1
+","Ja",5135,0.452,0.146,0.0539435248296008,0.189873417721519,-4.60564751703992,8.9873417721519,"real"
+"3","IV: 
+deelname_act_actueel_projecten_uniek: 2
+","Ja",1114,0.468,0.163,0.102333931777379,0.210951526032316,0.233393177737881,11.0951526032316,"real"
+"4","IV: 
+deelname_act_actueel_projecten_uniek: 3
+","Ja",134,0.47,0.157,0.0970149253731343,0.223880597014925,-0.298507462686567,12.3880597014925,"real"
+"5","IV: 
+deelname_act_actueel_projecten_uniek: 4
+","Ja",11,0.576,0.141,0.181818181818182,0.545454545454545,8.18181818181818,44.5454545454545,"real"
+"6","IV: 
+deelname_act_actueel_projecten_uniek: 5
+","Ja",1,0.703,NA,1,1,90,90,"real"
+"7","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","Ja",12645,0.491,0.152,0.100751285092922,0.282799525504152,0.0751285092922091,18.2799525504152,"real_conditional"
+"8","IV: 
+deelname_act_actueel_projecten_uniek: 1
+","Ja",12645,0.488,0.154,0.0981415579280348,0.279636219849743,-0.185844207196521,17.9636219849743,"real_conditional"
+"9","IV: 
+deelname_act_actueel_projecten_uniek: 2
+","Ja",12645,0.488,0.154,0.0981415579280348,0.279636219849743,-0.185844207196521,17.9636219849743,"real_conditional"
+"10","IV: 
+deelname_act_actueel_projecten_uniek: 3
+","Ja",12645,0.488,0.154,0.0981415579280348,0.279636219849743,-0.185844207196521,17.9636219849743,"real_conditional"
+"11","IV: 
+deelname_act_actueel_projecten_uniek: 4
+","Ja",12645,0.488,0.154,0.0981415579280348,0.279636219849743,-0.185844207196521,17.9636219849743,"real_conditional"
+"12","IV: 
+deelname_act_actueel_projecten_uniek: 5
+","Ja",12645,0.488,0.154,0.0981415579280348,0.279636219849743,-0.185844207196521,17.9636219849743,"real_conditional"
+"13","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","Ja",5324,0.63,0.082,0.150450788880541,0.723140495867769,5.04507888805409,62.3140495867769,"synth"
+"14","IV: 
+deelname_act_actueel_projecten_uniek: 1
+","Ja",6061,0.602,0.085,0.0684705494142881,0.598746081504702,-3.15294505857119,49.8746081504702,"synth"
+"15","IV: 
+deelname_act_actueel_projecten_uniek: 2
+","Ja",1192,0.585,0.083,0.0394295302013423,0.506711409395973,-6.05704697986577,40.6711409395973,"synth"
+"16","IV: 
+deelname_act_actueel_projecten_uniek: 3
+","Ja",65,0.567,0.077,0.0307692307692308,0.369230769230769,-6.92307692307692,26.9230769230769,"synth"
+"17","IV: 
+deelname_act_actueel_projecten_uniek: 4
+","Ja",3,0.593,0.081,0,0.666666666666667,-10,56.6666666666667,"synth"
+"18","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","Ja",12508,0.613,0.085,0.101774864086984,0.64566677326511,0.177486408698432,54.566677326511,"synth_conditional"
+"19","IV: 
+deelname_act_actueel_projecten_uniek: 1
+","Ja",12508,0.611,0.085,0.0965781899584266,0.63567316917173,-0.342181004157339,53.567316917173,"synth_conditional"
+"20","IV: 
+deelname_act_actueel_projecten_uniek: 2
+","Ja",12508,0.611,0.085,0.0965781899584266,0.63567316917173,-0.342181004157339,53.567316917173,"synth_conditional"
+"21","IV: 
+deelname_act_actueel_projecten_uniek: 3
+","Ja",12508,0.611,0.085,0.0965781899584266,0.63567316917173,-0.342181004157339,53.567316917173,"synth_conditional"
+"22","IV: 
+deelname_act_actueel_projecten_uniek: 4
+","Ja",12508,0.611,0.085,0.0965781899584266,0.63567316917173,-0.342181004157339,53.567316917173,"synth_conditional"
+"23","IV: 
+deelname_act_actueel_projecten_uniek: 5
+","Ja",12508,0.611,0.085,0.0965781899584266,0.63567316917173,-0.342181004157339,53.567316917173,"synth_conditional"

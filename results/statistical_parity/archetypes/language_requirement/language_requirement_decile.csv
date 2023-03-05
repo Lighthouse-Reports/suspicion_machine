@@ -1,0 +1,461 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",493,9.75464978235061,"real"
+"2",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1,20,"real"
+"3",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",105,11.3513513513514,"real"
+"4",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",492,9.73486347447566,"real"
+"5",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1,20,"real"
+"6",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",106,11.4594594594595,"real"
+"7",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",504,9.97229916897507,"real"
+"8",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",95,10.2702702702703,"real"
+"9",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",479,9.47764147210131,"real"
+"10",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",120,12.972972972973,"real"
+"11",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",493,9.75464978235061,"real"
+"12",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",2,40,"real"
+"13",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",103,11.1351351351351,"real"
+"14",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",497,9.83379501385042,"real"
+"15",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",101,10.9189189189189,"real"
+"16",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",506,10.011871784725,"real"
+"17",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",92,9.94594594594595,"real"
+"18",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",524,10.3680253264741,"real"
+"19",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",74,8,"real"
+"20",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",529,10.4669568658488,"real"
+"21",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1,20,"real"
+"22",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",68,7.35135135135135,"real"
+"23",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",537,10.6252473288484,"real"
+"24",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",61,6.59459459459459,"real"
+"25",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1031,8.15342032423883,"real_conditional"
+"26",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1441,11.3958086200079,"real_conditional"
+"27",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1150,9.09450375642546,"real_conditional"
+"28",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1436,11.3562672993278,"real_conditional"
+"29",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1164,9.20521945432978,"real_conditional"
+"30",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1354,10.707789640174,"real_conditional"
+"31",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1193,9.43455911427442,"real_conditional"
+"32",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1347,10.6524317912218,"real_conditional"
+"33",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1205,9.52945828390668,"real_conditional"
+"34",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1316,10.4072756030051,"real_conditional"
+"35",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1236,9.77461447212337,"real_conditional"
+"36",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1301,10.2886516409648,"real_conditional"
+"37",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1201,9.49782522736259,"real_conditional"
+"38",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1323,10.4626334519573,"real_conditional"
+"39",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1208,9.55318307631475,"real_conditional"
+"40",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1326,10.4863582443654,"real_conditional"
+"41",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1228,9.71134835903519,"real_conditional"
+"42",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1294,10.2332937920127,"real_conditional"
+"43",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1239,9.79833926453144,"real_conditional"
+"44",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1297,10.2570185844207,"real_conditional"
+"45",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1266,10.011862396204,"real_conditional"
+"46",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1251,9.8932384341637,"real_conditional"
+"47",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1286,10.1700276789245,"real_conditional"
+"48",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1255,9.92487149070779,"real_conditional"
+"49",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1218,9.63226571767497,"real_conditional"
+"50",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1302,10.2965599051008,"real_conditional"
+"51",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1230,9.72716488730724,"real_conditional"
+"52",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1308,10.344009489917,"real_conditional"
+"53",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1335,10.5575326215896,"real_conditional"
+"54",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1201,9.49782522736259,"real_conditional"
+"55",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1319,10.4310003954132,"real_conditional"
+"56",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1203,9.51364175563464,"real_conditional"
+"57",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1421,11.2376433372875,"real_conditional"
+"58",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1144,9.04705417160933,"real_conditional"
+"59",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1346,10.6445235270858,"real_conditional"
+"60",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1147,9.0707789640174,"real_conditional"
+"61",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1576,12.4634242783709,"real_conditional"
+"62",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1019,8.05852115460656,"real_conditional"
+"63",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1438,11.3720838275998,"real_conditional"
+"64",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1025,8.1059707394227,"real_conditional"
+"65",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1,20,"synth"
+"66",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1,16.6666666666667,"synth"
+"67",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1,20,"synth"
+"68",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1,16.6666666666667,"synth"
+"69",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1,20,"synth"
+"70",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1,16.6666666666667,"synth"
+"71",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1,20,"synth"
+"72",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1,20,"synth"
+"73",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1,16.6666666666667,"synth"
+"74",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1,16.6666666666667,"synth"
+"75",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1,16.6666666666667,"synth"
+"76",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",995,7.95490885833067,"synth_conditional"
+"77",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1436,11.4806523824752,"synth_conditional"
+"78",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1156,9.24208506555804,"synth_conditional"
+"79",1,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1417,11.3287496002558,"synth_conditional"
+"80",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1033,8.25871442276943,"synth_conditional"
+"81",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1419,11.3447393668052,"synth_conditional"
+"82",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1139,9.10617204988807,"synth_conditional"
+"83",2,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1413,11.296770067157,"synth_conditional"
+"84",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1113,8.89830508474576,"synth_conditional"
+"85",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1368,10.9370003197953,"synth_conditional"
+"86",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1151,9.20211064918452,"synth_conditional"
+"87",3,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1371,10.9609849696194,"synth_conditional"
+"88",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1093,8.73840741925168,"synth_conditional"
+"89",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1368,10.9370003197953,"synth_conditional"
+"90",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1197,9.56987527982091,"synth_conditional"
+"91",4,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1345,10.7531180044771,"synth_conditional"
+"92",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1129,9.02622321714103,"synth_conditional"
+"93",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1331,10.6411896386313,"synth_conditional"
+"94",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1182,9.44995203070035,"synth_conditional"
+"95",5,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1361,10.8810361368724,"synth_conditional"
+"96",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1214,9.70578829549089,"synth_conditional"
+"97",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1274,10.1854812919731,"synth_conditional"
+"98",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1227,9.80972177806204,"synth_conditional"
+"99",6,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1288,10.297409657819,"synth_conditional"
+"100",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1285,10.2734250079949,"synth_conditional"
+"101",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1216,9.72177806204029,"synth_conditional"
+"102",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1291,10.3213943076431,"synth_conditional"
+"103",7,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1211,9.68180364566677,"synth_conditional"
+"104",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1353,10.8170770706748,"synth_conditional"
+"105",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1182,9.44995203070035,"synth_conditional"
+"106",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1291,10.3213943076431,"synth_conditional"
+"107",8,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1177,9.40997761432683,"synth_conditional"
+"108",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1491,11.9203709625839,"synth_conditional"
+"109",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1076,8.60249440358171,"synth_conditional"
+"110",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1356,10.8410617204989,"synth_conditional"
+"111",9,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",1080,8.63447393668052,"synth_conditional"
+"112",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1802,14.4067796610169,"synth_conditional"
+"113",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",838,6.69971218420211,"synth_conditional"
+"114",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1518,12.136232811001,"synth_conditional"
+"115",10,"IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+",845,6.75567636712504,"synth_conditional"

@@ -1,0 +1,172 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+","Ja",8176,0.468,0.154,0.0843933463796478,0.238013698630137,-1.56066536203523,13.8013698630137,"real"
+"2","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 15
+","Ja",11,0.623,0.118,0.363636363636364,0.636363636363636,26.3636363636364,53.6363636363636,"real"
+"3","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 16
+","Ja",40,0.565,0.142,0.15,0.475,5,37.5,"real"
+"4","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 17
+","Ja",70,0.587,0.144,0.242857142857143,0.5,14.2857142857143,40,"real"
+"5","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 18
+","Ja",120,0.566,0.148,0.2,0.45,10,35,"real"
+"6","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 19
+","Ja",189,0.573,0.126,0.17989417989418,0.455026455026455,7.98941798941799,35.5026455026455,"real"
+"7","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+","Ja",206,0.571,0.134,0.184466019417476,0.432038834951456,8.44660194174757,33.2038834951456,"real"
+"8","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 22
+","Ja",257,0.546,0.14,0.143968871595331,0.385214007782101,4.39688715953307,28.5214007782101,"real"
+"9","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 25
+","Ja",263,0.547,0.139,0.14828897338403,0.418250950570342,4.82889733840304,31.8250950570342,"real"
+"10","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 30
+","Ja",228,0.494,0.153,0.12719298245614,0.280701754385965,2.71929824561404,18.0701754385965,"real"
+"11","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 35
+","Ja",124,0.473,0.133,0.032258064516129,0.209677419354839,-6.7741935483871,10.9677419354839,"real"
+"12","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 40
+","Ja",56,0.529,0.128,0.107142857142857,0.357142857142857,0.714285714285713,25.7142857142857,"real"
+"13","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 45
+","Ja",10,0.467,0.148,0.1,0.2,0,10,"real"
+"14","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+","Ja",12645,0.483,0.152,0.0908659549228944,0.264926848556742,-0.913404507710558,16.4926848556742,"real_conditional"
+"15","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 14
+","Ja",12645,0.493,0.152,0.101700276789245,0.285013839462238,0.170027678924475,18.5013839462238,"real_conditional"
+"16","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 15
+","Ja",12645,0.495,0.151,0.104626334519573,0.290233293792013,0.462633451957295,19.0233293792013,"real_conditional"
+"17","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 16
+","Ja",12645,0.497,0.151,0.105575326215896,0.293159351522341,0.557532621589561,19.3159351522341,"real_conditional"
+"18","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 17
+","Ja",12645,0.498,0.151,0.1071569790431,0.296243574535389,0.715697904310003,19.6243574535389,"real_conditional"
+"19","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 18
+","Ja",12645,0.499,0.151,0.108738631870304,0.299090549624357,0.873863187030446,19.9090549624357,"real_conditional"
+"20","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 19
+","Ja",12645,0.5,0.151,0.108817714511665,0.299485962831159,0.881771451166469,19.9485962831159,"real_conditional"
+"21","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+","Ja",12645,0.5,0.151,0.110003954132068,0.300909450375643,1.0003954132068,20.0909450375643,"real_conditional"
+"22","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 22
+","Ja",12645,0.501,0.151,0.111111111111111,0.302728351126928,1.11111111111111,20.2728351126928,"real_conditional"
+"23","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 25
+","Ja",12645,0.501,0.151,0.111269276393832,0.302965599051008,1.12692763938315,20.2965599051008,"real_conditional"
+"24","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 30
+","Ja",12645,0.502,0.151,0.111743772241993,0.304942665085014,1.17437722419929,20.4942665085014,"real_conditional"
+"25","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 35
+","Ja",12645,0.502,0.151,0.111506524317912,0.304310003954132,1.15065243179122,20.4310003954132,"real_conditional"
+"26","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 40
+","Ja",12645,0.513,0.148,0.121945432977461,0.327718465796758,2.19454329774614,22.7718465796758,"real_conditional"
+"27","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 45
+","Ja",12645,0.516,0.146,0.123527085804666,0.333412415974694,2.35270858046659,23.3412415974694,"real_conditional"
+"28","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 50
+","Ja",12645,0.52,0.146,0.128272044286279,0.342190589165678,2.82720442862792,24.2190589165678,"real_conditional"
+"29","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+","Ja",223,0.586,0.084,0.0538116591928251,0.511210762331839,-4.61883408071749,41.1210762331839,"synth"
+"30","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 14
+","Ja",468,0.607,0.085,0.0961538461538462,0.63034188034188,-0.384615384615385,53.034188034188,"synth"
+"31","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 15
+","Ja",361,0.613,0.084,0.102493074792244,0.659279778393352,0.249307479224377,55.9279778393352,"synth"
+"32","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 16
+","Ja",415,0.614,0.091,0.113253012048193,0.665060240963855,1.32530120481928,56.5060240963855,"synth"
+"33","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 17
+","Ja",369,0.616,0.081,0.0948509485094851,0.672086720867209,-0.514905149051491,57.2086720867209,"synth"
+"34","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 18
+","Ja",363,0.624,0.076,0.107438016528926,0.691460055096419,0.743801652892562,59.1460055096419,"synth"
+"35","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 19
+","Ja",365,0.622,0.082,0.112328767123288,0.704109589041096,1.23287671232877,60.4109589041096,"synth"
+"36","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+","Ja",334,0.622,0.082,0.11377245508982,0.70059880239521,1.37724550898203,60.059880239521,"synth"
+"37","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 22
+","Ja",263,0.639,0.072,0.155893536121673,0.787072243346008,5.5893536121673,68.7072243346008,"synth"
+"38","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 25
+","Ja",243,0.624,0.089,0.123456790123457,0.707818930041152,2.34567901234568,60.7818930041152,"synth"
+"39","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 30
+","Ja",128,0.634,0.08,0.1171875,0.765625,1.71875,66.5625,"synth"
+"40","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 35
+","Ja",76,0.616,0.083,0.131578947368421,0.671052631578947,3.1578947368421,57.1052631578947,"synth"
+"41","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 40
+","Ja",45,0.646,0.071,0.111111111111111,0.822222222222222,1.11111111111111,72.2222222222222,"synth"
+"42","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 45
+","Ja",27,0.638,0.075,0.111111111111111,0.814814814814815,1.11111111111111,71.4814814814815,"synth"
+"43","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+","Ja",12508,0.608,0.085,0.0895426926766869,0.621442276942757,-1.04573073233131,52.1442276942757,"synth_conditional"
+"44","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 14
+","Ja",12508,0.611,0.085,0.097377678285897,0.637112248161177,-0.262232171410298,53.7112248161177,"synth_conditional"
+"45","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 15
+","Ja",12508,0.612,0.085,0.0974576271186441,0.639750559641829,-0.254237288135593,53.9750559641829,"synth_conditional"
+"46","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 16
+","Ja",12508,0.612,0.085,0.09729772945315,0.640709945634794,-0.270227054685002,54.0709945634794,"synth_conditional"
+"47","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 17
+","Ja",12508,0.613,0.085,0.100735529261273,0.644627438439399,0.073552926127278,54.4627438439399,"synth_conditional"
+"48","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 18
+","Ja",12508,0.614,0.085,0.103533738407419,0.647985289414775,0.353373840741925,54.7985289414775,"synth_conditional"
+"49","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 19
+","Ja",12508,0.614,0.085,0.10377358490566,0.648864726574992,0.377358490566038,54.8864726574992,"synth_conditional"
+"50","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+","Ja",12508,0.615,0.085,0.105692356891589,0.650223856731692,0.569235689158938,55.0223856731692,"synth_conditional"
+"51","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 22
+","Ja",12508,0.615,0.085,0.107451231212024,0.652382475215862,0.74512312120243,55.2382475215862,"synth_conditional"
+"52","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 25
+","Ja",12508,0.615,0.085,0.107691077710265,0.652782219379597,0.769107771026542,55.2782219379597,"synth_conditional"
+"53","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 30
+","Ja",12508,0.616,0.084,0.108170770706748,0.655020786696514,0.817077070674768,55.5020786696514,"synth_conditional"
+"54","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 35
+","Ja",12508,0.615,0.084,0.104812919731372,0.651582986888391,0.481291973137192,55.1582986888391,"synth_conditional"
+"55","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 40
+","Ja",12508,0.62,0.082,0.112408058842341,0.67324912056284,1.24080588423409,57.324912056284,"synth_conditional"
+"56","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 45
+","Ja",12508,0.62,0.082,0.113367444835305,0.675967380876239,1.33674448353054,57.5967380876239,"synth_conditional"
+"57","IV: 
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 50
+","Ja",12508,0.624,0.081,0.122881355932203,0.692276942756636,2.28813559322034,59.2276942756636,"synth_conditional"

@@ -1,0 +1,1144 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",305,12.0983736612455,"real"
+"2",1,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",218,10.1019462465246,"real"
+"3",1,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",7,2.99145299145299,"real"
+"4",1,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",6,6.66666666666667,"real"
+"5",1,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",181,10.4563835932987,"real"
+"6",1,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",138,11.031175059952,"real"
+"7",1,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",77,7.66932270916335,"real"
+"8",1,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",49,6.41361256544503,"real"
+"9",2,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",299,11.8603728679096,"real"
+"10",2,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",234,10.8433734939759,"real"
+"11",2,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",13,5.55555555555556,"real"
+"12",2,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",4,4.44444444444444,"real"
+"13",2,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",165,9.53206239168111,"real"
+"14",2,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",107,8.55315747402078,"real"
+"15",2,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",95,9.46215139442231,"real"
+"16",2,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",64,8.37696335078534,"real"
+"17",3,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",276,10.948036493455,"real"
+"18",3,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",216,10.0092678405931,"real"
+"19",3,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",26,11.1111111111111,"real"
+"20",3,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",3,3.33333333333333,"real"
+"21",3,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",172,9.93645291738879,"real"
+"22",3,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",2,4.25531914893617,"real"
+"23",3,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",126,10.0719424460432,"real"
+"24",3,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",91,9.06374501992032,"real"
+"25",3,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",69,9.03141361256544,"real"
+"26",4,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",255,10.1150337167791,"real"
+"27",4,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",227,10.5189990732159,"real"
+"28",4,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",14,5.98290598290598,"real"
+"29",4,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",6,6.66666666666667,"real"
+"30",4,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",165,9.53206239168111,"real"
+"31",4,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",5,10.6382978723404,"real"
+"32",4,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",123,9.83213429256595,"real"
+"33",4,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",106,10.5577689243028,"real"
+"34",4,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",80,10.4712041884817,"real"
+"35",5,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",231,9.16303054343514,"real"
+"36",5,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",227,10.5189990732159,"real"
+"37",5,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",23,9.82905982905983,"real"
+"38",5,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",7,7.77777777777778,"real"
+"39",5,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",183,10.5719237435009,"real"
+"40",5,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",6,12.7659574468085,"real"
+"41",5,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",112,8.95283772981615,"real"
+"42",5,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",109,10.8565737051793,"real"
+"43",5,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",83,10.8638743455497,"real"
+"44",6,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",238,9.44069813566045,"real"
+"45",6,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",204,9.45319740500463,"real"
+"46",6,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",21,8.97435897435897,"real"
+"47",6,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",10,11.1111111111111,"real"
+"48",6,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",171,9.8786828422877,"real"
+"49",6,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",3,6.38297872340426,"real"
+"50",6,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",126,10.0719424460432,"real"
+"51",6,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1,14.2857142857143,"real"
+"52",6,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",118,11.7529880478088,"real"
+"53",6,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",89,11.6492146596859,"real"
+"54",7,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",232,9.20269734232448,"real"
+"55",7,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",212,9.82391102873031,"real"
+"56",7,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",31,13.2478632478632,"real"
+"57",7,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",8,8.88888888888889,"real"
+"58",7,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",176,10.1675332177932,"real"
+"59",7,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",6,12.7659574468085,"real"
+"60",7,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",115,9.19264588329337,"real"
+"61",7,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",118,11.7529880478088,"real"
+"62",7,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",83,10.8638743455497,"real"
+"63",8,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",236,9.36136453788179,"real"
+"64",8,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",220,10.194624652456,"real"
+"65",8,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",32,13.6752136752137,"real"
+"66",8,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",6,6.66666666666667,"real"
+"67",8,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",167,9.6476025418833,"real"
+"68",8,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",5,10.6382978723404,"real"
+"69",8,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",150,11.9904076738609,"real"
+"70",8,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1,14.2857142857143,"real"
+"71",8,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",86,8.56573705179283,"real"
+"72",8,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",77,10.0785340314136,"real"
+"73",9,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",240,9.52003173343911,"real"
+"74",9,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",218,10.1019462465246,"real"
+"75",9,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",31,13.2478632478632,"real"
+"76",9,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",15,16.6666666666667,"real"
+"77",9,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",168,9.7053726169844,"real"
+"78",9,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",6,12.7659574468085,"real"
+"79",9,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",111,8.87290167865707,"real"
+"80",9,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",112,11.1553784860558,"real"
+"81",9,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",79,10.3403141361257,"real"
+"82",10,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",209,8.29036096786989,"real"
+"83",10,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",182,8.43373493975904,"real"
+"84",10,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",36,15.3846153846154,"real"
+"85",10,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",25,27.7777777777778,"real"
+"86",10,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",183,10.5719237435009,"real"
+"87",10,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",14,29.7872340425532,"real"
+"88",10,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",143,11.4308553157474,"real"
+"89",10,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",5,71.4285714285714,"real"
+"90",10,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",92,9.16334661354582,"real"
+"91",10,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",91,11.9109947643979,"real"
+"92",1,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1290,10.2016607354686,"real_conditional"
+"93",1,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1285,10.1621194147885,"real_conditional"
+"94",1,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1240,9.80624752866746,"real_conditional"
+"95",1,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1236,9.77461447212337,"real_conditional"
+"96",1,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1279,10.1146698299723,"real_conditional"
+"97",1,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1236,9.77461447212337,"real_conditional"
+"98",1,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1279,10.1146698299723,"real_conditional"
+"99",1,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1249,9.87742190589166,"real_conditional"
+"100",1,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1279,10.1146698299723,"real_conditional"
+"101",1,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1272,10.0593119810202,"real_conditional"
+"102",2,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1271,10.0514037168841,"real_conditional"
+"103",2,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1271,10.0514037168841,"real_conditional"
+"104",2,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1256,9.93277975484381,"real_conditional"
+"105",2,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1252,9.90114669829972,"real_conditional"
+"106",2,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1272,10.0593119810202,"real_conditional"
+"107",2,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1252,9.90114669829972,"real_conditional"
+"108",2,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1269,10.0355871886121,"real_conditional"
+"109",2,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1268,10.0276789244761,"real_conditional"
+"110",2,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1268,10.0276789244761,"real_conditional"
+"111",2,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1266,10.011862396204,"real_conditional"
+"112",3,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1271,10.0514037168841,"real_conditional"
+"113",3,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1275,10.0830367734282,"real_conditional"
+"114",3,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1255,9.92487149070779,"real_conditional"
+"115",3,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1250,9.88533017002768,"real_conditional"
+"116",3,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1273,10.0672202451562,"real_conditional"
+"117",3,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1250,9.88533017002768,"real_conditional"
+"118",3,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1268,10.0276789244761,"real_conditional"
+"119",3,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1265,10.003954132068,"real_conditional"
+"120",3,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1269,10.0355871886121,"real_conditional"
+"121",3,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1269,10.0355871886121,"real_conditional"
+"122",4,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1275,10.0830367734282,"real_conditional"
+"123",4,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1263,9.98813760379597,"real_conditional"
+"124",4,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1263,9.98813760379597,"real_conditional"
+"125",4,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1263,9.98813760379597,"real_conditional"
+"126",4,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1263,9.98813760379597,"real_conditional"
+"127",4,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1263,9.98813760379597,"real_conditional"
+"128",4,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1268,10.0276789244761,"real_conditional"
+"129",4,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1266,10.011862396204,"real_conditional"
+"130",4,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1268,10.0276789244761,"real_conditional"
+"131",4,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1253,9.90905496243574,"real_conditional"
+"132",5,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1261,9.97232107552392,"real_conditional"
+"133",5,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1271,10.0514037168841,"real_conditional"
+"134",5,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1257,9.94068801897983,"real_conditional"
+"135",5,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1270,10.0434954527481,"real_conditional"
+"136",5,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1268,10.0276789244761,"real_conditional"
+"137",5,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1270,10.0434954527481,"real_conditional"
+"138",5,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1261,9.97232107552392,"real_conditional"
+"139",5,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1268,10.0276789244761,"real_conditional"
+"140",5,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1261,9.97232107552392,"real_conditional"
+"141",5,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1258,9.94859628311586,"real_conditional"
+"142",6,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1249,9.87742190589166,"real_conditional"
+"143",6,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1252,9.90114669829972,"real_conditional"
+"144",6,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1281,10.1304863582444,"real_conditional"
+"145",6,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1282,10.1383946223804,"real_conditional"
+"146",6,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1250,9.88533017002768,"real_conditional"
+"147",6,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1282,10.1383946223804,"real_conditional"
+"148",6,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1255,9.92487149070779,"real_conditional"
+"149",6,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1282,10.1383946223804,"real_conditional"
+"150",6,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1254,9.91696322657177,"real_conditional"
+"151",6,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1258,9.94859628311586,"real_conditional"
+"152",7,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1270,10.0434954527481,"real_conditional"
+"153",7,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1266,10.011862396204,"real_conditional"
+"154",7,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1256,9.93277975484381,"real_conditional"
+"155",7,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1261,9.97232107552392,"real_conditional"
+"156",7,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1268,10.0276789244761,"real_conditional"
+"157",7,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1261,9.97232107552392,"real_conditional"
+"158",7,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1264,9.99604586793199,"real_conditional"
+"159",7,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1280,10.1225780941083,"real_conditional"
+"160",7,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1265,10.003954132068,"real_conditional"
+"161",7,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1254,9.91696322657177,"real_conditional"
+"162",8,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1260,9.9644128113879,"real_conditional"
+"163",8,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1261,9.97232107552392,"real_conditional"
+"164",8,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1279,10.1146698299723,"real_conditional"
+"165",8,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1276,10.0909450375643,"real_conditional"
+"166",8,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1255,9.92487149070779,"real_conditional"
+"167",8,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1276,10.0909450375643,"real_conditional"
+"168",8,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1261,9.97232107552392,"real_conditional"
+"169",8,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1252,9.90114669829972,"real_conditional"
+"170",8,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1261,9.97232107552392,"real_conditional"
+"171",8,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1264,9.99604586793199,"real_conditional"
+"172",9,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1250,9.88533017002768,"real_conditional"
+"173",9,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1251,9.8932384341637,"real_conditional"
+"174",9,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1275,10.0830367734282,"real_conditional"
+"175",9,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1274,10.0751285092922,"real_conditional"
+"176",9,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1261,9.97232107552392,"real_conditional"
+"177",9,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1274,10.0751285092922,"real_conditional"
+"178",9,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1262,9.98022933965994,"real_conditional"
+"179",9,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1263,9.98813760379597,"real_conditional"
+"180",9,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1262,9.98022933965994,"real_conditional"
+"181",9,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1273,10.0672202451562,"real_conditional"
+"182",10,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1248,9.86951364175563,"real_conditional"
+"183",10,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1250,9.88533017002768,"real_conditional"
+"184",10,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1283,10.1463028865164,"real_conditional"
+"185",10,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1281,10.1304863582444,"real_conditional"
+"186",10,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1256,9.93277975484381,"real_conditional"
+"187",10,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1281,10.1304863582444,"real_conditional"
+"188",10,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1258,9.94859628311586,"real_conditional"
+"189",10,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1252,9.90114669829972,"real_conditional"
+"190",10,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1258,9.94859628311586,"real_conditional"
+"191",10,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1278,10.1067615658363,"real_conditional"
+"192",1,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",58,15.8469945355191,"synth"
+"193",1,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",121,11.8279569892473,"synth"
+"194",1,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",48,6.88665710186514,"synth"
+"195",1,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",7,3.25581395348837,"synth"
+"196",1,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",125,11.5313653136531,"synth"
+"197",1,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",3,5.08474576271186,"synth"
+"198",1,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",116,10.3756708407871,"synth"
+"199",1,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",105,8.60655737704918,"synth"
+"200",1,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",109,9.65456155890168,"synth"
+"201",2,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",48,13.1147540983607,"synth"
+"202",2,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",113,11.0459433040078,"synth"
+"203",2,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",60,8.60832137733142,"synth"
+"204",2,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",18,8.37209302325581,"synth"
+"205",2,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",122,11.2546125461255,"synth"
+"206",2,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1,1.69491525423729,"synth"
+"207",2,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",111,9.92844364937388,"synth"
+"208",2,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",120,9.83606557377049,"synth"
+"209",2,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",98,8.68024800708592,"synth"
+"210",3,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",36,9.83606557377049,"synth"
+"211",3,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",113,11.0459433040078,"synth"
+"212",3,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",58,8.32137733142037,"synth"
+"213",3,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",15,6.97674418604651,"synth"
+"214",3,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",109,10.0553505535055,"synth"
+"215",3,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",3,5.08474576271186,"synth"
+"216",3,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",111,9.92844364937388,"synth"
+"217",3,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",136,11.1475409836066,"synth"
+"218",3,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",110,9.74313551815766,"synth"
+"219",4,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",35,9.56284153005464,"synth"
+"220",4,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",112,10.9481915933529,"synth"
+"221",4,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",63,9.03873744619799,"synth"
+"222",4,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",20,9.30232558139535,"synth"
+"223",4,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",101,9.31734317343173,"synth"
+"224",4,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",8,13.5593220338983,"synth"
+"225",4,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",114,10.1967799642218,"synth"
+"226",4,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",128,10.4918032786885,"synth"
+"227",4,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",110,9.74313551815766,"synth"
+"228",5,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",40,10.9289617486339,"synth"
+"229",5,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",103,10.0684261974585,"synth"
+"230",5,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",66,9.46915351506456,"synth"
+"231",5,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",26,12.093023255814,"synth"
+"232",5,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",118,10.8856088560886,"synth"
+"233",5,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",3,5.08474576271186,"synth"
+"234",5,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",119,10.6440071556351,"synth"
+"235",5,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",112,9.18032786885246,"synth"
+"236",5,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",104,9.21169176262179,"synth"
+"237",6,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",32,8.7431693989071,"synth"
+"238",6,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",93,9.09090909090909,"synth"
+"239",6,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",88,12.6255380200861,"synth"
+"240",6,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",22,10.2325581395349,"synth"
+"241",6,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",101,9.31734317343173,"synth"
+"242",6,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",7,11.864406779661,"synth"
+"243",6,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",103,9.2128801431127,"synth"
+"244",6,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",130,10.655737704918,"synth"
+"245",6,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",115,10.1860053144376,"synth"
+"246",7,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",29,7.92349726775956,"synth"
+"247",7,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",83,8.11339198435973,"synth"
+"248",7,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",71,10.1865136298422,"synth"
+"249",7,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",23,10.6976744186047,"synth"
+"250",7,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",111,10.239852398524,"synth"
+"251",7,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",11,18.6440677966102,"synth"
+"252",7,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",124,11.0912343470483,"synth"
+"253",7,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",136,11.1475409836066,"synth"
+"254",7,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",103,9.12311780336581,"synth"
+"255",8,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",28,7.65027322404372,"synth"
+"256",8,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",102,9.97067448680352,"synth"
+"257",8,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",76,10.9038737446198,"synth"
+"258",8,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",27,12.5581395348837,"synth"
+"259",8,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",102,9.40959409594096,"synth"
+"260",8,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",5,8.47457627118644,"synth"
+"261",8,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",118,10.5545617173524,"synth"
+"262",8,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",115,9.42622950819672,"synth"
+"263",8,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",118,10.4517271922055,"synth"
+"264",9,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",26,7.10382513661202,"synth"
+"265",9,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",95,9.28641251221896,"synth"
+"266",9,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",84,12.051649928264,"synth"
+"267",9,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",21,9.76744186046512,"synth"
+"268",9,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",102,9.40959409594096,"synth"
+"269",9,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",8,13.5593220338983,"synth"
+"270",9,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",100,8.94454382826476,"synth"
+"271",9,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",127,10.4098360655738,"synth"
+"272",9,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",128,11.3374667847653,"synth"
+"273",10,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",34,9.2896174863388,"synth"
+"274",10,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",88,8.60215053763441,"synth"
+"275",10,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",83,11.9081779053085,"synth"
+"276",10,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",36,16.7441860465116,"synth"
+"277",10,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",93,8.57933579335793,"synth"
+"278",10,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",10,16.9491525423729,"synth"
+"279",10,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",102,9.12343470483005,"synth"
+"280",10,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",111,9.09836065573771,"synth"
+"281",10,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",134,11.8689105403012,"synth"
+"282",1,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1267,10.1295171090502,"synth_conditional"
+"283",1,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1267,10.1295171090502,"synth_conditional"
+"284",1,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1227,9.80972177806204,"synth_conditional"
+"285",1,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1225,9.79373201151263,"synth_conditional"
+"286",1,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1264,10.1055324592261,"synth_conditional"
+"287",1,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1225,9.79373201151263,"synth_conditional"
+"288",1,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1259,10.0655580428526,"synth_conditional"
+"289",1,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1273,10.1774864086984,"synth_conditional"
+"290",1,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1259,10.0655580428526,"synth_conditional"
+"291",1,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1242,9.9296450271826,"synth_conditional"
+"292",2,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1268,10.1375119923249,"synth_conditional"
+"293",2,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1267,10.1295171090502,"synth_conditional"
+"294",2,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1227,9.80972177806204,"synth_conditional"
+"295",2,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1228,9.81771666133674,"synth_conditional"
+"296",2,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1256,10.0415733930285,"synth_conditional"
+"297",2,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1228,9.81771666133674,"synth_conditional"
+"298",2,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1255,10.0335785097538,"synth_conditional"
+"299",2,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1284,10.2654301247202,"synth_conditional"
+"300",2,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1255,10.0335785097538,"synth_conditional"
+"301",2,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1240,9.9136552606332,"synth_conditional"
+"302",3,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1260,10.0735529261273,"synth_conditional"
+"303",3,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1261,10.081547809402,"synth_conditional"
+"304",3,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1242,9.9296450271826,"synth_conditional"
+"305",3,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1239,9.90566037735849,"synth_conditional"
+"306",3,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1255,10.0335785097538,"synth_conditional"
+"307",3,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1239,9.90566037735849,"synth_conditional"
+"308",3,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1251,10.0015989766549,"synth_conditional"
+"309",3,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1278,10.217460825072,"synth_conditional"
+"310",3,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1250,9.99360409338024,"synth_conditional"
+"311",3,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1233,9.85769107771027,"synth_conditional"
+"312",4,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1266,10.1215222257755,"synth_conditional"
+"313",4,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1265,10.1135273425008,"synth_conditional"
+"314",4,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1227,9.80972177806204,"synth_conditional"
+"315",4,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1223,9.77774224496322,"synth_conditional"
+"316",4,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1258,10.0575631595779,"synth_conditional"
+"317",4,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1223,9.77774224496322,"synth_conditional"
+"318",4,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1264,10.1055324592261,"synth_conditional"
+"319",4,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1274,10.1854812919731,"synth_conditional"
+"320",4,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1265,10.1135273425008,"synth_conditional"
+"321",4,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1243,9.93763991045731,"synth_conditional"
+"322",5,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1240,9.9136552606332,"synth_conditional"
+"323",5,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1241,9.9216501439079,"synth_conditional"
+"324",5,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1260,10.0735529261273,"synth_conditional"
+"325",5,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1265,10.1135273425008,"synth_conditional"
+"326",5,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1244,9.94563479373201,"synth_conditional"
+"327",5,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1265,10.1135273425008,"synth_conditional"
+"328",5,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1242,9.9296450271826,"synth_conditional"
+"329",5,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1268,10.1375119923249,"synth_conditional"
+"330",5,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1242,9.9296450271826,"synth_conditional"
+"331",5,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1241,9.9216501439079,"synth_conditional"
+"332",6,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1254,10.0255836264791,"synth_conditional"
+"333",6,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1254,10.0255836264791,"synth_conditional"
+"334",6,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1243,9.93763991045731,"synth_conditional"
+"335",6,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1246,9.96162456028142,"synth_conditional"
+"336",6,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1252,10.0095938599296,"synth_conditional"
+"337",6,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1246,9.96162456028142,"synth_conditional"
+"338",6,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1252,10.0095938599296,"synth_conditional"
+"339",6,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1252,10.0095938599296,"synth_conditional"
+"340",6,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1252,10.0095938599296,"synth_conditional"
+"341",6,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1257,10.0495682763032,"synth_conditional"
+"342",7,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1267,10.1295171090502,"synth_conditional"
+"343",7,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1266,10.1215222257755,"synth_conditional"
+"344",7,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1245,9.95362967700671,"synth_conditional"
+"345",7,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1243,9.93763991045731,"synth_conditional"
+"346",7,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1255,10.0335785097538,"synth_conditional"
+"347",7,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1243,9.93763991045731,"synth_conditional"
+"348",7,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1253,10.0175887432043,"synth_conditional"
+"349",7,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1249,9.98560921010553,"synth_conditional"
+"350",7,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1253,10.0175887432043,"synth_conditional"
+"351",7,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1234,9.86568596098497,"synth_conditional"
+"352",8,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1235,9.87368084425967,"synth_conditional"
+"353",8,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1236,9.88167572753438,"synth_conditional"
+"354",8,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1272,10.1694915254237,"synth_conditional"
+"355",8,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1270,10.1535017588743,"synth_conditional"
+"356",8,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1241,9.9216501439079,"synth_conditional"
+"357",8,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1270,10.1535017588743,"synth_conditional"
+"358",8,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1244,9.94563479373201,"synth_conditional"
+"359",8,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1234,9.86568596098497,"synth_conditional"
+"360",8,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1244,9.94563479373201,"synth_conditional"
+"361",8,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1262,10.0895426926767,"synth_conditional"
+"362",9,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1235,9.87368084425967,"synth_conditional"
+"363",9,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1235,9.87368084425967,"synth_conditional"
+"364",9,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1270,10.1535017588743,"synth_conditional"
+"365",9,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1275,10.1934761752478,"synth_conditional"
+"366",9,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1246,9.96162456028142,"synth_conditional"
+"367",9,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1274,10.1854812919731,"synth_conditional"
+"368",9,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1248,9.97761432683083,"synth_conditional"
+"369",9,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1210,9.67380876239207,"synth_conditional"
+"370",9,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1248,9.97761432683083,"synth_conditional"
+"371",9,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1267,10.1295171090502,"synth_conditional"
+"372",10,"IV: 
+contacten_soort_e_mail__inkomend_: 0
+",1216,9.72177806204029,"synth_conditional"
+"373",10,"IV: 
+contacten_soort_e_mail__inkomend_: 1
+",1216,9.72177806204029,"synth_conditional"
+"374",10,"IV: 
+contacten_soort_e_mail__inkomend_: 10
+",1295,10.3533738407419,"synth_conditional"
+"375",10,"IV: 
+contacten_soort_e_mail__inkomend_: 15
+",1294,10.3453789574672,"synth_conditional"
+"376",10,"IV: 
+contacten_soort_e_mail__inkomend_: 2
+",1237,9.88967061080908,"synth_conditional"
+"377",10,"IV: 
+contacten_soort_e_mail__inkomend_: 20
+",1295,10.3533738407419,"synth_conditional"
+"378",10,"IV: 
+contacten_soort_e_mail__inkomend_: 3
+",1240,9.9136552606332,"synth_conditional"
+"379",10,"IV: 
+contacten_soort_e_mail__inkomend_: 30
+",1186,9.48193156379917,"synth_conditional"
+"380",10,"IV: 
+contacten_soort_e_mail__inkomend_: 4
+",1240,9.9136552606332,"synth_conditional"
+"381",10,"IV: 
+contacten_soort_e_mail__inkomend_: 5
+",1289,10.3054045410937,"synth_conditional"

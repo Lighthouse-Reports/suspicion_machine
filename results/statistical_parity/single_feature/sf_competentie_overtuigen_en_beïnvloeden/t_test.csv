@@ -1,0 +1,106 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 0
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 1
+",9757,2853,4.79e-192,"****",2.88e-191,"****","real"
+"2","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 0
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 2
+",9757,33,2.64e-11,"****",1.32e-10,"****","real"
+"3","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 1
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 2
+",2853,33,0.00281,"**",0.00844,"**","real"
+"4","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 0
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 3
+",9757,2,0.00111,"**",0.00442,"**","real"
+"5","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 1
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 3
+",2853,2,0.0184,"*",0.0369,"*","real"
+"6","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 2
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 3
+",33,2,0.116,"ns",0.116,"ns","real"
+"7","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 0
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 1
+",12645,12645,0.204,"ns",1,"ns","real_conditional"
+"8","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 0
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 2
+",12645,12645,0.204,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 1
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 0
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 3
+",12645,12645,0.204,"ns",1,"ns","real_conditional"
+"11","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 1
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"12","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 2
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 0
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 1
+",8829,3793,1.01e-60,"****",3.03e-60,"****","synth"
+"14","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 0
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 2
+",8829,23,0.000205,"***",0.000411,"***","synth"
+"15","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 1
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 2
+",3793,23,0.0298,"*",0.0298,"*","synth"
+"16","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 0
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 1
+",12508,12508,0.0658,"ns",0.395,"ns","synth_conditional"
+"17","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 0
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 2
+",12508,12508,0.0658,"ns",0.395,"ns","synth_conditional"
+"18","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 1
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"19","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 0
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 3
+",12508,12508,0.0658,"ns",0.395,"ns","synth_conditional"
+"20","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 1
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"21","Ja","IV: 
+competentie_overtuigen_en_beïnvloeden: 2
+","IV: 
+competentie_overtuigen_en_beïnvloeden: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"

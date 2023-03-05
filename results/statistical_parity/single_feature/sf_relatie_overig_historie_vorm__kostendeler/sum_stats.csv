@@ -1,0 +1,100 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","Ja",9353,0.464,0.152,0.0811504330161446,0.223564631668983,-1.88495669838555,12.3564631668983,"real"
+"2","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","Ja",1463,0.549,0.139,0.147641831852358,0.415584415584416,4.76418318523582,31.5584415584416,"real"
+"3","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","Ja",5,0.562,0.128,0.2,0.4,10,30,"real"
+"4","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","Ja",5,0.541,0.082,0,0.4,-10,30,"real"
+"5","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","Ja",907,0.563,0.131,0.145534729878721,0.441014332965821,4.55347298787211,34.1014332965821,"real"
+"6","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+","Ja",5,0.657,0.09,0.2,0.8,10,70,"real"
+"7","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+","Ja",413,0.565,0.128,0.14043583535109,0.438256658595642,4.04358353510896,33.8256658595642,"real"
+"8","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+","Ja",219,0.583,0.121,0.168949771689498,0.520547945205479,6.89497716894977,42.0547945205479,"real"
+"9","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+","Ja",98,0.592,0.116,0.204081632653061,0.571428571428571,10.4081632653061,47.1428571428571,"real"
+"10","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","Ja",12645,0.489,0.153,0.0990905496243575,0.280585211546066,-0.0909450375642551,18.0585211546066,"real_conditional"
+"11","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","Ja",12645,0.49,0.153,0.0995650454725188,0.281296955318308,-0.0434954527481227,18.1296955318308,"real_conditional"
+"12","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","Ja",12645,0.494,0.151,0.102728351126928,0.289996045867932,0.272835112692764,18.9996045867932,"real_conditional"
+"13","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","Ja",12645,0.494,0.151,0.102728351126928,0.289996045867932,0.272835112692764,18.9996045867932,"real_conditional"
+"14","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","Ja",12645,0.488,0.153,0.0983788058521155,0.278370897587979,-0.162119414788454,17.8370897587979,"real_conditional"
+"15","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+","Ja",12645,0.491,0.151,0.0990114669829972,0.282799525504152,-0.0988533017002774,18.2799525504152,"real_conditional"
+"16","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+","Ja",12645,0.488,0.153,0.0983788058521155,0.278370897587979,-0.162119414788454,17.8370897587979,"real_conditional"
+"17","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+","Ja",12645,0.491,0.152,0.0998813760379597,0.282878608145512,-0.0118623962040335,18.2878608145512,"real_conditional"
+"18","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+","Ja",12645,0.496,0.152,0.105575326215896,0.295373665480427,0.557532621589561,19.5373665480427,"real_conditional"
+"19","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","Ja",2670,0.573,0.093,0.051310861423221,0.449438202247191,-4.8689138576779,34.9438202247191,"synth"
+"20","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","Ja",4932,0.604,0.086,0.0896188158961882,0.598134630981346,-1.03811841038118,49.8134630981346,"synth"
+"21","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","Ja",3174,0.633,0.073,0.132010081915564,0.746061751732829,3.2010081915564,64.6061751732829,"synth"
+"22","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+","Ja",1357,0.649,0.062,0.140014738393515,0.831245394252026,4.00147383935151,73.1245394252027,"synth"
+"23","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+","Ja",410,0.656,0.051,0.136585365853659,0.892682926829268,3.65853658536585,79.2682926829268,"synth"
+"24","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+","Ja",91,0.673,0.052,0.208791208791209,0.945054945054945,10.8791208791209,84.5054945054945,"synth"
+"25","IV: 
+relatie_overig_historie_vorm__kostendeler: 0
+","Ja",12508,0.611,0.085,0.0991365526063319,0.639031020147106,-0.086344739366806,53.9031020147106,"synth_conditional"
+"26","IV: 
+relatie_overig_historie_vorm__kostendeler: 1
+","Ja",12508,0.612,0.085,0.099296450271826,0.641109689798529,-0.0703549728173977,54.1109689798529,"synth_conditional"
+"27","IV: 
+relatie_overig_historie_vorm__kostendeler: 10
+","Ja",12508,0.618,0.084,0.112807803006076,0.66837224176527,1.28078030060761,56.837224176527,"synth_conditional"
+"28","IV: 
+relatie_overig_historie_vorm__kostendeler: 15
+","Ja",12508,0.618,0.084,0.112807803006076,0.66837224176527,1.28078030060761,56.837224176527,"synth_conditional"
+"29","IV: 
+relatie_overig_historie_vorm__kostendeler: 2
+","Ja",12508,0.611,0.085,0.0984170131116086,0.638471378317877,-0.158298688839144,53.8471378317877,"synth_conditional"
+"30","IV: 
+relatie_overig_historie_vorm__kostendeler: 20
+","Ja",12508,0.617,0.084,0.108810361368724,0.660617204988807,0.881036136872401,56.0617204988807,"synth_conditional"
+"31","IV: 
+relatie_overig_historie_vorm__kostendeler: 3
+","Ja",12508,0.611,0.085,0.0984170131116086,0.638471378317877,-0.158298688839144,53.8471378317877,"synth_conditional"
+"32","IV: 
+relatie_overig_historie_vorm__kostendeler: 4
+","Ja",12508,0.614,0.085,0.102334505916214,0.64918452190598,0.233450591621362,54.918452190598,"synth_conditional"
+"33","IV: 
+relatie_overig_historie_vorm__kostendeler: 5
+","Ja",12508,0.62,0.084,0.119683402622322,0.673728813559322,1.96834026223217,57.3728813559322,"synth_conditional"

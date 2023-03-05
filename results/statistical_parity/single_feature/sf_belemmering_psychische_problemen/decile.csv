@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+belemmering_psychische_problemen: 0
+",1033,11.495659915424,"real"
+"2",1,"IV: 
+belemmering_psychische_problemen: 1
+",232,6.34053019950806,"real"
+"3",2,"IV: 
+belemmering_psychische_problemen: 0
+",973,10.8279545960383,"real"
+"4",2,"IV: 
+belemmering_psychische_problemen: 1
+",292,7.98032249248429,"real"
+"5",3,"IV: 
+belemmering_psychische_problemen: 0
+",942,10.4829735143557,"real"
+"6",3,"IV: 
+belemmering_psychische_problemen: 1
+",323,8.827548510522,"real"
+"7",4,"IV: 
+belemmering_psychische_problemen: 0
+",860,9.57044291119519,"real"
+"8",4,"IV: 
+belemmering_psychische_problemen: 1
+",405,11.0685979775895,"real"
+"9",5,"IV: 
+belemmering_psychische_problemen: 0
+",817,9.09192076563543,"real"
+"10",5,"IV: 
+belemmering_psychische_problemen: 1
+",448,12.2437824542225,"real"
+"11",6,"IV: 
+belemmering_psychische_problemen: 0
+",825,9.18094814155353,"real"
+"12",6,"IV: 
+belemmering_psychische_problemen: 1
+",439,11.997813610276,"real"
+"13",7,"IV: 
+belemmering_psychische_problemen: 0
+",816,9.08079234364567,"real"
+"14",7,"IV: 
+belemmering_psychische_problemen: 1
+",448,12.2437824542225,"real"
+"15",8,"IV: 
+belemmering_psychische_problemen: 0
+",874,9.72624081905186,"real"
+"16",8,"IV: 
+belemmering_psychische_problemen: 1
+",390,10.6586499043454,"real"
+"17",9,"IV: 
+belemmering_psychische_problemen: 0
+",853,9.49254395726686,"real"
+"18",9,"IV: 
+belemmering_psychische_problemen: 1
+",411,11.2325772068871,"real"
+"19",10,"IV: 
+belemmering_psychische_problemen: 0
+",993,11.0505230358335,"real"
+"20",10,"IV: 
+belemmering_psychische_problemen: 1
+",271,7.40639518994261,"real"
+"21",1,"IV: 
+belemmering_psychische_problemen: 0
+",1265,10.003954132068,"real_conditional"
+"22",1,"IV: 
+belemmering_psychische_problemen: 1
+",1264,9.99604586793199,"real_conditional"
+"23",2,"IV: 
+belemmering_psychische_problemen: 0
+",1262,9.98022933965994,"real_conditional"
+"24",2,"IV: 
+belemmering_psychische_problemen: 1
+",1267,10.0197706603401,"real_conditional"
+"25",3,"IV: 
+belemmering_psychische_problemen: 0
+",1264,9.99604586793199,"real_conditional"
+"26",3,"IV: 
+belemmering_psychische_problemen: 1
+",1265,10.003954132068,"real_conditional"
+"27",4,"IV: 
+belemmering_psychische_problemen: 0
+",1262,9.98022933965994,"real_conditional"
+"28",4,"IV: 
+belemmering_psychische_problemen: 1
+",1267,10.0197706603401,"real_conditional"
+"29",5,"IV: 
+belemmering_psychische_problemen: 0
+",1264,9.99604586793199,"real_conditional"
+"30",5,"IV: 
+belemmering_psychische_problemen: 1
+",1265,10.003954132068,"real_conditional"
+"31",6,"IV: 
+belemmering_psychische_problemen: 0
+",1265,10.003954132068,"real_conditional"
+"32",6,"IV: 
+belemmering_psychische_problemen: 1
+",1264,9.99604586793199,"real_conditional"
+"33",7,"IV: 
+belemmering_psychische_problemen: 0
+",1264,9.99604586793199,"real_conditional"
+"34",7,"IV: 
+belemmering_psychische_problemen: 1
+",1265,10.003954132068,"real_conditional"
+"35",8,"IV: 
+belemmering_psychische_problemen: 0
+",1266,10.011862396204,"real_conditional"
+"36",8,"IV: 
+belemmering_psychische_problemen: 1
+",1263,9.98813760379597,"real_conditional"
+"37",9,"IV: 
+belemmering_psychische_problemen: 0
+",1264,9.99604586793199,"real_conditional"
+"38",9,"IV: 
+belemmering_psychische_problemen: 1
+",1265,10.003954132068,"real_conditional"
+"39",10,"IV: 
+belemmering_psychische_problemen: 0
+",1269,10.0355871886121,"real_conditional"
+"40",10,"IV: 
+belemmering_psychische_problemen: 1
+",1260,9.9644128113879,"real_conditional"
+"41",1,"IV: 
+belemmering_psychische_problemen: 0
+",715,10.9679398680779,"synth"
+"42",1,"IV: 
+belemmering_psychische_problemen: 1
+",550,8.97812602024159,"synth"
+"43",2,"IV: 
+belemmering_psychische_problemen: 0
+",677,10.3850283785857,"synth"
+"44",2,"IV: 
+belemmering_psychische_problemen: 1
+",588,9.59843290891283,"synth"
+"45",3,"IV: 
+belemmering_psychische_problemen: 0
+",646,9.90949532136831,"synth"
+"46",3,"IV: 
+belemmering_psychische_problemen: 1
+",619,10.1044727391446,"synth"
+"47",4,"IV: 
+belemmering_psychische_problemen: 0
+",636,9.75609756097561,"synth"
+"48",4,"IV: 
+belemmering_psychische_problemen: 1
+",629,10.2677113940581,"synth"
+"49",5,"IV: 
+belemmering_psychische_problemen: 0
+",651,9.98619420156466,"synth"
+"50",5,"IV: 
+belemmering_psychische_problemen: 1
+",614,10.0228534116879,"synth"
+"51",6,"IV: 
+belemmering_psychische_problemen: 0
+",634,9.72541800889707,"synth"
+"52",6,"IV: 
+belemmering_psychische_problemen: 1
+",630,10.2840352595495,"synth"
+"53",7,"IV: 
+belemmering_psychische_problemen: 0
+",593,9.09648719128701,"synth"
+"54",7,"IV: 
+belemmering_psychische_problemen: 1
+",671,10.9533137446947,"synth"
+"55",8,"IV: 
+belemmering_psychische_problemen: 0
+",642,9.84813621721123,"synth"
+"56",8,"IV: 
+belemmering_psychische_problemen: 1
+",622,10.1534443356187,"synth"
+"57",9,"IV: 
+belemmering_psychische_problemen: 0
+",637,9.77143733701488,"synth"
+"58",9,"IV: 
+belemmering_psychische_problemen: 1
+",627,10.2350636630754,"synth"
+"59",10,"IV: 
+belemmering_psychische_problemen: 0
+",688,10.5537659150176,"synth"
+"60",10,"IV: 
+belemmering_psychische_problemen: 1
+",576,9.40254652301665,"synth"
+"61",1,"IV: 
+belemmering_psychische_problemen: 0
+",1250,9.99360409338024,"synth_conditional"
+"62",1,"IV: 
+belemmering_psychische_problemen: 1
+",1252,10.0095938599296,"synth_conditional"
+"63",2,"IV: 
+belemmering_psychische_problemen: 0
+",1250,9.99360409338024,"synth_conditional"
+"64",2,"IV: 
+belemmering_psychische_problemen: 1
+",1252,10.0095938599296,"synth_conditional"
+"65",3,"IV: 
+belemmering_psychische_problemen: 0
+",1249,9.98560921010553,"synth_conditional"
+"66",3,"IV: 
+belemmering_psychische_problemen: 1
+",1253,10.0175887432043,"synth_conditional"
+"67",4,"IV: 
+belemmering_psychische_problemen: 0
+",1249,9.98560921010553,"synth_conditional"
+"68",4,"IV: 
+belemmering_psychische_problemen: 1
+",1253,10.0175887432043,"synth_conditional"
+"69",5,"IV: 
+belemmering_psychische_problemen: 0
+",1250,9.99360409338024,"synth_conditional"
+"70",5,"IV: 
+belemmering_psychische_problemen: 1
+",1252,10.0095938599296,"synth_conditional"
+"71",6,"IV: 
+belemmering_psychische_problemen: 0
+",1251,10.0015989766549,"synth_conditional"
+"72",6,"IV: 
+belemmering_psychische_problemen: 1
+",1251,10.0015989766549,"synth_conditional"
+"73",7,"IV: 
+belemmering_psychische_problemen: 0
+",1252,10.0095938599296,"synth_conditional"
+"74",7,"IV: 
+belemmering_psychische_problemen: 1
+",1249,9.98560921010553,"synth_conditional"
+"75",8,"IV: 
+belemmering_psychische_problemen: 0
+",1250,9.99360409338024,"synth_conditional"
+"76",8,"IV: 
+belemmering_psychische_problemen: 1
+",1251,10.0015989766549,"synth_conditional"
+"77",9,"IV: 
+belemmering_psychische_problemen: 0
+",1244,9.94563479373201,"synth_conditional"
+"78",9,"IV: 
+belemmering_psychische_problemen: 1
+",1257,10.0495682763032,"synth_conditional"
+"79",10,"IV: 
+belemmering_psychische_problemen: 0
+",1263,10.0975375759514,"synth_conditional"
+"80",10,"IV: 
+belemmering_psychische_problemen: 1
+",1238,9.89766549408379,"synth_conditional"

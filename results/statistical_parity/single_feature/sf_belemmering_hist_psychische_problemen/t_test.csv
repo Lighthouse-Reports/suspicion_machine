@@ -1,0 +1,181 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+belemmering_hist_psychische_problemen: 0
+","IV: 
+belemmering_hist_psychische_problemen: 1
+",8454,3924,0.3,"ns",1,"ns","real"
+"2","Ja","IV: 
+belemmering_hist_psychische_problemen: 0
+","IV: 
+belemmering_hist_psychische_problemen: 2
+",8454,241,3.04e-05,"****",0.000274,"***","real"
+"3","Ja","IV: 
+belemmering_hist_psychische_problemen: 1
+","IV: 
+belemmering_hist_psychische_problemen: 2
+",3924,241,1.05e-05,"****",0.000105,"***","real"
+"4","Ja","IV: 
+belemmering_hist_psychische_problemen: 0
+","IV: 
+belemmering_hist_psychische_problemen: 3
+",8454,22,0.353,"ns",1,"ns","real"
+"5","Ja","IV: 
+belemmering_hist_psychische_problemen: 1
+","IV: 
+belemmering_hist_psychische_problemen: 3
+",3924,22,0.307,"ns",1,"ns","real"
+"6","Ja","IV: 
+belemmering_hist_psychische_problemen: 2
+","IV: 
+belemmering_hist_psychische_problemen: 3
+",241,22,0.739,"ns",1,"ns","real"
+"7","Ja","IV: 
+belemmering_hist_psychische_problemen: 0
+","IV: 
+belemmering_hist_psychische_problemen: 4
+",8454,4,0.637,"ns",1,"ns","real"
+"8","Ja","IV: 
+belemmering_hist_psychische_problemen: 1
+","IV: 
+belemmering_hist_psychische_problemen: 4
+",3924,4,0.609,"ns",1,"ns","real"
+"9","Ja","IV: 
+belemmering_hist_psychische_problemen: 2
+","IV: 
+belemmering_hist_psychische_problemen: 4
+",241,4,0.942,"ns",1,"ns","real"
+"10","Ja","IV: 
+belemmering_hist_psychische_problemen: 3
+","IV: 
+belemmering_hist_psychische_problemen: 4
+",22,4,0.945,"ns",1,"ns","real"
+"11","Ja","IV: 
+belemmering_hist_psychische_problemen: 0
+","IV: 
+belemmering_hist_psychische_problemen: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"12","Ja","IV: 
+belemmering_hist_psychische_problemen: 0
+","IV: 
+belemmering_hist_psychische_problemen: 2
+",12645,12645,0.601,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+belemmering_hist_psychische_problemen: 1
+","IV: 
+belemmering_hist_psychische_problemen: 2
+",12645,12645,0.601,"ns",1,"ns","real_conditional"
+"14","Ja","IV: 
+belemmering_hist_psychische_problemen: 0
+","IV: 
+belemmering_hist_psychische_problemen: 3
+",12645,12645,0.601,"ns",1,"ns","real_conditional"
+"15","Ja","IV: 
+belemmering_hist_psychische_problemen: 1
+","IV: 
+belemmering_hist_psychische_problemen: 3
+",12645,12645,0.601,"ns",1,"ns","real_conditional"
+"16","Ja","IV: 
+belemmering_hist_psychische_problemen: 2
+","IV: 
+belemmering_hist_psychische_problemen: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"17","Ja","IV: 
+belemmering_hist_psychische_problemen: 0
+","IV: 
+belemmering_hist_psychische_problemen: 4
+",12645,12645,0.601,"ns",1,"ns","real_conditional"
+"18","Ja","IV: 
+belemmering_hist_psychische_problemen: 1
+","IV: 
+belemmering_hist_psychische_problemen: 4
+",12645,12645,0.601,"ns",1,"ns","real_conditional"
+"19","Ja","IV: 
+belemmering_hist_psychische_problemen: 2
+","IV: 
+belemmering_hist_psychische_problemen: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"20","Ja","IV: 
+belemmering_hist_psychische_problemen: 3
+","IV: 
+belemmering_hist_psychische_problemen: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"21","Ja","IV: 
+belemmering_hist_psychische_problemen: 0
+","IV: 
+belemmering_hist_psychische_problemen: 1
+",6349,5995,0.0259,"*",0.156,"ns","synth"
+"22","Ja","IV: 
+belemmering_hist_psychische_problemen: 0
+","IV: 
+belemmering_hist_psychische_problemen: 2
+",6349,299,0.212,"ns",1,"ns","synth"
+"23","Ja","IV: 
+belemmering_hist_psychische_problemen: 1
+","IV: 
+belemmering_hist_psychische_problemen: 2
+",5995,299,0.57,"ns",1,"ns","synth"
+"24","Ja","IV: 
+belemmering_hist_psychische_problemen: 0
+","IV: 
+belemmering_hist_psychische_problemen: 3
+",6349,2,0.438,"ns",1,"ns","synth"
+"25","Ja","IV: 
+belemmering_hist_psychische_problemen: 1
+","IV: 
+belemmering_hist_psychische_problemen: 3
+",5995,2,0.405,"ns",1,"ns","synth"
+"26","Ja","IV: 
+belemmering_hist_psychische_problemen: 2
+","IV: 
+belemmering_hist_psychische_problemen: 3
+",299,2,0.38,"ns",1,"ns","synth"
+"27","Ja","IV: 
+belemmering_hist_psychische_problemen: 0
+","IV: 
+belemmering_hist_psychische_problemen: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"28","Ja","IV: 
+belemmering_hist_psychische_problemen: 0
+","IV: 
+belemmering_hist_psychische_problemen: 2
+",12508,12508,0.924,"ns",1,"ns","synth_conditional"
+"29","Ja","IV: 
+belemmering_hist_psychische_problemen: 1
+","IV: 
+belemmering_hist_psychische_problemen: 2
+",12508,12508,0.924,"ns",1,"ns","synth_conditional"
+"30","Ja","IV: 
+belemmering_hist_psychische_problemen: 0
+","IV: 
+belemmering_hist_psychische_problemen: 3
+",12508,12508,0.924,"ns",1,"ns","synth_conditional"
+"31","Ja","IV: 
+belemmering_hist_psychische_problemen: 1
+","IV: 
+belemmering_hist_psychische_problemen: 3
+",12508,12508,0.924,"ns",1,"ns","synth_conditional"
+"32","Ja","IV: 
+belemmering_hist_psychische_problemen: 2
+","IV: 
+belemmering_hist_psychische_problemen: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"33","Ja","IV: 
+belemmering_hist_psychische_problemen: 0
+","IV: 
+belemmering_hist_psychische_problemen: 4
+",12508,12508,0.924,"ns",1,"ns","synth_conditional"
+"34","Ja","IV: 
+belemmering_hist_psychische_problemen: 1
+","IV: 
+belemmering_hist_psychische_problemen: 4
+",12508,12508,0.924,"ns",1,"ns","synth_conditional"
+"35","Ja","IV: 
+belemmering_hist_psychische_problemen: 2
+","IV: 
+belemmering_hist_psychische_problemen: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"36","Ja","IV: 
+belemmering_hist_psychische_problemen: 3
+","IV: 
+belemmering_hist_psychische_problemen: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"

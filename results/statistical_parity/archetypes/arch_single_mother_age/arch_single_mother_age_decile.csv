@@ -1,0 +1,181 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",543,4.29418742586002,"real_conditional"
+"2",1,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1245,9.84578884934757,"real_conditional"
+"3",1,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",2006,15.8639778568604,"real_conditional"
+"4",2,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1014,8.01897983392645,"real_conditional"
+"5",2,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1296,10.2491103202847,"real_conditional"
+"6",2,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1484,11.7358639778569,"real_conditional"
+"7",3,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1214,9.60063266113088,"real_conditional"
+"8",3,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1302,10.2965599051008,"real_conditional"
+"9",3,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1278,10.1067615658363,"real_conditional"
+"10",4,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1310,10.359826018189,"real_conditional"
+"11",4,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1251,9.8932384341637,"real_conditional"
+"12",4,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1233,9.7508896797153,"real_conditional"
+"13",5,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1338,10.5812574139976,"real_conditional"
+"14",5,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1259,9.95650454725188,"real_conditional"
+"15",5,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1197,9.46619217081851,"real_conditional"
+"16",6,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1360,10.7552392249901,"real_conditional"
+"17",6,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1255,9.92487149070779,"real_conditional"
+"18",6,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1178,9.31593515223408,"real_conditional"
+"19",7,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1367,10.8105970739423,"real_conditional"
+"20",7,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1218,9.63226571767497,"real_conditional"
+"21",7,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1208,9.55318307631475,"real_conditional"
+"22",8,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1384,10.9450375642546,"real_conditional"
+"23",8,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1268,10.0276789244761,"real_conditional"
+"24",8,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1141,9.02332937920126,"real_conditional"
+"25",9,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1495,11.8228548833531,"real_conditional"
+"26",9,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1272,10.0593119810202,"real_conditional"
+"27",9,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1026,8.11387900355872,"real_conditional"
+"28",10,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1620,12.8113879003559,"real_conditional"
+"29",10,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1279,10.1146698299723,"real_conditional"
+"30",10,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",894,7.0699881376038,"real_conditional"
+"31",1,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",705,5.63639270866645,"synth_conditional"
+"32",1,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1258,10.0575631595779,"synth_conditional"
+"33",1,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1790,14.3108410617205,"synth_conditional"
+"34",2,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1098,8.7783818356252,"synth_conditional"
+"35",2,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1299,10.3853533738407,"synth_conditional"
+"36",2,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1356,10.8410617204989,"synth_conditional"
+"37",3,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1167,9.33002878157979,"synth_conditional"
+"38",3,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1297,10.3693636072913,"synth_conditional"
+"39",3,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1289,10.3054045410937,"synth_conditional"
+"40",4,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1280,10.2334505916214,"synth_conditional"
+"41",4,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1254,10.0255836264791,"synth_conditional"
+"42",4,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1219,9.74576271186441,"synth_conditional"
+"43",5,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1242,9.9296450271826,"synth_conditional"
+"44",5,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1239,9.90566037735849,"synth_conditional"
+"45",5,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1271,10.161496642149,"synth_conditional"
+"46",6,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1308,10.4573073233131,"synth_conditional"
+"47",6,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1220,9.75375759513911,"synth_conditional"
+"48",6,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1224,9.78573712823793,"synth_conditional"
+"49",7,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1335,10.6731691717301,"synth_conditional"
+"50",7,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1249,9.98560921010553,"synth_conditional"
+"51",7,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1168,9.33802366485449,"synth_conditional"
+"52",8,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1370,10.9529900863447,"synth_conditional"
+"53",8,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1230,9.83370642788615,"synth_conditional"
+"54",8,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1152,9.21010553245923,"synth_conditional"
+"55",9,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1443,11.5366165653981,"synth_conditional"
+"56",9,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1199,9.58586504637032,"synth_conditional"
+"57",9,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",1110,8.87432043492165,"synth_conditional"
+"58",10,"IV: 
+persoon_leeftijd_bij_onderzoek: 28
+",1560,12.4720179085385,"synth_conditional"
+"59",10,"IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",1263,10.0975375759514,"synth_conditional"
+"60",10,"IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",929,7.42724656220019,"synth_conditional"

@@ -1,0 +1,61 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+","Ja",12011,0.491,0.153,0.102905669802681,0.287236699691949,0.290566980268088,18.7236699691949,"real"
+"2","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+","Ja",522,0.442,0.145,0.0440613026819923,0.18007662835249,-5.59386973180077,8.00766283524904,"real"
+"3","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+","Ja",78,0.461,0.149,0.0512820512820513,0.217948717948718,-4.87179487179487,11.7948717948718,"real"
+"4","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+","Ja",27,0.481,0.128,0.037037037037037,0.148148148148148,-6.2962962962963,4.81481481481481,"real"
+"5","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+","Ja",4,0.48,0.021,0,0,-10,-10,"real"
+"6","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+","Ja",3,0.589,0.134,0.333333333333333,0.333333333333333,23.3333333333333,23.3333333333333,"real"
+"7","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+","Ja",12645,0.489,0.153,0.100355871886121,0.28224594701463,0.035587188612099,18.224594701463,"real_conditional"
+"8","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+","Ja",12645,0.487,0.153,0.0969553183076315,0.276868327402135,-0.304468169236853,17.6868327402135,"real_conditional"
+"9","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+","Ja",12645,0.487,0.153,0.0969553183076315,0.276868327402135,-0.304468169236853,17.6868327402135,"real_conditional"
+"10","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+","Ja",12645,0.487,0.153,0.0969553183076315,0.276868327402135,-0.304468169236853,17.6868327402135,"real_conditional"
+"11","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+","Ja",12645,0.487,0.153,0.0969553183076315,0.276868327402135,-0.304468169236853,17.6868327402135,"real_conditional"
+"12","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+","Ja",12645,0.487,0.153,0.0969553183076315,0.276868327402135,-0.304468169236853,17.6868327402135,"real_conditional"
+"13","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+","Ja",11232,0.613,0.085,0.102831196581197,0.648059116809117,0.283119658119657,54.8059116809117,"synth"
+"14","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+","Ja",1413,0.602,0.085,0.0778485491861288,0.587402689313517,-2.21514508138712,48.7402689313517,"synth"
+"15","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 0
+","Ja",12508,0.612,0.085,0.100335785097538,0.641749280460505,0.0335785097537566,54.1749280460505,"synth_conditional"
+"16","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 1
+","Ja",12508,0.61,0.085,0.095378957467221,0.635593220338983,-0.462104253277902,53.5593220338983,"synth_conditional"
+"17","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 2
+","Ja",12508,0.61,0.085,0.095378957467221,0.635593220338983,-0.462104253277902,53.5593220338983,"synth_conditional"
+"18","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 3
+","Ja",12508,0.61,0.085,0.095378957467221,0.635593220338983,-0.462104253277902,53.5593220338983,"synth_conditional"
+"19","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 4
+","Ja",12508,0.61,0.085,0.095378957467221,0.635593220338983,-0.462104253277902,53.5593220338983,"synth_conditional"
+"20","IV: 
+contacten_soort_afgelopenjaar_gesprek_op_locatie: 5
+","Ja",12508,0.61,0.085,0.095378957467221,0.635593220338983,-0.462104253277902,53.5593220338983,"synth_conditional"

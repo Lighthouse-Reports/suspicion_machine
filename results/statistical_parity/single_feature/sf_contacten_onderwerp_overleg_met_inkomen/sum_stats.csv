@@ -1,0 +1,137 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_onderwerp_overleg_met_inkomen: 0
+contacten_onderwerp_boolean_overleg_met_inkomen: 0
+","Ja",9724,0.459,0.148,0.0631427396133279,0.215343480049362,-3.68572603866722,11.5343480049362,"real"
+"2","IV: 
+contacten_onderwerp_overleg_met_inkomen: 1
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",1562,0.572,0.127,0.192061459667093,0.452624839948784,9.20614596670935,35.2624839948784,"real"
+"3","IV: 
+contacten_onderwerp_overleg_met_inkomen: 10
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",5,0.65,0.128,0.4,0.8,30,70,"real"
+"4","IV: 
+contacten_onderwerp_overleg_met_inkomen: 15
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",1,0.659,NA,0,1,-10,90,"real"
+"5","IV: 
+contacten_onderwerp_overleg_met_inkomen: 2
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",649,0.585,0.119,0.177195685670262,0.485362095531587,7.71956856702619,38.5362095531587,"real"
+"6","IV: 
+contacten_onderwerp_overleg_met_inkomen: 3
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",331,0.623,0.121,0.311178247734139,0.598187311178248,21.1178247734139,49.8187311178248,"real"
+"7","IV: 
+contacten_onderwerp_overleg_met_inkomen: 4
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",152,0.622,0.112,0.282894736842105,0.631578947368421,18.2894736842105,53.1578947368421,"real"
+"8","IV: 
+contacten_onderwerp_overleg_met_inkomen: 5
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",80,0.63,0.128,0.3375,0.6375,23.75,53.75,"real"
+"9","IV: 
+contacten_onderwerp_overleg_met_inkomen: 0
+contacten_onderwerp_boolean_overleg_met_inkomen: 0
+","Ja",12645,0.481,0.151,0.0877026492684856,0.260972716488731,-1.22973507315144,16.0972716488731,"real_conditional"
+"10","IV: 
+contacten_onderwerp_overleg_met_inkomen: 1
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12645,0.525,0.134,0.117279557137208,0.328825622775801,1.72795571372084,22.8825622775801,"real_conditional"
+"11","IV: 
+contacten_onderwerp_overleg_met_inkomen: 10
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12645,0.544,0.128,0.134677738236457,0.370581257413998,3.46777382364571,27.0581257413998,"real_conditional"
+"12","IV: 
+contacten_onderwerp_overleg_met_inkomen: 15
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12645,0.544,0.128,0.134677738236457,0.370581257413998,3.46777382364571,27.0581257413998,"real_conditional"
+"13","IV: 
+contacten_onderwerp_overleg_met_inkomen: 2
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12645,0.534,0.132,0.126136812969553,0.347568208778173,2.61368129695532,24.7568208778173,"real_conditional"
+"14","IV: 
+contacten_onderwerp_overleg_met_inkomen: 20
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12645,0.544,0.128,0.134677738236457,0.370581257413998,3.46777382364571,27.0581257413998,"real_conditional"
+"15","IV: 
+contacten_onderwerp_overleg_met_inkomen: 3
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12645,0.54,0.13,0.131435349940688,0.360458679319889,3.1435349940688,26.0458679319889,"real_conditional"
+"16","IV: 
+contacten_onderwerp_overleg_met_inkomen: 4
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12645,0.54,0.13,0.131435349940688,0.360458679319889,3.1435349940688,26.0458679319889,"real_conditional"
+"17","IV: 
+contacten_onderwerp_overleg_met_inkomen: 5
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12645,0.54,0.13,0.131435349940688,0.360458679319889,3.1435349940688,26.0458679319889,"real_conditional"
+"18","IV: 
+contacten_onderwerp_overleg_met_inkomen: 0
+contacten_onderwerp_boolean_overleg_met_inkomen: 0
+","Ja",3549,0.575,0.095,0.0512820512820513,0.480698788391096,-4.87179487179487,38.0698788391096,"synth"
+"19","IV: 
+contacten_onderwerp_overleg_met_inkomen: 1
+contacten_onderwerp_boolean_overleg_met_inkomen: 0
+","Ja",4406,0.616,0.078,0.0960054471175669,0.652065365410803,-0.399455288243306,55.2065365410803,"synth"
+"20","IV: 
+contacten_onderwerp_overleg_met_inkomen: 1
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",1489,0.623,0.075,0.106783075889859,0.693754197447952,0.678307588985896,59.3754197447952,"synth"
+"21","IV: 
+contacten_onderwerp_overleg_met_inkomen: 2
+contacten_onderwerp_boolean_overleg_met_inkomen: 0
+","Ja",36,0.67,0.066,0.333333333333333,0.916666666666667,23.3333333333333,81.6666666666667,"synth"
+"22","IV: 
+contacten_onderwerp_overleg_met_inkomen: 2
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",2505,0.639,0.071,0.144510978043912,0.766067864271457,4.45109780439122,66.6067864271457,"synth"
+"23","IV: 
+contacten_onderwerp_overleg_met_inkomen: 3
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",583,0.652,0.07,0.181818181818182,0.818181818181818,8.18181818181818,71.8181818181818,"synth"
+"24","IV: 
+contacten_onderwerp_overleg_met_inkomen: 4
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",64,0.666,0.06,0.234375,0.890625,13.4375,79.0625,"synth"
+"25","IV: 
+contacten_onderwerp_overleg_met_inkomen: 5
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12,0.682,0.072,0.5,0.833333333333333,40,73.3333333333333,"synth"
+"26","IV: 
+contacten_onderwerp_overleg_met_inkomen: 0
+contacten_onderwerp_boolean_overleg_met_inkomen: 0
+","Ja",12508,0.596,0.091,0.0775503677646306,0.574032619123761,-2.24496322353694,47.4032619123761,"synth_conditional"
+"27","IV: 
+contacten_onderwerp_overleg_met_inkomen: 1
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12508,0.618,0.079,0.101535017588743,0.662376079309242,0.153501758874319,56.2376079309242,"synth_conditional"
+"28","IV: 
+contacten_onderwerp_overleg_met_inkomen: 10
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12508,0.628,0.075,0.119683402622322,0.710505276622961,1.96834026223217,61.0505276622961,"synth_conditional"
+"29","IV: 
+contacten_onderwerp_overleg_met_inkomen: 15
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12508,0.628,0.075,0.119683402622322,0.710505276622961,1.96834026223217,61.0505276622961,"synth_conditional"
+"30","IV: 
+contacten_onderwerp_overleg_met_inkomen: 2
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12508,0.622,0.077,0.11000959385993,0.681723696834026,1.00095938599296,58.1723696834026,"synth_conditional"
+"31","IV: 
+contacten_onderwerp_overleg_met_inkomen: 20
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12508,0.628,0.075,0.119683402622322,0.710505276622961,1.96834026223217,61.0505276622961,"synth_conditional"
+"32","IV: 
+contacten_onderwerp_overleg_met_inkomen: 3
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12508,0.626,0.076,0.116805244643428,0.697953309881676,1.68052446434282,59.7953309881676,"synth_conditional"
+"33","IV: 
+contacten_onderwerp_overleg_met_inkomen: 4
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12508,0.626,0.076,0.116805244643428,0.697953309881676,1.68052446434282,59.7953309881676,"synth_conditional"
+"34","IV: 
+contacten_onderwerp_overleg_met_inkomen: 5
+contacten_onderwerp_boolean_overleg_met_inkomen: 1
+","Ja",12508,0.626,0.076,0.116805244643428,0.697953309881676,1.68052446434282,59.7953309881676,"synth_conditional"

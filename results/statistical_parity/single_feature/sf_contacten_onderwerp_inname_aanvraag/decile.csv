@@ -1,0 +1,544 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1225,10.4691906674643,"real"
+"2",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",34,4.4973544973545,"real"
+"3",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",6,3.77358490566038,"real"
+"4",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1233,10.5375608922314,"real"
+"5",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",30,3.96825396825397,"real"
+"6",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",2,1.25786163522013,"real"
+"7",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1236,10.5631997265191,"real"
+"8",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",26,3.43915343915344,"real"
+"9",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",3,1.88679245283019,"real"
+"10",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1199,10.2469874369712,"real"
+"11",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",51,6.74603174603175,"real"
+"12",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",13,8.17610062893082,"real"
+"13",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",2,8.33333333333333,"real"
+"14",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1171,10.0076916502863,"real"
+"15",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",75,9.92063492063492,"real"
+"16",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",16,10.062893081761,"real"
+"17",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",3,12.5,"real"
+"18",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1164,9.94786770361508,"real"
+"19",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",81,10.7142857142857,"real"
+"20",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",17,10.6918238993711,"real"
+"21",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",2,8.33333333333333,"real"
+"22",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1151,9.83676608836852,"real"
+"23",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",95,12.5661375661376,"real"
+"24",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",15,9.43396226415094,"real"
+"25",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",3,12.5,"real"
+"26",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1138,9.72566447312196,"real"
+"27",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",105,13.8888888888889,"real"
+"28",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",16,10.062893081761,"real"
+"29",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",4,16.6666666666667,"real"
+"30",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1,25,"real"
+"31",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1117,9.54619263310828,"real"
+"32",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",109,14.4179894179894,"real"
+"33",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",35,22.0125786163522,"real"
+"34",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",2,8.33333333333333,"real"
+"35",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1,25,"real"
+"36",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1067,9.11887872831382,"real"
+"37",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",150,19.8412698412698,"real"
+"38",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",36,22.6415094339623,"real"
+"39",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",8,33.3333333333333,"real"
+"40",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",2,50,"real"
+"41",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1,100,"real"
+"42",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1265,10.003954132068,"real_conditional"
+"43",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1265,10.003954132068,"real_conditional"
+"44",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1265,10.003954132068,"real_conditional"
+"45",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1264,9.99604586793199,"real_conditional"
+"46",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1264,9.99604586793199,"real_conditional"
+"47",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1264,9.99604586793199,"real_conditional"
+"48",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1264,9.99604586793199,"real_conditional"
+"49",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1264,9.99604586793199,"real_conditional"
+"50",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1264,9.99604586793199,"real_conditional"
+"51",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1265,10.003954132068,"real_conditional"
+"52",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1265,10.003954132068,"real_conditional"
+"53",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1265,10.003954132068,"real_conditional"
+"54",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1265,10.003954132068,"real_conditional"
+"55",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1265,10.003954132068,"real_conditional"
+"56",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1265,10.003954132068,"real_conditional"
+"57",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1264,9.99604586793199,"real_conditional"
+"58",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1264,9.99604586793199,"real_conditional"
+"59",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1264,9.99604586793199,"real_conditional"
+"60",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1264,9.99604586793199,"real_conditional"
+"61",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1264,9.99604586793199,"real_conditional"
+"62",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1264,9.99604586793199,"real_conditional"
+"63",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1265,10.003954132068,"real_conditional"
+"64",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1265,10.003954132068,"real_conditional"
+"65",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1265,10.003954132068,"real_conditional"
+"66",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1265,10.003954132068,"real_conditional"
+"67",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1265,10.003954132068,"real_conditional"
+"68",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1265,10.003954132068,"real_conditional"
+"69",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1264,9.99604586793199,"real_conditional"
+"70",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1264,9.99604586793199,"real_conditional"
+"71",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1264,9.99604586793199,"real_conditional"
+"72",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1264,9.99604586793199,"real_conditional"
+"73",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1264,9.99604586793199,"real_conditional"
+"74",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1264,9.99604586793199,"real_conditional"
+"75",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1265,10.003954132068,"real_conditional"
+"76",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1265,10.003954132068,"real_conditional"
+"77",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1265,10.003954132068,"real_conditional"
+"78",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1265,10.003954132068,"real_conditional"
+"79",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1265,10.003954132068,"real_conditional"
+"80",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1265,10.003954132068,"real_conditional"
+"81",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1264,9.99604586793199,"real_conditional"
+"82",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1264,9.99604586793199,"real_conditional"
+"83",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1264,9.99604586793199,"real_conditional"
+"84",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1264,9.99604586793199,"real_conditional"
+"85",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1264,9.99604586793199,"real_conditional"
+"86",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1264,9.99604586793199,"real_conditional"
+"87",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1265,10.003954132068,"real_conditional"
+"88",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1265,10.003954132068,"real_conditional"
+"89",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1265,10.003954132068,"real_conditional"
+"90",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1265,10.003954132068,"real_conditional"
+"91",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1265,10.003954132068,"real_conditional"
+"92",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1265,10.003954132068,"real_conditional"
+"93",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1264,9.99604586793199,"real_conditional"
+"94",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1264,9.99604586793199,"real_conditional"
+"95",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1264,9.99604586793199,"real_conditional"
+"96",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1264,9.99604586793199,"real_conditional"
+"97",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1264,9.99604586793199,"real_conditional"
+"98",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1264,9.99604586793199,"real_conditional"
+"99",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1265,10.003954132068,"real_conditional"
+"100",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1265,10.003954132068,"real_conditional"
+"101",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1265,10.003954132068,"real_conditional"
+"102",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1095,10.7479387514723,"synth"
+"103",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",170,6.91900691900692,"synth"
+"104",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1064,10.4436592069101,"synth"
+"105",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",201,8.18070818070818,"synth"
+"106",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1049,10.2964271692187,"synth"
+"107",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",216,8.79120879120879,"synth"
+"108",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1020,10.0117785630153,"synth"
+"109",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",245,9.97150997150997,"synth"
+"110",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1015,9.96270121711818,"synth"
+"111",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",250,10.1750101750102,"synth"
+"112",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1019,10.0019630938359,"synth"
+"113",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",245,9.97150997150997,"synth"
+"114",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1017,9.98233215547703,"synth"
+"115",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",247,10.0529100529101,"synth"
+"116",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",980,9.61915979583824,"synth"
+"117",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",284,11.5588115588116,"synth"
+"118",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",986,9.6780526109148,"synth"
+"119",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",278,11.3146113146113,"synth"
+"120",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",943,9.25598743619945,"synth"
+"121",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",321,13.0647130647131,"synth"
+"122",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1251,10.0015989766549,"synth_conditional"
+"123",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1251,10.0015989766549,"synth_conditional"
+"124",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1251,10.0015989766549,"synth_conditional"
+"125",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1251,10.0015989766549,"synth_conditional"
+"126",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1250,9.99360409338024,"synth_conditional"
+"127",1,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1251,10.0015989766549,"synth_conditional"
+"128",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1251,10.0015989766549,"synth_conditional"
+"129",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1251,10.0015989766549,"synth_conditional"
+"130",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1251,10.0015989766549,"synth_conditional"
+"131",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1251,10.0015989766549,"synth_conditional"
+"132",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1251,10.0015989766549,"synth_conditional"
+"133",2,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1250,9.99360409338024,"synth_conditional"
+"134",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1251,10.0015989766549,"synth_conditional"
+"135",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1251,10.0015989766549,"synth_conditional"
+"136",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1251,10.0015989766549,"synth_conditional"
+"137",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1250,9.99360409338024,"synth_conditional"
+"138",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1251,10.0015989766549,"synth_conditional"
+"139",3,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1251,10.0015989766549,"synth_conditional"
+"140",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1251,10.0015989766549,"synth_conditional"
+"141",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1251,10.0015989766549,"synth_conditional"
+"142",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1250,9.99360409338024,"synth_conditional"
+"143",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1251,10.0015989766549,"synth_conditional"
+"144",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1251,10.0015989766549,"synth_conditional"
+"145",4,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1251,10.0015989766549,"synth_conditional"
+"146",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1251,10.0015989766549,"synth_conditional"
+"147",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1250,9.99360409338024,"synth_conditional"
+"148",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1251,10.0015989766549,"synth_conditional"
+"149",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1251,10.0015989766549,"synth_conditional"
+"150",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1251,10.0015989766549,"synth_conditional"
+"151",5,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1251,10.0015989766549,"synth_conditional"
+"152",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1250,9.99360409338024,"synth_conditional"
+"153",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1251,10.0015989766549,"synth_conditional"
+"154",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1251,10.0015989766549,"synth_conditional"
+"155",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1251,10.0015989766549,"synth_conditional"
+"156",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1251,10.0015989766549,"synth_conditional"
+"157",6,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1251,10.0015989766549,"synth_conditional"
+"158",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1251,10.0015989766549,"synth_conditional"
+"159",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1251,10.0015989766549,"synth_conditional"
+"160",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1251,10.0015989766549,"synth_conditional"
+"161",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1251,10.0015989766549,"synth_conditional"
+"162",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1250,9.99360409338024,"synth_conditional"
+"163",7,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1251,10.0015989766549,"synth_conditional"
+"164",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1251,10.0015989766549,"synth_conditional"
+"165",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1251,10.0015989766549,"synth_conditional"
+"166",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1251,10.0015989766549,"synth_conditional"
+"167",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1251,10.0015989766549,"synth_conditional"
+"168",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1251,10.0015989766549,"synth_conditional"
+"169",8,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1250,9.99360409338024,"synth_conditional"
+"170",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1251,10.0015989766549,"synth_conditional"
+"171",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1251,10.0015989766549,"synth_conditional"
+"172",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1250,9.99360409338024,"synth_conditional"
+"173",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1250,9.99360409338024,"synth_conditional"
+"174",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1251,10.0015989766549,"synth_conditional"
+"175",9,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1251,10.0015989766549,"synth_conditional"
+"176",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 0
+",1250,9.99360409338024,"synth_conditional"
+"177",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 1
+",1250,9.99360409338024,"synth_conditional"
+"178",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 2
+",1251,10.0015989766549,"synth_conditional"
+"179",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 3
+",1251,10.0015989766549,"synth_conditional"
+"180",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 4
+",1251,10.0015989766549,"synth_conditional"
+"181",10,"IV: 
+contacten_onderwerp_inname_aanvraag: 5
+",1251,10.0015989766549,"synth_conditional"

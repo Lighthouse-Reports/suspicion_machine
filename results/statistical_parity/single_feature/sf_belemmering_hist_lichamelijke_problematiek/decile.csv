@@ -1,0 +1,517 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",896,11.1609367214748,"real"
+"2",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",334,7.71719038817006,"real"
+"3",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",32,11.8081180811808,"real"
+"4",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",3,18.75,"real"
+"5",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",850,10.587942202292,"real"
+"6",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",386,8.91866913123845,"real"
+"7",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",28,10.3321033210332,"real"
+"8",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1,6.25,"real"
+"9",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",807,10.0523168908819,"real"
+"10",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",431,9.95841035120148,"real"
+"11",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",24,8.85608856088561,"real"
+"12",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",2,12.5,"real"
+"13",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1,50,"real"
+"14",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",735,9.15545590433483,"real"
+"15",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",497,11.4833641404806,"real"
+"16",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",31,11.4391143911439,"real"
+"17",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",2,12.5,"real"
+"18",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",739,9.20528151469856,"real"
+"19",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",486,11.2292051756007,"real"
+"20",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",37,13.6531365313653,"real"
+"21",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",3,18.75,"real"
+"22",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",744,9.26756352765321,"real"
+"23",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",489,11.2985212569316,"real"
+"24",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",30,11.070110701107,"real"
+"25",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1,50,"real"
+"26",7,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",751,9.35475834578974,"real"
+"27",7,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",485,11.2060998151571,"real"
+"28",7,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",28,10.3321033210332,"real"
+"29",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",783,9.75336322869955,"real"
+"30",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",453,10.4667282809612,"real"
+"31",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",24,8.85608856088561,"real"
+"32",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",4,25,"real"
+"33",9,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",812,10.1145989038366,"real"
+"34",9,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",430,9.93530499075786,"real"
+"35",9,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",22,8.11808118081181,"real"
+"36",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",911,11.3477827603388,"real"
+"37",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",337,7.78650646950092,"real"
+"38",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",15,5.53505535055351,"real"
+"39",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1,6.25,"real"
+"40",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1264,9.99604586793199,"real_conditional"
+"41",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1264,9.99604586793199,"real_conditional"
+"42",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1265,10.003954132068,"real_conditional"
+"43",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1265,10.003954132068,"real_conditional"
+"44",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1265,10.003954132068,"real_conditional"
+"45",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1262,9.98022933965994,"real_conditional"
+"46",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1262,9.98022933965994,"real_conditional"
+"47",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1267,10.0197706603401,"real_conditional"
+"48",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1266,10.011862396204,"real_conditional"
+"49",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1266,10.011862396204,"real_conditional"
+"50",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1263,9.98813760379597,"real_conditional"
+"51",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1263,9.98813760379597,"real_conditional"
+"52",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1265,10.003954132068,"real_conditional"
+"53",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1266,10.011862396204,"real_conditional"
+"54",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1266,10.011862396204,"real_conditional"
+"55",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1265,10.003954132068,"real_conditional"
+"56",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1266,10.011862396204,"real_conditional"
+"57",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1264,9.99604586793199,"real_conditional"
+"58",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1264,9.99604586793199,"real_conditional"
+"59",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1264,9.99604586793199,"real_conditional"
+"60",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1261,9.97232107552392,"real_conditional"
+"61",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1260,9.9644128113879,"real_conditional"
+"62",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1268,10.0276789244761,"real_conditional"
+"63",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1267,10.0197706603401,"real_conditional"
+"64",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1267,10.0197706603401,"real_conditional"
+"65",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1265,10.003954132068,"real_conditional"
+"66",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1265,10.003954132068,"real_conditional"
+"67",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1264,9.99604586793199,"real_conditional"
+"68",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1264,9.99604586793199,"real_conditional"
+"69",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1264,9.99604586793199,"real_conditional"
+"70",7,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1265,10.003954132068,"real_conditional"
+"71",7,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1266,10.011862396204,"real_conditional"
+"72",7,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1263,9.98813760379597,"real_conditional"
+"73",7,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1264,9.99604586793199,"real_conditional"
+"74",7,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1264,9.99604586793199,"real_conditional"
+"75",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1264,9.99604586793199,"real_conditional"
+"76",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1263,9.98813760379597,"real_conditional"
+"77",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1265,10.003954132068,"real_conditional"
+"78",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1265,10.003954132068,"real_conditional"
+"79",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1265,10.003954132068,"real_conditional"
+"80",9,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1267,10.0197706603401,"real_conditional"
+"81",9,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1267,10.0197706603401,"real_conditional"
+"82",9,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1263,9.98813760379597,"real_conditional"
+"83",9,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1263,9.98813760379597,"real_conditional"
+"84",9,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1262,9.98022933965994,"real_conditional"
+"85",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1269,10.0355871886121,"real_conditional"
+"86",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1269,10.0355871886121,"real_conditional"
+"87",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1261,9.97232107552392,"real_conditional"
+"88",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1261,9.97232107552392,"real_conditional"
+"89",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1262,9.98022933965994,"real_conditional"
+"90",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",643,10.2372233720745,"synth"
+"91",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",589,9.83633934535738,"synth"
+"92",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",32,8.57908847184987,"synth"
+"93",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1,33.3333333333333,"synth"
+"94",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",641,10.2053813087088,"synth"
+"95",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",585,9.76953907815631,"synth"
+"96",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",38,10.1876675603217,"synth"
+"97",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1,33.3333333333333,"synth"
+"98",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",606,9.64814519980895,"synth"
+"99",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",609,10.1703406813627,"synth"
+"100",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",49,13.1367292225201,"synth"
+"101",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1,33.3333333333333,"synth"
+"102",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",601,9.56854004139468,"synth"
+"103",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",626,10.4542418169673,"synth"
+"104",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",38,10.1876675603217,"synth"
+"105",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",574,9.13867218595765,"synth"
+"106",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",654,10.9218436873747,"synth"
+"107",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",37,9.91957104557641,"synth"
+"108",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",636,10.1257761502945,"synth"
+"109",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",592,9.88643954575818,"synth"
+"110",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",36,9.6514745308311,"synth"
+"111",7,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",606,9.64814519980895,"synth"
+"112",7,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",615,10.2705410821643,"synth"
+"113",7,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",43,11.5281501340483,"synth"
+"114",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",654,10.4123547205859,"synth"
+"115",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",571,9.53573814295257,"synth"
+"116",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",39,10.455764075067,"synth"
+"117",9,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",648,10.3168285304888,"synth"
+"118",9,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",582,9.71943887775551,"synth"
+"119",9,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",34,9.11528150134048,"synth"
+"120",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",672,10.6989332908772,"synth"
+"121",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",565,9.43553774215097,"synth"
+"122",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",27,7.23860589812332,"synth"
+"123",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1243,9.93763991045731,"synth_conditional"
+"124",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1243,9.93763991045731,"synth_conditional"
+"125",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1256,10.0415733930285,"synth_conditional"
+"126",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1256,10.0415733930285,"synth_conditional"
+"127",1,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1256,10.0415733930285,"synth_conditional"
+"128",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1250,9.99360409338024,"synth_conditional"
+"129",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1250,9.99360409338024,"synth_conditional"
+"130",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1252,10.0095938599296,"synth_conditional"
+"131",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1251,10.0015989766549,"synth_conditional"
+"132",2,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1251,10.0015989766549,"synth_conditional"
+"133",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1246,9.96162456028142,"synth_conditional"
+"134",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1247,9.96961944355612,"synth_conditional"
+"135",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1253,10.0175887432043,"synth_conditional"
+"136",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1254,10.0255836264791,"synth_conditional"
+"137",3,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1254,10.0255836264791,"synth_conditional"
+"138",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1240,9.9136552606332,"synth_conditional"
+"139",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1239,9.90566037735849,"synth_conditional"
+"140",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1259,10.0655580428526,"synth_conditional"
+"141",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1258,10.0575631595779,"synth_conditional"
+"142",4,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1258,10.0575631595779,"synth_conditional"
+"143",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1249,9.98560921010553,"synth_conditional"
+"144",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1249,9.98560921010553,"synth_conditional"
+"145",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1252,10.0095938599296,"synth_conditional"
+"146",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1252,10.0095938599296,"synth_conditional"
+"147",5,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1252,10.0095938599296,"synth_conditional"
+"148",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1254,10.0255836264791,"synth_conditional"
+"149",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1254,10.0255836264791,"synth_conditional"
+"150",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1248,9.97761432683083,"synth_conditional"
+"151",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1249,9.98560921010553,"synth_conditional"
+"152",6,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1249,9.98560921010553,"synth_conditional"
+"153",7,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1251,10.0015989766549,"synth_conditional"
+"154",7,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1251,10.0015989766549,"synth_conditional"
+"155",7,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1251,10.0015989766549,"synth_conditional"
+"156",7,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1251,10.0015989766549,"synth_conditional"
+"157",7,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1250,9.99360409338024,"synth_conditional"
+"158",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1263,10.0975375759514,"synth_conditional"
+"159",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1264,10.1055324592261,"synth_conditional"
+"160",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1242,9.9296450271826,"synth_conditional"
+"161",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1242,9.9296450271826,"synth_conditional"
+"162",8,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1243,9.93763991045731,"synth_conditional"
+"163",9,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1252,10.0095938599296,"synth_conditional"
+"164",9,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1252,10.0095938599296,"synth_conditional"
+"165",9,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1250,9.99360409338024,"synth_conditional"
+"166",9,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1250,9.99360409338024,"synth_conditional"
+"167",9,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1250,9.99360409338024,"synth_conditional"
+"168",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+",1260,10.0735529261273,"synth_conditional"
+"169",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+",1259,10.0655580428526,"synth_conditional"
+"170",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+",1245,9.95362967700671,"synth_conditional"
+"171",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+",1245,9.95362967700671,"synth_conditional"
+"172",10,"IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+",1245,9.95362967700671,"synth_conditional"

@@ -1,0 +1,25 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+persoonlijke_eigenschappen_nl_begrijpen3: 0
+","Ja",11874,0.489,0.154,0.101566447700859,0.283392285666161,0.156644770085902,18.3392285666161,"real"
+"2","IV: 
+persoonlijke_eigenschappen_nl_begrijpen3: 1
+","Ja",771,0.499,0.135,0.0765239948119326,0.260700389105058,-2.34760051880674,16.0700389105058,"real"
+"3","IV: 
+persoonlijke_eigenschappen_nl_begrijpen3: 0
+","Ja",12645,0.489,0.153,0.10003954132068,0.28200869909055,0.00395413206801115,18.200869909055,"real_conditional"
+"4","IV: 
+persoonlijke_eigenschappen_nl_begrijpen3: 1
+","Ja",12645,0.49,0.153,0.10011862396204,0.282404112297351,0.0118623962040335,18.2404112297351,"real_conditional"
+"5","IV: 
+persoonlijke_eigenschappen_nl_begrijpen3: 0
+","Ja",12174,0.612,0.085,0.101363561688845,0.641859701002136,0.136356168884508,54.1859701002136,"synth"
+"6","IV: 
+persoonlijke_eigenschappen_nl_begrijpen3: 1
+","Ja",471,0.608,0.082,0.0658174097664544,0.626326963906582,-3.41825902335457,52.6326963906582,"synth"
+"7","IV: 
+persoonlijke_eigenschappen_nl_begrijpen3: 0
+","Ja",12508,0.612,0.085,0.0996162456028142,0.640949792133035,-0.0383754397185812,54.0949792133035,"synth_conditional"
+"8","IV: 
+persoonlijke_eigenschappen_nl_begrijpen3: 1
+","Ja",12508,0.612,0.085,0.0988167572753438,0.641669331627758,-0.118324272465622,54.1669331627758,"synth_conditional"

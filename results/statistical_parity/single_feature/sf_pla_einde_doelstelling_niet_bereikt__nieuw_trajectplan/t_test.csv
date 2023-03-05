@@ -1,0 +1,691 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+",12645,12645,0.843,"ns",1,"ns","real_conditional"
+"2","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+",12645,12645,0.75,"ns",1,"ns","real_conditional"
+"3","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+",12645,12645,0.904,"ns",1,"ns","real_conditional"
+"4","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+",12645,12645,0.817,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+",12645,12645,0.973,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+",12645,12645,0.931,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+",12645,12645,0.949,"ns",1,"ns","real_conditional"
+"8","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+",12645,12645,0.894,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+",12645,12645,0.799,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+",12645,12645,0.867,"ns",1,"ns","real_conditional"
+"11","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+",12645,12645,0.949,"ns",1,"ns","real_conditional"
+"12","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+",12645,12645,0.894,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+",12645,12645,0.799,"ns",1,"ns","real_conditional"
+"14","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+",12645,12645,0.867,"ns",1,"ns","real_conditional"
+"15","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"16","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",12645,12645,0.75,"ns",1,"ns","real_conditional"
+"17","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",12645,12645,0.904,"ns",1,"ns","real_conditional"
+"18","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"19","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",12645,12645,0.931,"ns",1,"ns","real_conditional"
+"20","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",12645,12645,0.799,"ns",1,"ns","real_conditional"
+"21","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",12645,12645,0.799,"ns",1,"ns","real_conditional"
+"22","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",12645,12645,0.75,"ns",1,"ns","real_conditional"
+"23","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",12645,12645,0.904,"ns",1,"ns","real_conditional"
+"24","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"25","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",12645,12645,0.931,"ns",1,"ns","real_conditional"
+"26","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",12645,12645,0.799,"ns",1,"ns","real_conditional"
+"27","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",12645,12645,0.799,"ns",1,"ns","real_conditional"
+"28","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"29","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",12645,12645,0.75,"ns",1,"ns","real_conditional"
+"30","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",12645,12645,0.904,"ns",1,"ns","real_conditional"
+"31","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"32","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",12645,12645,0.931,"ns",1,"ns","real_conditional"
+"33","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",12645,12645,0.799,"ns",1,"ns","real_conditional"
+"34","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",12645,12645,0.799,"ns",1,"ns","real_conditional"
+"35","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"36","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"37","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12645,12645,0.75,"ns",1,"ns","real_conditional"
+"38","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12645,12645,0.904,"ns",1,"ns","real_conditional"
+"39","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12645,12645,0.931,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12645,12645,0.799,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12645,12645,0.799,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"44","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"45","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"46","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12645,12645,0.75,"ns",1,"ns","real_conditional"
+"47","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12645,12645,0.904,"ns",1,"ns","real_conditional"
+"48","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"49","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12645,12645,0.931,"ns",1,"ns","real_conditional"
+"50","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12645,12645,0.799,"ns",1,"ns","real_conditional"
+"51","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12645,12645,0.799,"ns",1,"ns","real_conditional"
+"52","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"53","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"55","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"56","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+",2600,5298,0.661,"ns",1,"ns","synth"
+"57","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+",2600,3206,0.239,"ns",1,"ns","synth"
+"58","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+",5298,3206,0.359,"ns",1,"ns","synth"
+"59","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+",2600,1206,0.517,"ns",1,"ns","synth"
+"60","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+",5298,1206,0.705,"ns",1,"ns","synth"
+"61","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+",3206,1206,0.802,"ns",1,"ns","synth"
+"62","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+",2600,283,0.444,"ns",1,"ns","synth"
+"63","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+",5298,283,0.539,"ns",1,"ns","synth"
+"64","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+",3206,283,0.785,"ns",1,"ns","synth"
+"65","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+",1206,283,0.701,"ns",1,"ns","synth"
+"66","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",2600,46,0.784,"ns",1,"ns","synth"
+"67","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",5298,46,0.729,"ns",1,"ns","synth"
+"68","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",3206,46,0.629,"ns",1,"ns","synth"
+"69","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",1206,46,0.674,"ns",1,"ns","synth"
+"70","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",283,46,0.577,"ns",1,"ns","synth"
+"71","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",2600,3,0.00101,"**",0.0284,"*","synth"
+"72","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",5298,3,0.00108,"**",0.0291,"*","synth"
+"73","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",3206,3,0.00122,"**",0.0295,"*","synth"
+"74","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",1206,3,0.00117,"**",0.0295,"*","synth"
+"75","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",283,3,0.00143,"**",0.0329,"*","synth"
+"76","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",46,3,0.00114,"**",0.0295,"*","synth"
+"77","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",2600,3,0.21,"ns",1,"ns","synth"
+"78","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",5298,3,0.216,"ns",1,"ns","synth"
+"79","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",3206,3,0.23,"ns",1,"ns","synth"
+"80","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",1206,3,0.225,"ns",1,"ns","synth"
+"81","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",283,3,0.244,"ns",1,"ns","synth"
+"82","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",46,3,0.199,"ns",1,"ns","synth"
+"83","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",3,3,0.15,"ns",1,"ns","synth"
+"84","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+",12508,12508,0.576,"ns",1,"ns","synth_conditional"
+"85","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+",12508,12508,0.338,"ns",1,"ns","synth_conditional"
+"86","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+",12508,12508,0.689,"ns",1,"ns","synth_conditional"
+"87","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+",12508,12508,0.769,"ns",1,"ns","synth_conditional"
+"88","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+",12508,12508,0.79,"ns",1,"ns","synth_conditional"
+"89","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+",12508,12508,0.506,"ns",1,"ns","synth_conditional"
+"90","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+",12508,12508,0.891,"ns",1,"ns","synth_conditional"
+"91","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+",12508,12508,0.673,"ns",1,"ns","synth_conditional"
+"92","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+",12508,12508,0.411,"ns",1,"ns","synth_conditional"
+"93","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+",12508,12508,0.875,"ns",1,"ns","synth_conditional"
+"94","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+",12508,12508,0.891,"ns",1,"ns","synth_conditional"
+"95","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+",12508,12508,0.673,"ns",1,"ns","synth_conditional"
+"96","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+",12508,12508,0.411,"ns",1,"ns","synth_conditional"
+"97","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+",12508,12508,0.875,"ns",1,"ns","synth_conditional"
+"98","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"99","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",12508,12508,0.338,"ns",1,"ns","synth_conditional"
+"100","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",12508,12508,0.689,"ns",1,"ns","synth_conditional"
+"101","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"102","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",12508,12508,0.506,"ns",1,"ns","synth_conditional"
+"103","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",12508,12508,0.411,"ns",1,"ns","synth_conditional"
+"104","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+",12508,12508,0.411,"ns",1,"ns","synth_conditional"
+"105","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",12508,12508,0.338,"ns",1,"ns","synth_conditional"
+"106","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",12508,12508,0.689,"ns",1,"ns","synth_conditional"
+"107","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"108","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",12508,12508,0.506,"ns",1,"ns","synth_conditional"
+"109","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",12508,12508,0.411,"ns",1,"ns","synth_conditional"
+"110","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",12508,12508,0.411,"ns",1,"ns","synth_conditional"
+"111","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"112","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",12508,12508,0.338,"ns",1,"ns","synth_conditional"
+"113","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",12508,12508,0.689,"ns",1,"ns","synth_conditional"
+"114","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"115","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",12508,12508,0.506,"ns",1,"ns","synth_conditional"
+"116","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",12508,12508,0.411,"ns",1,"ns","synth_conditional"
+"117","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",12508,12508,0.411,"ns",1,"ns","synth_conditional"
+"118","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"119","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"120","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12508,12508,0.338,"ns",1,"ns","synth_conditional"
+"121","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12508,12508,0.689,"ns",1,"ns","synth_conditional"
+"122","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"123","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12508,12508,0.506,"ns",1,"ns","synth_conditional"
+"124","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12508,12508,0.411,"ns",1,"ns","synth_conditional"
+"125","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12508,12508,0.411,"ns",1,"ns","synth_conditional"
+"126","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"127","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"128","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"129","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 0
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12508,12508,0.338,"ns",1,"ns","synth_conditional"
+"130","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 1
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12508,12508,0.689,"ns",1,"ns","synth_conditional"
+"131","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 10
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"132","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 2
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12508,12508,0.506,"ns",1,"ns","synth_conditional"
+"133","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 3
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12508,12508,0.411,"ns",1,"ns","synth_conditional"
+"134","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 4
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12508,12508,0.411,"ns",1,"ns","synth_conditional"
+"135","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 5
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"136","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 6
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"137","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 7
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"138","Ja","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 8
+","IV: 
+pla_einde_doelstelling_niet_bereikt__nieuw_trajectplan: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"

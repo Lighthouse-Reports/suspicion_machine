@@ -1,0 +1,706 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+",10598,1373,2.97e-79,"****",1.33e-77,"****","real"
+"2","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+",10598,413,1.13e-40,"****",4.95e-39,"****","real"
+"3","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+",1373,413,0.0229,"*",0.848,"ns","real"
+"4","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+",10598,152,6.34e-17,"****",2.73e-15,"****","real"
+"5","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+",1373,152,0.103,"ns",1,"ns","real"
+"6","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+",413,152,0.902,"ns",1,"ns","real"
+"7","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+",10598,55,6.82e-06,"****",0.00028,"***","real"
+"8","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+",1373,55,0.642,"ns",1,"ns","real"
+"9","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+",413,55,0.657,"ns",1,"ns","real"
+"10","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+",152,55,0.632,"ns",1,"ns","real"
+"11","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+",10598,34,5.35e-07,"****",2.25e-05,"****","real"
+"12","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+",1373,34,0.0678,"ns",1,"ns","real"
+"13","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+",413,34,0.288,"ns",1,"ns","real"
+"14","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+",152,34,0.349,"ns",1,"ns","real"
+"15","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+",55,34,0.246,"ns",1,"ns","real"
+"16","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",10598,10,0.00169,"**",0.0677,"ns","real"
+"17","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",1373,10,0.157,"ns",1,"ns","real"
+"18","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",413,10,0.315,"ns",1,"ns","real"
+"19","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",152,10,0.343,"ns",1,"ns","real"
+"20","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",55,10,0.263,"ns",1,"ns","real"
+"21","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",34,10,0.714,"ns",1,"ns","real"
+"22","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",10598,3,0.00296,"**",0.115,"ns","real"
+"23","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",1373,3,0.0426,"*",1,"ns","real"
+"24","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",413,3,0.0716,"ns",1,"ns","real"
+"25","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",152,3,0.0766,"ns",1,"ns","real"
+"26","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",55,3,0.0617,"ns",1,"ns","real"
+"27","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",34,3,0.156,"ns",1,"ns","real"
+"28","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",10,3,0.272,"ns",1,"ns","real"
+"29","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",10598,5,0.0138,"*",0.525,"ns","real"
+"30","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",1373,5,0.214,"ns",1,"ns","real"
+"31","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",413,5,0.34,"ns",1,"ns","real"
+"32","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",152,5,0.358,"ns",1,"ns","real"
+"33","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",55,5,0.291,"ns",1,"ns","real"
+"34","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",34,5,0.617,"ns",1,"ns","real"
+"35","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",10,5,0.844,"ns",1,"ns","real"
+"36","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",3,5,0.4,"ns",1,"ns","real"
+"37","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",10598,2,0.347,"ns",1,"ns","real"
+"38","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",1373,2,0.865,"ns",1,"ns","real"
+"39","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",413,2,0.992,"ns",1,"ns","real"
+"40","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",152,2,0.979,"ns",1,"ns","real"
+"41","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",55,2,0.937,"ns",1,"ns","real"
+"42","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",34,2,0.787,"ns",1,"ns","real"
+"43","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",10,2,0.672,"ns",1,"ns","real"
+"44","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",3,2,0.25,"ns",1,"ns","real"
+"45","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",5,2,0.602,"ns",1,"ns","real"
+"46","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+",12645,12645,2.8e-25,"****",1.04e-23,"****","real_conditional"
+"47","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+",12645,12645,8.05e-26,"****",3.06e-24,"****","real_conditional"
+"48","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+",12645,12645,0.906,"ns",1,"ns","real_conditional"
+"49","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+",12645,12645,6.95e-29,"****",2.71e-27,"****","real_conditional"
+"50","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+",12645,12645,0.444,"ns",1,"ns","real_conditional"
+"51","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+",12645,12645,0.518,"ns",1,"ns","real_conditional"
+"52","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+",12645,12645,3.42e-34,"****",1.54e-32,"****","real_conditional"
+"53","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+",12645,12645,0.071,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+",12645,12645,0.0916,"ns",1,"ns","real_conditional"
+"55","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+",12645,12645,0.298,"ns",1,"ns","real_conditional"
+"56","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+",12645,12645,3.42e-34,"****",1.54e-32,"****","real_conditional"
+"57","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+",12645,12645,0.071,"ns",1,"ns","real_conditional"
+"58","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+",12645,12645,0.0916,"ns",1,"ns","real_conditional"
+"59","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+",12645,12645,0.298,"ns",1,"ns","real_conditional"
+"60","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"61","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",12645,12645,3.42e-34,"****",1.54e-32,"****","real_conditional"
+"62","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",12645,12645,0.071,"ns",1,"ns","real_conditional"
+"63","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",12645,12645,0.0916,"ns",1,"ns","real_conditional"
+"64","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",12645,12645,0.298,"ns",1,"ns","real_conditional"
+"65","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"66","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"67","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",12645,12645,3.42e-34,"****",1.54e-32,"****","real_conditional"
+"68","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",12645,12645,0.071,"ns",1,"ns","real_conditional"
+"69","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",12645,12645,0.0916,"ns",1,"ns","real_conditional"
+"70","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",12645,12645,0.298,"ns",1,"ns","real_conditional"
+"71","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"72","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"73","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"74","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",12645,12645,3.42e-34,"****",1.54e-32,"****","real_conditional"
+"75","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",12645,12645,0.071,"ns",1,"ns","real_conditional"
+"76","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",12645,12645,0.0916,"ns",1,"ns","real_conditional"
+"77","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",12645,12645,0.298,"ns",1,"ns","real_conditional"
+"78","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"79","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"80","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"81","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"82","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12645,12645,3.42e-34,"****",1.54e-32,"****","real_conditional"
+"83","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12645,12645,0.071,"ns",1,"ns","real_conditional"
+"84","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12645,12645,0.0916,"ns",1,"ns","real_conditional"
+"85","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12645,12645,0.298,"ns",1,"ns","real_conditional"
+"86","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"87","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"88","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"89","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"90","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"91","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+",5959,6019,8.92e-100,"****",5.35e-99,"****","synth"
+"92","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+",5959,652,5.63e-47,"****",2.81e-46,"****","synth"
+"93","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+",6019,652,6.5e-07,"****",2.6e-06,"****","synth"
+"94","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+",5959,15,0.00896,"**",0.0269,"*","synth"
+"95","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+",6019,15,0.271,"ns",0.541,"ns","synth"
+"96","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+",652,15,0.761,"ns",0.761,"ns","synth"
+"97","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+",12508,12508,1.29e-25,"****",4.76e-24,"****","synth_conditional"
+"98","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+",12508,12508,4.53e-27,"****",1.72e-25,"****","synth_conditional"
+"99","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+",12508,12508,0.755,"ns",1,"ns","synth_conditional"
+"100","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+",12508,12508,1.37e-31,"****",5.34e-30,"****","synth_conditional"
+"101","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+",12508,12508,0.218,"ns",1,"ns","synth_conditional"
+"102","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+",12508,12508,0.358,"ns",1,"ns","synth_conditional"
+"103","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+",12508,12508,3.38e-41,"****",1.52e-39,"****","synth_conditional"
+"104","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+",12508,12508,0.00285,"**",0.103,"ns","synth_conditional"
+"105","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+",12508,12508,0.00757,"**",0.227,"ns","synth_conditional"
+"106","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+",12508,12508,0.08,"ns",1,"ns","synth_conditional"
+"107","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+",12508,12508,3.38e-41,"****",1.52e-39,"****","synth_conditional"
+"108","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+",12508,12508,0.00285,"**",0.103,"ns","synth_conditional"
+"109","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+",12508,12508,0.00757,"**",0.227,"ns","synth_conditional"
+"110","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+",12508,12508,0.08,"ns",1,"ns","synth_conditional"
+"111","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"112","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",12508,12508,3.38e-41,"****",1.52e-39,"****","synth_conditional"
+"113","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",12508,12508,0.00285,"**",0.103,"ns","synth_conditional"
+"114","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",12508,12508,0.00757,"**",0.227,"ns","synth_conditional"
+"115","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",12508,12508,0.08,"ns",1,"ns","synth_conditional"
+"116","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"117","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"118","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",12508,12508,3.38e-41,"****",1.52e-39,"****","synth_conditional"
+"119","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",12508,12508,0.00285,"**",0.103,"ns","synth_conditional"
+"120","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",12508,12508,0.00757,"**",0.227,"ns","synth_conditional"
+"121","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",12508,12508,0.08,"ns",1,"ns","synth_conditional"
+"122","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"123","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"124","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"125","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",12508,12508,3.38e-41,"****",1.52e-39,"****","synth_conditional"
+"126","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",12508,12508,0.00285,"**",0.103,"ns","synth_conditional"
+"127","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",12508,12508,0.00757,"**",0.227,"ns","synth_conditional"
+"128","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",12508,12508,0.08,"ns",1,"ns","synth_conditional"
+"129","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"130","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"131","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"132","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"133","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12508,12508,3.38e-41,"****",1.52e-39,"****","synth_conditional"
+"134","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12508,12508,0.00285,"**",0.103,"ns","synth_conditional"
+"135","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12508,12508,0.00757,"**",0.227,"ns","synth_conditional"
+"136","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12508,12508,0.08,"ns",1,"ns","synth_conditional"
+"137","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"138","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"139","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"140","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"141","Ja","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"

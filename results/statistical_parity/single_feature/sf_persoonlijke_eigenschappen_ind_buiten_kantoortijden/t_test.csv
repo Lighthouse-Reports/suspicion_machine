@@ -1,0 +1,21 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+","IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",11114,1531,1.57e-133,"****",1.57e-133,"****","real"
+"2","Ja","IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+","IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"3","Ja","IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+","IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",10699,1946,4.37e-23,"****",4.37e-23,"****","synth"
+"4","Ja","IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+","IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"

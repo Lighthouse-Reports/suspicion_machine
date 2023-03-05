@@ -1,0 +1,706 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+",8534,2029,5.43e-28,"****",1.96e-26,"****","real"
+"2","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+",8534,19,3.48e-09,"****",1.01e-07,"****","real"
+"3","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+",2029,19,2.48e-06,"****",6.44e-05,"****","real"
+"4","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+",8534,5,0.091,"ns",1,"ns","real"
+"5","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+",2029,5,0.279,"ns",1,"ns","real"
+"6","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+",19,5,0.231,"ns",1,"ns","real"
+"7","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+",8534,929,8.75e-28,"****",3.06e-26,"****","real"
+"8","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+",2029,929,0.00703,"**",0.141,"ns","real"
+"9","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+",19,929,2.4e-05,"****",6e-04,"***","real"
+"10","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+",5,929,0.4,"ns",1,"ns","real"
+"11","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+",8534,2,0.0623,"ns",0.997,"ns","real"
+"12","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+",2029,2,0.139,"ns",1,"ns","real"
+"13","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+",19,2,0.958,"ns",1,"ns","real"
+"14","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+",5,2,0.502,"ns",1,"ns","real"
+"15","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+",929,2,0.184,"ns",1,"ns","real"
+"16","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",8534,443,1.91e-26,"****",6.51e-25,"****","real"
+"17","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",2029,443,2.24e-06,"****",6.06e-05,"****","real"
+"18","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",19,443,0.000349,"***",0.00803,"**","real"
+"19","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",5,443,0.599,"ns",1,"ns","real"
+"20","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",929,443,0.0144,"*",0.273,"ns","real"
+"21","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",2,443,0.26,"ns",1,"ns","real"
+"22","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",8534,230,1.86e-24,"****",6.14e-23,"****","real"
+"23","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",2029,230,3.31e-09,"****",9.93e-08,"****","real"
+"24","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",19,230,0.00474,"**",0.0996,"ns","real"
+"25","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",5,230,0.872,"ns",1,"ns","real"
+"26","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",929,230,3.46e-05,"****",0.000831,"***","real"
+"27","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",2,230,0.371,"ns",1,"ns","real"
+"28","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",443,230,0.044,"*",0.748,"ns","real"
+"29","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",8534,140,1.63e-21,"****",5.2e-20,"****","real"
+"30","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",2029,140,5.87e-10,"****",1.82e-08,"****","real"
+"31","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",19,140,0.026,"*",0.467,"ns","real"
+"32","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",5,140,0.9,"ns",1,"ns","real"
+"33","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",929,140,1.63e-06,"****",4.57e-05,"****","real"
+"34","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",2,140,0.478,"ns",1,"ns","real"
+"35","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",443,140,0.00247,"**",0.0544,"ns","real"
+"36","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",230,140,0.226,"ns",1,"ns","real"
+"37","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+",12645,12645,0.228,"ns",1,"ns","real_conditional"
+"38","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+",12645,12645,0.0931,"ns",1,"ns","real_conditional"
+"39","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+",12645,12645,0.636,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+",12645,12645,0.0931,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+",12645,12645,0.636,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+",12645,12645,0.171,"ns",1,"ns","real_conditional"
+"44","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+",12645,12645,0.871,"ns",1,"ns","real_conditional"
+"45","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+",12645,12645,0.756,"ns",1,"ns","real_conditional"
+"46","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+",12645,12645,0.756,"ns",1,"ns","real_conditional"
+"47","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+",12645,12645,0.0931,"ns",1,"ns","real_conditional"
+"48","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+",12645,12645,0.636,"ns",1,"ns","real_conditional"
+"49","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"50","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"51","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+",12645,12645,0.756,"ns",1,"ns","real_conditional"
+"52","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",12645,12645,0.165,"ns",1,"ns","real_conditional"
+"53","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",12645,12645,0.856,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",12645,12645,0.771,"ns",1,"ns","real_conditional"
+"55","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",12645,12645,0.771,"ns",1,"ns","real_conditional"
+"56","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",12645,12645,0.984,"ns",1,"ns","real_conditional"
+"57","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",12645,12645,0.771,"ns",1,"ns","real_conditional"
+"58","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+",12645,12645,0.0931,"ns",1,"ns","real_conditional"
+"59","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+",12645,12645,0.636,"ns",1,"ns","real_conditional"
+"60","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"61","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"62","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+",12645,12645,0.756,"ns",1,"ns","real_conditional"
+"63","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"64","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+",12645,12645,0.771,"ns",1,"ns","real_conditional"
+"65","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",12645,12645,0.0931,"ns",1,"ns","real_conditional"
+"66","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",12645,12645,0.636,"ns",1,"ns","real_conditional"
+"67","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"68","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"69","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",12645,12645,0.756,"ns",1,"ns","real_conditional"
+"70","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"71","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",12645,12645,0.771,"ns",1,"ns","real_conditional"
+"72","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"73","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12645,12645,0.0931,"ns",1,"ns","real_conditional"
+"74","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12645,12645,0.636,"ns",1,"ns","real_conditional"
+"75","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"76","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"77","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12645,12645,0.756,"ns",1,"ns","real_conditional"
+"78","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"79","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12645,12645,0.771,"ns",1,"ns","real_conditional"
+"80","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"81","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"82","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+",2408,4274,2.35e-15,"****",2.11e-14,"****","synth"
+"83","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+",2408,3053,7.49e-34,"****",9.74e-33,"****","synth"
+"84","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+",4274,3053,4.8e-08,"****",2.88e-07,"****","synth"
+"85","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",2408,1734,2.51e-44,"****",3.77e-43,"****","synth"
+"86","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",4274,1734,4.49e-17,"****",4.49e-16,"****","synth"
+"87","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",3053,1734,0.000253,"***",0.00101,"**","synth"
+"88","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",2408,805,3.4e-41,"****",4.75e-40,"****","synth"
+"89","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",4274,805,1.86e-19,"****",2.23e-18,"****","synth"
+"90","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",3053,805,3.96e-08,"****",2.78e-07,"****","synth"
+"91","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",1734,805,0.0116,"*",0.0348,"*","synth"
+"92","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",2408,270,4.99e-19,"****",5.49e-18,"****","synth"
+"93","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",4274,270,3.53e-09,"****",2.82e-08,"****","synth"
+"94","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",3053,270,0.000144,"***",0.000722,"***","synth"
+"95","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",1734,270,0.0448,"*",0.0895,"ns","synth"
+"96","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",805,270,0.737,"ns",0.737,"ns","synth"
+"97","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+",12508,12508,0.136,"ns",1,"ns","synth_conditional"
+"98","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+",12508,12508,0.0709,"ns",1,"ns","synth_conditional"
+"99","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+",12508,12508,0.752,"ns",1,"ns","synth_conditional"
+"100","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+",12508,12508,0.0709,"ns",1,"ns","synth_conditional"
+"101","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+",12508,12508,0.752,"ns",1,"ns","synth_conditional"
+"102","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"103","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+",12508,12508,0.185,"ns",1,"ns","synth_conditional"
+"104","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+",12508,12508,0.869,"ns",1,"ns","synth_conditional"
+"105","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+",12508,12508,0.631,"ns",1,"ns","synth_conditional"
+"106","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+",12508,12508,0.631,"ns",1,"ns","synth_conditional"
+"107","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+",12508,12508,0.0709,"ns",1,"ns","synth_conditional"
+"108","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+",12508,12508,0.752,"ns",1,"ns","synth_conditional"
+"109","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"110","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"111","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+",12508,12508,0.631,"ns",1,"ns","synth_conditional"
+"112","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",12508,12508,0.197,"ns",1,"ns","synth_conditional"
+"113","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",12508,12508,0.842,"ns",1,"ns","synth_conditional"
+"114","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",12508,12508,0.607,"ns",1,"ns","synth_conditional"
+"115","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",12508,12508,0.607,"ns",1,"ns","synth_conditional"
+"116","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",12508,12508,0.972,"ns",1,"ns","synth_conditional"
+"117","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+",12508,12508,0.607,"ns",1,"ns","synth_conditional"
+"118","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+",12508,12508,0.0709,"ns",1,"ns","synth_conditional"
+"119","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+",12508,12508,0.752,"ns",1,"ns","synth_conditional"
+"120","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"121","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"122","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+",12508,12508,0.631,"ns",1,"ns","synth_conditional"
+"123","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"124","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+",12508,12508,0.607,"ns",1,"ns","synth_conditional"
+"125","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",12508,12508,0.0709,"ns",1,"ns","synth_conditional"
+"126","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",12508,12508,0.752,"ns",1,"ns","synth_conditional"
+"127","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"128","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"129","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",12508,12508,0.631,"ns",1,"ns","synth_conditional"
+"130","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"131","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",12508,12508,0.607,"ns",1,"ns","synth_conditional"
+"132","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"133","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 0
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12508,12508,0.0709,"ns",1,"ns","synth_conditional"
+"134","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 1
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12508,12508,0.752,"ns",1,"ns","synth_conditional"
+"135","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 10
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"136","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 15
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"137","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 2
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12508,12508,0.631,"ns",1,"ns","synth_conditional"
+"138","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 20
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"139","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 3
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12508,12508,0.607,"ns",1,"ns","synth_conditional"
+"140","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 30
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"141","Ja","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 4
+","IV: 
+contacten_soort_afgelopenjaar_e_mail__inkomend_: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"

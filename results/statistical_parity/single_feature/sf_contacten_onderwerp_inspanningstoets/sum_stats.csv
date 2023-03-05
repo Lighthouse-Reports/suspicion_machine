@@ -1,0 +1,85 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","Ja",9871,0.462,0.147,0.062303717961706,0.221760713200284,-3.7696282038294,12.1760713200284,"real"
+"2","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","Ja",2048,0.573,0.134,0.20263671875,0.45751953125,10.263671875,35.751953125,"real"
+"3","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","Ja",523,0.619,0.126,0.311663479923518,0.586998087954111,21.1663479923518,48.6998087954111,"real"
+"4","IV: 
+contacten_onderwerp_inspanningstoets: 3
+","Ja",149,0.628,0.13,0.335570469798658,0.610738255033557,23.5570469798658,51.0738255033557,"real"
+"5","IV: 
+contacten_onderwerp_inspanningstoets: 4
+","Ja",36,0.645,0.11,0.333333333333333,0.694444444444444,23.3333333333333,59.4444444444444,"real"
+"6","IV: 
+contacten_onderwerp_inspanningstoets: 5
+","Ja",14,0.705,0.087,0.5,0.928571428571429,40,82.8571428571429,"real"
+"7","IV: 
+contacten_onderwerp_inspanningstoets: 6
+","Ja",2,0.69,0.089,0.5,1,40,90,"real"
+"8","IV: 
+contacten_onderwerp_inspanningstoets: 7
+","Ja",2,0.757,0.05,1,1,90,90,"real"
+"9","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","Ja",12645,0.489,0.153,0.0990114669829972,0.280110715697904,-0.0988533017002774,18.0110715697904,"real_conditional"
+"10","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","Ja",12645,0.492,0.152,0.101700276789245,0.2858837485172,0.170027678924475,18.58837485172,"real_conditional"
+"11","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","Ja",12645,0.493,0.152,0.103361012257809,0.287544483985765,0.336101225780941,18.7544483985765,"real_conditional"
+"12","IV: 
+contacten_onderwerp_inspanningstoets: 3
+","Ja",12645,0.494,0.151,0.10351917754053,0.288888888888889,0.351917754052984,18.8888888888889,"real_conditional"
+"13","IV: 
+contacten_onderwerp_inspanningstoets: 4
+","Ja",12645,0.494,0.151,0.10351917754053,0.288888888888889,0.351917754052984,18.8888888888889,"real_conditional"
+"14","IV: 
+contacten_onderwerp_inspanningstoets: 5
+","Ja",12645,0.494,0.151,0.10351917754053,0.288888888888889,0.351917754052984,18.8888888888889,"real_conditional"
+"15","IV: 
+contacten_onderwerp_inspanningstoets: 6
+","Ja",12645,0.494,0.151,0.10351917754053,0.288888888888889,0.351917754052984,18.8888888888889,"real_conditional"
+"16","IV: 
+contacten_onderwerp_inspanningstoets: 7
+","Ja",12645,0.494,0.151,0.10351917754053,0.288888888888889,0.351917754052984,18.8888888888889,"real_conditional"
+"17","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","Ja",6739,0.597,0.089,0.0747885442944057,0.572340109808577,-2.52114557055943,47.2340109808577,"synth"
+"18","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","Ja",5584,0.627,0.077,0.123746418338109,0.712392550143267,2.37464183381089,61.2392550143267,"synth"
+"19","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","Ja",317,0.657,0.068,0.217665615141956,0.851735015772871,11.7665615141956,75.1735015772871,"synth"
+"20","IV: 
+contacten_onderwerp_inspanningstoets: 3
+","Ja",5,0.651,0.073,0.2,0.8,10,70,"synth"
+"21","IV: 
+contacten_onderwerp_inspanningstoets: 0
+","Ja",12508,0.611,0.085,0.0976175247841382,0.636712503997442,-0.238247521586185,53.6712503997442,"synth_conditional"
+"22","IV: 
+contacten_onderwerp_inspanningstoets: 1
+","Ja",12508,0.613,0.085,0.101375119923249,0.643428205948193,0.137511992324911,54.3428205948193,"synth_conditional"
+"23","IV: 
+contacten_onderwerp_inspanningstoets: 2
+","Ja",12508,0.614,0.084,0.103133994243684,0.647425647585545,0.313399424368403,54.7425647585545,"synth_conditional"
+"24","IV: 
+contacten_onderwerp_inspanningstoets: 3
+","Ja",12508,0.615,0.084,0.103613687240166,0.650783498560921,0.361368724016629,55.0783498560921,"synth_conditional"
+"25","IV: 
+contacten_onderwerp_inspanningstoets: 4
+","Ja",12508,0.615,0.084,0.103613687240166,0.650783498560921,0.361368724016629,55.0783498560921,"synth_conditional"
+"26","IV: 
+contacten_onderwerp_inspanningstoets: 5
+","Ja",12508,0.615,0.084,0.103613687240166,0.650783498560921,0.361368724016629,55.0783498560921,"synth_conditional"
+"27","IV: 
+contacten_onderwerp_inspanningstoets: 6
+","Ja",12508,0.615,0.084,0.103613687240166,0.650783498560921,0.361368724016629,55.0783498560921,"synth_conditional"
+"28","IV: 
+contacten_onderwerp_inspanningstoets: 7
+","Ja",12508,0.615,0.084,0.103613687240166,0.650783498560921,0.361368724016629,55.0783498560921,"synth_conditional"

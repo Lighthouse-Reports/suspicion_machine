@@ -1,0 +1,1090 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",740,16.2887959498129,"real"
+"2",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",115,8.68580060422961,"real"
+"3",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",93,6.187624750499,"real"
+"4",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",53,4.23661071143086,"real"
+"5",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",26,3.06965761511216,"real"
+"6",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",18,2.69865067466267,"real"
+"7",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",616,13.5593220338983,"real"
+"8",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",138,10.4229607250755,"real"
+"9",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",7,3.2258064516129,"real"
+"10",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",136,9.04856952761144,"real"
+"11",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",79,6.31494804156675,"real"
+"12",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",44,5.19480519480519,"real"
+"13",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",25,3.74812593703148,"real"
+"14",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",537,11.8203830068237,"real"
+"15",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",139,10.4984894259819,"real"
+"16",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",10,4.60829493087558,"real"
+"17",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1,1.44927536231884,"real"
+"18",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",155,10.3127079174983,"real"
+"19",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1,4.16666666666667,"real"
+"20",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",99,7.9136690647482,"real"
+"21",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",66,7.79220779220779,"real"
+"22",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",37,5.5472263868066,"real"
+"23",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",473,10.4116222760291,"real"
+"24",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",134,10.1208459214502,"real"
+"25",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",13,5.99078341013825,"real"
+"26",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",6,8.69565217391304,"real"
+"27",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",151,10.0465735196274,"real"
+"28",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",3,12.5,"real"
+"29",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",122,9.75219824140687,"real"
+"30",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",82,9.68122786304605,"real"
+"31",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",61,9.14542728635682,"real"
+"32",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",413,9.09090909090909,"real"
+"33",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",140,10.5740181268882,"real"
+"34",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",17,7.83410138248848,"real"
+"35",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",10,14.4927536231884,"real"
+"36",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",164,10.9115103127079,"real"
+"37",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",4,16.6666666666667,"real"
+"38",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",128,10.2318145483613,"real"
+"39",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",97,11.4521841794569,"real"
+"40",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",72,10.7946026986507,"real"
+"41",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",409,9.00286154523443,"real"
+"42",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",149,11.2537764350453,"real"
+"43",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",18,8.29493087557604,"real"
+"44",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",9,13.0434782608696,"real"
+"45",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",157,10.4457751164338,"real"
+"46",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",2,8.33333333333333,"real"
+"47",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",134,10.7114308553157,"real"
+"48",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",89,10.5076741440378,"real"
+"49",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",78,11.6941529235382,"real"
+"50",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",384,8.45256438476777,"real"
+"51",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",113,8.53474320241692,"real"
+"52",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",35,16.1290322580645,"real"
+"53",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",11,15.9420289855072,"real"
+"54",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",155,10.3127079174983,"real"
+"55",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",4,16.6666666666667,"real"
+"56",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",164,13.1095123900879,"real"
+"57",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",97,11.4521841794569,"real"
+"58",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",81,12.143928035982,"real"
+"59",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",358,7.88025533788246,"real"
+"60",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",132,9.96978851963746,"real"
+"61",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",24,11.0599078341014,"real"
+"62",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",2,2.89855072463768,"real"
+"63",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",173,11.5103127079175,"real"
+"64",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",2,8.33333333333333,"real"
+"65",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",160,12.7897681854516,"real"
+"66",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1,100,"real"
+"67",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",105,12.396694214876,"real"
+"68",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",87,13.0434782608696,"real"
+"69",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",358,7.88025533788246,"real"
+"70",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",148,11.178247734139,"real"
+"71",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",40,18.4331797235023,"real"
+"72",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",13,18.8405797101449,"real"
+"73",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",167,11.1111111111111,"real"
+"74",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",2,8.33333333333333,"real"
+"75",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",128,10.2318145483613,"real"
+"76",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",105,12.396694214876,"real"
+"77",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",83,12.4437781109445,"real"
+"78",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",255,5.61303103675985,"real"
+"79",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",116,8.76132930513595,"real"
+"80",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",53,24.4239631336406,"real"
+"81",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",17,24.6376811594203,"real"
+"82",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",152,10.1131071190951,"real"
+"83",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",6,25,"real"
+"84",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",184,14.7082334132694,"real"
+"85",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",136,16.0566706021251,"real"
+"86",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",125,18.7406296851574,"real"
+"87",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1261,9.97232107552392,"real_conditional"
+"88",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1262,9.98022933965994,"real_conditional"
+"89",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1249,9.87742190589166,"real_conditional"
+"90",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1272,10.0593119810202,"real_conditional"
+"91",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1262,9.98022933965994,"real_conditional"
+"92",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1277,10.0988533017003,"real_conditional"
+"93",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1262,9.98022933965994,"real_conditional"
+"94",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1277,10.0988533017003,"real_conditional"
+"95",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1262,9.98022933965994,"real_conditional"
+"96",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1261,9.97232107552392,"real_conditional"
+"97",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1265,10.003954132068,"real_conditional"
+"98",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1260,9.9644128113879,"real_conditional"
+"99",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1267,10.0197706603401,"real_conditional"
+"100",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1266,10.011862396204,"real_conditional"
+"101",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1260,9.9644128113879,"real_conditional"
+"102",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1274,10.0751285092922,"real_conditional"
+"103",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1260,9.9644128113879,"real_conditional"
+"104",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1274,10.0751285092922,"real_conditional"
+"105",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1260,9.9644128113879,"real_conditional"
+"106",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1259,9.95650454725188,"real_conditional"
+"107",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1265,10.003954132068,"real_conditional"
+"108",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1258,9.94859628311586,"real_conditional"
+"109",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1252,9.90114669829972,"real_conditional"
+"110",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1276,10.0909450375643,"real_conditional"
+"111",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1258,9.94859628311586,"real_conditional"
+"112",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1281,10.1304863582444,"real_conditional"
+"113",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1258,9.94859628311586,"real_conditional"
+"114",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1281,10.1304863582444,"real_conditional"
+"115",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1258,9.94859628311586,"real_conditional"
+"116",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1258,9.94859628311586,"real_conditional"
+"117",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1274,10.0751285092922,"real_conditional"
+"118",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1268,10.0276789244761,"real_conditional"
+"119",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1258,9.94859628311586,"real_conditional"
+"120",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1245,9.84578884934757,"real_conditional"
+"121",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1268,10.0276789244761,"real_conditional"
+"122",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1265,10.003954132068,"real_conditional"
+"123",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1268,10.0276789244761,"real_conditional"
+"124",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1265,10.003954132068,"real_conditional"
+"125",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1268,10.0276789244761,"real_conditional"
+"126",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1266,10.011862396204,"real_conditional"
+"127",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1261,9.97232107552392,"real_conditional"
+"128",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1256,9.93277975484381,"real_conditional"
+"129",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1268,10.0276789244761,"real_conditional"
+"130",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1272,10.0593119810202,"real_conditional"
+"131",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1256,9.93277975484381,"real_conditional"
+"132",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1281,10.1304863582444,"real_conditional"
+"133",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1256,9.93277975484381,"real_conditional"
+"134",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1281,10.1304863582444,"real_conditional"
+"135",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1256,9.93277975484381,"real_conditional"
+"136",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1258,9.94859628311586,"real_conditional"
+"137",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1263,9.98813760379597,"real_conditional"
+"138",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1268,10.0276789244761,"real_conditional"
+"139",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1277,10.0988533017003,"real_conditional"
+"140",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1270,10.0434954527481,"real_conditional"
+"141",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1268,10.0276789244761,"real_conditional"
+"142",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1249,9.87742190589166,"real_conditional"
+"143",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1268,10.0276789244761,"real_conditional"
+"144",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1249,9.87742190589166,"real_conditional"
+"145",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1268,10.0276789244761,"real_conditional"
+"146",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1265,10.003954132068,"real_conditional"
+"147",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1266,10.011862396204,"real_conditional"
+"148",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1261,9.97232107552392,"real_conditional"
+"149",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1261,9.97232107552392,"real_conditional"
+"150",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1268,10.0276789244761,"real_conditional"
+"151",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1261,9.97232107552392,"real_conditional"
+"152",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1273,10.0672202451562,"real_conditional"
+"153",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1261,9.97232107552392,"real_conditional"
+"154",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1273,10.0672202451562,"real_conditional"
+"155",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1261,9.97232107552392,"real_conditional"
+"156",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1260,9.9644128113879,"real_conditional"
+"157",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1260,9.9644128113879,"real_conditional"
+"158",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1261,9.97232107552392,"real_conditional"
+"159",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1270,10.0434954527481,"real_conditional"
+"160",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1262,9.98022933965994,"real_conditional"
+"161",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1261,9.97232107552392,"real_conditional"
+"162",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1273,10.0672202451562,"real_conditional"
+"163",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1261,9.97232107552392,"real_conditional"
+"164",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1273,10.0672202451562,"real_conditional"
+"165",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1261,9.97232107552392,"real_conditional"
+"166",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1263,9.98813760379597,"real_conditional"
+"167",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1257,9.94068801897983,"real_conditional"
+"168",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1272,10.0593119810202,"real_conditional"
+"169",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1277,10.0988533017003,"real_conditional"
+"170",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1259,9.95650454725188,"real_conditional"
+"171",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1272,10.0593119810202,"real_conditional"
+"172",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1246,9.85369711348359,"real_conditional"
+"173",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1272,10.0593119810202,"real_conditional"
+"174",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1246,9.85369711348359,"real_conditional"
+"175",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1271,10.0514037168841,"real_conditional"
+"176",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1273,10.0672202451562,"real_conditional"
+"177",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1273,10.0672202451562,"real_conditional"
+"178",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1279,10.1146698299723,"real_conditional"
+"179",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1266,10.011862396204,"real_conditional"
+"180",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1255,9.92487149070779,"real_conditional"
+"181",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1279,10.1146698299723,"real_conditional"
+"182",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1226,9.69553183076315,"real_conditional"
+"183",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1279,10.1146698299723,"real_conditional"
+"184",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1226,9.69553183076315,"real_conditional"
+"185",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1280,10.1225780941083,"real_conditional"
+"186",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1282,10.1383946223804,"real_conditional"
+"187",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",101,14.5953757225434,"synth"
+"188",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",229,12.9745042492918,"synth"
+"189",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",7,2.71317829457364,"synth"
+"190",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1,5,"synth"
+"191",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",196,10.6521739130435,"synth"
+"192",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",178,10.1540216771249,"synth"
+"193",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",145,8.45974329054842,"synth"
+"194",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",82,6.12397311426438,"synth"
+"195",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",92,13.2947976878613,"synth"
+"196",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",209,11.8413597733711,"synth"
+"197",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",7,2.71317829457364,"synth"
+"198",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",200,10.8695652173913,"synth"
+"199",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",151,8.61380490587564,"synth"
+"200",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",163,9.50991831971995,"synth"
+"201",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",116,8.66318147871546,"synth"
+"202",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",85,12.2832369942197,"synth"
+"203",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",184,10.4249291784703,"synth"
+"204",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",19,7.36434108527132,"synth"
+"205",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",184,10,"synth"
+"206",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",192,10.9526525955505,"synth"
+"207",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",152,8.8681446907818,"synth"
+"208",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",122,9.11127707244212,"synth"
+"209",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",73,10.5491329479769,"synth"
+"210",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",198,11.2181303116147,"synth"
+"211",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",26,10.077519379845,"synth"
+"212",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",4,20,"synth"
+"213",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",191,10.3804347826087,"synth"
+"214",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",164,9.35539075869937,"synth"
+"215",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",163,9.50991831971995,"synth"
+"216",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",119,8.88722927557879,"synth"
+"217",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",68,9.82658959537572,"synth"
+"218",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",192,10.8781869688385,"synth"
+"219",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",21,8.13953488372093,"synth"
+"220",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1,5,"synth"
+"221",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",205,11.1413043478261,"synth"
+"222",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",156,8.89903023388477,"synth"
+"223",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",167,9.74329054842474,"synth"
+"224",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",128,9.55937266616878,"synth"
+"225",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",66,9.53757225433526,"synth"
+"226",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",172,9.74504249291785,"synth"
+"227",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",27,10.4651162790698,"synth"
+"228",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",170,9.23913043478261,"synth"
+"229",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",178,10.1540216771249,"synth"
+"230",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",196,11.4352392065344,"synth"
+"231",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",129,9.63405526512323,"synth"
+"232",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",69,9.97109826589595,"synth"
+"233",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",155,8.78186968838527,"synth"
+"234",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",25,9.68992248062015,"synth"
+"235",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1,5,"synth"
+"236",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",165,8.96739130434783,"synth"
+"237",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",194,11.0667427267541,"synth"
+"238",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",182,10.6184364060677,"synth"
+"239",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",147,10.9783420463032,"synth"
+"240",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",60,8.67052023121387,"synth"
+"241",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",164,9.29178470254958,"synth"
+"242",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",39,15.1162790697674,"synth"
+"243",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",2,10,"synth"
+"244",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",164,8.91304347826087,"synth"
+"245",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",176,10.0399315459213,"synth"
+"246",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",176,10.2683780630105,"synth"
+"247",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",157,11.7251680358476,"synth"
+"248",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",48,6.9364161849711,"synth"
+"249",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",151,8.55524079320113,"synth"
+"250",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",36,13.953488372093,"synth"
+"251",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",4,20,"synth"
+"252",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",169,9.18478260869565,"synth"
+"253",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",186,10.6103822019395,"synth"
+"254",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",196,11.4352392065344,"synth"
+"255",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",148,11.0530246452577,"synth"
+"256",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",30,4.33526011560694,"synth"
+"257",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",111,6.28895184135977,"synth"
+"258",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",51,19.7674418604651,"synth"
+"259",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",7,35,"synth"
+"260",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",196,10.6521739130435,"synth"
+"261",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",178,10.1540216771249,"synth"
+"262",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",174,10.1516919486581,"synth"
+"263",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",191,14.2643764002987,"synth"
+"264",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1244,9.94563479373201,"synth_conditional"
+"265",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1231,9.84170131116086,"synth_conditional"
+"266",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1214,9.70578829549089,"synth_conditional"
+"267",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1217,9.729772945315,"synth_conditional"
+"268",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1231,9.84170131116086,"synth_conditional"
+"269",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1340,10.7131435881036,"synth_conditional"
+"270",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1231,9.84170131116086,"synth_conditional"
+"271",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1340,10.7131435881036,"synth_conditional"
+"272",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1231,9.84170131116086,"synth_conditional"
+"273",1,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1229,9.82571154461145,"synth_conditional"
+"274",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1261,10.081547809402,"synth_conditional"
+"275",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1234,9.86568596098497,"synth_conditional"
+"276",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1229,9.82571154461145,"synth_conditional"
+"277",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1229,9.82571154461145,"synth_conditional"
+"278",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1234,9.86568596098497,"synth_conditional"
+"279",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1309,10.4653022065878,"synth_conditional"
+"280",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1234,9.86568596098497,"synth_conditional"
+"281",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1309,10.4653022065878,"synth_conditional"
+"282",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1234,9.86568596098497,"synth_conditional"
+"283",2,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1235,9.87368084425967,"synth_conditional"
+"284",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1248,9.97761432683083,"synth_conditional"
+"285",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1248,9.97761432683083,"synth_conditional"
+"286",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1225,9.79373201151263,"synth_conditional"
+"287",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1226,9.80172689478734,"synth_conditional"
+"288",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1248,9.97761432683083,"synth_conditional"
+"289",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1287,10.2894147745443,"synth_conditional"
+"290",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1248,9.97761432683083,"synth_conditional"
+"291",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1287,10.2894147745443,"synth_conditional"
+"292",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1248,9.97761432683083,"synth_conditional"
+"293",3,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1243,9.93763991045731,"synth_conditional"
+"294",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1245,9.95362967700671,"synth_conditional"
+"295",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1232,9.84969619443556,"synth_conditional"
+"296",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1267,10.1295171090502,"synth_conditional"
+"297",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1268,10.1375119923249,"synth_conditional"
+"298",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1232,9.84969619443556,"synth_conditional"
+"299",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1282,10.2494403581708,"synth_conditional"
+"300",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1232,9.84969619443556,"synth_conditional"
+"301",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1282,10.2494403581708,"synth_conditional"
+"302",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1232,9.84969619443556,"synth_conditional"
+"303",4,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1236,9.88167572753438,"synth_conditional"
+"304",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1258,10.0575631595779,"synth_conditional"
+"305",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1244,9.94563479373201,"synth_conditional"
+"306",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1243,9.93763991045731,"synth_conditional"
+"307",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1248,9.97761432683083,"synth_conditional"
+"308",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1244,9.94563479373201,"synth_conditional"
+"309",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1271,10.161496642149,"synth_conditional"
+"310",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1244,9.94563479373201,"synth_conditional"
+"311",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1271,10.161496642149,"synth_conditional"
+"312",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1244,9.94563479373201,"synth_conditional"
+"313",5,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1241,9.9216501439079,"synth_conditional"
+"314",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1251,10.0015989766549,"synth_conditional"
+"315",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1245,9.95362967700671,"synth_conditional"
+"316",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1245,9.95362967700671,"synth_conditional"
+"317",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1240,9.9136552606332,"synth_conditional"
+"318",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1245,9.95362967700671,"synth_conditional"
+"319",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1273,10.1774864086984,"synth_conditional"
+"320",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1245,9.95362967700671,"synth_conditional"
+"321",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1273,10.1774864086984,"synth_conditional"
+"322",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1245,9.95362967700671,"synth_conditional"
+"323",6,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1246,9.96162456028142,"synth_conditional"
+"324",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1238,9.89766549408379,"synth_conditional"
+"325",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1249,9.98560921010553,"synth_conditional"
+"326",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1248,9.97761432683083,"synth_conditional"
+"327",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1253,10.0175887432043,"synth_conditional"
+"328",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1249,9.98560921010553,"synth_conditional"
+"329",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1264,10.1055324592261,"synth_conditional"
+"330",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1249,9.98560921010553,"synth_conditional"
+"331",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1264,10.1055324592261,"synth_conditional"
+"332",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1249,9.98560921010553,"synth_conditional"
+"333",7,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1245,9.95362967700671,"synth_conditional"
+"334",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1251,10.0015989766549,"synth_conditional"
+"335",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1262,10.0895426926767,"synth_conditional"
+"336",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1269,10.1455068755996,"synth_conditional"
+"337",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1264,10.1055324592261,"synth_conditional"
+"338",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1262,10.0895426926767,"synth_conditional"
+"339",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1207,9.64982411256796,"synth_conditional"
+"340",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1261,10.081547809402,"synth_conditional"
+"341",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1207,9.64982411256796,"synth_conditional"
+"342",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1261,10.081547809402,"synth_conditional"
+"343",8,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1264,10.1055324592261,"synth_conditional"
+"344",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1264,10.1055324592261,"synth_conditional"
+"345",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1271,10.161496642149,"synth_conditional"
+"346",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1281,10.2414454748961,"synth_conditional"
+"347",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1279,10.2254557083467,"synth_conditional"
+"348",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1271,10.161496642149,"synth_conditional"
+"349",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1163,9.29804924848097,"synth_conditional"
+"350",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1272,10.1694915254237,"synth_conditional"
+"351",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1163,9.29804924848097,"synth_conditional"
+"352",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1272,10.1694915254237,"synth_conditional"
+"353",9,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1272,10.1694915254237,"synth_conditional"
+"354",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 0
+",1248,9.97761432683083,"synth_conditional"
+"355",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 1
+",1292,10.3293891909178,"synth_conditional"
+"356",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 10
+",1287,10.2894147745443,"synth_conditional"
+"357",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 15
+",1284,10.2654301247202,"synth_conditional"
+"358",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 2
+",1292,10.3293891909178,"synth_conditional"
+"359",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 20
+",1112,8.89031020147106,"synth_conditional"
+"360",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 3
+",1292,10.3293891909178,"synth_conditional"
+"361",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 30
+",1112,8.89031020147106,"synth_conditional"
+"362",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 4
+",1292,10.3293891909178,"synth_conditional"
+"363",10,"IV: 
+deelname_act_reintegratieladder_werk_re_integratie: 5
+",1297,10.3693636072913,"synth_conditional"

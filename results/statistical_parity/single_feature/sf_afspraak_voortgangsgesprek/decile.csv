@@ -1,0 +1,829 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+afspraak_voortgangsgesprek: 0
+",925,9.86140724946695,"real"
+"2",1,"IV: 
+afspraak_voortgangsgesprek: 1
+",257,11.6131947582467,"real"
+"3",1,"IV: 
+afspraak_voortgangsgesprek: 2
+",57,9.12,"real"
+"4",1,"IV: 
+afspraak_voortgangsgesprek: 3
+",12,6.52173913043478,"real"
+"5",1,"IV: 
+afspraak_voortgangsgesprek: 4
+",3,3.33333333333333,"real"
+"6",1,"IV: 
+afspraak_voortgangsgesprek: 5
+",1,2.17391304347826,"real"
+"7",2,"IV: 
+afspraak_voortgangsgesprek: 0
+",920,9.80810234541578,"real"
+"8",2,"IV: 
+afspraak_voortgangsgesprek: 1
+",249,11.2516945323091,"real"
+"9",2,"IV: 
+afspraak_voortgangsgesprek: 2
+",57,9.12,"real"
+"10",2,"IV: 
+afspraak_voortgangsgesprek: 3
+",16,8.69565217391304,"real"
+"11",2,"IV: 
+afspraak_voortgangsgesprek: 4
+",6,6.66666666666667,"real"
+"12",2,"IV: 
+afspraak_voortgangsgesprek: 5
+",7,15.2173913043478,"real"
+"13",3,"IV: 
+afspraak_voortgangsgesprek: 0
+",938,10,"real"
+"14",3,"IV: 
+afspraak_voortgangsgesprek: 1
+",218,9.85088115680072,"real"
+"15",3,"IV: 
+afspraak_voortgangsgesprek: 2
+",70,11.2,"real"
+"16",3,"IV: 
+afspraak_voortgangsgesprek: 3
+",19,10.3260869565217,"real"
+"17",3,"IV: 
+afspraak_voortgangsgesprek: 4
+",6,6.66666666666667,"real"
+"18",3,"IV: 
+afspraak_voortgangsgesprek: 5
+",4,8.69565217391304,"real"
+"19",4,"IV: 
+afspraak_voortgangsgesprek: 0
+",929,9.90405117270789,"real"
+"20",4,"IV: 
+afspraak_voortgangsgesprek: 1
+",228,10.3027564392228,"real"
+"21",4,"IV: 
+afspraak_voortgangsgesprek: 2
+",65,10.4,"real"
+"22",4,"IV: 
+afspraak_voortgangsgesprek: 3
+",14,7.60869565217391,"real"
+"23",4,"IV: 
+afspraak_voortgangsgesprek: 4
+",16,17.7777777777778,"real"
+"24",4,"IV: 
+afspraak_voortgangsgesprek: 5
+",3,6.52173913043478,"real"
+"25",5,"IV: 
+afspraak_voortgangsgesprek: 0
+",951,10.138592750533,"real"
+"26",5,"IV: 
+afspraak_voortgangsgesprek: 1
+",217,9.80569362855852,"real"
+"27",5,"IV: 
+afspraak_voortgangsgesprek: 10
+",1,14.2857142857143,"real"
+"28",5,"IV: 
+afspraak_voortgangsgesprek: 2
+",63,10.08,"real"
+"29",5,"IV: 
+afspraak_voortgangsgesprek: 3
+",11,5.97826086956522,"real"
+"30",5,"IV: 
+afspraak_voortgangsgesprek: 4
+",8,8.88888888888889,"real"
+"31",5,"IV: 
+afspraak_voortgangsgesprek: 5
+",4,8.69565217391304,"real"
+"32",6,"IV: 
+afspraak_voortgangsgesprek: 0
+",921,9.81876332622601,"real"
+"33",6,"IV: 
+afspraak_voortgangsgesprek: 1
+",240,10.8450067781292,"real"
+"34",6,"IV: 
+afspraak_voortgangsgesprek: 10
+",3,42.8571428571429,"real"
+"35",6,"IV: 
+afspraak_voortgangsgesprek: 2
+",51,8.16,"real"
+"36",6,"IV: 
+afspraak_voortgangsgesprek: 3
+",32,17.3913043478261,"real"
+"37",6,"IV: 
+afspraak_voortgangsgesprek: 4
+",5,5.55555555555556,"real"
+"38",6,"IV: 
+afspraak_voortgangsgesprek: 5
+",2,4.34782608695652,"real"
+"39",7,"IV: 
+afspraak_voortgangsgesprek: 0
+",938,10,"real"
+"40",7,"IV: 
+afspraak_voortgangsgesprek: 1
+",203,9.17306823316765,"real"
+"41",7,"IV: 
+afspraak_voortgangsgesprek: 10
+",1,14.2857142857143,"real"
+"42",7,"IV: 
+afspraak_voortgangsgesprek: 2
+",77,12.32,"real"
+"43",7,"IV: 
+afspraak_voortgangsgesprek: 3
+",20,10.8695652173913,"real"
+"44",7,"IV: 
+afspraak_voortgangsgesprek: 4
+",9,10,"real"
+"45",7,"IV: 
+afspraak_voortgangsgesprek: 5
+",6,13.0434782608696,"real"
+"46",8,"IV: 
+afspraak_voortgangsgesprek: 0
+",956,10.1918976545842,"real"
+"47",8,"IV: 
+afspraak_voortgangsgesprek: 1
+",196,8.85675553547221,"real"
+"48",8,"IV: 
+afspraak_voortgangsgesprek: 2
+",63,10.08,"real"
+"49",8,"IV: 
+afspraak_voortgangsgesprek: 3
+",21,11.4130434782609,"real"
+"50",8,"IV: 
+afspraak_voortgangsgesprek: 4
+",14,15.5555555555556,"real"
+"51",8,"IV: 
+afspraak_voortgangsgesprek: 5
+",4,8.69565217391304,"real"
+"52",9,"IV: 
+afspraak_voortgangsgesprek: 0
+",925,9.86140724946695,"real"
+"53",9,"IV: 
+afspraak_voortgangsgesprek: 1
+",230,10.3931314957072,"real"
+"54",9,"IV: 
+afspraak_voortgangsgesprek: 2
+",60,9.6,"real"
+"55",9,"IV: 
+afspraak_voortgangsgesprek: 3
+",19,10.3260869565217,"real"
+"56",9,"IV: 
+afspraak_voortgangsgesprek: 4
+",11,12.2222222222222,"real"
+"57",9,"IV: 
+afspraak_voortgangsgesprek: 5
+",9,19.5652173913043,"real"
+"58",10,"IV: 
+afspraak_voortgangsgesprek: 0
+",977,10.4157782515991,"real"
+"59",10,"IV: 
+afspraak_voortgangsgesprek: 1
+",175,7.9078174423859,"real"
+"60",10,"IV: 
+afspraak_voortgangsgesprek: 10
+",2,28.5714285714286,"real"
+"61",10,"IV: 
+afspraak_voortgangsgesprek: 2
+",62,9.92,"real"
+"62",10,"IV: 
+afspraak_voortgangsgesprek: 3
+",20,10.8695652173913,"real"
+"63",10,"IV: 
+afspraak_voortgangsgesprek: 4
+",12,13.3333333333333,"real"
+"64",10,"IV: 
+afspraak_voortgangsgesprek: 5
+",6,13.0434782608696,"real"
+"65",1,"IV: 
+afspraak_voortgangsgesprek: 0
+",1236,9.77461447212337,"real_conditional"
+"66",1,"IV: 
+afspraak_voortgangsgesprek: 1
+",1231,9.73507315144326,"real_conditional"
+"67",1,"IV: 
+afspraak_voortgangsgesprek: 10
+",1338,10.5812574139976,"real_conditional"
+"68",1,"IV: 
+afspraak_voortgangsgesprek: 15
+",1338,10.5812574139976,"real_conditional"
+"69",1,"IV: 
+afspraak_voortgangsgesprek: 2
+",1231,9.73507315144326,"real_conditional"
+"70",1,"IV: 
+afspraak_voortgangsgesprek: 3
+",1231,9.73507315144326,"real_conditional"
+"71",1,"IV: 
+afspraak_voortgangsgesprek: 4
+",1231,9.73507315144326,"real_conditional"
+"72",1,"IV: 
+afspraak_voortgangsgesprek: 5
+",1280,10.1225780941083,"real_conditional"
+"73",2,"IV: 
+afspraak_voortgangsgesprek: 0
+",1249,9.87742190589166,"real_conditional"
+"74",2,"IV: 
+afspraak_voortgangsgesprek: 1
+",1253,9.90905496243574,"real_conditional"
+"75",2,"IV: 
+afspraak_voortgangsgesprek: 10
+",1291,10.2095689996046,"real_conditional"
+"76",2,"IV: 
+afspraak_voortgangsgesprek: 15
+",1291,10.2095689996046,"real_conditional"
+"77",2,"IV: 
+afspraak_voortgangsgesprek: 2
+",1252,9.90114669829972,"real_conditional"
+"78",2,"IV: 
+afspraak_voortgangsgesprek: 3
+",1252,9.90114669829972,"real_conditional"
+"79",2,"IV: 
+afspraak_voortgangsgesprek: 4
+",1252,9.90114669829972,"real_conditional"
+"80",2,"IV: 
+afspraak_voortgangsgesprek: 5
+",1276,10.0909450375643,"real_conditional"
+"81",3,"IV: 
+afspraak_voortgangsgesprek: 0
+",1261,9.97232107552392,"real_conditional"
+"82",3,"IV: 
+afspraak_voortgangsgesprek: 1
+",1254,9.91696322657177,"real_conditional"
+"83",3,"IV: 
+afspraak_voortgangsgesprek: 10
+",1286,10.1700276789245,"real_conditional"
+"84",3,"IV: 
+afspraak_voortgangsgesprek: 15
+",1286,10.1700276789245,"real_conditional"
+"85",3,"IV: 
+afspraak_voortgangsgesprek: 2
+",1255,9.92487149070779,"real_conditional"
+"86",3,"IV: 
+afspraak_voortgangsgesprek: 3
+",1255,9.92487149070779,"real_conditional"
+"87",3,"IV: 
+afspraak_voortgangsgesprek: 4
+",1255,9.92487149070779,"real_conditional"
+"88",3,"IV: 
+afspraak_voortgangsgesprek: 5
+",1264,9.99604586793199,"real_conditional"
+"89",4,"IV: 
+afspraak_voortgangsgesprek: 0
+",1260,9.9644128113879,"real_conditional"
+"90",4,"IV: 
+afspraak_voortgangsgesprek: 1
+",1265,10.003954132068,"real_conditional"
+"91",4,"IV: 
+afspraak_voortgangsgesprek: 10
+",1269,10.0355871886121,"real_conditional"
+"92",4,"IV: 
+afspraak_voortgangsgesprek: 15
+",1269,10.0355871886121,"real_conditional"
+"93",4,"IV: 
+afspraak_voortgangsgesprek: 2
+",1265,10.003954132068,"real_conditional"
+"94",4,"IV: 
+afspraak_voortgangsgesprek: 3
+",1265,10.003954132068,"real_conditional"
+"95",4,"IV: 
+afspraak_voortgangsgesprek: 4
+",1265,10.003954132068,"real_conditional"
+"96",4,"IV: 
+afspraak_voortgangsgesprek: 5
+",1258,9.94859628311586,"real_conditional"
+"97",5,"IV: 
+afspraak_voortgangsgesprek: 0
+",1261,9.97232107552392,"real_conditional"
+"98",5,"IV: 
+afspraak_voortgangsgesprek: 1
+",1252,9.90114669829972,"real_conditional"
+"99",5,"IV: 
+afspraak_voortgangsgesprek: 10
+",1290,10.2016607354686,"real_conditional"
+"100",5,"IV: 
+afspraak_voortgangsgesprek: 15
+",1290,10.2016607354686,"real_conditional"
+"101",5,"IV: 
+afspraak_voortgangsgesprek: 2
+",1252,9.90114669829972,"real_conditional"
+"102",5,"IV: 
+afspraak_voortgangsgesprek: 3
+",1251,9.8932384341637,"real_conditional"
+"103",5,"IV: 
+afspraak_voortgangsgesprek: 4
+",1251,9.8932384341637,"real_conditional"
+"104",5,"IV: 
+afspraak_voortgangsgesprek: 5
+",1269,10.0355871886121,"real_conditional"
+"105",6,"IV: 
+afspraak_voortgangsgesprek: 0
+",1281,10.1304863582444,"real_conditional"
+"106",6,"IV: 
+afspraak_voortgangsgesprek: 1
+",1284,10.1542111506524,"real_conditional"
+"107",6,"IV: 
+afspraak_voortgangsgesprek: 10
+",1221,9.65599051008304,"real_conditional"
+"108",6,"IV: 
+afspraak_voortgangsgesprek: 15
+",1221,9.65599051008304,"real_conditional"
+"109",6,"IV: 
+afspraak_voortgangsgesprek: 2
+",1283,10.1463028865164,"real_conditional"
+"110",6,"IV: 
+afspraak_voortgangsgesprek: 3
+",1284,10.1542111506524,"real_conditional"
+"111",6,"IV: 
+afspraak_voortgangsgesprek: 4
+",1284,10.1542111506524,"real_conditional"
+"112",6,"IV: 
+afspraak_voortgangsgesprek: 5
+",1258,9.94859628311586,"real_conditional"
+"113",7,"IV: 
+afspraak_voortgangsgesprek: 0
+",1253,9.90905496243574,"real_conditional"
+"114",7,"IV: 
+afspraak_voortgangsgesprek: 1
+",1257,9.94068801897983,"real_conditional"
+"115",7,"IV: 
+afspraak_voortgangsgesprek: 10
+",1288,10.1858442071965,"real_conditional"
+"116",7,"IV: 
+afspraak_voortgangsgesprek: 15
+",1288,10.1858442071965,"real_conditional"
+"117",7,"IV: 
+afspraak_voortgangsgesprek: 2
+",1258,9.94859628311586,"real_conditional"
+"118",7,"IV: 
+afspraak_voortgangsgesprek: 3
+",1258,9.94859628311586,"real_conditional"
+"119",7,"IV: 
+afspraak_voortgangsgesprek: 4
+",1258,9.94859628311586,"real_conditional"
+"120",7,"IV: 
+afspraak_voortgangsgesprek: 5
+",1256,9.93277975484381,"real_conditional"
+"121",8,"IV: 
+afspraak_voortgangsgesprek: 0
+",1276,10.0909450375643,"real_conditional"
+"122",8,"IV: 
+afspraak_voortgangsgesprek: 1
+",1270,10.0434954527481,"real_conditional"
+"123",8,"IV: 
+afspraak_voortgangsgesprek: 10
+",1244,9.83788058521155,"real_conditional"
+"124",8,"IV: 
+afspraak_voortgangsgesprek: 15
+",1244,9.83788058521155,"real_conditional"
+"125",8,"IV: 
+afspraak_voortgangsgesprek: 2
+",1270,10.0434954527481,"real_conditional"
+"126",8,"IV: 
+afspraak_voortgangsgesprek: 3
+",1269,10.0355871886121,"real_conditional"
+"127",8,"IV: 
+afspraak_voortgangsgesprek: 4
+",1269,10.0355871886121,"real_conditional"
+"128",8,"IV: 
+afspraak_voortgangsgesprek: 5
+",1274,10.0751285092922,"real_conditional"
+"129",9,"IV: 
+afspraak_voortgangsgesprek: 0
+",1280,10.1225780941083,"real_conditional"
+"130",9,"IV: 
+afspraak_voortgangsgesprek: 1
+",1287,10.1779359430605,"real_conditional"
+"131",9,"IV: 
+afspraak_voortgangsgesprek: 10
+",1214,9.60063266113088,"real_conditional"
+"132",9,"IV: 
+afspraak_voortgangsgesprek: 15
+",1214,9.60063266113088,"real_conditional"
+"133",9,"IV: 
+afspraak_voortgangsgesprek: 2
+",1287,10.1779359430605,"real_conditional"
+"134",9,"IV: 
+afspraak_voortgangsgesprek: 3
+",1288,10.1858442071965,"real_conditional"
+"135",9,"IV: 
+afspraak_voortgangsgesprek: 4
+",1288,10.1858442071965,"real_conditional"
+"136",9,"IV: 
+afspraak_voortgangsgesprek: 5
+",1258,9.94859628311586,"real_conditional"
+"137",10,"IV: 
+afspraak_voortgangsgesprek: 0
+",1288,10.1858442071965,"real_conditional"
+"138",10,"IV: 
+afspraak_voortgangsgesprek: 1
+",1292,10.2174772637406,"real_conditional"
+"139",10,"IV: 
+afspraak_voortgangsgesprek: 10
+",1204,9.52155001977066,"real_conditional"
+"140",10,"IV: 
+afspraak_voortgangsgesprek: 15
+",1204,9.52155001977066,"real_conditional"
+"141",10,"IV: 
+afspraak_voortgangsgesprek: 2
+",1292,10.2174772637406,"real_conditional"
+"142",10,"IV: 
+afspraak_voortgangsgesprek: 3
+",1292,10.2174772637406,"real_conditional"
+"143",10,"IV: 
+afspraak_voortgangsgesprek: 4
+",1292,10.2174772637406,"real_conditional"
+"144",10,"IV: 
+afspraak_voortgangsgesprek: 5
+",1252,9.90114669829972,"real_conditional"
+"145",1,"IV: 
+afspraak_voortgangsgesprek: 0
+",384,10.6400665004156,"synth"
+"146",1,"IV: 
+afspraak_voortgangsgesprek: 1
+",601,9.82989859339222,"synth"
+"147",1,"IV: 
+afspraak_voortgangsgesprek: 2
+",237,9.75710168793742,"synth"
+"148",1,"IV: 
+afspraak_voortgangsgesprek: 3
+",41,8.97155361050328,"synth"
+"149",1,"IV: 
+afspraak_voortgangsgesprek: 4
+",2,6.25,"synth"
+"150",2,"IV: 
+afspraak_voortgangsgesprek: 0
+",390,10.8063175394846,"synth"
+"151",2,"IV: 
+afspraak_voortgangsgesprek: 1
+",596,9.74811907098463,"synth"
+"152",2,"IV: 
+afspraak_voortgangsgesprek: 2
+",221,9.09839440098806,"synth"
+"153",2,"IV: 
+afspraak_voortgangsgesprek: 3
+",57,12.472647702407,"synth"
+"154",2,"IV: 
+afspraak_voortgangsgesprek: 4
+",1,3.125,"synth"
+"155",3,"IV: 
+afspraak_voortgangsgesprek: 0
+",371,10.2798559157661,"synth"
+"156",3,"IV: 
+afspraak_voortgangsgesprek: 1
+",623,10.1897284919856,"synth"
+"157",3,"IV: 
+afspraak_voortgangsgesprek: 2
+",223,9.18073281185673,"synth"
+"158",3,"IV: 
+afspraak_voortgangsgesprek: 3
+",47,10.2844638949672,"synth"
+"159",3,"IV: 
+afspraak_voortgangsgesprek: 4
+",1,3.125,"synth"
+"160",4,"IV: 
+afspraak_voortgangsgesprek: 0
+",357,9.89193682460515,"synth"
+"161",4,"IV: 
+afspraak_voortgangsgesprek: 1
+",621,10.1570166830226,"synth"
+"162",4,"IV: 
+afspraak_voortgangsgesprek: 2
+",235,9.67476327706875,"synth"
+"163",4,"IV: 
+afspraak_voortgangsgesprek: 3
+",47,10.2844638949672,"synth"
+"164",4,"IV: 
+afspraak_voortgangsgesprek: 4
+",4,12.5,"synth"
+"165",4,"IV: 
+afspraak_voortgangsgesprek: 5
+",1,25,"synth"
+"166",5,"IV: 
+afspraak_voortgangsgesprek: 0
+",358,9.91964533111665,"synth"
+"167",5,"IV: 
+afspraak_voortgangsgesprek: 1
+",611,9.99345763820739,"synth"
+"168",5,"IV: 
+afspraak_voortgangsgesprek: 2
+",244,10.0452861259778,"synth"
+"169",5,"IV: 
+afspraak_voortgangsgesprek: 3
+",46,10.0656455142232,"synth"
+"170",5,"IV: 
+afspraak_voortgangsgesprek: 4
+",6,18.75,"synth"
+"171",6,"IV: 
+afspraak_voortgangsgesprek: 0
+",346,9.58714325297866,"synth"
+"172",6,"IV: 
+afspraak_voortgangsgesprek: 1
+",614,10.0425253516519,"synth"
+"173",6,"IV: 
+afspraak_voortgangsgesprek: 2
+",254,10.4569781803211,"synth"
+"174",6,"IV: 
+afspraak_voortgangsgesprek: 3
+",43,9.40919037199125,"synth"
+"175",6,"IV: 
+afspraak_voortgangsgesprek: 4
+",4,12.5,"synth"
+"176",6,"IV: 
+afspraak_voortgangsgesprek: 5
+",3,75,"synth"
+"177",7,"IV: 
+afspraak_voortgangsgesprek: 0
+",345,9.55943474646716,"synth"
+"178",7,"IV: 
+afspraak_voortgangsgesprek: 1
+",630,10.3042198233562,"synth"
+"179",7,"IV: 
+afspraak_voortgangsgesprek: 2
+",240,9.88060930424043,"synth"
+"180",7,"IV: 
+afspraak_voortgangsgesprek: 3
+",47,10.2844638949672,"synth"
+"181",7,"IV: 
+afspraak_voortgangsgesprek: 4
+",2,6.25,"synth"
+"182",8,"IV: 
+afspraak_voortgangsgesprek: 0
+",353,9.78110279855916,"synth"
+"183",8,"IV: 
+afspraak_voortgangsgesprek: 1
+",596,9.74811907098463,"synth"
+"184",8,"IV: 
+afspraak_voortgangsgesprek: 2
+",264,10.8686702346645,"synth"
+"185",8,"IV: 
+afspraak_voortgangsgesprek: 3
+",44,9.62800875273523,"synth"
+"186",8,"IV: 
+afspraak_voortgangsgesprek: 4
+",7,21.875,"synth"
+"187",9,"IV: 
+afspraak_voortgangsgesprek: 0
+",359,9.94735383762815,"synth"
+"188",9,"IV: 
+afspraak_voortgangsgesprek: 1
+",615,10.0588812561335,"synth"
+"189",9,"IV: 
+afspraak_voortgangsgesprek: 2
+",254,10.4569781803211,"synth"
+"190",9,"IV: 
+afspraak_voortgangsgesprek: 3
+",35,7.65864332603939,"synth"
+"191",9,"IV: 
+afspraak_voortgangsgesprek: 4
+",1,3.125,"synth"
+"192",10,"IV: 
+afspraak_voortgangsgesprek: 0
+",346,9.58714325297866,"synth"
+"193",10,"IV: 
+afspraak_voortgangsgesprek: 1
+",607,9.92803402028132,"synth"
+"194",10,"IV: 
+afspraak_voortgangsgesprek: 2
+",257,10.5804857966241,"synth"
+"195",10,"IV: 
+afspraak_voortgangsgesprek: 3
+",50,10.9409190371991,"synth"
+"196",10,"IV: 
+afspraak_voortgangsgesprek: 4
+",4,12.5,"synth"
+"197",1,"IV: 
+afspraak_voortgangsgesprek: 0
+",1232,9.84969619443556,"synth_conditional"
+"198",1,"IV: 
+afspraak_voortgangsgesprek: 1
+",1227,9.80972177806204,"synth_conditional"
+"199",1,"IV: 
+afspraak_voortgangsgesprek: 10
+",1310,10.4732970898625,"synth_conditional"
+"200",1,"IV: 
+afspraak_voortgangsgesprek: 15
+",1310,10.4732970898625,"synth_conditional"
+"201",1,"IV: 
+afspraak_voortgangsgesprek: 2
+",1227,9.80972177806204,"synth_conditional"
+"202",1,"IV: 
+afspraak_voortgangsgesprek: 3
+",1226,9.80172689478734,"synth_conditional"
+"203",1,"IV: 
+afspraak_voortgangsgesprek: 4
+",1226,9.80172689478734,"synth_conditional"
+"204",1,"IV: 
+afspraak_voortgangsgesprek: 5
+",1249,9.98560921010553,"synth_conditional"
+"205",2,"IV: 
+afspraak_voortgangsgesprek: 0
+",1237,9.88967061080908,"synth_conditional"
+"206",2,"IV: 
+afspraak_voortgangsgesprek: 1
+",1223,9.77774224496322,"synth_conditional"
+"207",2,"IV: 
+afspraak_voortgangsgesprek: 10
+",1310,10.4732970898625,"synth_conditional"
+"208",2,"IV: 
+afspraak_voortgangsgesprek: 15
+",1310,10.4732970898625,"synth_conditional"
+"209",2,"IV: 
+afspraak_voortgangsgesprek: 2
+",1223,9.77774224496322,"synth_conditional"
+"210",2,"IV: 
+afspraak_voortgangsgesprek: 3
+",1224,9.78573712823793,"synth_conditional"
+"211",2,"IV: 
+afspraak_voortgangsgesprek: 4
+",1224,9.78573712823793,"synth_conditional"
+"212",2,"IV: 
+afspraak_voortgangsgesprek: 5
+",1256,10.0415733930285,"synth_conditional"
+"213",3,"IV: 
+afspraak_voortgangsgesprek: 0
+",1248,9.97761432683083,"synth_conditional"
+"214",3,"IV: 
+afspraak_voortgangsgesprek: 1
+",1241,9.9216501439079,"synth_conditional"
+"215",3,"IV: 
+afspraak_voortgangsgesprek: 10
+",1275,10.1934761752478,"synth_conditional"
+"216",3,"IV: 
+afspraak_voortgangsgesprek: 15
+",1275,10.1934761752478,"synth_conditional"
+"217",3,"IV: 
+afspraak_voortgangsgesprek: 2
+",1241,9.9216501439079,"synth_conditional"
+"218",3,"IV: 
+afspraak_voortgangsgesprek: 3
+",1241,9.9216501439079,"synth_conditional"
+"219",3,"IV: 
+afspraak_voortgangsgesprek: 4
+",1241,9.9216501439079,"synth_conditional"
+"220",3,"IV: 
+afspraak_voortgangsgesprek: 5
+",1245,9.95362967700671,"synth_conditional"
+"221",4,"IV: 
+afspraak_voortgangsgesprek: 0
+",1241,9.9216501439079,"synth_conditional"
+"222",4,"IV: 
+afspraak_voortgangsgesprek: 1
+",1244,9.94563479373201,"synth_conditional"
+"223",4,"IV: 
+afspraak_voortgangsgesprek: 10
+",1277,10.2094659417972,"synth_conditional"
+"224",4,"IV: 
+afspraak_voortgangsgesprek: 15
+",1277,10.2094659417972,"synth_conditional"
+"225",4,"IV: 
+afspraak_voortgangsgesprek: 2
+",1244,9.94563479373201,"synth_conditional"
+"226",4,"IV: 
+afspraak_voortgangsgesprek: 3
+",1244,9.94563479373201,"synth_conditional"
+"227",4,"IV: 
+afspraak_voortgangsgesprek: 4
+",1244,9.94563479373201,"synth_conditional"
+"228",4,"IV: 
+afspraak_voortgangsgesprek: 5
+",1236,9.88167572753438,"synth_conditional"
+"229",5,"IV: 
+afspraak_voortgangsgesprek: 0
+",1251,10.0015989766549,"synth_conditional"
+"230",5,"IV: 
+afspraak_voortgangsgesprek: 1
+",1243,9.93763991045731,"synth_conditional"
+"231",5,"IV: 
+afspraak_voortgangsgesprek: 10
+",1259,10.0655580428526,"synth_conditional"
+"232",5,"IV: 
+afspraak_voortgangsgesprek: 15
+",1259,10.0655580428526,"synth_conditional"
+"233",5,"IV: 
+afspraak_voortgangsgesprek: 2
+",1243,9.93763991045731,"synth_conditional"
+"234",5,"IV: 
+afspraak_voortgangsgesprek: 3
+",1243,9.93763991045731,"synth_conditional"
+"235",5,"IV: 
+afspraak_voortgangsgesprek: 4
+",1243,9.93763991045731,"synth_conditional"
+"236",5,"IV: 
+afspraak_voortgangsgesprek: 5
+",1265,10.1135273425008,"synth_conditional"
+"237",6,"IV: 
+afspraak_voortgangsgesprek: 0
+",1256,10.0415733930285,"synth_conditional"
+"238",6,"IV: 
+afspraak_voortgangsgesprek: 1
+",1255,10.0335785097538,"synth_conditional"
+"239",6,"IV: 
+afspraak_voortgangsgesprek: 10
+",1242,9.9296450271826,"synth_conditional"
+"240",6,"IV: 
+afspraak_voortgangsgesprek: 15
+",1242,9.9296450271826,"synth_conditional"
+"241",6,"IV: 
+afspraak_voortgangsgesprek: 2
+",1255,10.0335785097538,"synth_conditional"
+"242",6,"IV: 
+afspraak_voortgangsgesprek: 3
+",1255,10.0335785097538,"synth_conditional"
+"243",6,"IV: 
+afspraak_voortgangsgesprek: 4
+",1255,10.0335785097538,"synth_conditional"
+"244",6,"IV: 
+afspraak_voortgangsgesprek: 5
+",1246,9.96162456028142,"synth_conditional"
+"245",7,"IV: 
+afspraak_voortgangsgesprek: 0
+",1247,9.96961944355612,"synth_conditional"
+"246",7,"IV: 
+afspraak_voortgangsgesprek: 1
+",1258,10.0575631595779,"synth_conditional"
+"247",7,"IV: 
+afspraak_voortgangsgesprek: 10
+",1245,9.95362967700671,"synth_conditional"
+"248",7,"IV: 
+afspraak_voortgangsgesprek: 15
+",1245,9.95362967700671,"synth_conditional"
+"249",7,"IV: 
+afspraak_voortgangsgesprek: 2
+",1257,10.0495682763032,"synth_conditional"
+"250",7,"IV: 
+afspraak_voortgangsgesprek: 3
+",1257,10.0495682763032,"synth_conditional"
+"251",7,"IV: 
+afspraak_voortgangsgesprek: 4
+",1257,10.0495682763032,"synth_conditional"
+"252",7,"IV: 
+afspraak_voortgangsgesprek: 5
+",1240,9.9136552606332,"synth_conditional"
+"253",8,"IV: 
+afspraak_voortgangsgesprek: 0
+",1256,10.0415733930285,"synth_conditional"
+"254",8,"IV: 
+afspraak_voortgangsgesprek: 1
+",1257,10.0495682763032,"synth_conditional"
+"255",8,"IV: 
+afspraak_voortgangsgesprek: 10
+",1227,9.80972177806204,"synth_conditional"
+"256",8,"IV: 
+afspraak_voortgangsgesprek: 15
+",1227,9.80972177806204,"synth_conditional"
+"257",8,"IV: 
+afspraak_voortgangsgesprek: 2
+",1258,10.0575631595779,"synth_conditional"
+"258",8,"IV: 
+afspraak_voortgangsgesprek: 3
+",1257,10.0495682763032,"synth_conditional"
+"259",8,"IV: 
+afspraak_voortgangsgesprek: 4
+",1257,10.0495682763032,"synth_conditional"
+"260",8,"IV: 
+afspraak_voortgangsgesprek: 5
+",1267,10.1295171090502,"synth_conditional"
+"261",9,"IV: 
+afspraak_voortgangsgesprek: 0
+",1262,10.0895426926767,"synth_conditional"
+"262",9,"IV: 
+afspraak_voortgangsgesprek: 1
+",1271,10.161496642149,"synth_conditional"
+"263",9,"IV: 
+afspraak_voortgangsgesprek: 10
+",1205,9.63383434601855,"synth_conditional"
+"264",9,"IV: 
+afspraak_voortgangsgesprek: 15
+",1205,9.63383434601855,"synth_conditional"
+"265",9,"IV: 
+afspraak_voortgangsgesprek: 2
+",1271,10.161496642149,"synth_conditional"
+"266",9,"IV: 
+afspraak_voortgangsgesprek: 3
+",1271,10.161496642149,"synth_conditional"
+"267",9,"IV: 
+afspraak_voortgangsgesprek: 4
+",1271,10.161496642149,"synth_conditional"
+"268",9,"IV: 
+afspraak_voortgangsgesprek: 5
+",1250,9.99360409338024,"synth_conditional"
+"269",10,"IV: 
+afspraak_voortgangsgesprek: 0
+",1278,10.217460825072,"synth_conditional"
+"270",10,"IV: 
+afspraak_voortgangsgesprek: 1
+",1289,10.3054045410937,"synth_conditional"
+"271",10,"IV: 
+afspraak_voortgangsgesprek: 10
+",1158,9.25807483210745,"synth_conditional"
+"272",10,"IV: 
+afspraak_voortgangsgesprek: 15
+",1158,9.25807483210745,"synth_conditional"
+"273",10,"IV: 
+afspraak_voortgangsgesprek: 2
+",1289,10.3054045410937,"synth_conditional"
+"274",10,"IV: 
+afspraak_voortgangsgesprek: 3
+",1290,10.3133994243684,"synth_conditional"
+"275",10,"IV: 
+afspraak_voortgangsgesprek: 4
+",1290,10.3133994243684,"synth_conditional"
+"276",10,"IV: 
+afspraak_voortgangsgesprek: 5
+",1254,10.0255836264791,"synth_conditional"

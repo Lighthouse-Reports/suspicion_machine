@@ -1,0 +1,751 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+afspraak_inspanningsperiode: 0
+",1243,13.110431389094,"real"
+"2",1,"IV: 
+afspraak_inspanningsperiode: 1
+",20,0.869187309865276,"real"
+"3",1,"IV: 
+afspraak_inspanningsperiode: 2
+",2,0.323101777059774,"real"
+"4",2,"IV: 
+afspraak_inspanningsperiode: 0
+",1159,12.2244488977956,"real"
+"5",2,"IV: 
+afspraak_inspanningsperiode: 1
+",95,4.12863972186006,"real"
+"6",2,"IV: 
+afspraak_inspanningsperiode: 2
+",11,1.77705977382876,"real"
+"7",3,"IV: 
+afspraak_inspanningsperiode: 0
+",1087,11.4650353338255,"real"
+"8",3,"IV: 
+afspraak_inspanningsperiode: 1
+",153,6.64928292046936,"real"
+"9",3,"IV: 
+afspraak_inspanningsperiode: 2
+",25,4.03877221324717,"real"
+"10",4,"IV: 
+afspraak_inspanningsperiode: 0
+",986,10.3997468621453,"real"
+"11",4,"IV: 
+afspraak_inspanningsperiode: 1
+",223,9.69143850499783,"real"
+"12",4,"IV: 
+afspraak_inspanningsperiode: 2
+",41,6.62358642972536,"real"
+"13",4,"IV: 
+afspraak_inspanningsperiode: 3
+",8,4.67836257309941,"real"
+"14",4,"IV: 
+afspraak_inspanningsperiode: 4
+",5,9.09090909090909,"real"
+"15",4,"IV: 
+afspraak_inspanningsperiode: 5
+",1,9.09090909090909,"real"
+"16",4,"IV: 
+afspraak_inspanningsperiode: 6
+",1,20,"real"
+"17",5,"IV: 
+afspraak_inspanningsperiode: 0
+",955,10.0727771332138,"real"
+"18",5,"IV: 
+afspraak_inspanningsperiode: 1
+",249,10.8213820078227,"real"
+"19",5,"IV: 
+afspraak_inspanningsperiode: 2
+",49,7.91599353796446,"real"
+"20",5,"IV: 
+afspraak_inspanningsperiode: 3
+",8,4.67836257309941,"real"
+"21",5,"IV: 
+afspraak_inspanningsperiode: 4
+",4,7.27272727272727,"real"
+"22",6,"IV: 
+afspraak_inspanningsperiode: 0
+",950,10.0200400801603,"real"
+"23",6,"IV: 
+afspraak_inspanningsperiode: 1
+",233,10.1260321599305,"real"
+"24",6,"IV: 
+afspraak_inspanningsperiode: 2
+",64,10.3392568659128,"real"
+"25",6,"IV: 
+afspraak_inspanningsperiode: 3
+",15,8.7719298245614,"real"
+"26",6,"IV: 
+afspraak_inspanningsperiode: 4
+",2,3.63636363636364,"real"
+"27",7,"IV: 
+afspraak_inspanningsperiode: 0
+",886,9.34500580107584,"real"
+"28",7,"IV: 
+afspraak_inspanningsperiode: 1
+",256,11.1255975662755,"real"
+"29",7,"IV: 
+afspraak_inspanningsperiode: 2
+",90,14.5395799676898,"real"
+"30",7,"IV: 
+afspraak_inspanningsperiode: 3
+",26,15.2046783625731,"real"
+"31",7,"IV: 
+afspraak_inspanningsperiode: 4
+",5,9.09090909090909,"real"
+"32",7,"IV: 
+afspraak_inspanningsperiode: 5
+",1,9.09090909090909,"real"
+"33",8,"IV: 
+afspraak_inspanningsperiode: 0
+",824,8.69106634321274,"real"
+"34",8,"IV: 
+afspraak_inspanningsperiode: 1
+",322,13.9939156888309,"real"
+"35",8,"IV: 
+afspraak_inspanningsperiode: 2
+",89,14.3780290791599,"real"
+"36",8,"IV: 
+afspraak_inspanningsperiode: 3
+",18,10.5263157894737,"real"
+"37",8,"IV: 
+afspraak_inspanningsperiode: 4
+",8,14.5454545454545,"real"
+"38",8,"IV: 
+afspraak_inspanningsperiode: 5
+",1,9.09090909090909,"real"
+"39",8,"IV: 
+afspraak_inspanningsperiode: 6
+",2,40,"real"
+"40",9,"IV: 
+afspraak_inspanningsperiode: 0
+",789,8.32190697183841,"real"
+"41",9,"IV: 
+afspraak_inspanningsperiode: 1
+",336,14.6023468057366,"real"
+"42",9,"IV: 
+afspraak_inspanningsperiode: 2
+",89,14.3780290791599,"real"
+"43",9,"IV: 
+afspraak_inspanningsperiode: 3
+",27,15.7894736842105,"real"
+"44",9,"IV: 
+afspraak_inspanningsperiode: 4
+",18,32.7272727272727,"real"
+"45",9,"IV: 
+afspraak_inspanningsperiode: 5
+",3,27.2727272727273,"real"
+"46",9,"IV: 
+afspraak_inspanningsperiode: 6
+",1,20,"real"
+"47",9,"IV: 
+afspraak_inspanningsperiode: 7
+",1,50,"real"
+"48",10,"IV: 
+afspraak_inspanningsperiode: 0
+",602,6.34954118763843,"real"
+"49",10,"IV: 
+afspraak_inspanningsperiode: 1
+",414,17.9921773142112,"real"
+"50",10,"IV: 
+afspraak_inspanningsperiode: 2
+",159,25.686591276252,"real"
+"51",10,"IV: 
+afspraak_inspanningsperiode: 3
+",69,40.3508771929825,"real"
+"52",10,"IV: 
+afspraak_inspanningsperiode: 4
+",13,23.6363636363636,"real"
+"53",10,"IV: 
+afspraak_inspanningsperiode: 5
+",5,45.4545454545455,"real"
+"54",10,"IV: 
+afspraak_inspanningsperiode: 6
+",1,20,"real"
+"55",10,"IV: 
+afspraak_inspanningsperiode: 7
+",1,50,"real"
+"56",1,"IV: 
+afspraak_inspanningsperiode: 0
+",1821,14.4009489916963,"real_conditional"
+"57",1,"IV: 
+afspraak_inspanningsperiode: 1
+",1232,9.74298141557928,"real_conditional"
+"58",1,"IV: 
+afspraak_inspanningsperiode: 2
+",1177,9.30802688809806,"real_conditional"
+"59",1,"IV: 
+afspraak_inspanningsperiode: 3
+",1176,9.30011862396204,"real_conditional"
+"60",1,"IV: 
+afspraak_inspanningsperiode: 4
+",1178,9.31593515223408,"real_conditional"
+"61",1,"IV: 
+afspraak_inspanningsperiode: 5
+",1178,9.31593515223408,"real_conditional"
+"62",1,"IV: 
+afspraak_inspanningsperiode: 6
+",1177,9.30802688809806,"real_conditional"
+"63",1,"IV: 
+afspraak_inspanningsperiode: 7
+",1177,9.30802688809806,"real_conditional"
+"64",2,"IV: 
+afspraak_inspanningsperiode: 0
+",1324,10.4705417160933,"real_conditional"
+"65",2,"IV: 
+afspraak_inspanningsperiode: 1
+",1247,9.86160537761961,"real_conditional"
+"66",2,"IV: 
+afspraak_inspanningsperiode: 2
+",1253,9.90905496243574,"real_conditional"
+"67",2,"IV: 
+afspraak_inspanningsperiode: 3
+",1254,9.91696322657177,"real_conditional"
+"68",2,"IV: 
+afspraak_inspanningsperiode: 4
+",1259,9.95650454725188,"real_conditional"
+"69",2,"IV: 
+afspraak_inspanningsperiode: 5
+",1259,9.95650454725188,"real_conditional"
+"70",2,"IV: 
+afspraak_inspanningsperiode: 6
+",1260,9.9644128113879,"real_conditional"
+"71",2,"IV: 
+afspraak_inspanningsperiode: 7
+",1260,9.9644128113879,"real_conditional"
+"72",3,"IV: 
+afspraak_inspanningsperiode: 0
+",1217,9.62435745353895,"real_conditional"
+"73",3,"IV: 
+afspraak_inspanningsperiode: 1
+",1271,10.0514037168841,"real_conditional"
+"74",3,"IV: 
+afspraak_inspanningsperiode: 2
+",1269,10.0355871886121,"real_conditional"
+"75",3,"IV: 
+afspraak_inspanningsperiode: 3
+",1269,10.0355871886121,"real_conditional"
+"76",3,"IV: 
+afspraak_inspanningsperiode: 4
+",1273,10.0672202451562,"real_conditional"
+"77",3,"IV: 
+afspraak_inspanningsperiode: 5
+",1273,10.0672202451562,"real_conditional"
+"78",3,"IV: 
+afspraak_inspanningsperiode: 6
+",1272,10.0593119810202,"real_conditional"
+"79",3,"IV: 
+afspraak_inspanningsperiode: 7
+",1272,10.0593119810202,"real_conditional"
+"80",4,"IV: 
+afspraak_inspanningsperiode: 0
+",1239,9.79833926453144,"real_conditional"
+"81",4,"IV: 
+afspraak_inspanningsperiode: 1
+",1252,9.90114669829972,"real_conditional"
+"82",4,"IV: 
+afspraak_inspanningsperiode: 2
+",1271,10.0514037168841,"real_conditional"
+"83",4,"IV: 
+afspraak_inspanningsperiode: 3
+",1270,10.0434954527481,"real_conditional"
+"84",4,"IV: 
+afspraak_inspanningsperiode: 4
+",1271,10.0514037168841,"real_conditional"
+"85",4,"IV: 
+afspraak_inspanningsperiode: 5
+",1271,10.0514037168841,"real_conditional"
+"86",4,"IV: 
+afspraak_inspanningsperiode: 6
+",1271,10.0514037168841,"real_conditional"
+"87",4,"IV: 
+afspraak_inspanningsperiode: 7
+",1271,10.0514037168841,"real_conditional"
+"88",5,"IV: 
+afspraak_inspanningsperiode: 0
+",1211,9.57690786872281,"real_conditional"
+"89",5,"IV: 
+afspraak_inspanningsperiode: 1
+",1263,9.98813760379597,"real_conditional"
+"90",5,"IV: 
+afspraak_inspanningsperiode: 2
+",1274,10.0751285092922,"real_conditional"
+"91",5,"IV: 
+afspraak_inspanningsperiode: 3
+",1275,10.0830367734282,"real_conditional"
+"92",5,"IV: 
+afspraak_inspanningsperiode: 4
+",1273,10.0672202451562,"real_conditional"
+"93",5,"IV: 
+afspraak_inspanningsperiode: 5
+",1273,10.0672202451562,"real_conditional"
+"94",5,"IV: 
+afspraak_inspanningsperiode: 6
+",1274,10.0751285092922,"real_conditional"
+"95",5,"IV: 
+afspraak_inspanningsperiode: 7
+",1273,10.0672202451562,"real_conditional"
+"96",6,"IV: 
+afspraak_inspanningsperiode: 0
+",1170,9.25266903914591,"real_conditional"
+"97",6,"IV: 
+afspraak_inspanningsperiode: 1
+",1268,10.0276789244761,"real_conditional"
+"98",6,"IV: 
+afspraak_inspanningsperiode: 2
+",1269,10.0355871886121,"real_conditional"
+"99",6,"IV: 
+afspraak_inspanningsperiode: 3
+",1269,10.0355871886121,"real_conditional"
+"100",6,"IV: 
+afspraak_inspanningsperiode: 4
+",1285,10.1621194147885,"real_conditional"
+"101",6,"IV: 
+afspraak_inspanningsperiode: 5
+",1285,10.1621194147885,"real_conditional"
+"102",6,"IV: 
+afspraak_inspanningsperiode: 6
+",1285,10.1621194147885,"real_conditional"
+"103",6,"IV: 
+afspraak_inspanningsperiode: 7
+",1285,10.1621194147885,"real_conditional"
+"104",7,"IV: 
+afspraak_inspanningsperiode: 0
+",1208,9.55318307631475,"real_conditional"
+"105",7,"IV: 
+afspraak_inspanningsperiode: 1
+",1267,10.0197706603401,"real_conditional"
+"106",7,"IV: 
+afspraak_inspanningsperiode: 2
+",1274,10.0751285092922,"real_conditional"
+"107",7,"IV: 
+afspraak_inspanningsperiode: 3
+",1274,10.0751285092922,"real_conditional"
+"108",7,"IV: 
+afspraak_inspanningsperiode: 4
+",1273,10.0672202451562,"real_conditional"
+"109",7,"IV: 
+afspraak_inspanningsperiode: 5
+",1273,10.0672202451562,"real_conditional"
+"110",7,"IV: 
+afspraak_inspanningsperiode: 6
+",1273,10.0672202451562,"real_conditional"
+"111",7,"IV: 
+afspraak_inspanningsperiode: 7
+",1274,10.0751285092922,"real_conditional"
+"112",8,"IV: 
+afspraak_inspanningsperiode: 0
+",1188,9.39501779359431,"real_conditional"
+"113",8,"IV: 
+afspraak_inspanningsperiode: 1
+",1272,10.0593119810202,"real_conditional"
+"114",8,"IV: 
+afspraak_inspanningsperiode: 2
+",1276,10.0909450375643,"real_conditional"
+"115",8,"IV: 
+afspraak_inspanningsperiode: 3
+",1276,10.0909450375643,"real_conditional"
+"116",8,"IV: 
+afspraak_inspanningsperiode: 4
+",1276,10.0909450375643,"real_conditional"
+"117",8,"IV: 
+afspraak_inspanningsperiode: 5
+",1276,10.0909450375643,"real_conditional"
+"118",8,"IV: 
+afspraak_inspanningsperiode: 6
+",1276,10.0909450375643,"real_conditional"
+"119",8,"IV: 
+afspraak_inspanningsperiode: 7
+",1276,10.0909450375643,"real_conditional"
+"120",9,"IV: 
+afspraak_inspanningsperiode: 0
+",1137,8.99169632265718,"real_conditional"
+"121",9,"IV: 
+afspraak_inspanningsperiode: 1
+",1282,10.1383946223804,"real_conditional"
+"122",9,"IV: 
+afspraak_inspanningsperiode: 2
+",1287,10.1779359430605,"real_conditional"
+"123",9,"IV: 
+afspraak_inspanningsperiode: 3
+",1286,10.1700276789245,"real_conditional"
+"124",9,"IV: 
+afspraak_inspanningsperiode: 4
+",1281,10.1304863582444,"real_conditional"
+"125",9,"IV: 
+afspraak_inspanningsperiode: 5
+",1281,10.1304863582444,"real_conditional"
+"126",9,"IV: 
+afspraak_inspanningsperiode: 6
+",1281,10.1304863582444,"real_conditional"
+"127",9,"IV: 
+afspraak_inspanningsperiode: 7
+",1281,10.1304863582444,"real_conditional"
+"128",10,"IV: 
+afspraak_inspanningsperiode: 0
+",1130,8.93633847370502,"real_conditional"
+"129",10,"IV: 
+afspraak_inspanningsperiode: 1
+",1291,10.2095689996046,"real_conditional"
+"130",10,"IV: 
+afspraak_inspanningsperiode: 2
+",1295,10.2412020561487,"real_conditional"
+"131",10,"IV: 
+afspraak_inspanningsperiode: 3
+",1296,10.2491103202847,"real_conditional"
+"132",10,"IV: 
+afspraak_inspanningsperiode: 4
+",1276,10.0909450375643,"real_conditional"
+"133",10,"IV: 
+afspraak_inspanningsperiode: 5
+",1276,10.0909450375643,"real_conditional"
+"134",10,"IV: 
+afspraak_inspanningsperiode: 6
+",1276,10.0909450375643,"real_conditional"
+"135",10,"IV: 
+afspraak_inspanningsperiode: 7
+",1276,10.0909450375643,"real_conditional"
+"136",1,"IV: 
+afspraak_inspanningsperiode: 0
+",829,13.9444911690496,"synth"
+"137",1,"IV: 
+afspraak_inspanningsperiode: 1
+",413,6.82080924855491,"synth"
+"138",1,"IV: 
+afspraak_inspanningsperiode: 2
+",22,3.45911949685535,"synth"
+"139",1,"IV: 
+afspraak_inspanningsperiode: 3
+",1,11.1111111111111,"synth"
+"140",2,"IV: 
+afspraak_inspanningsperiode: 0
+",740,12.4474348191758,"synth"
+"141",2,"IV: 
+afspraak_inspanningsperiode: 1
+",491,8.10900082576383,"synth"
+"142",2,"IV: 
+afspraak_inspanningsperiode: 2
+",34,5.34591194968553,"synth"
+"143",3,"IV: 
+afspraak_inspanningsperiode: 0
+",719,12.094196804037,"synth"
+"144",3,"IV: 
+afspraak_inspanningsperiode: 1
+",496,8.19157720891825,"synth"
+"145",3,"IV: 
+afspraak_inspanningsperiode: 2
+",50,7.86163522012579,"synth"
+"146",4,"IV: 
+afspraak_inspanningsperiode: 0
+",635,10.6812447434819,"synth"
+"147",4,"IV: 
+afspraak_inspanningsperiode: 1
+",569,9.39719240297275,"synth"
+"148",4,"IV: 
+afspraak_inspanningsperiode: 2
+",61,9.59119496855346,"synth"
+"149",5,"IV: 
+afspraak_inspanningsperiode: 0
+",581,9.77291841883936,"synth"
+"150",5,"IV: 
+afspraak_inspanningsperiode: 1
+",622,10.2725020644096,"synth"
+"151",5,"IV: 
+afspraak_inspanningsperiode: 2
+",62,9.74842767295597,"synth"
+"152",6,"IV: 
+afspraak_inspanningsperiode: 0
+",557,9.36921783010933,"synth"
+"153",6,"IV: 
+afspraak_inspanningsperiode: 1
+",650,10.7349298100743,"synth"
+"154",6,"IV: 
+afspraak_inspanningsperiode: 2
+",57,8.9622641509434,"synth"
+"155",7,"IV: 
+afspraak_inspanningsperiode: 0
+",539,9.06644238856182,"synth"
+"156",7,"IV: 
+afspraak_inspanningsperiode: 1
+",656,10.8340214698596,"synth"
+"157",7,"IV: 
+afspraak_inspanningsperiode: 2
+",67,10.5345911949686,"synth"
+"158",7,"IV: 
+afspraak_inspanningsperiode: 3
+",2,22.2222222222222,"synth"
+"159",8,"IV: 
+afspraak_inspanningsperiode: 0
+",524,8.81412952060555,"synth"
+"160",8,"IV: 
+afspraak_inspanningsperiode: 1
+",654,10.8009909165979,"synth"
+"161",8,"IV: 
+afspraak_inspanningsperiode: 2
+",85,13.3647798742138,"synth"
+"162",8,"IV: 
+afspraak_inspanningsperiode: 3
+",1,11.1111111111111,"synth"
+"163",9,"IV: 
+afspraak_inspanningsperiode: 0
+",458,7.70395290159798,"synth"
+"164",9,"IV: 
+afspraak_inspanningsperiode: 1
+",721,11.9075144508671,"synth"
+"165",9,"IV: 
+afspraak_inspanningsperiode: 2
+",84,13.2075471698113,"synth"
+"166",9,"IV: 
+afspraak_inspanningsperiode: 3
+",1,11.1111111111111,"synth"
+"167",10,"IV: 
+afspraak_inspanningsperiode: 0
+",363,6.10597140454163,"synth"
+"168",10,"IV: 
+afspraak_inspanningsperiode: 1
+",783,12.9314616019818,"synth"
+"169",10,"IV: 
+afspraak_inspanningsperiode: 2
+",114,17.9245283018868,"synth"
+"170",10,"IV: 
+afspraak_inspanningsperiode: 3
+",4,44.4444444444444,"synth"
+"171",1,"IV: 
+afspraak_inspanningsperiode: 0
+",1553,12.4160537256156,"synth_conditional"
+"172",1,"IV: 
+afspraak_inspanningsperiode: 1
+",1201,9.60185481291973,"synth_conditional"
+"173",1,"IV: 
+afspraak_inspanningsperiode: 2
+",1199,9.58586504637032,"synth_conditional"
+"174",1,"IV: 
+afspraak_inspanningsperiode: 3
+",1199,9.58586504637032,"synth_conditional"
+"175",1,"IV: 
+afspraak_inspanningsperiode: 4
+",1214,9.70578829549089,"synth_conditional"
+"176",1,"IV: 
+afspraak_inspanningsperiode: 5
+",1214,9.70578829549089,"synth_conditional"
+"177",1,"IV: 
+afspraak_inspanningsperiode: 6
+",1214,9.70578829549089,"synth_conditional"
+"178",1,"IV: 
+afspraak_inspanningsperiode: 7
+",1213,9.69779341221618,"synth_conditional"
+"179",2,"IV: 
+afspraak_inspanningsperiode: 0
+",1402,11.2088263511353,"synth_conditional"
+"180",2,"IV: 
+afspraak_inspanningsperiode: 1
+",1226,9.80172689478734,"synth_conditional"
+"181",2,"IV: 
+afspraak_inspanningsperiode: 2
+",1221,9.76175247841381,"synth_conditional"
+"182",2,"IV: 
+afspraak_inspanningsperiode: 3
+",1221,9.76175247841381,"synth_conditional"
+"183",2,"IV: 
+afspraak_inspanningsperiode: 4
+",1234,9.86568596098497,"synth_conditional"
+"184",2,"IV: 
+afspraak_inspanningsperiode: 5
+",1234,9.86568596098497,"synth_conditional"
+"185",2,"IV: 
+afspraak_inspanningsperiode: 6
+",1234,9.86568596098497,"synth_conditional"
+"186",2,"IV: 
+afspraak_inspanningsperiode: 7
+",1235,9.87368084425967,"synth_conditional"
+"187",3,"IV: 
+afspraak_inspanningsperiode: 0
+",1330,10.6331947553566,"synth_conditional"
+"188",3,"IV: 
+afspraak_inspanningsperiode: 1
+",1205,9.63383434601855,"synth_conditional"
+"189",3,"IV: 
+afspraak_inspanningsperiode: 2
+",1225,9.79373201151263,"synth_conditional"
+"190",3,"IV: 
+afspraak_inspanningsperiode: 3
+",1225,9.79373201151263,"synth_conditional"
+"191",3,"IV: 
+afspraak_inspanningsperiode: 4
+",1256,10.0415733930285,"synth_conditional"
+"192",3,"IV: 
+afspraak_inspanningsperiode: 5
+",1256,10.0415733930285,"synth_conditional"
+"193",3,"IV: 
+afspraak_inspanningsperiode: 6
+",1255,10.0335785097538,"synth_conditional"
+"194",3,"IV: 
+afspraak_inspanningsperiode: 7
+",1255,10.0335785097538,"synth_conditional"
+"195",4,"IV: 
+afspraak_inspanningsperiode: 0
+",1291,10.3213943076431,"synth_conditional"
+"196",4,"IV: 
+afspraak_inspanningsperiode: 1
+",1243,9.93763991045731,"synth_conditional"
+"197",4,"IV: 
+afspraak_inspanningsperiode: 2
+",1233,9.85769107771027,"synth_conditional"
+"198",4,"IV: 
+afspraak_inspanningsperiode: 3
+",1232,9.84969619443556,"synth_conditional"
+"199",4,"IV: 
+afspraak_inspanningsperiode: 4
+",1252,10.0095938599296,"synth_conditional"
+"200",4,"IV: 
+afspraak_inspanningsperiode: 5
+",1252,10.0095938599296,"synth_conditional"
+"201",4,"IV: 
+afspraak_inspanningsperiode: 6
+",1252,10.0095938599296,"synth_conditional"
+"202",4,"IV: 
+afspraak_inspanningsperiode: 7
+",1252,10.0095938599296,"synth_conditional"
+"203",5,"IV: 
+afspraak_inspanningsperiode: 0
+",1291,10.3213943076431,"synth_conditional"
+"204",5,"IV: 
+afspraak_inspanningsperiode: 1
+",1238,9.89766549408379,"synth_conditional"
+"205",5,"IV: 
+afspraak_inspanningsperiode: 2
+",1239,9.90566037735849,"synth_conditional"
+"206",5,"IV: 
+afspraak_inspanningsperiode: 3
+",1240,9.9136552606332,"synth_conditional"
+"207",5,"IV: 
+afspraak_inspanningsperiode: 4
+",1249,9.98560921010553,"synth_conditional"
+"208",5,"IV: 
+afspraak_inspanningsperiode: 5
+",1249,9.98560921010553,"synth_conditional"
+"209",5,"IV: 
+afspraak_inspanningsperiode: 6
+",1250,9.99360409338024,"synth_conditional"
+"210",5,"IV: 
+afspraak_inspanningsperiode: 7
+",1250,9.99360409338024,"synth_conditional"
+"211",6,"IV: 
+afspraak_inspanningsperiode: 0
+",1193,9.5378957467221,"synth_conditional"
+"212",6,"IV: 
+afspraak_inspanningsperiode: 1
+",1242,9.9296450271826,"synth_conditional"
+"213",6,"IV: 
+afspraak_inspanningsperiode: 2
+",1252,10.0095938599296,"synth_conditional"
+"214",6,"IV: 
+afspraak_inspanningsperiode: 3
+",1252,10.0095938599296,"synth_conditional"
+"215",6,"IV: 
+afspraak_inspanningsperiode: 4
+",1267,10.1295171090502,"synth_conditional"
+"216",6,"IV: 
+afspraak_inspanningsperiode: 5
+",1267,10.1295171090502,"synth_conditional"
+"217",6,"IV: 
+afspraak_inspanningsperiode: 6
+",1267,10.1295171090502,"synth_conditional"
+"218",6,"IV: 
+afspraak_inspanningsperiode: 7
+",1266,10.1215222257755,"synth_conditional"
+"219",7,"IV: 
+afspraak_inspanningsperiode: 0
+",1162,9.29005436520627,"synth_conditional"
+"220",7,"IV: 
+afspraak_inspanningsperiode: 1
+",1267,10.1295171090502,"synth_conditional"
+"221",7,"IV: 
+afspraak_inspanningsperiode: 2
+",1267,10.1295171090502,"synth_conditional"
+"222",7,"IV: 
+afspraak_inspanningsperiode: 3
+",1267,10.1295171090502,"synth_conditional"
+"223",7,"IV: 
+afspraak_inspanningsperiode: 4
+",1261,10.081547809402,"synth_conditional"
+"224",7,"IV: 
+afspraak_inspanningsperiode: 5
+",1261,10.081547809402,"synth_conditional"
+"225",7,"IV: 
+afspraak_inspanningsperiode: 6
+",1260,10.0735529261273,"synth_conditional"
+"226",7,"IV: 
+afspraak_inspanningsperiode: 7
+",1261,10.081547809402,"synth_conditional"
+"227",8,"IV: 
+afspraak_inspanningsperiode: 0
+",1156,9.24208506555804,"synth_conditional"
+"228",8,"IV: 
+afspraak_inspanningsperiode: 1
+",1273,10.1774864086984,"synth_conditional"
+"229",8,"IV: 
+afspraak_inspanningsperiode: 2
+",1262,10.0895426926767,"synth_conditional"
+"230",8,"IV: 
+afspraak_inspanningsperiode: 3
+",1261,10.081547809402,"synth_conditional"
+"231",8,"IV: 
+afspraak_inspanningsperiode: 4
+",1263,10.0975375759514,"synth_conditional"
+"232",8,"IV: 
+afspraak_inspanningsperiode: 5
+",1263,10.0975375759514,"synth_conditional"
+"233",8,"IV: 
+afspraak_inspanningsperiode: 6
+",1264,10.1055324592261,"synth_conditional"
+"234",8,"IV: 
+afspraak_inspanningsperiode: 7
+",1264,10.1055324592261,"synth_conditional"
+"235",9,"IV: 
+afspraak_inspanningsperiode: 0
+",1064,8.50655580428526,"synth_conditional"
+"236",9,"IV: 
+afspraak_inspanningsperiode: 1
+",1284,10.2654301247202,"synth_conditional"
+"237",9,"IV: 
+afspraak_inspanningsperiode: 2
+",1295,10.3533738407419,"synth_conditional"
+"238",9,"IV: 
+afspraak_inspanningsperiode: 3
+",1296,10.3613687240166,"synth_conditional"
+"239",9,"IV: 
+afspraak_inspanningsperiode: 4
+",1267,10.1295171090502,"synth_conditional"
+"240",9,"IV: 
+afspraak_inspanningsperiode: 5
+",1267,10.1295171090502,"synth_conditional"
+"241",9,"IV: 
+afspraak_inspanningsperiode: 6
+",1267,10.1295171090502,"synth_conditional"
+"242",9,"IV: 
+afspraak_inspanningsperiode: 7
+",1266,10.1215222257755,"synth_conditional"
+"243",10,"IV: 
+afspraak_inspanningsperiode: 0
+",1066,8.52254557083467,"synth_conditional"
+"244",10,"IV: 
+afspraak_inspanningsperiode: 1
+",1329,10.6251998720819,"synth_conditional"
+"245",10,"IV: 
+afspraak_inspanningsperiode: 2
+",1315,10.513271506236,"synth_conditional"
+"246",10,"IV: 
+afspraak_inspanningsperiode: 3
+",1315,10.513271506236,"synth_conditional"
+"247",10,"IV: 
+afspraak_inspanningsperiode: 4
+",1245,9.95362967700671,"synth_conditional"
+"248",10,"IV: 
+afspraak_inspanningsperiode: 5
+",1245,9.95362967700671,"synth_conditional"
+"249",10,"IV: 
+afspraak_inspanningsperiode: 6
+",1245,9.95362967700671,"synth_conditional"
+"250",10,"IV: 
+afspraak_inspanningsperiode: 7
+",1246,9.96162456028142,"synth_conditional"

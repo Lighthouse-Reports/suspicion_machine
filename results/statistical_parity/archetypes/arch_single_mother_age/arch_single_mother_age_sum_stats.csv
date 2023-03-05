@@ -1,0 +1,19 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+persoon_leeftijd_bij_onderzoek: 28
+","Ja",12645,0.625,0.107,0.281534203242388,0.605535784895216,18.1534203242388,50.5535784895216,"real_conditional"
+"2","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","Ja",12645,0.601,0.115,0.231633056544089,0.529616449189403,13.1633056544089,42.9616449189403,"real_conditional"
+"3","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","Ja",12645,0.576,0.12,0.177619612495057,0.460419137999209,7.76196124950573,36.0419137999209,"real_conditional"
+"4","IV: 
+persoon_leeftijd_bij_onderzoek: 28
+","Ja",12508,0.651,0.065,0.175327790214263,0.817316917173009,7.53277902142629,71.7316917173009,"synth_conditional"
+"5","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","Ja",12508,0.638,0.07,0.142228973456988,0.75,4.22289734569875,65,"synth_conditional"
+"6","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+","Ja",12508,0.626,0.074,0.112727854173329,0.705148704828909,1.27278541733291,60.5148704828909,"synth_conditional"

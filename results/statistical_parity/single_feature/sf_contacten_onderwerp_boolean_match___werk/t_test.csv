@@ -1,0 +1,21 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_onderwerp_boolean_match___werk: 0
+","IV: 
+contacten_onderwerp_boolean_match___werk: 1
+",11853,792,1.09e-17,"****",1.09e-17,"****","real"
+"2","Ja","IV: 
+contacten_onderwerp_boolean_match___werk: 0
+","IV: 
+contacten_onderwerp_boolean_match___werk: 1
+",12645,12645,0.953,"ns",0.953,"ns","real_conditional"
+"3","Ja","IV: 
+contacten_onderwerp_boolean_match___werk: 0
+","IV: 
+contacten_onderwerp_boolean_match___werk: 1
+",12016,629,0.0258,"*",0.0258,"*","synth"
+"4","Ja","IV: 
+contacten_onderwerp_boolean_match___werk: 0
+","IV: 
+contacten_onderwerp_boolean_match___werk: 1
+",12508,12508,0.92,"ns",0.92,"ns","synth_conditional"

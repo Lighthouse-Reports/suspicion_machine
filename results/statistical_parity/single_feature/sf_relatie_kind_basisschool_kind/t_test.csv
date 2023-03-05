@@ -1,0 +1,106 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+relatie_kind_basisschool_kind: 0
+","IV: 
+relatie_kind_basisschool_kind: 1
+",11285,879,1.98e-90,"****",1.19e-89,"****","real"
+"2","Ja","IV: 
+relatie_kind_basisschool_kind: 0
+","IV: 
+relatie_kind_basisschool_kind: 2
+",11285,380,2.92e-46,"****",1.46e-45,"****","real"
+"3","Ja","IV: 
+relatie_kind_basisschool_kind: 1
+","IV: 
+relatie_kind_basisschool_kind: 2
+",879,380,0.558,"ns",1,"ns","real"
+"4","Ja","IV: 
+relatie_kind_basisschool_kind: 0
+","IV: 
+relatie_kind_basisschool_kind: 3
+",11285,101,2.58e-13,"****",1.03e-12,"****","real"
+"5","Ja","IV: 
+relatie_kind_basisschool_kind: 1
+","IV: 
+relatie_kind_basisschool_kind: 3
+",879,101,0.849,"ns",1,"ns","real"
+"6","Ja","IV: 
+relatie_kind_basisschool_kind: 2
+","IV: 
+relatie_kind_basisschool_kind: 3
+",380,101,0.887,"ns",1,"ns","real"
+"7","Ja","IV: 
+relatie_kind_basisschool_kind: 0
+","IV: 
+relatie_kind_basisschool_kind: 1
+",12645,12645,0.561,"ns",1,"ns","real_conditional"
+"8","Ja","IV: 
+relatie_kind_basisschool_kind: 0
+","IV: 
+relatie_kind_basisschool_kind: 2
+",12645,12645,0.561,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+relatie_kind_basisschool_kind: 1
+","IV: 
+relatie_kind_basisschool_kind: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+relatie_kind_basisschool_kind: 0
+","IV: 
+relatie_kind_basisschool_kind: 3
+",12645,12645,0.561,"ns",1,"ns","real_conditional"
+"11","Ja","IV: 
+relatie_kind_basisschool_kind: 1
+","IV: 
+relatie_kind_basisschool_kind: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"12","Ja","IV: 
+relatie_kind_basisschool_kind: 2
+","IV: 
+relatie_kind_basisschool_kind: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+relatie_kind_basisschool_kind: 0
+","IV: 
+relatie_kind_basisschool_kind: 1
+",8292,4298,7.09e-46,"****",2.13e-45,"****","synth"
+"14","Ja","IV: 
+relatie_kind_basisschool_kind: 0
+","IV: 
+relatie_kind_basisschool_kind: 2
+",8292,55,3.15e-05,"****",6.31e-05,"****","synth"
+"15","Ja","IV: 
+relatie_kind_basisschool_kind: 1
+","IV: 
+relatie_kind_basisschool_kind: 2
+",4298,55,0.0297,"*",0.0297,"*","synth"
+"16","Ja","IV: 
+relatie_kind_basisschool_kind: 0
+","IV: 
+relatie_kind_basisschool_kind: 1
+",12508,12508,0.372,"ns",1,"ns","synth_conditional"
+"17","Ja","IV: 
+relatie_kind_basisschool_kind: 0
+","IV: 
+relatie_kind_basisschool_kind: 2
+",12508,12508,0.372,"ns",1,"ns","synth_conditional"
+"18","Ja","IV: 
+relatie_kind_basisschool_kind: 1
+","IV: 
+relatie_kind_basisschool_kind: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"19","Ja","IV: 
+relatie_kind_basisschool_kind: 0
+","IV: 
+relatie_kind_basisschool_kind: 3
+",12508,12508,0.372,"ns",1,"ns","synth_conditional"
+"20","Ja","IV: 
+relatie_kind_basisschool_kind: 1
+","IV: 
+relatie_kind_basisschool_kind: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"21","Ja","IV: 
+relatie_kind_basisschool_kind: 2
+","IV: 
+relatie_kind_basisschool_kind: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"

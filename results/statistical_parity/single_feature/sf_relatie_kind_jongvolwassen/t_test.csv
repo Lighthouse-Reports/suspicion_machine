@@ -1,0 +1,366 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 1
+",10157,1210,0.00385,"**",0.0501,"ns","real"
+"2","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 2
+",10157,810,2.29e-17,"****",4.8e-16,"****","real"
+"3","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 2
+",1210,810,1.01e-06,"****",1.72e-05,"****","real"
+"4","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 3
+",10157,297,3.05e-14,"****",6.11e-13,"****","real"
+"5","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 3
+",1210,297,2.82e-08,"****",5.35e-07,"****","real"
+"6","Ja","IV: 
+relatie_kind_jongvolwassen: 2
+","IV: 
+relatie_kind_jongvolwassen: 3
+",810,297,0.0424,"*",0.424,"ns","real"
+"7","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 4
+",10157,117,6.42e-07,"****",1.16e-05,"****","real"
+"8","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 4
+",1210,117,0.000107,"***",0.00171,"**","real"
+"9","Ja","IV: 
+relatie_kind_jongvolwassen: 2
+","IV: 
+relatie_kind_jongvolwassen: 4
+",810,117,0.122,"ns",0.995,"ns","real"
+"10","Ja","IV: 
+relatie_kind_jongvolwassen: 3
+","IV: 
+relatie_kind_jongvolwassen: 4
+",297,117,0.888,"ns",1,"ns","real"
+"11","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 5
+",10157,33,0.00251,"**",0.0363,"*","real"
+"12","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 5
+",1210,33,0.0128,"*",0.141,"ns","real"
+"13","Ja","IV: 
+relatie_kind_jongvolwassen: 2
+","IV: 
+relatie_kind_jongvolwassen: 5
+",810,33,0.222,"ns",1,"ns","real"
+"14","Ja","IV: 
+relatie_kind_jongvolwassen: 3
+","IV: 
+relatie_kind_jongvolwassen: 5
+",297,33,0.666,"ns",1,"ns","real"
+"15","Ja","IV: 
+relatie_kind_jongvolwassen: 4
+","IV: 
+relatie_kind_jongvolwassen: 5
+",117,33,0.746,"ns",1,"ns","real"
+"16","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 6
+",10157,21,0.00242,"**",0.0363,"*","real"
+"17","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 6
+",1210,21,0.00903,"**",0.108,"ns","real"
+"18","Ja","IV: 
+relatie_kind_jongvolwassen: 2
+","IV: 
+relatie_kind_jongvolwassen: 6
+",810,21,0.111,"ns",0.995,"ns","real"
+"19","Ja","IV: 
+relatie_kind_jongvolwassen: 3
+","IV: 
+relatie_kind_jongvolwassen: 6
+",297,21,0.341,"ns",1,"ns","real"
+"20","Ja","IV: 
+relatie_kind_jongvolwassen: 4
+","IV: 
+relatie_kind_jongvolwassen: 6
+",117,21,0.4,"ns",1,"ns","real"
+"21","Ja","IV: 
+relatie_kind_jongvolwassen: 5
+","IV: 
+relatie_kind_jongvolwassen: 6
+",33,21,0.627,"ns",1,"ns","real"
+"22","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 1
+",12645,12645,0.065,"ns",0.26,"ns","real_conditional"
+"23","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 2
+",12645,12645,4.75e-33,"****",6.18e-32,"****","real_conditional"
+"24","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 2
+",12645,12645,3.95e-24,"****",4.74e-23,"****","real_conditional"
+"25","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 3
+",12645,12645,1.05e-55,"****",1.58e-54,"****","real_conditional"
+"26","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 3
+",12645,12645,8.21e-44,"****",1.15e-42,"****","real_conditional"
+"27","Ja","IV: 
+relatie_kind_jongvolwassen: 2
+","IV: 
+relatie_kind_jongvolwassen: 3
+",12645,12645,0.000175,"***",0.0014,"**","real_conditional"
+"28","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 4
+",12645,12645,8.29e-82,"****",1.74e-80,"****","real_conditional"
+"29","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 4
+",12645,12645,3.43e-67,"****",6.17e-66,"****","real_conditional"
+"30","Ja","IV: 
+relatie_kind_jongvolwassen: 2
+","IV: 
+relatie_kind_jongvolwassen: 4
+",12645,12645,6.19e-13,"****",6.81e-12,"****","real_conditional"
+"31","Ja","IV: 
+relatie_kind_jongvolwassen: 3
+","IV: 
+relatie_kind_jongvolwassen: 4
+",12645,12645,0.000574,"***",0.00402,"**","real_conditional"
+"32","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 5
+",12645,12645,8.29e-82,"****",1.74e-80,"****","real_conditional"
+"33","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 5
+",12645,12645,3.43e-67,"****",6.17e-66,"****","real_conditional"
+"34","Ja","IV: 
+relatie_kind_jongvolwassen: 2
+","IV: 
+relatie_kind_jongvolwassen: 5
+",12645,12645,6.19e-13,"****",6.81e-12,"****","real_conditional"
+"35","Ja","IV: 
+relatie_kind_jongvolwassen: 3
+","IV: 
+relatie_kind_jongvolwassen: 5
+",12645,12645,0.000574,"***",0.00402,"**","real_conditional"
+"36","Ja","IV: 
+relatie_kind_jongvolwassen: 4
+","IV: 
+relatie_kind_jongvolwassen: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"37","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 6
+",12645,12645,8.29e-82,"****",1.74e-80,"****","real_conditional"
+"38","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 6
+",12645,12645,3.43e-67,"****",6.17e-66,"****","real_conditional"
+"39","Ja","IV: 
+relatie_kind_jongvolwassen: 2
+","IV: 
+relatie_kind_jongvolwassen: 6
+",12645,12645,6.19e-13,"****",6.81e-12,"****","real_conditional"
+"40","Ja","IV: 
+relatie_kind_jongvolwassen: 3
+","IV: 
+relatie_kind_jongvolwassen: 6
+",12645,12645,0.000574,"***",0.00402,"**","real_conditional"
+"41","Ja","IV: 
+relatie_kind_jongvolwassen: 4
+","IV: 
+relatie_kind_jongvolwassen: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+relatie_kind_jongvolwassen: 5
+","IV: 
+relatie_kind_jongvolwassen: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 1
+",4771,6419,0.00116,"**",0.00694,"**","synth"
+"44","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 2
+",4771,1372,1.77e-26,"****",1.77e-25,"****","synth"
+"45","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 2
+",6419,1372,6.14e-19,"****",5.53e-18,"****","synth"
+"46","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 3
+",4771,80,1.5e-06,"****",1.2e-05,"****","synth"
+"47","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 3
+",6419,80,1.96e-05,"****",0.000137,"***","synth"
+"48","Ja","IV: 
+relatie_kind_jongvolwassen: 2
+","IV: 
+relatie_kind_jongvolwassen: 3
+",1372,80,0.0608,"ns",0.304,"ns","synth"
+"49","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 4
+",4771,3,0.86,"ns",1,"ns","synth"
+"50","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 4
+",6419,3,0.945,"ns",1,"ns","synth"
+"51","Ja","IV: 
+relatie_kind_jongvolwassen: 2
+","IV: 
+relatie_kind_jongvolwassen: 4
+",1372,3,0.697,"ns",1,"ns","synth"
+"52","Ja","IV: 
+relatie_kind_jongvolwassen: 3
+","IV: 
+relatie_kind_jongvolwassen: 4
+",80,3,0.454,"ns",1,"ns","synth"
+"53","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 1
+",12508,12508,0.0409,"*",0.164,"ns","synth_conditional"
+"54","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 2
+",12508,12508,2e-37,"****",2.4e-36,"****","synth_conditional"
+"55","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 2
+",12508,12508,1e-49,"****",1.3e-48,"****","synth_conditional"
+"56","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 3
+",12508,12508,8.19e-81,"****",1.15e-79,"****","synth_conditional"
+"57","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 3
+",12508,12508,1.33e-98,"****",2e-97,"****","synth_conditional"
+"58","Ja","IV: 
+relatie_kind_jongvolwassen: 2
+","IV: 
+relatie_kind_jongvolwassen: 3
+",12508,12508,3.68e-10,"****",1.84e-09,"****","synth_conditional"
+"59","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 4
+",12508,12508,6.94e-143,"****",1.25e-141,"****","synth_conditional"
+"60","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 4
+",12508,12508,2.83e-166,"****",5.95e-165,"****","synth_conditional"
+"61","Ja","IV: 
+relatie_kind_jongvolwassen: 2
+","IV: 
+relatie_kind_jongvolwassen: 4
+",12508,12508,5.81e-37,"****",6.4e-36,"****","synth_conditional"
+"62","Ja","IV: 
+relatie_kind_jongvolwassen: 3
+","IV: 
+relatie_kind_jongvolwassen: 4
+",12508,12508,1.2e-10,"****",9.63e-10,"****","synth_conditional"
+"63","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 5
+",12508,12508,6.94e-143,"****",1.25e-141,"****","synth_conditional"
+"64","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 5
+",12508,12508,2.83e-166,"****",5.95e-165,"****","synth_conditional"
+"65","Ja","IV: 
+relatie_kind_jongvolwassen: 2
+","IV: 
+relatie_kind_jongvolwassen: 5
+",12508,12508,5.81e-37,"****",6.4e-36,"****","synth_conditional"
+"66","Ja","IV: 
+relatie_kind_jongvolwassen: 3
+","IV: 
+relatie_kind_jongvolwassen: 5
+",12508,12508,1.2e-10,"****",9.63e-10,"****","synth_conditional"
+"67","Ja","IV: 
+relatie_kind_jongvolwassen: 4
+","IV: 
+relatie_kind_jongvolwassen: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"68","Ja","IV: 
+relatie_kind_jongvolwassen: 0
+","IV: 
+relatie_kind_jongvolwassen: 6
+",12508,12508,6.94e-143,"****",1.25e-141,"****","synth_conditional"
+"69","Ja","IV: 
+relatie_kind_jongvolwassen: 1
+","IV: 
+relatie_kind_jongvolwassen: 6
+",12508,12508,2.83e-166,"****",5.95e-165,"****","synth_conditional"
+"70","Ja","IV: 
+relatie_kind_jongvolwassen: 2
+","IV: 
+relatie_kind_jongvolwassen: 6
+",12508,12508,5.81e-37,"****",6.4e-36,"****","synth_conditional"
+"71","Ja","IV: 
+relatie_kind_jongvolwassen: 3
+","IV: 
+relatie_kind_jongvolwassen: 6
+",12508,12508,1.2e-10,"****",9.63e-10,"****","synth_conditional"
+"72","Ja","IV: 
+relatie_kind_jongvolwassen: 4
+","IV: 
+relatie_kind_jongvolwassen: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"73","Ja","IV: 
+relatie_kind_jongvolwassen: 5
+","IV: 
+relatie_kind_jongvolwassen: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"

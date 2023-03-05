@@ -1,0 +1,1156 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.937,"ns",1,"ns","real_conditional"
+"2","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.113,"ns",1,"ns","real_conditional"
+"3","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.132,"ns",1,"ns","real_conditional"
+"4","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.513,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.566,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.352,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.899,"ns",1,"ns","real_conditional"
+"8","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.962,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.145,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.598,"ns",1,"ns","real_conditional"
+"11","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.513,"ns",1,"ns","real_conditional"
+"12","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.566,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.352,"ns",1,"ns","real_conditional"
+"14","Ja","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"15","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.598,"ns",1,"ns","real_conditional"
+"16","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.588,"ns",1,"ns","real_conditional"
+"17","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.644,"ns",1,"ns","real_conditional"
+"18","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.297,"ns",1,"ns","real_conditional"
+"19","Ja","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.91,"ns",1,"ns","real_conditional"
+"20","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.678,"ns",1,"ns","real_conditional"
+"21","Ja","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.91,"ns",1,"ns","real_conditional"
+"22","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.513,"ns",1,"ns","real_conditional"
+"23","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.566,"ns",1,"ns","real_conditional"
+"24","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.352,"ns",1,"ns","real_conditional"
+"25","Ja","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"26","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.598,"ns",1,"ns","real_conditional"
+"27","Ja","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"28","Ja","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.91,"ns",1,"ns","real_conditional"
+"29","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.621,"ns",1,"ns","real_conditional"
+"30","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.678,"ns",1,"ns","real_conditional"
+"31","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.275,"ns",1,"ns","real_conditional"
+"32","Ja","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.873,"ns",1,"ns","real_conditional"
+"33","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.713,"ns",1,"ns","real_conditional"
+"34","Ja","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.873,"ns",1,"ns","real_conditional"
+"35","Ja","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.962,"ns",1,"ns","real_conditional"
+"36","Ja","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.873,"ns",1,"ns","real_conditional"
+"37","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.513,"ns",1,"ns","real_conditional"
+"38","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.566,"ns",1,"ns","real_conditional"
+"39","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.352,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.598,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.91,"ns",1,"ns","real_conditional"
+"44","Ja","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"45","Ja","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.873,"ns",1,"ns","real_conditional"
+"46","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.454,"ns",1,"ns","real_conditional"
+"47","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.504,"ns",1,"ns","real_conditional"
+"48","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.403,"ns",1,"ns","real_conditional"
+"49","Ja","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.925,"ns",1,"ns","real_conditional"
+"50","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.534,"ns",1,"ns","real_conditional"
+"51","Ja","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.925,"ns",1,"ns","real_conditional"
+"52","Ja","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.836,"ns",1,"ns","real_conditional"
+"53","Ja","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.925,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.8,"ns",1,"ns","real_conditional"
+"55","Ja","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12645,12645,0.925,"ns",1,"ns","real_conditional"
+"56","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 0
+",1080,2478,0.0516,"ns",1,"ns","synth"
+"57","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+",1080,111,0.634,"ns",1,"ns","synth"
+"58","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+",2478,111,0.808,"ns",1,"ns","synth"
+"59","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+",1080,33,0.342,"ns",1,"ns","synth"
+"60","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+",2478,33,0.58,"ns",1,"ns","synth"
+"61","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+",111,33,0.544,"ns",1,"ns","synth"
+"62","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 0
+",1080,1480,0.00106,"**",0.058,"ns","synth"
+"63","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 0
+",2478,1480,0.0671,"ns",1,"ns","synth"
+"64","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 0
+",111,1480,0.395,"ns",1,"ns","synth"
+"65","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 0
+",33,1480,0.835,"ns",1,"ns","synth"
+"66","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+",1080,1250,0.645,"ns",1,"ns","synth"
+"67","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+",2478,1250,0.135,"ns",1,"ns","synth"
+"68","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+",111,1250,0.775,"ns",1,"ns","synth"
+"69","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+",33,1250,0.399,"ns",1,"ns","synth"
+"70","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+",1480,1250,0.00357,"**",0.193,"ns","synth"
+"71","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 0
+",1080,173,0.048,"*",1,"ns","synth"
+"72","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 0
+",2478,173,0.247,"ns",1,"ns","synth"
+"73","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 0
+",111,173,0.346,"ns",1,"ns","synth"
+"74","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 0
+",33,173,0.975,"ns",1,"ns","synth"
+"75","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 0
+",1480,173,0.701,"ns",1,"ns","synth"
+"76","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 0
+",1250,173,0.0784,"ns",1,"ns","synth"
+"77","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",1080,2037,0.0129,"*",0.682,"ns","synth"
+"78","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",2478,2037,0.448,"ns",1,"ns","synth"
+"79","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",111,2037,0.635,"ns",1,"ns","synth"
+"80","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",33,2037,0.672,"ns",1,"ns","synth"
+"81","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",1480,2037,0.273,"ns",1,"ns","synth"
+"82","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",1250,2037,0.0382,"*",1,"ns","synth"
+"83","Ja","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",173,2037,0.389,"ns",1,"ns","synth"
+"84","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 0
+",1080,9,0.634,"ns",1,"ns","synth"
+"85","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 0
+",2478,9,0.491,"ns",1,"ns","synth"
+"86","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 0
+",111,9,0.551,"ns",1,"ns","synth"
+"87","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 0
+",33,9,0.384,"ns",1,"ns","synth"
+"88","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 0
+",1480,9,0.385,"ns",1,"ns","synth"
+"89","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 0
+",1250,9,0.594,"ns",1,"ns","synth"
+"90","Ja","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 0
+",173,9,0.348,"ns",1,"ns","synth"
+"91","Ja","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 0
+",2037,9,0.449,"ns",1,"ns","synth"
+"92","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",1080,1626,0.0744,"ns",1,"ns","synth"
+"93","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",2478,1626,0.977,"ns",1,"ns","synth"
+"94","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",111,1626,0.818,"ns",1,"ns","synth"
+"95","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",33,1626,0.578,"ns",1,"ns","synth"
+"96","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",1480,1626,0.0892,"ns",1,"ns","synth"
+"97","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",1250,1626,0.176,"ns",1,"ns","synth"
+"98","Ja","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",173,1626,0.251,"ns",1,"ns","synth"
+"99","Ja","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",2037,1626,0.478,"ns",1,"ns","synth"
+"100","Ja","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",9,1626,0.493,"ns",1,"ns","synth"
+"101","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",1080,1104,0.0803,"ns",1,"ns","synth"
+"102","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",2478,1104,0.914,"ns",1,"ns","synth"
+"103","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",111,1104,0.783,"ns",1,"ns","synth"
+"104","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",33,1104,0.599,"ns",1,"ns","synth"
+"105","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",1480,1104,0.157,"ns",1,"ns","synth"
+"106","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",1250,1104,0.177,"ns",1,"ns","synth"
+"107","Ja","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",173,1104,0.287,"ns",1,"ns","synth"
+"108","Ja","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",2037,1104,0.615,"ns",1,"ns","synth"
+"109","Ja","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",9,1104,0.484,"ns",1,"ns","synth"
+"110","Ja","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",1626,1104,0.902,"ns",1,"ns","synth"
+"111","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.911,"ns",1,"ns","synth_conditional"
+"112","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.0517,"ns",1,"ns","synth_conditional"
+"113","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.0668,"ns",1,"ns","synth_conditional"
+"114","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.285,"ns",1,"ns","synth_conditional"
+"115","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.339,"ns",1,"ns","synth_conditional"
+"116","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.381,"ns",1,"ns","synth_conditional"
+"117","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.834,"ns",1,"ns","synth_conditional"
+"118","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.922,"ns",1,"ns","synth_conditional"
+"119","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.0827,"ns",1,"ns","synth_conditional"
+"120","Ja","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.39,"ns",1,"ns","synth_conditional"
+"121","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.285,"ns",1,"ns","synth_conditional"
+"122","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.339,"ns",1,"ns","synth_conditional"
+"123","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.381,"ns",1,"ns","synth_conditional"
+"124","Ja","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"125","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.39,"ns",1,"ns","synth_conditional"
+"126","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.421,"ns",1,"ns","synth_conditional"
+"127","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.489,"ns",1,"ns","synth_conditional"
+"128","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.254,"ns",1,"ns","synth_conditional"
+"129","Ja","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.791,"ns",1,"ns","synth_conditional"
+"130","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.552,"ns",1,"ns","synth_conditional"
+"131","Ja","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.791,"ns",1,"ns","synth_conditional"
+"132","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.285,"ns",1,"ns","synth_conditional"
+"133","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.339,"ns",1,"ns","synth_conditional"
+"134","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.381,"ns",1,"ns","synth_conditional"
+"135","Ja","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"136","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.39,"ns",1,"ns","synth_conditional"
+"137","Ja","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"138","Ja","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.791,"ns",1,"ns","synth_conditional"
+"139","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.463,"ns",1,"ns","synth_conditional"
+"140","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.534,"ns",1,"ns","synth_conditional"
+"141","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.226,"ns",1,"ns","synth_conditional"
+"142","Ja","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.737,"ns",1,"ns","synth_conditional"
+"143","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.601,"ns",1,"ns","synth_conditional"
+"144","Ja","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.737,"ns",1,"ns","synth_conditional"
+"145","Ja","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.944,"ns",1,"ns","synth_conditional"
+"146","Ja","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.737,"ns",1,"ns","synth_conditional"
+"147","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.285,"ns",1,"ns","synth_conditional"
+"148","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.339,"ns",1,"ns","synth_conditional"
+"149","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.381,"ns",1,"ns","synth_conditional"
+"150","Ja","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"151","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.39,"ns",1,"ns","synth_conditional"
+"152","Ja","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"153","Ja","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.791,"ns",1,"ns","synth_conditional"
+"154","Ja","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"155","Ja","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.737,"ns",1,"ns","synth_conditional"
+"156","Ja","IV: 
+contacten_onderwerp_zorg: 0
+contacten_onderwerp_boolean_zorg: 0
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.41,"ns",1,"ns","synth_conditional"
+"157","Ja","IV: 
+contacten_onderwerp_zorg: 1
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.477,"ns",1,"ns","synth_conditional"
+"158","Ja","IV: 
+contacten_onderwerp_zorg: 10
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.262,"ns",1,"ns","synth_conditional"
+"159","Ja","IV: 
+contacten_onderwerp_zorg: 15
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.806,"ns",1,"ns","synth_conditional"
+"160","Ja","IV: 
+contacten_onderwerp_zorg: 2
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.539,"ns",1,"ns","synth_conditional"
+"161","Ja","IV: 
+contacten_onderwerp_zorg: 20
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.806,"ns",1,"ns","synth_conditional"
+"162","Ja","IV: 
+contacten_onderwerp_zorg: 3
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.984,"ns",1,"ns","synth_conditional"
+"163","Ja","IV: 
+contacten_onderwerp_zorg: 30
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.806,"ns",1,"ns","synth_conditional"
+"164","Ja","IV: 
+contacten_onderwerp_zorg: 4
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.928,"ns",1,"ns","synth_conditional"
+"165","Ja","IV: 
+contacten_onderwerp_zorg: 45
+contacten_onderwerp_boolean_zorg: 1
+","IV: 
+contacten_onderwerp_zorg: 5
+contacten_onderwerp_boolean_zorg: 1
+",12508,12508,0.806,"ns",1,"ns","synth_conditional"

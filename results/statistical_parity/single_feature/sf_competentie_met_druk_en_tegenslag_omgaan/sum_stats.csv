@@ -1,0 +1,46 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+","Ja",10562,0.475,0.153,0.085021776178754,0.255444044688506,-1.4978223821246,15.5444044688506,"real"
+"2","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+","Ja",2062,0.561,0.132,0.173617846750727,0.413191076624636,7.36178467507274,31.3191076624636,"real"
+"3","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+","Ja",20,0.665,0.109,0.4,0.75,30,65,"real"
+"4","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+","Ja",1,0.73,NA,1,1,90,90,"real"
+"5","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+","Ja",12645,0.489,0.153,0.10003954132068,0.28200869909055,0.00395413206801115,18.200869909055,"real_conditional"
+"6","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+","Ja",12645,0.489,0.153,0.10011862396204,0.28200869909055,0.0118623962040335,18.200869909055,"real_conditional"
+"7","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+","Ja",12645,0.489,0.153,0.10011862396204,0.28200869909055,0.0118623962040335,18.200869909055,"real_conditional"
+"8","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+","Ja",12645,0.489,0.153,0.10011862396204,0.28200869909055,0.0118623962040335,18.200869909055,"real_conditional"
+"9","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+","Ja",9679,0.607,0.086,0.0893687364397149,0.616076040913317,-1.06312635602852,51.6076040913318,"synth"
+"10","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+","Ja",2964,0.629,0.079,0.134615384615385,0.723346828609987,3.46153846153846,62.3346828609987,"synth"
+"11","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+","Ja",2,0.692,0.076,0.5,1,40,90,"synth"
+"12","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.640869843300288,-0.0223856731691729,54.0869843300288,"synth_conditional"
+"13","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641109689798529,-0.0223856731691729,54.1109689798529,"synth_conditional"
+"14","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641109689798529,-0.0223856731691729,54.1109689798529,"synth_conditional"
+"15","IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641109689798529,-0.0223856731691729,54.1109689798529,"synth_conditional"

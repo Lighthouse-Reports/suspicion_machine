@@ -1,0 +1,388 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1246,11.7970081423973,"real"
+"2",1,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",19,0.921435499515034,"real"
+"3",2,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1199,11.3520166635107,"real"
+"4",2,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",66,3.2007759456838,"real"
+"5",3,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1130,10.69873130089,"real"
+"6",3,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",135,6.5470417070805,"real"
+"7",4,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1053,9.96970270782049,"real"
+"8",4,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",212,10.2812803103783,"real"
+"9",5,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1049,9.9318310925961,"real"
+"10",5,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",215,10.4267701260912,"real"
+"11",5,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1,5,"real"
+"12",6,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1017,9.62885817080099,"real"
+"13",6,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",245,11.8816682832202,"real"
+"14",6,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",2,10,"real"
+"15",7,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",985,9.32588524900587,"real"
+"16",7,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",277,13.4335596508244,"real"
+"17",7,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",2,10,"real"
+"18",8,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1024,9.69513349744367,"real"
+"19",8,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",238,11.5421920465567,"real"
+"20",8,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",2,10,"real"
+"21",9,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",961,9.09865555765953,"real"
+"22",9,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",298,14.4519883608147,"real"
+"23",9,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",5,25,"real"
+"24",10,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",898,8.5021776178754,"real"
+"25",10,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",357,17.3132880698351,"real"
+"26",10,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",8,40,"real"
+"27",10,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1,100,"real"
+"28",1,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1268,10.0276789244761,"real_conditional"
+"29",1,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1264,9.99604586793199,"real_conditional"
+"30",1,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1263,9.98813760379597,"real_conditional"
+"31",1,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1263,9.98813760379597,"real_conditional"
+"32",2,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1267,10.0197706603401,"real_conditional"
+"33",2,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1263,9.98813760379597,"real_conditional"
+"34",2,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1264,9.99604586793199,"real_conditional"
+"35",2,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1264,9.99604586793199,"real_conditional"
+"36",3,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1263,9.98813760379597,"real_conditional"
+"37",3,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1265,10.003954132068,"real_conditional"
+"38",3,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1265,10.003954132068,"real_conditional"
+"39",3,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1265,10.003954132068,"real_conditional"
+"40",4,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1264,9.99604586793199,"real_conditional"
+"41",4,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1265,10.003954132068,"real_conditional"
+"42",4,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1265,10.003954132068,"real_conditional"
+"43",4,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1264,9.99604586793199,"real_conditional"
+"44",5,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1263,9.98813760379597,"real_conditional"
+"45",5,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1265,10.003954132068,"real_conditional"
+"46",5,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1265,10.003954132068,"real_conditional"
+"47",5,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1265,10.003954132068,"real_conditional"
+"48",6,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1262,9.98022933965994,"real_conditional"
+"49",6,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1265,10.003954132068,"real_conditional"
+"50",6,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1265,10.003954132068,"real_conditional"
+"51",6,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1266,10.011862396204,"real_conditional"
+"52",7,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1266,10.011862396204,"real_conditional"
+"53",7,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1264,9.99604586793199,"real_conditional"
+"54",7,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1264,9.99604586793199,"real_conditional"
+"55",7,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1264,9.99604586793199,"real_conditional"
+"56",8,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1263,9.98813760379597,"real_conditional"
+"57",8,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1265,10.003954132068,"real_conditional"
+"58",8,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1265,10.003954132068,"real_conditional"
+"59",8,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1265,10.003954132068,"real_conditional"
+"60",9,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1266,10.011862396204,"real_conditional"
+"61",9,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1264,9.99604586793199,"real_conditional"
+"62",9,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1264,9.99604586793199,"real_conditional"
+"63",9,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1264,9.99604586793199,"real_conditional"
+"64",10,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1263,9.98813760379597,"real_conditional"
+"65",10,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1265,10.003954132068,"real_conditional"
+"66",10,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1265,10.003954132068,"real_conditional"
+"67",10,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1265,10.003954132068,"real_conditional"
+"68",1,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1076,11.1168509143507,"synth"
+"69",1,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",189,6.37651821862348,"synth"
+"70",2,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1027,10.6106002686228,"synth"
+"71",2,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",238,8.02968960863698,"synth"
+"72",3,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1032,10.6622584977787,"synth"
+"73",3,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",233,7.86099865047234,"synth"
+"74",4,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",986,10.1870027895444,"synth"
+"75",4,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",279,9.41295546558704,"synth"
+"76",5,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",950,9.81506353962186,"synth"
+"77",5,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",315,10.6275303643725,"synth"
+"78",6,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",948,9.7944002479595,"synth"
+"79",6,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",315,10.6275303643725,"synth"
+"80",6,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1,50,"synth"
+"81",7,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",939,9.70141543547887,"synth"
+"82",7,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",325,10.9649122807018,"synth"
+"83",8,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",939,9.70141543547887,"synth"
+"84",8,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",325,10.9649122807018,"synth"
+"85",9,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",917,9.47411922719289,"synth"
+"86",9,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",347,11.7071524966262,"synth"
+"87",10,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",865,8.93687364397148,"synth"
+"88",10,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",398,13.4278002699055,"synth"
+"89",10,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1,50,"synth"
+"90",1,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1254,10.0255836264791,"synth_conditional"
+"91",1,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1250,9.99360409338024,"synth_conditional"
+"92",1,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1250,9.99360409338024,"synth_conditional"
+"93",1,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1250,9.99360409338024,"synth_conditional"
+"94",2,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1252,10.0095938599296,"synth_conditional"
+"95",2,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1251,10.0015989766549,"synth_conditional"
+"96",2,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1251,10.0015989766549,"synth_conditional"
+"97",2,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1250,9.99360409338024,"synth_conditional"
+"98",3,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1250,9.99360409338024,"synth_conditional"
+"99",3,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1251,10.0015989766549,"synth_conditional"
+"100",3,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1251,10.0015989766549,"synth_conditional"
+"101",3,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1251,10.0015989766549,"synth_conditional"
+"102",4,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1252,10.0095938599296,"synth_conditional"
+"103",4,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1250,9.99360409338024,"synth_conditional"
+"104",4,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1250,9.99360409338024,"synth_conditional"
+"105",4,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1251,10.0015989766549,"synth_conditional"
+"106",5,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1251,10.0015989766549,"synth_conditional"
+"107",5,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1251,10.0015989766549,"synth_conditional"
+"108",5,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1251,10.0015989766549,"synth_conditional"
+"109",5,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1250,9.99360409338024,"synth_conditional"
+"110",6,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1248,9.97761432683083,"synth_conditional"
+"111",6,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1252,10.0095938599296,"synth_conditional"
+"112",6,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1251,10.0015989766549,"synth_conditional"
+"113",6,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1252,10.0095938599296,"synth_conditional"
+"114",7,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1254,10.0255836264791,"synth_conditional"
+"115",7,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1249,9.98560921010553,"synth_conditional"
+"116",7,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1250,9.99360409338024,"synth_conditional"
+"117",7,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1250,9.99360409338024,"synth_conditional"
+"118",8,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1247,9.96961944355612,"synth_conditional"
+"119",8,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1252,10.0095938599296,"synth_conditional"
+"120",8,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1252,10.0095938599296,"synth_conditional"
+"121",8,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1252,10.0095938599296,"synth_conditional"
+"122",9,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1250,9.99360409338024,"synth_conditional"
+"123",9,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1251,10.0015989766549,"synth_conditional"
+"124",9,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1251,10.0015989766549,"synth_conditional"
+"125",9,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1251,10.0015989766549,"synth_conditional"
+"126",10,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 0
+",1250,9.99360409338024,"synth_conditional"
+"127",10,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 1
+",1251,10.0015989766549,"synth_conditional"
+"128",10,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 2
+",1251,10.0015989766549,"synth_conditional"
+"129",10,"IV: 
+competentie_met_druk_en_tegenslag_omgaan: 3
+",1251,10.0015989766549,"synth_conditional"

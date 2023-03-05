@@ -1,0 +1,43 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+belemmering_hist_verslavingsproblematiek: 0
+","Ja",11877,0.487,0.154,0.099520080828492,0.2768375852488,-0.0479919171507956,17.68375852488,"real"
+"2","IV: 
+belemmering_hist_verslavingsproblematiek: 1
+","Ja",731,0.528,0.137,0.108071135430917,0.365253077975376,0.807113543091655,26.5253077975376,"real"
+"3","IV: 
+belemmering_hist_verslavingsproblematiek: 2
+","Ja",33,0.469,0.17,0.121212121212121,0.333333333333333,2.12121212121212,23.3333333333333,"real"
+"4","IV: 
+belemmering_hist_verslavingsproblematiek: 3
+","Ja",4,0.386,0.053,0,0,-10,-10,"real"
+"5","IV: 
+belemmering_hist_verslavingsproblematiek: 0
+","Ja",12645,0.488,0.153,0.0991696322657177,0.279794385132463,-0.0830367734282328,17.9794385132463,"real_conditional"
+"6","IV: 
+belemmering_hist_verslavingsproblematiek: 1
+","Ja",12645,0.501,0.153,0.113167259786477,0.308659549228944,1.31672597864769,20.8659549228944,"real_conditional"
+"7","IV: 
+belemmering_hist_verslavingsproblematiek: 2
+","Ja",12645,0.501,0.153,0.113167259786477,0.308659549228944,1.31672597864769,20.8659549228944,"real_conditional"
+"8","IV: 
+belemmering_hist_verslavingsproblematiek: 3
+","Ja",12645,0.501,0.153,0.113167259786477,0.308659549228944,1.31672597864769,20.8659549228944,"real_conditional"
+"9","IV: 
+belemmering_hist_verslavingsproblematiek: 0
+","Ja",11893,0.611,0.085,0.0975363659295384,0.637601950727319,-0.246363407046161,53.7601950727319,"synth"
+"10","IV: 
+belemmering_hist_verslavingsproblematiek: 1
+","Ja",752,0.628,0.08,0.139627659574468,0.699468085106383,3.96276595744681,59.9468085106383,"synth"
+"11","IV: 
+belemmering_hist_verslavingsproblematiek: 0
+","Ja",12508,0.611,0.085,0.0985769107771026,0.639350815478094,-0.142308922289736,53.9350815478094,"synth_conditional"
+"12","IV: 
+belemmering_hist_verslavingsproblematiek: 1
+","Ja",12508,0.619,0.084,0.117684681803646,0.669971218420211,1.76846818036457,56.9971218420211,"synth_conditional"
+"13","IV: 
+belemmering_hist_verslavingsproblematiek: 2
+","Ja",12508,0.619,0.084,0.117684681803646,0.669971218420211,1.76846818036457,56.9971218420211,"synth_conditional"
+"14","IV: 
+belemmering_hist_verslavingsproblematiek: 3
+","Ja",12508,0.619,0.084,0.117684681803646,0.669971218420211,1.76846818036457,56.9971218420211,"synth_conditional"

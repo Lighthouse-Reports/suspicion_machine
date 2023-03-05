@@ -1,0 +1,1053 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1222,12.4401913875598,"real"
+"2",1,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",37,2.83960092095165,"real"
+"3",1,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",5,0.605326876513317,"real"
+"4",1,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1,0.628930817610063,"real"
+"5",2,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1139,11.5952356713835,"real"
+"6",2,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",73,5.60245587106677,"real"
+"7",2,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",33,3.99515738498789,"real"
+"8",2,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",11,2.50569476082005,"real"
+"9",2,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",5,3.14465408805031,"real"
+"10",2,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",3,4.61538461538461,"real"
+"11",2,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1,3.33333333333333,"real"
+"12",3,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1085,11.0455054464013,"real"
+"13",3,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",103,7.9048349961627,"real"
+"14",3,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",35,4.23728813559322,"real"
+"15",3,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",22,5.01138952164009,"real"
+"16",3,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",10,6.28930817610063,"real"
+"17",3,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",4,6.15384615384615,"real"
+"18",3,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",6,20,"real"
+"19",4,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1008,10.2616308663341,"real"
+"20",4,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",132,10.1304681504221,"real"
+"21",4,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",74,8.95883777239709,"real"
+"22",4,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",24,5.46697038724374,"real"
+"23",4,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",17,10.6918238993711,"real"
+"24",4,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",8,12.3076923076923,"real"
+"25",4,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",2,6.66666666666667,"real"
+"26",5,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1005,10.2310902982795,"real"
+"27",5,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",115,8.82578664620107,"real"
+"28",5,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",67,8.11138014527845,"real"
+"29",5,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",50,11.3895216400911,"real"
+"30",5,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",21,13.2075471698113,"real"
+"31",5,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",5,7.69230769230769,"real"
+"32",5,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",2,6.66666666666667,"real"
+"33",6,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",981,9.98676575384302,"real"
+"34",6,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",126,9.66999232540292,"real"
+"35",6,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",91,11.0169491525424,"real"
+"36",6,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",41,9.33940774487472,"real"
+"37",6,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",14,8.80503144654088,"real"
+"38",6,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",7,10.7692307692308,"real"
+"39",6,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",4,13.3333333333333,"real"
+"40",7,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",920,9.36577420340018,"real"
+"41",7,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",136,10.4374520337682,"real"
+"42",7,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",117,14.1646489104116,"real"
+"43",7,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",54,12.3006833712984,"real"
+"44",7,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",24,15.0943396226415,"real"
+"45",7,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",9,13.8461538461538,"real"
+"46",7,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",4,13.3333333333333,"real"
+"47",8,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",852,8.67352132749669,"real"
+"48",8,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",178,13.6607828089025,"real"
+"49",8,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",128,15.4963680387409,"real"
+"50",8,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",62,14.123006833713,"real"
+"51",8,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",29,18.2389937106918,"real"
+"52",8,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",14,21.5384615384615,"real"
+"53",8,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1,3.33333333333333,"real"
+"54",9,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",824,8.38847602565408,"real"
+"55",9,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",196,15.0422102839601,"real"
+"56",9,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",129,15.6174334140436,"real"
+"57",9,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",86,19.5899772209567,"real"
+"58",9,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",15,9.43396226415094,"real"
+"59",9,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",9,13.8461538461538,"real"
+"60",9,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",5,16.6666666666667,"real"
+"61",10,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",787,8.01180901964777,"real"
+"62",10,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",207,15.8864159631619,"real"
+"63",10,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",147,17.7966101694915,"real"
+"64",10,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",89,20.2733485193622,"real"
+"65",10,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",23,14.4654088050314,"real"
+"66",10,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",6,9.23076923076923,"real"
+"67",10,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",5,16.6666666666667,"real"
+"68",1,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1853,14.654013444049,"real_conditional"
+"69",1,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1150,9.09450375642546,"real_conditional"
+"70",1,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1150,9.09450375642546,"real_conditional"
+"71",1,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1159,9.16567813364966,"real_conditional"
+"72",1,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1180,9.33175168050613,"real_conditional"
+"73",1,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1180,9.33175168050613,"real_conditional"
+"74",1,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1180,9.33175168050613,"real_conditional"
+"75",2,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1340,10.5970739422697,"real_conditional"
+"76",2,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1254,9.91696322657177,"real_conditional"
+"77",2,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1254,9.91696322657177,"real_conditional"
+"78",2,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1251,9.8932384341637,"real_conditional"
+"79",2,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1251,9.8932384341637,"real_conditional"
+"80",2,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1251,9.8932384341637,"real_conditional"
+"81",2,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1251,9.8932384341637,"real_conditional"
+"82",3,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1204,9.52155001977066,"real_conditional"
+"83",3,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1271,10.0514037168841,"real_conditional"
+"84",3,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1271,10.0514037168841,"real_conditional"
+"85",3,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1275,10.0830367734282,"real_conditional"
+"86",3,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1277,10.0988533017003,"real_conditional"
+"87",3,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1277,10.0988533017003,"real_conditional"
+"88",3,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1277,10.0988533017003,"real_conditional"
+"89",4,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1293,10.2253855278766,"real_conditional"
+"90",4,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1253,9.90905496243574,"real_conditional"
+"91",4,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1252,9.90114669829972,"real_conditional"
+"92",4,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1249,9.87742190589166,"real_conditional"
+"93",4,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1268,10.0276789244761,"real_conditional"
+"94",4,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1268,10.0276789244761,"real_conditional"
+"95",4,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1269,10.0355871886121,"real_conditional"
+"96",5,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1228,9.71134835903519,"real_conditional"
+"97",5,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1274,10.0751285092922,"real_conditional"
+"98",5,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1269,10.0355871886121,"real_conditional"
+"99",5,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1268,10.0276789244761,"real_conditional"
+"100",5,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1271,10.0514037168841,"real_conditional"
+"101",5,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1271,10.0514037168841,"real_conditional"
+"102",5,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1271,10.0514037168841,"real_conditional"
+"103",6,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1215,9.6085409252669,"real_conditional"
+"104",6,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1289,10.1937524713325,"real_conditional"
+"105",6,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1276,10.0909450375643,"real_conditional"
+"106",6,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1271,10.0514037168841,"real_conditional"
+"107",6,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1267,10.0197706603401,"real_conditional"
+"108",6,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1267,10.0197706603401,"real_conditional"
+"109",6,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1266,10.011862396204,"real_conditional"
+"110",7,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1186,9.37920126532226,"real_conditional"
+"111",7,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1273,10.0672202451562,"real_conditional"
+"112",7,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1281,10.1304863582444,"real_conditional"
+"113",7,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1271,10.0514037168841,"real_conditional"
+"114",7,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1280,10.1225780941083,"real_conditional"
+"115",7,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1280,10.1225780941083,"real_conditional"
+"116",7,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1280,10.1225780941083,"real_conditional"
+"117",8,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1119,8.84934756820878,"real_conditional"
+"118",8,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1306,10.3281929616449,"real_conditional"
+"119",8,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1298,10.2649268485567,"real_conditional"
+"120",8,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1302,10.2965599051008,"real_conditional"
+"121",8,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1275,10.0830367734282,"real_conditional"
+"122",8,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1275,10.0830367734282,"real_conditional"
+"123",8,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1276,10.0909450375643,"real_conditional"
+"124",9,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1086,8.58837485172005,"real_conditional"
+"125",9,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1284,10.1542111506524,"real_conditional"
+"126",9,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1297,10.2570185844207,"real_conditional"
+"127",9,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1298,10.2649268485567,"real_conditional"
+"128",9,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1296,10.2491103202847,"real_conditional"
+"129",9,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1295,10.2412020561487,"real_conditional"
+"130",9,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1295,10.2412020561487,"real_conditional"
+"131",10,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1121,8.86516409648082,"real_conditional"
+"132",10,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1291,10.2095689996046,"real_conditional"
+"133",10,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1297,10.2570185844207,"real_conditional"
+"134",10,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1301,10.2886516409648,"real_conditional"
+"135",10,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1280,10.1225780941083,"real_conditional"
+"136",10,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1281,10.1304863582444,"real_conditional"
+"137",10,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1280,10.1225780941083,"real_conditional"
+"138",1,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",702,15.8001350438893,"synth"
+"139",1,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 0
+",286,7.65729585006693,"synth"
+"140",1,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",157,6.45559210526316,"synth"
+"141",1,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",111,6.22895622895623,"synth"
+"142",1,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",8,3.29218106995885,"synth"
+"143",1,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1,10,"synth"
+"144",2,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",560,12.6040963313077,"synth"
+"145",2,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 0
+",352,9.4243641231593,"synth"
+"146",2,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",212,8.7171052631579,"synth"
+"147",2,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",133,7.4635241301908,"synth"
+"148",2,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",8,3.29218106995885,"synth"
+"149",3,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",539,12.1314427188836,"synth"
+"150",3,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 0
+",328,8.78179384203481,"synth"
+"151",3,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",233,9.58059210526316,"synth"
+"152",3,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",147,8.24915824915825,"synth"
+"153",3,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",18,7.40740740740741,"synth"
+"154",4,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",480,10.8035111411209,"synth"
+"155",4,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 0
+",358,9.58500669344043,"synth"
+"156",4,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",259,10.6496710526316,"synth"
+"157",4,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",139,7.80022446689113,"synth"
+"158",4,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",26,10.6995884773663,"synth"
+"159",4,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",3,30,"synth"
+"160",5,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",457,10.2858428989422,"synth"
+"161",5,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 0
+",386,10.334672021419,"synth"
+"162",5,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",235,9.66282894736842,"synth"
+"163",5,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",163,9.14702581369248,"synth"
+"164",5,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",23,9.46502057613169,"synth"
+"165",5,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1,10,"synth"
+"166",6,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",379,8.53027233851002,"synth"
+"167",6,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 0
+",416,11.1378848728246,"synth"
+"168",6,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",264,10.8552631578947,"synth"
+"169",6,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",176,9.87654320987654,"synth"
+"170",6,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",29,11.9341563786008,"synth"
+"171",7,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",387,8.7103308575287,"synth"
+"172",7,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 0
+",411,11.004016064257,"synth"
+"173",7,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",262,10.7730263157895,"synth"
+"174",7,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",181,10.1571268237935,"synth"
+"175",7,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",23,9.46502057613169,"synth"
+"176",8,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",352,7.92257483682197,"synth"
+"177",8,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 0
+",368,9.85274431057564,"synth"
+"178",8,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",265,10.8963815789474,"synth"
+"179",8,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",233,13.0751964085297,"synth"
+"180",8,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",45,18.5185185185185,"synth"
+"181",8,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1,10,"synth"
+"182",9,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",340,7.65248705829395,"synth"
+"183",9,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 0
+",388,10.3882195448461,"synth"
+"184",9,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",271,11.1430921052632,"synth"
+"185",9,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",235,13.1874298540965,"synth"
+"186",9,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",28,11.522633744856,"synth"
+"187",9,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",2,20,"synth"
+"188",10,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",247,5.55930677470178,"synth"
+"189",10,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 0
+",442,11.8340026773762,"synth"
+"190",10,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",274,11.2664473684211,"synth"
+"191",10,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",264,14.8148148148148,"synth"
+"192",10,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",35,14.40329218107,"synth"
+"193",10,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",2,20,"synth"
+"194",1,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1799,14.3827950111928,"synth_conditional"
+"195",1,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1146,9.162136232811,"synth_conditional"
+"196",1,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1135,9.07419251678925,"synth_conditional"
+"197",1,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1136,9.08218740006396,"synth_conditional"
+"198",1,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1180,9.43396226415094,"synth_conditional"
+"199",1,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1180,9.43396226415094,"synth_conditional"
+"200",1,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1180,9.43396226415094,"synth_conditional"
+"201",2,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1557,12.4480332587144,"synth_conditional"
+"202",2,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1197,9.56987527982091,"synth_conditional"
+"203",2,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1189,9.50591621362328,"synth_conditional"
+"204",2,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1180,9.43396226415094,"synth_conditional"
+"205",2,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1211,9.68180364566677,"synth_conditional"
+"206",2,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1211,9.68180364566677,"synth_conditional"
+"207",2,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1211,9.68180364566677,"synth_conditional"
+"208",3,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1528,12.216181643748,"synth_conditional"
+"209",3,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1224,9.78573712823793,"synth_conditional"
+"210",3,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1200,9.59385992964503,"synth_conditional"
+"211",3,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1167,9.33002878157979,"synth_conditional"
+"212",3,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1212,9.68979852894148,"synth_conditional"
+"213",3,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1212,9.68979852894148,"synth_conditional"
+"214",3,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1213,9.69779341221618,"synth_conditional"
+"215",4,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1335,10.6731691717301,"synth_conditional"
+"216",4,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1261,10.081547809402,"synth_conditional"
+"217",4,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1239,9.90566037735849,"synth_conditional"
+"218",4,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1220,9.75375759513911,"synth_conditional"
+"219",4,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1234,9.86568596098497,"synth_conditional"
+"220",4,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1234,9.86568596098497,"synth_conditional"
+"221",4,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1233,9.85769107771027,"synth_conditional"
+"222",5,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1310,10.4732970898625,"synth_conditional"
+"223",5,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1248,9.97761432683083,"synth_conditional"
+"224",5,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1230,9.83370642788615,"synth_conditional"
+"225",5,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1223,9.77774224496322,"synth_conditional"
+"226",5,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1248,9.97761432683083,"synth_conditional"
+"227",5,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1248,9.97761432683083,"synth_conditional"
+"228",5,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1249,9.98560921010553,"synth_conditional"
+"229",6,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1157,9.25007994883275,"synth_conditional"
+"230",6,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1272,10.1694915254237,"synth_conditional"
+"231",6,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1289,10.3054045410937,"synth_conditional"
+"232",6,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1262,10.0895426926767,"synth_conditional"
+"233",6,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1259,10.0655580428526,"synth_conditional"
+"234",6,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1259,10.0655580428526,"synth_conditional"
+"235",6,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1258,10.0575631595779,"synth_conditional"
+"236",7,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",1070,8.55452510393348,"synth_conditional"
+"237",7,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1303,10.4173329069396,"synth_conditional"
+"238",7,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1277,10.2094659417972,"synth_conditional"
+"239",7,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1282,10.2494403581708,"synth_conditional"
+"240",7,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1274,10.1854812919731,"synth_conditional"
+"241",7,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1274,10.1854812919731,"synth_conditional"
+"242",7,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1275,10.1934761752478,"synth_conditional"
+"243",8,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",966,7.72305724336425,"synth_conditional"
+"244",8,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1290,10.3133994243684,"synth_conditional"
+"245",8,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1318,10.5372561560601,"synth_conditional"
+"246",8,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1321,10.5612408058842,"synth_conditional"
+"247",8,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1287,10.2894147745443,"synth_conditional"
+"248",8,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1287,10.2894147745443,"synth_conditional"
+"249",8,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1286,10.2814198912696,"synth_conditional"
+"250",9,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",931,7.4432363287496,"synth_conditional"
+"251",9,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1283,10.2574352414455,"synth_conditional"
+"252",9,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1306,10.4413175567637,"synth_conditional"
+"253",9,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1344,10.7451231212024,"synth_conditional"
+"254",9,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1297,10.3693636072913,"synth_conditional"
+"255",9,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1297,10.3693636072913,"synth_conditional"
+"256",9,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1297,10.3693636072913,"synth_conditional"
+"257",10,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+",855,6.83562519987208,"synth_conditional"
+"258",10,"IV: 
+relatie_kind_huidige_aantal: 1
+relatie_kind_heeft_kinderen: 1
+",1284,10.2654301247202,"synth_conditional"
+"259",10,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+",1325,10.5932203389831,"synth_conditional"
+"260",10,"IV: 
+relatie_kind_huidige_aantal: 3
+relatie_kind_heeft_kinderen: 1
+",1373,10.9769747361689,"synth_conditional"
+"261",10,"IV: 
+relatie_kind_huidige_aantal: 4
+relatie_kind_heeft_kinderen: 1
+",1306,10.4413175567637,"synth_conditional"
+"262",10,"IV: 
+relatie_kind_huidige_aantal: 5
+relatie_kind_heeft_kinderen: 1
+",1306,10.4413175567637,"synth_conditional"
+"263",10,"IV: 
+relatie_kind_huidige_aantal: 6
+relatie_kind_heeft_kinderen: 1
+",1306,10.4413175567637,"synth_conditional"

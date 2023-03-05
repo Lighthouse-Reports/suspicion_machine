@@ -1,0 +1,993 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1221,10.1218602337727,"real"
+"2",1,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",33,7.6036866359447,"real"
+"3",1,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",5,6.49350649350649,"real"
+"4",1,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",4,10.5263157894737,"real"
+"5",1,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1,6.66666666666667,"real"
+"6",2,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1222,10.130150045594,"real"
+"7",2,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",34,7.83410138248848,"real"
+"8",2,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",5,6.49350649350649,"real"
+"9",2,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",2,5.26315789473684,"real"
+"10",3,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1218,10.0969907983089,"real"
+"11",3,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",34,7.83410138248848,"real"
+"12",3,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",6,7.79220779220779,"real"
+"13",3,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",4,10.5263157894737,"real"
+"14",3,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1,6.66666666666667,"real"
+"15",4,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1211,10.03896211556,"real"
+"16",4,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",43,9.90783410138249,"real"
+"17",4,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",6,7.79220779220779,"real"
+"18",4,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1,2.63157894736842,"real"
+"19",4,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",2,13.3333333333333,"real"
+"20",5,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1203,9.9726436209898,"real"
+"21",5,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",47,10.8294930875576,"real"
+"22",5,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",7,9.09090909090909,"real"
+"23",5,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",5,13.1578947368421,"real"
+"24",5,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1,6.66666666666667,"real"
+"25",6,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1206,9.99751305645362,"real"
+"26",6,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",40,9.21658986175115,"real"
+"27",6,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",8,10.3896103896104,"real"
+"28",6,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",4,10.5263157894737,"real"
+"29",6,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",3,20,"real"
+"30",6,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",2,50,"real"
+"31",7,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1200,9.94777418552599,"real"
+"32",7,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",49,11.2903225806452,"real"
+"33",7,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",9,11.6883116883117,"real"
+"34",7,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",4,10.5263157894737,"real"
+"35",7,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1,6.66666666666667,"real"
+"36",8,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1194,9.89803531459836,"real"
+"37",8,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",48,11.0599078341014,"real"
+"38",8,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",13,16.8831168831169,"real"
+"39",8,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",4,10.5263157894737,"real"
+"40",8,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",3,20,"real"
+"41",8,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1,25,"real"
+"42",9,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1186,9.83171682002819,"real"
+"43",9,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",53,12.2119815668203,"real"
+"44",9,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",14,18.1818181818182,"real"
+"45",9,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",7,18.4210526315789,"real"
+"46",9,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",2,13.3333333333333,"real"
+"47",9,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1,25,"real"
+"48",10,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1202,9.96435380916853,"real"
+"49",10,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",53,12.2119815668203,"real"
+"50",10,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",4,5.19480519480519,"real"
+"51",10,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",3,7.89473684210526,"real"
+"52",10,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1,6.66666666666667,"real"
+"53",1,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1449,11.4590747330961,"real_conditional"
+"54",1,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1239,9.79833926453144,"real_conditional"
+"55",1,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1238,9.79043100039541,"real_conditional"
+"56",1,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1238,9.79043100039541,"real_conditional"
+"57",1,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1238,9.79043100039541,"real_conditional"
+"58",1,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1238,9.79043100039541,"real_conditional"
+"59",1,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1238,9.79043100039541,"real_conditional"
+"60",1,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1238,9.79043100039541,"real_conditional"
+"61",2,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1289,10.1937524713325,"real_conditional"
+"62",2,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1261,9.97232107552392,"real_conditional"
+"63",2,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1261,9.97232107552392,"real_conditional"
+"64",2,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1261,9.97232107552392,"real_conditional"
+"65",2,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1261,9.97232107552392,"real_conditional"
+"66",2,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1261,9.97232107552392,"real_conditional"
+"67",2,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1261,9.97232107552392,"real_conditional"
+"68",2,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1261,9.97232107552392,"real_conditional"
+"69",3,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1275,10.0830367734282,"real_conditional"
+"70",3,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1262,9.98022933965994,"real_conditional"
+"71",3,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1263,9.98813760379597,"real_conditional"
+"72",3,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1263,9.98813760379597,"real_conditional"
+"73",3,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1264,9.99604586793199,"real_conditional"
+"74",3,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1263,9.98813760379597,"real_conditional"
+"75",3,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1263,9.98813760379597,"real_conditional"
+"76",3,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1263,9.98813760379597,"real_conditional"
+"77",4,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1275,10.0830367734282,"real_conditional"
+"78",4,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1256,9.93277975484381,"real_conditional"
+"79",4,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1264,9.99604586793199,"real_conditional"
+"80",4,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1264,9.99604586793199,"real_conditional"
+"81",4,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1264,9.99604586793199,"real_conditional"
+"82",4,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1265,10.003954132068,"real_conditional"
+"83",4,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1264,9.99604586793199,"real_conditional"
+"84",4,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1264,9.99604586793199,"real_conditional"
+"85",5,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1265,10.003954132068,"real_conditional"
+"86",5,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1258,9.94859628311586,"real_conditional"
+"87",5,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1266,10.011862396204,"real_conditional"
+"88",5,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1265,10.003954132068,"real_conditional"
+"89",5,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1265,10.003954132068,"real_conditional"
+"90",5,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1265,10.003954132068,"real_conditional"
+"91",5,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1266,10.011862396204,"real_conditional"
+"92",5,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1266,10.011862396204,"real_conditional"
+"93",6,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1215,9.6085409252669,"real_conditional"
+"94",6,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1269,10.0355871886121,"real_conditional"
+"95",6,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1272,10.0593119810202,"real_conditional"
+"96",6,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1272,10.0593119810202,"real_conditional"
+"97",6,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1272,10.0593119810202,"real_conditional"
+"98",6,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1272,10.0593119810202,"real_conditional"
+"99",6,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1272,10.0593119810202,"real_conditional"
+"100",6,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1272,10.0593119810202,"real_conditional"
+"101",7,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1288,10.1858442071965,"real_conditional"
+"102",7,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1246,9.85369711348359,"real_conditional"
+"103",7,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1263,9.98813760379597,"real_conditional"
+"104",7,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1264,9.99604586793199,"real_conditional"
+"105",7,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1264,9.99604586793199,"real_conditional"
+"106",7,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1264,9.99604586793199,"real_conditional"
+"107",7,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1264,9.99604586793199,"real_conditional"
+"108",7,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1263,9.98813760379597,"real_conditional"
+"109",8,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1205,9.52945828390668,"real_conditional"
+"110",8,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1281,10.1304863582444,"real_conditional"
+"111",8,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1272,10.0593119810202,"real_conditional"
+"112",8,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1272,10.0593119810202,"real_conditional"
+"113",8,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1272,10.0593119810202,"real_conditional"
+"114",8,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1271,10.0514037168841,"real_conditional"
+"115",8,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1271,10.0514037168841,"real_conditional"
+"116",8,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1272,10.0593119810202,"real_conditional"
+"117",9,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1200,9.48991696322657,"real_conditional"
+"118",9,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1285,10.1621194147885,"real_conditional"
+"119",9,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1272,10.0593119810202,"real_conditional"
+"120",9,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1272,10.0593119810202,"real_conditional"
+"121",9,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1271,10.0514037168841,"real_conditional"
+"122",9,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1272,10.0593119810202,"real_conditional"
+"123",9,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1272,10.0593119810202,"real_conditional"
+"124",9,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1272,10.0593119810202,"real_conditional"
+"125",10,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1184,9.36338473705022,"real_conditional"
+"126",10,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1288,10.1858442071965,"real_conditional"
+"127",10,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1274,10.0751285092922,"real_conditional"
+"128",10,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1274,10.0751285092922,"real_conditional"
+"129",10,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1274,10.0751285092922,"real_conditional"
+"130",10,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1274,10.0751285092922,"real_conditional"
+"131",10,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1274,10.0751285092922,"real_conditional"
+"132",10,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1274,10.0751285092922,"real_conditional"
+"133",1,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",981,10.5077120822622,"synth"
+"134",1,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 0
+",258,8.55154126615844,"synth"
+"135",1,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",25,8.8339222614841,"synth"
+"136",1,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1,11.1111111111111,"synth"
+"137",2,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",976,10.4541559554413,"synth"
+"138",2,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 0
+",265,8.78355982764336,"synth"
+"139",2,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",22,7.77385159010601,"synth"
+"140",2,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",2,22.2222222222222,"synth"
+"141",3,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",948,10.1542416452442,"synth"
+"142",3,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 0
+",296,9.81107059993371,"synth"
+"143",3,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",21,7.42049469964664,"synth"
+"144",4,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",926,9.91859468723222,"synth"
+"145",4,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 0
+",310,10.2751077229035,"synth"
+"146",4,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",29,10.2473498233216,"synth"
+"147",5,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",944,10.1113967437875,"synth"
+"148",5,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 0
+",293,9.71163407358303,"synth"
+"149",5,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",28,9.89399293286219,"synth"
+"150",6,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",916,9.8114824335904,"synth"
+"151",6,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 0
+",312,10.3413987404707,"synth"
+"152",6,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",35,12.3674911660777,"synth"
+"153",6,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1,11.1111111111111,"synth"
+"154",7,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",937,10.0364181662382,"synth"
+"155",7,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 0
+",295,9.77792509115015,"synth"
+"156",7,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",31,10.9540636042403,"synth"
+"157",7,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1,11.1111111111111,"synth"
+"158",8,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",888,9.51156812339332,"synth"
+"159",8,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 0
+",343,11.368909512761,"synth"
+"160",8,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",33,11.660777385159,"synth"
+"161",9,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",917,9.82219365895458,"synth"
+"162",9,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 0
+",316,10.4739807756049,"synth"
+"163",9,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",30,10.6007067137809,"synth"
+"164",9,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1,11.1111111111111,"synth"
+"165",10,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",903,9.67223650385604,"synth"
+"166",10,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 0
+",329,10.9048723897912,"synth"
+"167",10,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",29,10.2473498233216,"synth"
+"168",10,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",3,33.3333333333333,"synth"
+"169",1,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1368,10.9370003197953,"synth_conditional"
+"170",1,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1218,9.7377678285897,"synth_conditional"
+"171",1,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1237,9.88967061080908,"synth_conditional"
+"172",1,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1236,9.88167572753438,"synth_conditional"
+"173",1,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1237,9.88967061080908,"synth_conditional"
+"174",1,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1237,9.88967061080908,"synth_conditional"
+"175",1,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1237,9.88967061080908,"synth_conditional"
+"176",1,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1237,9.88967061080908,"synth_conditional"
+"177",2,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1305,10.433322673489,"synth_conditional"
+"178",2,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1205,9.63383434601855,"synth_conditional"
+"179",2,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1249,9.98560921010553,"synth_conditional"
+"180",2,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1250,9.99360409338024,"synth_conditional"
+"181",2,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1250,9.99360409338024,"synth_conditional"
+"182",2,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1250,9.99360409338024,"synth_conditional"
+"183",2,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1249,9.98560921010553,"synth_conditional"
+"184",2,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1249,9.98560921010553,"synth_conditional"
+"185",3,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1284,10.2654301247202,"synth_conditional"
+"186",3,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1207,9.64982411256796,"synth_conditional"
+"187",3,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1253,10.0175887432043,"synth_conditional"
+"188",3,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1253,10.0175887432043,"synth_conditional"
+"189",3,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"190",3,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"191",3,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1253,10.0175887432043,"synth_conditional"
+"192",3,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1253,10.0175887432043,"synth_conditional"
+"193",4,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1255,10.0335785097538,"synth_conditional"
+"194",4,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1240,9.9136552606332,"synth_conditional"
+"195",4,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"196",4,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"197",4,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"198",4,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"199",4,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"200",4,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"201",5,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1243,9.93763991045731,"synth_conditional"
+"202",5,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1229,9.82571154461145,"synth_conditional"
+"203",5,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1255,10.0335785097538,"synth_conditional"
+"204",5,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1255,10.0335785097538,"synth_conditional"
+"205",5,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1256,10.0415733930285,"synth_conditional"
+"206",5,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1256,10.0415733930285,"synth_conditional"
+"207",5,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1256,10.0415733930285,"synth_conditional"
+"208",5,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1256,10.0415733930285,"synth_conditional"
+"209",6,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1241,9.9216501439079,"synth_conditional"
+"210",6,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1239,9.90566037735849,"synth_conditional"
+"211",6,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1255,10.0335785097538,"synth_conditional"
+"212",6,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1255,10.0335785097538,"synth_conditional"
+"213",6,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1254,10.0255836264791,"synth_conditional"
+"214",6,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1254,10.0255836264791,"synth_conditional"
+"215",6,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1254,10.0255836264791,"synth_conditional"
+"216",6,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1254,10.0255836264791,"synth_conditional"
+"217",7,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1236,9.88167572753438,"synth_conditional"
+"218",7,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1258,10.0575631595779,"synth_conditional"
+"219",7,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"220",7,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"221",7,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"222",7,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"223",7,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"224",7,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"225",8,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1221,9.76175247841381,"synth_conditional"
+"226",8,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1275,10.1934761752478,"synth_conditional"
+"227",8,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1251,10.0015989766549,"synth_conditional"
+"228",8,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1251,10.0015989766549,"synth_conditional"
+"229",8,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"230",8,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"231",8,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"232",8,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1252,10.0095938599296,"synth_conditional"
+"233",9,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1179,9.42596738087624,"synth_conditional"
+"234",9,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1308,10.4573073233131,"synth_conditional"
+"235",9,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1254,10.0255836264791,"synth_conditional"
+"236",9,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1253,10.0175887432043,"synth_conditional"
+"237",9,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1253,10.0175887432043,"synth_conditional"
+"238",9,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1253,10.0175887432043,"synth_conditional"
+"239",9,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1253,10.0175887432043,"synth_conditional"
+"240",9,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1253,10.0175887432043,"synth_conditional"
+"241",10,"IV: 
+contacten_onderwerp_mutatie: 0
+contacten_onderwerp_boolean_mutatie: 0
+",1176,9.40198273105213,"synth_conditional"
+"242",10,"IV: 
+contacten_onderwerp_mutatie: 1
+contacten_onderwerp_boolean_mutatie: 1
+",1329,10.6251998720819,"synth_conditional"
+"243",10,"IV: 
+contacten_onderwerp_mutatie: 10
+contacten_onderwerp_boolean_mutatie: 1
+",1250,9.99360409338024,"synth_conditional"
+"244",10,"IV: 
+contacten_onderwerp_mutatie: 15
+contacten_onderwerp_boolean_mutatie: 1
+",1251,10.0015989766549,"synth_conditional"
+"245",10,"IV: 
+contacten_onderwerp_mutatie: 2
+contacten_onderwerp_boolean_mutatie: 1
+",1250,9.99360409338024,"synth_conditional"
+"246",10,"IV: 
+contacten_onderwerp_mutatie: 3
+contacten_onderwerp_boolean_mutatie: 1
+",1250,9.99360409338024,"synth_conditional"
+"247",10,"IV: 
+contacten_onderwerp_mutatie: 4
+contacten_onderwerp_boolean_mutatie: 1
+",1250,9.99360409338024,"synth_conditional"
+"248",10,"IV: 
+contacten_onderwerp_mutatie: 5
+contacten_onderwerp_boolean_mutatie: 1
+",1250,9.99360409338024,"synth_conditional"

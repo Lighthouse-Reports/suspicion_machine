@@ -1,0 +1,901 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 1
+",8,85,0.831,"ns",1,"ns","real"
+"2","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 10
+",8,438,0.111,"ns",1,"ns","real"
+"3","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 10
+",85,438,3.65e-05,"****",0.00164,"**","real"
+"4","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 15
+",8,458,0.132,"ns",1,"ns","real"
+"5","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 15
+",85,458,0.000108,"***",0.00464,"**","real"
+"6","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 15
+",438,458,0.63,"ns",1,"ns","real"
+"7","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 2
+",8,115,0.263,"ns",1,"ns","real"
+"8","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 2
+",85,115,0.021,"*",0.692,"ns","real"
+"9","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 2
+",438,115,0.127,"ns",1,"ns","real"
+"10","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 2
+",458,115,0.221,"ns",1,"ns","real"
+"11","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",8,360,0.146,"ns",1,"ns","real"
+"12","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",85,360,0.000261,"***",0.011,"*","real"
+"13","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",438,360,0.488,"ns",1,"ns","real"
+"14","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",458,360,0.808,"ns",1,"ns","real"
+"15","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",115,360,0.302,"ns",1,"ns","real"
+"16","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",8,195,0.434,"ns",1,"ns","real"
+"17","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",85,195,0.118,"ns",1,"ns","real"
+"18","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",438,195,0.000865,"***",0.0346,"*","real"
+"19","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",458,195,0.0029,"**",0.11,"ns","real"
+"20","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",115,195,0.279,"ns",1,"ns","real"
+"21","Ja","IV: 
+contacten_soort_document__uitgaand_: 20
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",360,195,0.00752,"**",0.271,"ns","real"
+"22","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",8,196,0.531,"ns",1,"ns","real"
+"23","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",85,196,0.259,"ns",1,"ns","real"
+"24","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",438,196,6.61e-05,"****",0.00291,"**","real"
+"25","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",458,196,0.000271,"***",0.0111,"*","real"
+"26","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",115,196,0.118,"ns",1,"ns","real"
+"27","Ja","IV: 
+contacten_soort_document__uitgaand_: 20
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",360,196,0.000932,"***",0.0364,"*","real"
+"28","Ja","IV: 
+contacten_soort_document__uitgaand_: 3
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",195,196,0.577,"ns",1,"ns","real"
+"29","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",8,229,0.318,"ns",1,"ns","real"
+"30","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",85,229,0.0276,"*",0.855,"ns","real"
+"31","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",438,229,0.00998,"**",0.349,"ns","real"
+"32","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",458,229,0.0279,"*",0.855,"ns","real"
+"33","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",115,229,0.659,"ns",1,"ns","real"
+"34","Ja","IV: 
+contacten_soort_document__uitgaand_: 20
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",360,229,0.0569,"ns",1,"ns","real"
+"35","Ja","IV: 
+contacten_soort_document__uitgaand_: 3
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",195,229,0.43,"ns",1,"ns","real"
+"36","Ja","IV: 
+contacten_soort_document__uitgaand_: 30
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",196,229,0.171,"ns",1,"ns","real"
+"37","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",8,284,0.338,"ns",1,"ns","real"
+"38","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",85,284,0.0325,"*",0.943,"ns","real"
+"39","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",438,284,0.00307,"**",0.114,"ns","real"
+"40","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",458,284,0.0104,"*",0.355,"ns","real"
+"41","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",115,284,0.551,"ns",1,"ns","real"
+"42","Ja","IV: 
+contacten_soort_document__uitgaand_: 20
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",360,284,0.0262,"*",0.84,"ns","real"
+"43","Ja","IV: 
+contacten_soort_document__uitgaand_: 3
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",195,284,0.51,"ns",1,"ns","real"
+"44","Ja","IV: 
+contacten_soort_document__uitgaand_: 30
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",196,284,0.205,"ns",1,"ns","real"
+"45","Ja","IV: 
+contacten_soort_document__uitgaand_: 4
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",229,284,0.861,"ns",1,"ns","real"
+"46","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"47","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 10
+",12645,12645,0.0235,"*",0.915,"ns","real_conditional"
+"48","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 10
+",12645,12645,0.0235,"*",0.915,"ns","real_conditional"
+"49","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 15
+",12645,12645,0.0158,"*",0.678,"ns","real_conditional"
+"50","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 15
+",12645,12645,0.0158,"*",0.678,"ns","real_conditional"
+"51","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 15
+",12645,12645,0.882,"ns",1,"ns","real_conditional"
+"52","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 2
+",12645,12645,0.401,"ns",1,"ns","real_conditional"
+"53","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 2
+",12645,12645,0.401,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 2
+",12645,12645,0.154,"ns",1,"ns","real_conditional"
+"55","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 2
+",12645,12645,0.115,"ns",1,"ns","real_conditional"
+"56","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",12645,12645,0.0235,"*",0.915,"ns","real_conditional"
+"57","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",12645,12645,0.0235,"*",0.915,"ns","real_conditional"
+"58","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"59","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",12645,12645,0.882,"ns",1,"ns","real_conditional"
+"60","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",12645,12645,0.154,"ns",1,"ns","real_conditional"
+"61","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",12645,12645,0.077,"ns",1,"ns","real_conditional"
+"62","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",12645,12645,0.077,"ns",1,"ns","real_conditional"
+"63","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",12645,12645,0.619,"ns",1,"ns","real_conditional"
+"64","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",12645,12645,0.518,"ns",1,"ns","real_conditional"
+"65","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",12645,12645,0.354,"ns",1,"ns","real_conditional"
+"66","Ja","IV: 
+contacten_soort_document__uitgaand_: 20
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",12645,12645,0.619,"ns",1,"ns","real_conditional"
+"67","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",12645,12645,0.0144,"*",0.649,"ns","real_conditional"
+"68","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",12645,12645,0.0144,"*",0.649,"ns","real_conditional"
+"69","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",12645,12645,0.856,"ns",1,"ns","real_conditional"
+"70","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",12645,12645,0.974,"ns",1,"ns","real_conditional"
+"71","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",12645,12645,0.108,"ns",1,"ns","real_conditional"
+"72","Ja","IV: 
+contacten_soort_document__uitgaand_: 20
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",12645,12645,0.857,"ns",1,"ns","real_conditional"
+"73","Ja","IV: 
+contacten_soort_document__uitgaand_: 3
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",12645,12645,0.498,"ns",1,"ns","real_conditional"
+"74","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",12645,12645,0.077,"ns",1,"ns","real_conditional"
+"75","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",12645,12645,0.077,"ns",1,"ns","real_conditional"
+"76","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",12645,12645,0.619,"ns",1,"ns","real_conditional"
+"77","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",12645,12645,0.518,"ns",1,"ns","real_conditional"
+"78","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",12645,12645,0.354,"ns",1,"ns","real_conditional"
+"79","Ja","IV: 
+contacten_soort_document__uitgaand_: 20
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",12645,12645,0.619,"ns",1,"ns","real_conditional"
+"80","Ja","IV: 
+contacten_soort_document__uitgaand_: 3
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"81","Ja","IV: 
+contacten_soort_document__uitgaand_: 30
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",12645,12645,0.498,"ns",1,"ns","real_conditional"
+"82","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12645,12645,0.0162,"*",0.678,"ns","real_conditional"
+"83","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12645,12645,0.0162,"*",0.678,"ns","real_conditional"
+"84","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12645,12645,0.889,"ns",1,"ns","real_conditional"
+"85","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12645,12645,0.993,"ns",1,"ns","real_conditional"
+"86","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12645,12645,0.118,"ns",1,"ns","real_conditional"
+"87","Ja","IV: 
+contacten_soort_document__uitgaand_: 20
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12645,12645,0.889,"ns",1,"ns","real_conditional"
+"88","Ja","IV: 
+contacten_soort_document__uitgaand_: 3
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12645,12645,0.524,"ns",1,"ns","real_conditional"
+"89","Ja","IV: 
+contacten_soort_document__uitgaand_: 30
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12645,12645,0.967,"ns",1,"ns","real_conditional"
+"90","Ja","IV: 
+contacten_soort_document__uitgaand_: 4
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12645,12645,0.524,"ns",1,"ns","real_conditional"
+"91","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 1
+",39,118,0.736,"ns",1,"ns","synth"
+"92","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 10
+",39,273,0.439,"ns",1,"ns","synth"
+"93","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 10
+",118,273,0.0769,"ns",1,"ns","synth"
+"94","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 15
+",39,333,0.264,"ns",1,"ns","synth"
+"95","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 15
+",118,333,0.0189,"*",0.72,"ns","synth"
+"96","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 15
+",273,333,0.488,"ns",1,"ns","synth"
+"97","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 2
+",39,136,0.654,"ns",1,"ns","synth"
+"98","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 2
+",118,136,0.253,"ns",1,"ns","synth"
+"99","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 2
+",273,136,0.625,"ns",1,"ns","synth"
+"100","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 2
+",333,136,0.289,"ns",1,"ns","synth"
+"101","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",39,328,0.182,"ns",1,"ns","synth"
+"102","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",118,328,0.0073,"**",0.314,"ns","synth"
+"103","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",273,328,0.255,"ns",1,"ns","synth"
+"104","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",333,328,0.638,"ns",1,"ns","synth"
+"105","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",136,328,0.157,"ns",1,"ns","synth"
+"106","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",39,164,0.984,"ns",1,"ns","synth"
+"107","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",118,164,0.627,"ns",1,"ns","synth"
+"108","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",273,164,0.168,"ns",1,"ns","synth"
+"109","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",333,164,0.0433,"*",1,"ns","synth"
+"110","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",136,164,0.464,"ns",1,"ns","synth"
+"111","Ja","IV: 
+contacten_soort_document__uitgaand_: 20
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",328,164,0.0165,"*",0.659,"ns","synth"
+"112","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",39,265,0.048,"*",1,"ns","synth"
+"113","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",118,265,0.00029,"***",0.0131,"*","synth"
+"114","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",273,265,0.0166,"*",0.659,"ns","synth"
+"115","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",333,265,0.0683,"ns",1,"ns","synth"
+"116","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",136,265,0.0145,"*",0.595,"ns","synth"
+"117","Ja","IV: 
+contacten_soort_document__uitgaand_: 20
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",328,265,0.17,"ns",1,"ns","synth"
+"118","Ja","IV: 
+contacten_soort_document__uitgaand_: 3
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",164,265,0.000567,"***",0.0249,"*","synth"
+"119","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",39,223,0.203,"ns",1,"ns","synth"
+"120","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",118,223,0.0129,"*",0.541,"ns","synth"
+"121","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",273,223,0.328,"ns",1,"ns","synth"
+"122","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",333,223,0.714,"ns",1,"ns","synth"
+"123","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",136,223,0.199,"ns",1,"ns","synth"
+"124","Ja","IV: 
+contacten_soort_document__uitgaand_: 20
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",328,223,0.955,"ns",1,"ns","synth"
+"125","Ja","IV: 
+contacten_soort_document__uitgaand_: 3
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",164,223,0.0291,"*",1,"ns","synth"
+"126","Ja","IV: 
+contacten_soort_document__uitgaand_: 30
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",265,223,0.193,"ns",1,"ns","synth"
+"127","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",39,220,0.417,"ns",1,"ns","synth"
+"128","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",118,220,0.0749,"ns",1,"ns","synth"
+"129","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",273,220,0.926,"ns",1,"ns","synth"
+"130","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",333,220,0.579,"ns",1,"ns","synth"
+"131","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",136,220,0.585,"ns",1,"ns","synth"
+"132","Ja","IV: 
+contacten_soort_document__uitgaand_: 20
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",328,220,0.33,"ns",1,"ns","synth"
+"133","Ja","IV: 
+contacten_soort_document__uitgaand_: 3
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",164,220,0.161,"ns",1,"ns","synth"
+"134","Ja","IV: 
+contacten_soort_document__uitgaand_: 30
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",265,220,0.0297,"*",1,"ns","synth"
+"135","Ja","IV: 
+contacten_soort_document__uitgaand_: 4
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",223,220,0.4,"ns",1,"ns","synth"
+"136","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"137","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 10
+",12508,12508,0.0103,"*",0.38,"ns","synth_conditional"
+"138","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 10
+",12508,12508,0.0103,"*",0.38,"ns","synth_conditional"
+"139","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 15
+",12508,12508,0.00442,"**",0.181,"ns","synth_conditional"
+"140","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 15
+",12508,12508,0.00442,"**",0.181,"ns","synth_conditional"
+"141","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 15
+",12508,12508,0.779,"ns",1,"ns","synth_conditional"
+"142","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 2
+",12508,12508,0.121,"ns",1,"ns","synth_conditional"
+"143","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 2
+",12508,12508,0.121,"ns",1,"ns","synth_conditional"
+"144","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 2
+",12508,12508,0.311,"ns",1,"ns","synth_conditional"
+"145","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 2
+",12508,12508,0.196,"ns",1,"ns","synth_conditional"
+"146","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",12508,12508,0.00602,"**",0.235,"ns","synth_conditional"
+"147","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",12508,12508,0.00602,"**",0.235,"ns","synth_conditional"
+"148","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",12508,12508,0.857,"ns",1,"ns","synth_conditional"
+"149","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",12508,12508,0.921,"ns",1,"ns","synth_conditional"
+"150","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 20
+",12508,12508,0.232,"ns",1,"ns","synth_conditional"
+"151","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",12508,12508,0.0246,"*",0.862,"ns","synth_conditional"
+"152","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",12508,12508,0.0246,"*",0.862,"ns","synth_conditional"
+"153","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",12508,12508,0.75,"ns",1,"ns","synth_conditional"
+"154","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",12508,12508,0.549,"ns",1,"ns","synth_conditional"
+"155","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",12508,12508,0.487,"ns",1,"ns","synth_conditional"
+"156","Ja","IV: 
+contacten_soort_document__uitgaand_: 20
+","IV: 
+contacten_soort_document__uitgaand_: 3
+",12508,12508,0.617,"ns",1,"ns","synth_conditional"
+"157","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",12508,12508,0.00122,"**",0.0529,"ns","synth_conditional"
+"158","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",12508,12508,0.00122,"**",0.0529,"ns","synth_conditional"
+"159","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",12508,12508,0.504,"ns",1,"ns","synth_conditional"
+"160","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",12508,12508,0.697,"ns",1,"ns","synth_conditional"
+"161","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",12508,12508,0.0924,"ns",1,"ns","synth_conditional"
+"162","Ja","IV: 
+contacten_soort_document__uitgaand_: 20
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",12508,12508,0.626,"ns",1,"ns","synth_conditional"
+"163","Ja","IV: 
+contacten_soort_document__uitgaand_: 3
+","IV: 
+contacten_soort_document__uitgaand_: 30
+",12508,12508,0.323,"ns",1,"ns","synth_conditional"
+"164","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",12508,12508,0.0246,"*",0.862,"ns","synth_conditional"
+"165","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",12508,12508,0.0246,"*",0.862,"ns","synth_conditional"
+"166","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",12508,12508,0.75,"ns",1,"ns","synth_conditional"
+"167","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",12508,12508,0.549,"ns",1,"ns","synth_conditional"
+"168","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",12508,12508,0.487,"ns",1,"ns","synth_conditional"
+"169","Ja","IV: 
+contacten_soort_document__uitgaand_: 20
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",12508,12508,0.617,"ns",1,"ns","synth_conditional"
+"170","Ja","IV: 
+contacten_soort_document__uitgaand_: 3
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"171","Ja","IV: 
+contacten_soort_document__uitgaand_: 30
+","IV: 
+contacten_soort_document__uitgaand_: 4
+",12508,12508,0.323,"ns",1,"ns","synth_conditional"
+"172","Ja","IV: 
+contacten_soort_document__uitgaand_: 0
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12508,12508,0.00117,"**",0.0529,"ns","synth_conditional"
+"173","Ja","IV: 
+contacten_soort_document__uitgaand_: 1
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12508,12508,0.00117,"**",0.0529,"ns","synth_conditional"
+"174","Ja","IV: 
+contacten_soort_document__uitgaand_: 10
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12508,12508,0.497,"ns",1,"ns","synth_conditional"
+"175","Ja","IV: 
+contacten_soort_document__uitgaand_: 15
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12508,12508,0.69,"ns",1,"ns","synth_conditional"
+"176","Ja","IV: 
+contacten_soort_document__uitgaand_: 2
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12508,12508,0.0905,"ns",1,"ns","synth_conditional"
+"177","Ja","IV: 
+contacten_soort_document__uitgaand_: 20
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12508,12508,0.618,"ns",1,"ns","synth_conditional"
+"178","Ja","IV: 
+contacten_soort_document__uitgaand_: 3
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12508,12508,0.318,"ns",1,"ns","synth_conditional"
+"179","Ja","IV: 
+contacten_soort_document__uitgaand_: 30
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12508,12508,0.992,"ns",1,"ns","synth_conditional"
+"180","Ja","IV: 
+contacten_soort_document__uitgaand_: 4
+","IV: 
+contacten_soort_document__uitgaand_: 5
+",12508,12508,0.318,"ns",1,"ns","synth_conditional"

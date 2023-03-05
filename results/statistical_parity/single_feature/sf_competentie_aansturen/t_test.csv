@@ -1,0 +1,61 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+competentie_aansturen: 0
+","IV: 
+competentie_aansturen: 1
+",9718,2890,1.02e-185,"****",3.07e-185,"****","real"
+"2","Ja","IV: 
+competentie_aansturen: 0
+","IV: 
+competentie_aansturen: 2
+",9718,37,5.43e-12,"****",1.09e-11,"****","real"
+"3","Ja","IV: 
+competentie_aansturen: 1
+","IV: 
+competentie_aansturen: 2
+",2890,37,0.00204,"**",0.00204,"**","real"
+"4","Ja","IV: 
+competentie_aansturen: 0
+","IV: 
+competentie_aansturen: 1
+",12645,12645,0.417,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+competentie_aansturen: 0
+","IV: 
+competentie_aansturen: 2
+",12645,12645,0.417,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+competentie_aansturen: 1
+","IV: 
+competentie_aansturen: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+competentie_aansturen: 0
+","IV: 
+competentie_aansturen: 1
+",8890,3730,9.09e-49,"****",2.73e-48,"****","synth"
+"8","Ja","IV: 
+competentie_aansturen: 0
+","IV: 
+competentie_aansturen: 2
+",8890,25,0.00515,"**",0.0103,"*","synth"
+"9","Ja","IV: 
+competentie_aansturen: 1
+","IV: 
+competentie_aansturen: 2
+",3730,25,0.174,"ns",0.174,"ns","synth"
+"10","Ja","IV: 
+competentie_aansturen: 0
+","IV: 
+competentie_aansturen: 1
+",12508,12508,0.104,"ns",0.311,"ns","synth_conditional"
+"11","Ja","IV: 
+competentie_aansturen: 0
+","IV: 
+competentie_aansturen: 2
+",12508,12508,0.104,"ns",0.311,"ns","synth_conditional"
+"12","Ja","IV: 
+competentie_aansturen: 1
+","IV: 
+competentie_aansturen: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"

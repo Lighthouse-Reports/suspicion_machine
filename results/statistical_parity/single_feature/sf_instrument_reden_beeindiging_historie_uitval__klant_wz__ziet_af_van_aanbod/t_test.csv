@@ -1,0 +1,166 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+",11447,1035,5.52e-12,"****",5.52e-11,"****","real"
+"2","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+",11447,127,0.000428,"***",0.00385,"**","real"
+"3","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+",1035,127,0.336,"ns",1,"ns","real"
+"4","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 3
+",11447,32,0.0128,"*",0.102,"ns","real"
+"5","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 3
+",1035,32,0.227,"ns",1,"ns","real"
+"6","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 3
+",127,32,0.523,"ns",1,"ns","real"
+"7","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 4
+",11447,4,0.489,"ns",1,"ns","real"
+"8","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 4
+",1035,4,0.255,"ns",1,"ns","real"
+"9","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 4
+",127,4,0.193,"ns",1,"ns","real"
+"10","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 3
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 4
+",32,4,0.138,"ns",0.965,"ns","real"
+"11","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+",12645,12645,0.018,"*",0.0721,"ns","real_conditional"
+"12","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+",12645,12645,4.87e-08,"****",4.87e-07,"****","real_conditional"
+"13","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+",12645,12645,0.00199,"**",0.014,"*","real_conditional"
+"14","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 3
+",12645,12645,4.87e-08,"****",4.87e-07,"****","real_conditional"
+"15","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 3
+",12645,12645,0.00199,"**",0.014,"*","real_conditional"
+"16","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"17","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 4
+",12645,12645,4.87e-08,"****",4.87e-07,"****","real_conditional"
+"18","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 4
+",12645,12645,0.00199,"**",0.014,"*","real_conditional"
+"19","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"20","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 3
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"21","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+",9995,2648,1.51e-12,"****",4.52e-12,"****","synth"
+"22","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+",9995,2,0.806,"ns",1,"ns","synth"
+"23","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+",2648,2,0.978,"ns",1,"ns","synth"
+"24","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+",12508,12508,0.000419,"***",0.00283,"**","synth_conditional"
+"25","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+",12508,12508,1.61e-12,"****",1.61e-11,"****","synth_conditional"
+"26","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+",12508,12508,0.000404,"***",0.00283,"**","synth_conditional"
+"27","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 3
+",12508,12508,1.61e-12,"****",1.61e-11,"****","synth_conditional"
+"28","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 3
+",12508,12508,0.000404,"***",0.00283,"**","synth_conditional"
+"29","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"30","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 0
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 4
+",12508,12508,1.61e-12,"****",1.61e-11,"****","synth_conditional"
+"31","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 1
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 4
+",12508,12508,0.000404,"***",0.00283,"**","synth_conditional"
+"32","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 2
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"33","Ja","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 3
+","IV: 
+instrument_reden_beeindiging_historie_uitval__klant_wz__ziet_af_van_aanbod: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"

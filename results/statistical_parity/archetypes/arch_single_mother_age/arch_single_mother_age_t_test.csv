@@ -1,0 +1,31 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 28
+","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",12645,12645,1.35e-61,"****",1.35e-61,"****","real_conditional"
+"2","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 28
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",12645,12645,3.93e-255,"****",1.18e-254,"****","real_conditional"
+"3","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",12645,12645,1.59e-70,"****",3.18e-70,"****","real_conditional"
+"4","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 28
+","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+",12508,12508,1.32e-49,"****",2.63e-49,"****","synth_conditional"
+"5","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 28
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",12508,12508,1.85e-165,"****",5.54e-165,"****","synth_conditional"
+"6","Ja","IV: 
+persoon_leeftijd_bij_onderzoek: 35
+","IV: 
+persoon_leeftijd_bij_onderzoek: 45
+",12508,12508,5.22e-37,"****",5.22e-37,"****","synth_conditional"

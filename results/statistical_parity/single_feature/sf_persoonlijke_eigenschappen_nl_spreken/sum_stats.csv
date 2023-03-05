@@ -1,0 +1,43 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+var_1: NA
+","Ja",5344,0.448,0.153,0.062125748502994,0.212387724550898,-3.7874251497006,11.2387724550898,"real"
+"2","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken1
+","Ja",2264,0.518,0.15,0.137809187279152,0.333480565371025,3.78091872791519,23.3480565371025,"real"
+"3","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken2
+","Ja",4256,0.524,0.146,0.131813909774436,0.345864661654135,3.18139097744361,24.5864661654135,"real"
+"4","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken3
+","Ja",781,0.497,0.136,0.0768245838668374,0.261203585147247,-2.31754161331626,16.1203585147247,"real"
+"5","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken1
+","Ja",12645,0.489,0.153,0.10003954132068,0.281692368525109,0.00395413206801115,18.1692368525109,"real_conditional"
+"6","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken2
+","Ja",12645,0.49,0.153,0.10011862396204,0.282720442862792,0.0118623962040335,18.2720442862792,"real_conditional"
+"7","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken3
+","Ja",12645,0.488,0.153,0.097508896797153,0.278212732305259,-0.249110320284698,17.8212732305259,"real_conditional"
+"8","IV: 
+var_1: NA
+","Ja",4832,0.604,0.09,0.0943708609271523,0.60637417218543,-0.562913907284769,50.637417218543,"synth"
+"9","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken1
+","Ja",2301,0.612,0.084,0.1038678835289,0.641025641025641,0.386788352890047,54.1025641025641,"synth"
+"10","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken2
+","Ja",5155,0.62,0.081,0.106692531522793,0.675848690591659,0.669253152279339,57.5848690591659,"synth"
+"11","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken3
+","Ja",357,0.603,0.083,0.0560224089635854,0.61624649859944,-4.39775910364146,51.624649859944,"synth"
+"12","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken1
+","Ja",12508,0.612,0.085,0.0998560921010553,0.641189638631276,-0.0143907898944681,54.1189638631276,"synth_conditional"
+"13","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken2
+","Ja",12508,0.612,0.085,0.100415733930285,0.642228973456987,0.0415733930284615,54.2228973456987,"synth_conditional"
+"14","IV: 
+var_1: persoonlijke_eigenschappen_nl_spreken3
+","Ja",12508,0.611,0.085,0.0949792133034858,0.637272145826671,-0.502078669651423,53.7272145826671,"synth_conditional"

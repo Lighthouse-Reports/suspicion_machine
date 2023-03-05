@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",982,13.9528275078147,"real"
+"2",1,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",283,5.04726235063314,"real"
+"3",2,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",874,12.4183006535948,"real"
+"4",2,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",391,6.97342607454967,"real"
+"5",3,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",779,11.0684853651606,"real"
+"6",3,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",486,8.6677367576244,"real"
+"7",4,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",674,9.57658425689116,"real"
+"8",4,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",591,10.5403959336544,"real"
+"9",5,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",643,9.1361182154021,"real"
+"10",5,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",622,11.0932762618156,"real"
+"11",6,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",639,9.07928388746803,"real"
+"12",6,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",625,11.1467808097022,"real"
+"13",7,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",628,8.92298948564933,"real"
+"14",7,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",636,11.3429641519529,"real"
+"15",8,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",623,8.85194657573174,"real"
+"16",8,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",641,11.4321383984305,"real"
+"17",9,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",604,8.5819835180449,"real"
+"18",9,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",660,11.7710005350455,"real"
+"19",10,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",592,8.41148053424268,"real"
+"20",10,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",672,11.9850187265918,"real"
+"21",1,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1265,10.003954132068,"real_conditional"
+"22",1,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1264,9.99604586793199,"real_conditional"
+"23",2,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1263,9.98813760379597,"real_conditional"
+"24",2,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1266,10.011862396204,"real_conditional"
+"25",3,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1265,10.003954132068,"real_conditional"
+"26",3,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1264,9.99604586793199,"real_conditional"
+"27",4,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1262,9.98022933965994,"real_conditional"
+"28",4,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1267,10.0197706603401,"real_conditional"
+"29",5,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1263,9.98813760379597,"real_conditional"
+"30",5,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1266,10.011862396204,"real_conditional"
+"31",6,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1263,9.98813760379597,"real_conditional"
+"32",6,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1266,10.011862396204,"real_conditional"
+"33",7,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1266,10.011862396204,"real_conditional"
+"34",7,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1263,9.98813760379597,"real_conditional"
+"35",8,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1260,9.9644128113879,"real_conditional"
+"36",8,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1269,10.0355871886121,"real_conditional"
+"37",9,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1266,10.011862396204,"real_conditional"
+"38",9,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1263,9.98813760379597,"real_conditional"
+"39",10,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1272,10.0593119810202,"real_conditional"
+"40",10,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1257,9.94068801897983,"real_conditional"
+"41",1,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",800,11.8098612341305,"synth"
+"42",1,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",465,7.92028615227389,"synth"
+"43",2,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",724,10.6879244168881,"synth"
+"44",2,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",541,9.21478453415091,"synth"
+"45",3,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",704,10.3926778860348,"synth"
+"46",3,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",561,9.55544200306592,"synth"
+"47",4,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",712,10.5107764983761,"synth"
+"48",4,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",553,9.41917901549991,"synth"
+"49",5,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",633,9.34455270150576,"synth"
+"50",5,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",632,10.7647760177142,"synth"
+"51",6,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",642,9.47741364038973,"synth"
+"52",6,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",622,10.5944472832567,"synth"
+"53",7,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",646,9.53646294656038,"synth"
+"54",7,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",618,10.5263157894737,"synth"
+"55",8,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",644,9.50693829347505,"synth"
+"56",8,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",620,10.5603815363652,"synth"
+"57",9,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",620,9.15264245645114,"synth"
+"58",9,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",644,10.9691704990632,"synth"
+"59",10,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",649,9.58074992618837,"synth"
+"60",10,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",615,10.4752171691364,"synth"
+"61",1,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1245,9.95362967700671,"synth_conditional"
+"62",1,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1257,10.0495682763032,"synth_conditional"
+"63",2,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1231,9.84170131116086,"synth_conditional"
+"64",2,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1271,10.161496642149,"synth_conditional"
+"65",3,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1243,9.93763991045731,"synth_conditional"
+"66",3,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1259,10.0655580428526,"synth_conditional"
+"67",4,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1247,9.96961944355612,"synth_conditional"
+"68",4,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1255,10.0335785097538,"synth_conditional"
+"69",5,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1232,9.84969619443556,"synth_conditional"
+"70",5,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1270,10.1535017588743,"synth_conditional"
+"71",6,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1249,9.98560921010553,"synth_conditional"
+"72",6,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1253,10.0175887432043,"synth_conditional"
+"73",7,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1246,9.96162456028142,"synth_conditional"
+"74",7,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1255,10.0335785097538,"synth_conditional"
+"75",8,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1253,10.0175887432043,"synth_conditional"
+"76",8,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1248,9.97761432683083,"synth_conditional"
+"77",9,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1273,10.1774864086984,"synth_conditional"
+"78",9,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1228,9.81771666133674,"synth_conditional"
+"79",10,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 0
+",1289,10.3054045410937,"synth_conditional"
+"80",10,"IV: 
+persoonlijke_eigenschappen_uiterlijke_verzorging_opm: 1
+",1212,9.68979852894148,"synth_conditional"

@@ -1,0 +1,376 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1186,9.81869360046361,"real"
+"2",1,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",78,14.0035906642729,"real"
+"3",1,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1,100,"real"
+"4",2,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1187,9.82697243149267,"real"
+"5",2,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",78,14.0035906642729,"real"
+"6",3,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1188,9.83525126252173,"real"
+"7",3,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",76,13.6445242369838,"real"
+"8",3,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1,12.5,"real"
+"9",4,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1186,9.81869360046361,"real"
+"10",4,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",79,14.1831238779174,"real"
+"11",5,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1198,9.91803957281232,"real"
+"12",5,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",66,11.8491921005386,"real"
+"13",5,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1,12.5,"real"
+"14",6,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1203,9.95943372795761,"real"
+"15",6,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",61,10.951526032316,"real"
+"16",7,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1209,10.009106714132,"real"
+"17",7,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",52,9.33572710951526,"real"
+"18",7,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",3,37.5,"real"
+"19",8,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1224,10.1332891795678,"real"
+"20",8,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",37,6.6427289048474,"real"
+"21",8,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",3,37.5,"real"
+"22",9,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1242,10.2823081380909,"real"
+"23",9,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",22,3.94973070017953,"real"
+"24",10,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1256,10.3982117724977,"real"
+"25",10,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",8,1.43626570915619,"real"
+"26",1,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1141,9.02332937920126,"real_conditional"
+"27",1,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1306,10.3281929616449,"real_conditional"
+"28",1,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1306,10.3281929616449,"real_conditional"
+"29",1,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1305,10.3202846975089,"real_conditional"
+"30",2,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1191,9.41874258600237,"real_conditional"
+"31",2,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1289,10.1937524713325,"real_conditional"
+"32",2,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1289,10.1937524713325,"real_conditional"
+"33",2,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1289,10.1937524713325,"real_conditional"
+"34",3,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1222,9.66389877421906,"real_conditional"
+"35",3,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1279,10.1146698299723,"real_conditional"
+"36",3,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1278,10.1067615658363,"real_conditional"
+"37",3,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1279,10.1146698299723,"real_conditional"
+"38",4,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1240,9.80624752866746,"real_conditional"
+"39",4,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1272,10.0593119810202,"real_conditional"
+"40",4,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1273,10.0672202451562,"real_conditional"
+"41",4,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1273,10.0672202451562,"real_conditional"
+"42",5,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1230,9.72716488730724,"real_conditional"
+"43",5,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1276,10.0909450375643,"real_conditional"
+"44",5,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1276,10.0909450375643,"real_conditional"
+"45",5,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1276,10.0909450375643,"real_conditional"
+"46",6,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1306,10.3281929616449,"real_conditional"
+"47",6,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1251,9.8932384341637,"real_conditional"
+"48",6,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1251,9.8932384341637,"real_conditional"
+"49",6,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1250,9.88533017002768,"real_conditional"
+"50",7,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1224,9.6797153024911,"real_conditional"
+"51",7,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1278,10.1067615658363,"real_conditional"
+"52",7,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1278,10.1067615658363,"real_conditional"
+"53",7,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1278,10.1067615658363,"real_conditional"
+"54",8,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1293,10.2253855278766,"real_conditional"
+"55",8,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1255,9.92487149070779,"real_conditional"
+"56",8,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1255,9.92487149070779,"real_conditional"
+"57",8,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1255,9.92487149070779,"real_conditional"
+"58",9,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1346,10.6445235270858,"real_conditional"
+"59",9,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1237,9.78252273625939,"real_conditional"
+"60",9,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1237,9.78252273625939,"real_conditional"
+"61",9,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1238,9.79043100039541,"real_conditional"
+"62",10,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1452,11.4827995255042,"real_conditional"
+"63",10,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1202,9.50573349149862,"real_conditional"
+"64",10,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1202,9.50573349149862,"real_conditional"
+"65",10,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1202,9.50573349149862,"real_conditional"
+"66",1,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1230,9.96677740863787,"synth"
+"67",1,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",35,11.5131578947368,"synth"
+"68",2,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1221,9.89384976906248,"synth"
+"69",2,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",44,14.4736842105263,"synth"
+"70",3,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1227,9.94246819544607,"synth"
+"71",3,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",38,12.5,"synth"
+"72",4,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1226,9.93436512438214,"synth"
+"73",4,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",39,12.8289473684211,"synth"
+"74",5,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1235,10.0072927639575,"synth"
+"75",5,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",30,9.86842105263158,"synth"
+"76",6,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1232,9.98298355076574,"synth"
+"77",6,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",32,10.5263157894737,"synth"
+"78",7,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1237,10.0234989060854,"synth"
+"79",7,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",27,8.88157894736842,"synth"
+"80",8,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1246,10.0964265456608,"synth"
+"81",8,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",18,5.92105263157895,"synth"
+"82",9,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1243,10.072117332469,"synth"
+"83",9,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",21,6.90789473684211,"synth"
+"84",10,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1244,10.0802204035329,"synth"
+"85",10,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",20,6.57894736842105,"synth"
+"86",1,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1089,8.70642788615286,"synth_conditional"
+"87",1,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1305,10.433322673489,"synth_conditional"
+"88",1,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1305,10.433322673489,"synth_conditional"
+"89",1,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1305,10.433322673489,"synth_conditional"
+"90",2,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1107,8.85033578509754,"synth_conditional"
+"91",2,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1299,10.3853533738407,"synth_conditional"
+"92",2,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1299,10.3853533738407,"synth_conditional"
+"93",2,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1299,10.3853533738407,"synth_conditional"
+"94",3,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1151,9.20211064918452,"synth_conditional"
+"95",3,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1284,10.2654301247202,"synth_conditional"
+"96",3,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1284,10.2654301247202,"synth_conditional"
+"97",3,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1284,10.2654301247202,"synth_conditional"
+"98",4,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1101,8.80236648544931,"synth_conditional"
+"99",4,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1301,10.4013431403901,"synth_conditional"
+"100",4,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1301,10.4013431403901,"synth_conditional"
+"101",4,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1300,10.3933482571154,"synth_conditional"
+"102",5,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1249,9.98560921010553,"synth_conditional"
+"103",5,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1251,10.0015989766549,"synth_conditional"
+"104",5,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1251,10.0015989766549,"synth_conditional"
+"105",5,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1252,10.0095938599296,"synth_conditional"
+"106",6,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1202,9.60984969619444,"synth_conditional"
+"107",6,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1267,10.1295171090502,"synth_conditional"
+"108",6,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1267,10.1295171090502,"synth_conditional"
+"109",6,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1267,10.1295171090502,"synth_conditional"
+"110",7,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1251,10.0015989766549,"synth_conditional"
+"111",7,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1251,10.0015989766549,"synth_conditional"
+"112",7,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1251,10.0015989766549,"synth_conditional"
+"113",7,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1250,9.99360409338024,"synth_conditional"
+"114",8,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1347,10.7691077710265,"synth_conditional"
+"115",8,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1219,9.74576271186441,"synth_conditional"
+"116",8,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1218,9.7377678285897,"synth_conditional"
+"117",8,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1219,9.74576271186441,"synth_conditional"
+"118",9,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1407,11.2488007675088,"synth_conditional"
+"119",9,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1198,9.57787016309562,"synth_conditional"
+"120",9,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1199,9.58586504637032,"synth_conditional"
+"121",9,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1199,9.58586504637032,"synth_conditional"
+"122",10,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 0
+",1604,12.8237927726255,"synth_conditional"
+"123",10,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 1
+",1133,9.05820275023985,"synth_conditional"
+"124",10,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 2
+",1133,9.05820275023985,"synth_conditional"
+"125",10,"IV: 
+afspraak_afgelopen_jaar_monitoring_insp__wet_taaleis_na_12_mnd_n_a_v__taa04_____geen_maatregel: 3
+",1133,9.05820275023985,"synth_conditional"

@@ -1,0 +1,706 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 1
+",9484,1411,0.0034,"**",0.085,"ns","real"
+"2","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 10
+",9484,20,3.18e-05,"****",0.000986,"***","real"
+"3","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 10
+",1411,20,0.000167,"***",0.00501,"**","real"
+"4","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 15
+",9484,9,0.0118,"*",0.237,"ns","real"
+"5","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 15
+",1411,9,0.0238,"*",0.405,"ns","real"
+"6","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 15
+",20,9,0.818,"ns",1,"ns","real"
+"7","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 2
+",9484,386,2.51e-07,"****",8.78e-06,"****","real"
+"8","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 2
+",1411,386,0.00134,"**",0.0374,"*","real"
+"9","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 2
+",20,386,0.00381,"**",0.0915,"ns","real"
+"10","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 2
+",9,386,0.0901,"ns",1,"ns","real"
+"11","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 20
+",9484,3,0.105,"ns",1,"ns","real"
+"12","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 20
+",1411,3,0.14,"ns",1,"ns","real"
+"13","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 20
+",20,3,0.994,"ns",1,"ns","real"
+"14","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 20
+",9,3,0.885,"ns",1,"ns","real"
+"15","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 20
+",386,3,0.249,"ns",1,"ns","real"
+"16","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",9484,576,0.0714,"ns",1,"ns","real"
+"17","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",1411,576,0.00114,"**",0.0329,"*","real"
+"18","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",20,576,9.26e-06,"****",0.000315,"***","real"
+"19","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",9,576,0.00636,"**",0.146,"ns","real"
+"20","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",386,576,1.55e-07,"****",5.59e-06,"****","real"
+"21","Ja","IV: 
+contacten_soort_rapportage_deelname: 20
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",3,576,0.0799,"ns",1,"ns","real"
+"22","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",9484,295,0.285,"ns",1,"ns","real"
+"23","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",1411,295,0.0218,"*",0.393,"ns","real"
+"24","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",20,295,1.68e-05,"****",0.000554,"***","real"
+"25","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",9,295,0.00765,"**",0.168,"ns","real"
+"26","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",386,295,1.86e-05,"****",0.000596,"***","real"
+"27","Ja","IV: 
+contacten_soort_rapportage_deelname: 20
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",3,295,0.085,"ns",1,"ns","real"
+"28","Ja","IV: 
+contacten_soort_rapportage_deelname: 3
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",576,295,0.844,"ns",1,"ns","real"
+"29","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",9484,163,0.0155,"*",0.295,"ns","real"
+"30","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",1411,163,0.194,"ns",1,"ns","real"
+"31","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",20,163,0.00178,"**",0.0481,"*","real"
+"32","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",9,163,0.0583,"ns",0.933,"ns","real"
+"33","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",386,163,0.411,"ns",1,"ns","real"
+"34","Ja","IV: 
+contacten_soort_rapportage_deelname: 20
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",3,163,0.201,"ns",1,"ns","real"
+"35","Ja","IV: 
+contacten_soort_rapportage_deelname: 3
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",576,163,0.00248,"**",0.0644,"ns","real"
+"36","Ja","IV: 
+contacten_soort_rapportage_deelname: 4
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",295,163,0.00916,"**",0.192,"ns","real"
+"37","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 1
+",12645,12645,0.966,"ns",1,"ns","real_conditional"
+"38","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 10
+",12645,12645,0.353,"ns",1,"ns","real_conditional"
+"39","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 10
+",12645,12645,0.376,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 15
+",12645,12645,0.353,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 15
+",12645,12645,0.376,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 15
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 2
+",12645,12645,0.633,"ns",1,"ns","real_conditional"
+"44","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 2
+",12645,12645,0.664,"ns",1,"ns","real_conditional"
+"45","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 2
+",12645,12645,0.651,"ns",1,"ns","real_conditional"
+"46","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 2
+",12645,12645,0.651,"ns",1,"ns","real_conditional"
+"47","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 20
+",12645,12645,0.353,"ns",1,"ns","real_conditional"
+"48","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 20
+",12645,12645,0.376,"ns",1,"ns","real_conditional"
+"49","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 20
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"50","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 20
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"51","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 20
+",12645,12645,0.651,"ns",1,"ns","real_conditional"
+"52","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",12645,12645,0.552,"ns",1,"ns","real_conditional"
+"53","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",12645,12645,0.581,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",12645,12645,0.738,"ns",1,"ns","real_conditional"
+"55","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",12645,12645,0.738,"ns",1,"ns","real_conditional"
+"56","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",12645,12645,0.906,"ns",1,"ns","real_conditional"
+"57","Ja","IV: 
+contacten_soort_rapportage_deelname: 20
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",12645,12645,0.738,"ns",1,"ns","real_conditional"
+"58","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 30
+",12645,12645,0.353,"ns",1,"ns","real_conditional"
+"59","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 30
+",12645,12645,0.376,"ns",1,"ns","real_conditional"
+"60","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"61","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"62","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 30
+",12645,12645,0.651,"ns",1,"ns","real_conditional"
+"63","Ja","IV: 
+contacten_soort_rapportage_deelname: 20
+","IV: 
+contacten_soort_rapportage_deelname: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"64","Ja","IV: 
+contacten_soort_rapportage_deelname: 3
+","IV: 
+contacten_soort_rapportage_deelname: 30
+",12645,12645,0.738,"ns",1,"ns","real_conditional"
+"65","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",12645,12645,0.353,"ns",1,"ns","real_conditional"
+"66","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",12645,12645,0.376,"ns",1,"ns","real_conditional"
+"67","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"68","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"69","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",12645,12645,0.651,"ns",1,"ns","real_conditional"
+"70","Ja","IV: 
+contacten_soort_rapportage_deelname: 20
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"71","Ja","IV: 
+contacten_soort_rapportage_deelname: 3
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",12645,12645,0.738,"ns",1,"ns","real_conditional"
+"72","Ja","IV: 
+contacten_soort_rapportage_deelname: 30
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"73","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12645,12645,0.353,"ns",1,"ns","real_conditional"
+"74","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12645,12645,0.376,"ns",1,"ns","real_conditional"
+"75","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"76","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"77","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12645,12645,0.651,"ns",1,"ns","real_conditional"
+"78","Ja","IV: 
+contacten_soort_rapportage_deelname: 20
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"79","Ja","IV: 
+contacten_soort_rapportage_deelname: 3
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12645,12645,0.738,"ns",1,"ns","real_conditional"
+"80","Ja","IV: 
+contacten_soort_rapportage_deelname: 30
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"81","Ja","IV: 
+contacten_soort_rapportage_deelname: 4
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"82","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 1
+",2185,4550,0.879,"ns",1,"ns","synth"
+"83","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 2
+",2185,3248,0.0117,"*",0.105,"ns","synth"
+"84","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 2
+",4550,3248,0.00419,"**",0.0461,"*","synth"
+"85","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",2185,1756,4.03e-05,"****",0.000523,"***","synth"
+"86","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",4550,1756,5.55e-06,"****",8.32e-05,"****","synth"
+"87","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",3248,1756,0.0367,"*",0.293,"ns","synth"
+"88","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",2185,653,4.77e-05,"****",0.000572,"***","synth"
+"89","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",4550,653,2.24e-05,"****",0.000314,"***","synth"
+"90","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",3248,653,0.00922,"**",0.0922,"ns","synth"
+"91","Ja","IV: 
+contacten_soort_rapportage_deelname: 3
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",1756,653,0.277,"ns",1,"ns","synth"
+"92","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",2185,196,0.058,"ns",0.406,"ns","synth"
+"93","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",4550,196,0.0597,"ns",0.406,"ns","synth"
+"94","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",3248,196,0.33,"ns",1,"ns","synth"
+"95","Ja","IV: 
+contacten_soort_rapportage_deelname: 3
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",1756,196,0.897,"ns",1,"ns","synth"
+"96","Ja","IV: 
+contacten_soort_rapportage_deelname: 4
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",653,196,0.623,"ns",1,"ns","synth"
+"97","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 1
+",12508,12508,0.769,"ns",1,"ns","synth_conditional"
+"98","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 10
+",12508,12508,0.0447,"*",1,"ns","synth_conditional"
+"99","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 10
+",12508,12508,0.0865,"ns",1,"ns","synth_conditional"
+"100","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 15
+",12508,12508,0.0447,"*",1,"ns","synth_conditional"
+"101","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 15
+",12508,12508,0.0865,"ns",1,"ns","synth_conditional"
+"102","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 15
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"103","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 2
+",12508,12508,0.396,"ns",1,"ns","synth_conditional"
+"104","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 2
+",12508,12508,0.579,"ns",1,"ns","synth_conditional"
+"105","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 2
+",12508,12508,0.246,"ns",1,"ns","synth_conditional"
+"106","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 2
+",12508,12508,0.246,"ns",1,"ns","synth_conditional"
+"107","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 20
+",12508,12508,0.0447,"*",1,"ns","synth_conditional"
+"108","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 20
+",12508,12508,0.0865,"ns",1,"ns","synth_conditional"
+"109","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 20
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"110","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 20
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"111","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 20
+",12508,12508,0.246,"ns",1,"ns","synth_conditional"
+"112","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",12508,12508,0.128,"ns",1,"ns","synth_conditional"
+"113","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",12508,12508,0.22,"ns",1,"ns","synth_conditional"
+"114","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",12508,12508,0.627,"ns",1,"ns","synth_conditional"
+"115","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",12508,12508,0.627,"ns",1,"ns","synth_conditional"
+"116","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",12508,12508,0.501,"ns",1,"ns","synth_conditional"
+"117","Ja","IV: 
+contacten_soort_rapportage_deelname: 20
+","IV: 
+contacten_soort_rapportage_deelname: 3
+",12508,12508,0.627,"ns",1,"ns","synth_conditional"
+"118","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 30
+",12508,12508,0.0447,"*",1,"ns","synth_conditional"
+"119","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 30
+",12508,12508,0.0865,"ns",1,"ns","synth_conditional"
+"120","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"121","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"122","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 30
+",12508,12508,0.246,"ns",1,"ns","synth_conditional"
+"123","Ja","IV: 
+contacten_soort_rapportage_deelname: 20
+","IV: 
+contacten_soort_rapportage_deelname: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"124","Ja","IV: 
+contacten_soort_rapportage_deelname: 3
+","IV: 
+contacten_soort_rapportage_deelname: 30
+",12508,12508,0.627,"ns",1,"ns","synth_conditional"
+"125","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",12508,12508,0.0447,"*",1,"ns","synth_conditional"
+"126","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",12508,12508,0.0865,"ns",1,"ns","synth_conditional"
+"127","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"128","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"129","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",12508,12508,0.246,"ns",1,"ns","synth_conditional"
+"130","Ja","IV: 
+contacten_soort_rapportage_deelname: 20
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"131","Ja","IV: 
+contacten_soort_rapportage_deelname: 3
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",12508,12508,0.627,"ns",1,"ns","synth_conditional"
+"132","Ja","IV: 
+contacten_soort_rapportage_deelname: 30
+","IV: 
+contacten_soort_rapportage_deelname: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"133","Ja","IV: 
+contacten_soort_rapportage_deelname: 0
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12508,12508,0.0447,"*",1,"ns","synth_conditional"
+"134","Ja","IV: 
+contacten_soort_rapportage_deelname: 1
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12508,12508,0.0865,"ns",1,"ns","synth_conditional"
+"135","Ja","IV: 
+contacten_soort_rapportage_deelname: 10
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"136","Ja","IV: 
+contacten_soort_rapportage_deelname: 15
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"137","Ja","IV: 
+contacten_soort_rapportage_deelname: 2
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12508,12508,0.246,"ns",1,"ns","synth_conditional"
+"138","Ja","IV: 
+contacten_soort_rapportage_deelname: 20
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"139","Ja","IV: 
+contacten_soort_rapportage_deelname: 3
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12508,12508,0.627,"ns",1,"ns","synth_conditional"
+"140","Ja","IV: 
+contacten_soort_rapportage_deelname: 30
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"141","Ja","IV: 
+contacten_soort_rapportage_deelname: 4
+","IV: 
+contacten_soort_rapportage_deelname: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"

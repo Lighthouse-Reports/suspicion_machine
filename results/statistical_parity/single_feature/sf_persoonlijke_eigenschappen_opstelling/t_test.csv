@@ -1,0 +1,21 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+persoonlijke_eigenschappen_opstelling: 0
+","IV: 
+persoonlijke_eigenschappen_opstelling: 1
+",5181,7464,3.39e-211,"****",3.39e-211,"****","real"
+"2","Ja","IV: 
+persoonlijke_eigenschappen_opstelling: 0
+","IV: 
+persoonlijke_eigenschappen_opstelling: 1
+",12645,12645,0.405,"ns",0.405,"ns","real_conditional"
+"3","Ja","IV: 
+persoonlijke_eigenschappen_opstelling: 0
+","IV: 
+persoonlijke_eigenschappen_opstelling: 1
+",5408,7237,1.45e-31,"****",1.45e-31,"****","synth"
+"4","Ja","IV: 
+persoonlijke_eigenschappen_opstelling: 0
+","IV: 
+persoonlijke_eigenschappen_opstelling: 1
+",12508,12508,0.273,"ns",0.273,"ns","synth_conditional"

@@ -1,0 +1,1204 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+afspraak_afsprakenplan: 0
+",857,11.5451973595581,"real"
+"2",1,"IV: 
+afspraak_afsprakenplan: 1
+",268,9.1686623332193,"real"
+"3",1,"IV: 
+afspraak_afsprakenplan: 2
+",91,7.58333333333333,"real"
+"4",1,"IV: 
+afspraak_afsprakenplan: 3
+",24,4.41988950276243,"real"
+"5",1,"IV: 
+afspraak_afsprakenplan: 4
+",18,6.36042402826855,"real"
+"6",1,"IV: 
+afspraak_afsprakenplan: 5
+",5,3.7037037037037,"real"
+"7",1,"IV: 
+afspraak_afsprakenplan: 6
+",1,1.47058823529412,"real"
+"8",1,"IV: 
+afspraak_afsprakenplan: 7
+",1,2.7027027027027,"real"
+"9",2,"IV: 
+afspraak_afsprakenplan: 0
+",827,11.1410480937626,"real"
+"10",2,"IV: 
+afspraak_afsprakenplan: 1
+",280,9.57919945261717,"real"
+"11",2,"IV: 
+afspraak_afsprakenplan: 2
+",103,8.58333333333333,"real"
+"12",2,"IV: 
+afspraak_afsprakenplan: 3
+",29,5.34069981583794,"real"
+"13",2,"IV: 
+afspraak_afsprakenplan: 4
+",14,4.9469964664311,"real"
+"14",2,"IV: 
+afspraak_afsprakenplan: 5
+",5,3.7037037037037,"real"
+"15",2,"IV: 
+afspraak_afsprakenplan: 6
+",3,4.41176470588235,"real"
+"16",2,"IV: 
+afspraak_afsprakenplan: 7
+",3,8.10810810810811,"real"
+"17",2,"IV: 
+afspraak_afsprakenplan: 9
+",1,11.1111111111111,"real"
+"18",3,"IV: 
+afspraak_afsprakenplan: 0
+",782,10.5348241950694,"real"
+"19",3,"IV: 
+afspraak_afsprakenplan: 1
+",289,9.88710229216558,"real"
+"20",3,"IV: 
+afspraak_afsprakenplan: 10
+",1,16.6666666666667,"real"
+"21",3,"IV: 
+afspraak_afsprakenplan: 2
+",105,8.75,"real"
+"22",3,"IV: 
+afspraak_afsprakenplan: 3
+",51,9.39226519337017,"real"
+"23",3,"IV: 
+afspraak_afsprakenplan: 4
+",14,4.9469964664311,"real"
+"24",3,"IV: 
+afspraak_afsprakenplan: 5
+",13,9.62962962962963,"real"
+"25",3,"IV: 
+afspraak_afsprakenplan: 6
+",7,10.2941176470588,"real"
+"26",3,"IV: 
+afspraak_afsprakenplan: 7
+",2,5.40540540540541,"real"
+"27",3,"IV: 
+afspraak_afsprakenplan: 8
+",1,6.25,"real"
+"28",4,"IV: 
+afspraak_afsprakenplan: 0
+",719,9.68611073689883,"real"
+"29",4,"IV: 
+afspraak_afsprakenplan: 1
+",312,10.6739651043449,"real"
+"30",4,"IV: 
+afspraak_afsprakenplan: 10
+",1,16.6666666666667,"real"
+"31",4,"IV: 
+afspraak_afsprakenplan: 11
+",1,50,"real"
+"32",4,"IV: 
+afspraak_afsprakenplan: 2
+",118,9.83333333333333,"real"
+"33",4,"IV: 
+afspraak_afsprakenplan: 3
+",47,8.65561694290976,"real"
+"34",4,"IV: 
+afspraak_afsprakenplan: 4
+",37,13.0742049469965,"real"
+"35",4,"IV: 
+afspraak_afsprakenplan: 5
+",15,11.1111111111111,"real"
+"36",4,"IV: 
+afspraak_afsprakenplan: 6
+",9,13.2352941176471,"real"
+"37",4,"IV: 
+afspraak_afsprakenplan: 7
+",3,8.10810810810811,"real"
+"38",4,"IV: 
+afspraak_afsprakenplan: 8
+",3,18.75,"real"
+"39",5,"IV: 
+afspraak_afsprakenplan: 0
+",715,9.6322241681261,"real"
+"40",5,"IV: 
+afspraak_afsprakenplan: 1
+",308,10.5371193978789,"real"
+"41",5,"IV: 
+afspraak_afsprakenplan: 2
+",131,10.9166666666667,"real"
+"42",5,"IV: 
+afspraak_afsprakenplan: 3
+",61,11.2338858195212,"real"
+"43",5,"IV: 
+afspraak_afsprakenplan: 4
+",24,8.48056537102473,"real"
+"44",5,"IV: 
+afspraak_afsprakenplan: 5
+",18,13.3333333333333,"real"
+"45",5,"IV: 
+afspraak_afsprakenplan: 6
+",8,11.7647058823529,"real"
+"46",6,"IV: 
+afspraak_afsprakenplan: 0
+",702,9.45709281961471,"real"
+"47",6,"IV: 
+afspraak_afsprakenplan: 1
+",291,9.95552514539856,"real"
+"48",6,"IV: 
+afspraak_afsprakenplan: 2
+",142,11.8333333333333,"real"
+"49",6,"IV: 
+afspraak_afsprakenplan: 3
+",69,12.707182320442,"real"
+"50",6,"IV: 
+afspraak_afsprakenplan: 4
+",30,10.6007067137809,"real"
+"51",6,"IV: 
+afspraak_afsprakenplan: 5
+",12,8.88888888888889,"real"
+"52",6,"IV: 
+afspraak_afsprakenplan: 6
+",7,10.2941176470588,"real"
+"53",6,"IV: 
+afspraak_afsprakenplan: 7
+",7,18.9189189189189,"real"
+"54",6,"IV: 
+afspraak_afsprakenplan: 8
+",3,18.75,"real"
+"55",6,"IV: 
+afspraak_afsprakenplan: 9
+",1,11.1111111111111,"real"
+"56",7,"IV: 
+afspraak_afsprakenplan: 0
+",658,8.86434056311464,"real"
+"57",7,"IV: 
+afspraak_afsprakenplan: 1
+",307,10.5029079712624,"real"
+"58",7,"IV: 
+afspraak_afsprakenplan: 10
+",1,16.6666666666667,"real"
+"59",7,"IV: 
+afspraak_afsprakenplan: 2
+",136,11.3333333333333,"real"
+"60",7,"IV: 
+afspraak_afsprakenplan: 3
+",78,14.3646408839779,"real"
+"61",7,"IV: 
+afspraak_afsprakenplan: 4
+",46,16.2544169611307,"real"
+"62",7,"IV: 
+afspraak_afsprakenplan: 5
+",22,16.2962962962963,"real"
+"63",7,"IV: 
+afspraak_afsprakenplan: 6
+",10,14.7058823529412,"real"
+"64",7,"IV: 
+afspraak_afsprakenplan: 7
+",3,8.10810810810811,"real"
+"65",7,"IV: 
+afspraak_afsprakenplan: 8
+",2,12.5,"real"
+"66",7,"IV: 
+afspraak_afsprakenplan: 9
+",1,11.1111111111111,"real"
+"67",8,"IV: 
+afspraak_afsprakenplan: 0
+",703,9.47056446180789,"real"
+"68",8,"IV: 
+afspraak_afsprakenplan: 1
+",291,9.95552514539856,"real"
+"69",8,"IV: 
+afspraak_afsprakenplan: 2
+",127,10.5833333333333,"real"
+"70",8,"IV: 
+afspraak_afsprakenplan: 3
+",74,13.6279926335175,"real"
+"71",8,"IV: 
+afspraak_afsprakenplan: 4
+",32,11.3074204946996,"real"
+"72",8,"IV: 
+afspraak_afsprakenplan: 5
+",18,13.3333333333333,"real"
+"73",8,"IV: 
+afspraak_afsprakenplan: 6
+",9,13.2352941176471,"real"
+"74",8,"IV: 
+afspraak_afsprakenplan: 7
+",7,18.9189189189189,"real"
+"75",8,"IV: 
+afspraak_afsprakenplan: 8
+",1,6.25,"real"
+"76",8,"IV: 
+afspraak_afsprakenplan: 9
+",2,22.2222222222222,"real"
+"77",9,"IV: 
+afspraak_afsprakenplan: 0
+",713,9.60528088373973,"real"
+"78",9,"IV: 
+afspraak_afsprakenplan: 1
+",306,10.4686965446459,"real"
+"79",9,"IV: 
+afspraak_afsprakenplan: 10
+",1,16.6666666666667,"real"
+"80",9,"IV: 
+afspraak_afsprakenplan: 2
+",117,9.75,"real"
+"81",9,"IV: 
+afspraak_afsprakenplan: 3
+",60,11.0497237569061,"real"
+"82",9,"IV: 
+afspraak_afsprakenplan: 4
+",35,12.3674911660777,"real"
+"83",9,"IV: 
+afspraak_afsprakenplan: 5
+",14,10.3703703703704,"real"
+"84",9,"IV: 
+afspraak_afsprakenplan: 6
+",7,10.2941176470588,"real"
+"85",9,"IV: 
+afspraak_afsprakenplan: 7
+",5,13.5135135135135,"real"
+"86",9,"IV: 
+afspraak_afsprakenplan: 8
+",2,12.5,"real"
+"87",9,"IV: 
+afspraak_afsprakenplan: 9
+",4,44.4444444444444,"real"
+"88",10,"IV: 
+afspraak_afsprakenplan: 0
+",747,10.063316718308,"real"
+"89",10,"IV: 
+afspraak_afsprakenplan: 1
+",271,9.27129661306877,"real"
+"90",10,"IV: 
+afspraak_afsprakenplan: 10
+",2,33.3333333333333,"real"
+"91",10,"IV: 
+afspraak_afsprakenplan: 11
+",1,50,"real"
+"92",10,"IV: 
+afspraak_afsprakenplan: 2
+",130,10.8333333333333,"real"
+"93",10,"IV: 
+afspraak_afsprakenplan: 3
+",50,9.20810313075506,"real"
+"94",10,"IV: 
+afspraak_afsprakenplan: 4
+",33,11.660777385159,"real"
+"95",10,"IV: 
+afspraak_afsprakenplan: 5
+",13,9.62962962962963,"real"
+"96",10,"IV: 
+afspraak_afsprakenplan: 6
+",7,10.2941176470588,"real"
+"97",10,"IV: 
+afspraak_afsprakenplan: 7
+",6,16.2162162162162,"real"
+"98",10,"IV: 
+afspraak_afsprakenplan: 8
+",4,25,"real"
+"99",1,"IV: 
+afspraak_afsprakenplan: 0
+",1276,10.0909450375643,"real_conditional"
+"100",1,"IV: 
+afspraak_afsprakenplan: 1
+",1275,10.0830367734282,"real_conditional"
+"101",1,"IV: 
+afspraak_afsprakenplan: 10
+",1250,9.88533017002768,"real_conditional"
+"102",1,"IV: 
+afspraak_afsprakenplan: 11
+",1250,9.88533017002768,"real_conditional"
+"103",1,"IV: 
+afspraak_afsprakenplan: 2
+",1276,10.0909450375643,"real_conditional"
+"104",1,"IV: 
+afspraak_afsprakenplan: 3
+",1275,10.0830367734282,"real_conditional"
+"105",1,"IV: 
+afspraak_afsprakenplan: 4
+",1286,10.1700276789245,"real_conditional"
+"106",1,"IV: 
+afspraak_afsprakenplan: 5
+",1286,10.1700276789245,"real_conditional"
+"107",1,"IV: 
+afspraak_afsprakenplan: 6
+",1250,9.88533017002768,"real_conditional"
+"108",1,"IV: 
+afspraak_afsprakenplan: 7
+",1250,9.88533017002768,"real_conditional"
+"109",1,"IV: 
+afspraak_afsprakenplan: 8
+",1250,9.88533017002768,"real_conditional"
+"110",1,"IV: 
+afspraak_afsprakenplan: 9
+",1250,9.88533017002768,"real_conditional"
+"111",2,"IV: 
+afspraak_afsprakenplan: 0
+",1271,10.0514037168841,"real_conditional"
+"112",2,"IV: 
+afspraak_afsprakenplan: 1
+",1272,10.0593119810202,"real_conditional"
+"113",2,"IV: 
+afspraak_afsprakenplan: 10
+",1257,9.94068801897983,"real_conditional"
+"114",2,"IV: 
+afspraak_afsprakenplan: 11
+",1257,9.94068801897983,"real_conditional"
+"115",2,"IV: 
+afspraak_afsprakenplan: 2
+",1271,10.0514037168841,"real_conditional"
+"116",2,"IV: 
+afspraak_afsprakenplan: 3
+",1271,10.0514037168841,"real_conditional"
+"117",2,"IV: 
+afspraak_afsprakenplan: 4
+",1274,10.0751285092922,"real_conditional"
+"118",2,"IV: 
+afspraak_afsprakenplan: 5
+",1273,10.0672202451562,"real_conditional"
+"119",2,"IV: 
+afspraak_afsprakenplan: 6
+",1257,9.94068801897983,"real_conditional"
+"120",2,"IV: 
+afspraak_afsprakenplan: 7
+",1257,9.94068801897983,"real_conditional"
+"121",2,"IV: 
+afspraak_afsprakenplan: 8
+",1257,9.94068801897983,"real_conditional"
+"122",2,"IV: 
+afspraak_afsprakenplan: 9
+",1257,9.94068801897983,"real_conditional"
+"123",3,"IV: 
+afspraak_afsprakenplan: 0
+",1265,10.003954132068,"real_conditional"
+"124",3,"IV: 
+afspraak_afsprakenplan: 1
+",1262,9.98022933965994,"real_conditional"
+"125",3,"IV: 
+afspraak_afsprakenplan: 10
+",1265,10.003954132068,"real_conditional"
+"126",3,"IV: 
+afspraak_afsprakenplan: 11
+",1265,10.003954132068,"real_conditional"
+"127",3,"IV: 
+afspraak_afsprakenplan: 2
+",1262,9.98022933965994,"real_conditional"
+"128",3,"IV: 
+afspraak_afsprakenplan: 3
+",1263,9.98813760379597,"real_conditional"
+"129",3,"IV: 
+afspraak_afsprakenplan: 4
+",1266,10.011862396204,"real_conditional"
+"130",3,"IV: 
+afspraak_afsprakenplan: 5
+",1267,10.0197706603401,"real_conditional"
+"131",3,"IV: 
+afspraak_afsprakenplan: 6
+",1265,10.003954132068,"real_conditional"
+"132",3,"IV: 
+afspraak_afsprakenplan: 7
+",1265,10.003954132068,"real_conditional"
+"133",3,"IV: 
+afspraak_afsprakenplan: 8
+",1265,10.003954132068,"real_conditional"
+"134",3,"IV: 
+afspraak_afsprakenplan: 9
+",1264,9.99604586793199,"real_conditional"
+"135",4,"IV: 
+afspraak_afsprakenplan: 0
+",1266,10.011862396204,"real_conditional"
+"136",4,"IV: 
+afspraak_afsprakenplan: 1
+",1264,9.99604586793199,"real_conditional"
+"137",4,"IV: 
+afspraak_afsprakenplan: 10
+",1263,9.98813760379597,"real_conditional"
+"138",4,"IV: 
+afspraak_afsprakenplan: 11
+",1263,9.98813760379597,"real_conditional"
+"139",4,"IV: 
+afspraak_afsprakenplan: 2
+",1264,9.99604586793199,"real_conditional"
+"140",4,"IV: 
+afspraak_afsprakenplan: 3
+",1264,9.99604586793199,"real_conditional"
+"141",4,"IV: 
+afspraak_afsprakenplan: 4
+",1269,10.0355871886121,"real_conditional"
+"142",4,"IV: 
+afspraak_afsprakenplan: 5
+",1269,10.0355871886121,"real_conditional"
+"143",4,"IV: 
+afspraak_afsprakenplan: 6
+",1263,9.98813760379597,"real_conditional"
+"144",4,"IV: 
+afspraak_afsprakenplan: 7
+",1263,9.98813760379597,"real_conditional"
+"145",4,"IV: 
+afspraak_afsprakenplan: 8
+",1263,9.98813760379597,"real_conditional"
+"146",4,"IV: 
+afspraak_afsprakenplan: 9
+",1263,9.98813760379597,"real_conditional"
+"147",5,"IV: 
+afspraak_afsprakenplan: 0
+",1268,10.0276789244761,"real_conditional"
+"148",5,"IV: 
+afspraak_afsprakenplan: 1
+",1269,10.0355871886121,"real_conditional"
+"149",5,"IV: 
+afspraak_afsprakenplan: 10
+",1262,9.98022933965994,"real_conditional"
+"150",5,"IV: 
+afspraak_afsprakenplan: 11
+",1261,9.97232107552392,"real_conditional"
+"151",5,"IV: 
+afspraak_afsprakenplan: 2
+",1269,10.0355871886121,"real_conditional"
+"152",5,"IV: 
+afspraak_afsprakenplan: 3
+",1269,10.0355871886121,"real_conditional"
+"153",5,"IV: 
+afspraak_afsprakenplan: 4
+",1264,9.99604586793199,"real_conditional"
+"154",5,"IV: 
+afspraak_afsprakenplan: 5
+",1264,9.99604586793199,"real_conditional"
+"155",5,"IV: 
+afspraak_afsprakenplan: 6
+",1262,9.98022933965994,"real_conditional"
+"156",5,"IV: 
+afspraak_afsprakenplan: 7
+",1262,9.98022933965994,"real_conditional"
+"157",5,"IV: 
+afspraak_afsprakenplan: 8
+",1262,9.98022933965994,"real_conditional"
+"158",5,"IV: 
+afspraak_afsprakenplan: 9
+",1262,9.98022933965994,"real_conditional"
+"159",6,"IV: 
+afspraak_afsprakenplan: 0
+",1259,9.95650454725188,"real_conditional"
+"160",6,"IV: 
+afspraak_afsprakenplan: 1
+",1260,9.9644128113879,"real_conditional"
+"161",6,"IV: 
+afspraak_afsprakenplan: 10
+",1269,10.0355871886121,"real_conditional"
+"162",6,"IV: 
+afspraak_afsprakenplan: 11
+",1270,10.0434954527481,"real_conditional"
+"163",6,"IV: 
+afspraak_afsprakenplan: 2
+",1260,9.9644128113879,"real_conditional"
+"164",6,"IV: 
+afspraak_afsprakenplan: 3
+",1260,9.9644128113879,"real_conditional"
+"165",6,"IV: 
+afspraak_afsprakenplan: 4
+",1260,9.9644128113879,"real_conditional"
+"166",6,"IV: 
+afspraak_afsprakenplan: 5
+",1260,9.9644128113879,"real_conditional"
+"167",6,"IV: 
+afspraak_afsprakenplan: 6
+",1269,10.0355871886121,"real_conditional"
+"168",6,"IV: 
+afspraak_afsprakenplan: 7
+",1269,10.0355871886121,"real_conditional"
+"169",6,"IV: 
+afspraak_afsprakenplan: 8
+",1269,10.0355871886121,"real_conditional"
+"170",6,"IV: 
+afspraak_afsprakenplan: 9
+",1269,10.0355871886121,"real_conditional"
+"171",7,"IV: 
+afspraak_afsprakenplan: 0
+",1271,10.0514037168841,"real_conditional"
+"172",7,"IV: 
+afspraak_afsprakenplan: 1
+",1268,10.0276789244761,"real_conditional"
+"173",7,"IV: 
+afspraak_afsprakenplan: 10
+",1258,9.94859628311586,"real_conditional"
+"174",7,"IV: 
+afspraak_afsprakenplan: 11
+",1258,9.94859628311586,"real_conditional"
+"175",7,"IV: 
+afspraak_afsprakenplan: 2
+",1268,10.0276789244761,"real_conditional"
+"176",7,"IV: 
+afspraak_afsprakenplan: 3
+",1268,10.0276789244761,"real_conditional"
+"177",7,"IV: 
+afspraak_afsprakenplan: 4
+",1275,10.0830367734282,"real_conditional"
+"178",7,"IV: 
+afspraak_afsprakenplan: 5
+",1275,10.0830367734282,"real_conditional"
+"179",7,"IV: 
+afspraak_afsprakenplan: 6
+",1258,9.94859628311586,"real_conditional"
+"180",7,"IV: 
+afspraak_afsprakenplan: 7
+",1258,9.94859628311586,"real_conditional"
+"181",7,"IV: 
+afspraak_afsprakenplan: 8
+",1258,9.94859628311586,"real_conditional"
+"182",7,"IV: 
+afspraak_afsprakenplan: 9
+",1259,9.95650454725188,"real_conditional"
+"183",8,"IV: 
+afspraak_afsprakenplan: 0
+",1255,9.92487149070779,"real_conditional"
+"184",8,"IV: 
+afspraak_afsprakenplan: 1
+",1260,9.9644128113879,"real_conditional"
+"185",8,"IV: 
+afspraak_afsprakenplan: 10
+",1273,10.0672202451562,"real_conditional"
+"186",8,"IV: 
+afspraak_afsprakenplan: 11
+",1273,10.0672202451562,"real_conditional"
+"187",8,"IV: 
+afspraak_afsprakenplan: 2
+",1260,9.9644128113879,"real_conditional"
+"188",8,"IV: 
+afspraak_afsprakenplan: 3
+",1260,9.9644128113879,"real_conditional"
+"189",8,"IV: 
+afspraak_afsprakenplan: 4
+",1251,9.8932384341637,"real_conditional"
+"190",8,"IV: 
+afspraak_afsprakenplan: 5
+",1250,9.88533017002768,"real_conditional"
+"191",8,"IV: 
+afspraak_afsprakenplan: 6
+",1273,10.0672202451562,"real_conditional"
+"192",8,"IV: 
+afspraak_afsprakenplan: 7
+",1273,10.0672202451562,"real_conditional"
+"193",8,"IV: 
+afspraak_afsprakenplan: 8
+",1273,10.0672202451562,"real_conditional"
+"194",8,"IV: 
+afspraak_afsprakenplan: 9
+",1273,10.0672202451562,"real_conditional"
+"195",9,"IV: 
+afspraak_afsprakenplan: 0
+",1254,9.91696322657177,"real_conditional"
+"196",9,"IV: 
+afspraak_afsprakenplan: 1
+",1254,9.91696322657177,"real_conditional"
+"197",9,"IV: 
+afspraak_afsprakenplan: 10
+",1277,10.0988533017003,"real_conditional"
+"198",9,"IV: 
+afspraak_afsprakenplan: 11
+",1277,10.0988533017003,"real_conditional"
+"199",9,"IV: 
+afspraak_afsprakenplan: 2
+",1254,9.91696322657177,"real_conditional"
+"200",9,"IV: 
+afspraak_afsprakenplan: 3
+",1254,9.91696322657177,"real_conditional"
+"201",9,"IV: 
+afspraak_afsprakenplan: 4
+",1247,9.86160537761961,"real_conditional"
+"202",9,"IV: 
+afspraak_afsprakenplan: 5
+",1248,9.86951364175563,"real_conditional"
+"203",9,"IV: 
+afspraak_afsprakenplan: 6
+",1277,10.0988533017003,"real_conditional"
+"204",9,"IV: 
+afspraak_afsprakenplan: 7
+",1278,10.1067615658363,"real_conditional"
+"205",9,"IV: 
+afspraak_afsprakenplan: 8
+",1277,10.0988533017003,"real_conditional"
+"206",9,"IV: 
+afspraak_afsprakenplan: 9
+",1277,10.0988533017003,"real_conditional"
+"207",10,"IV: 
+afspraak_afsprakenplan: 0
+",1260,9.9644128113879,"real_conditional"
+"208",10,"IV: 
+afspraak_afsprakenplan: 1
+",1261,9.97232107552392,"real_conditional"
+"209",10,"IV: 
+afspraak_afsprakenplan: 10
+",1271,10.0514037168841,"real_conditional"
+"210",10,"IV: 
+afspraak_afsprakenplan: 11
+",1271,10.0514037168841,"real_conditional"
+"211",10,"IV: 
+afspraak_afsprakenplan: 2
+",1261,9.97232107552392,"real_conditional"
+"212",10,"IV: 
+afspraak_afsprakenplan: 3
+",1261,9.97232107552392,"real_conditional"
+"213",10,"IV: 
+afspraak_afsprakenplan: 4
+",1253,9.90905496243574,"real_conditional"
+"214",10,"IV: 
+afspraak_afsprakenplan: 5
+",1253,9.90905496243574,"real_conditional"
+"215",10,"IV: 
+afspraak_afsprakenplan: 6
+",1271,10.0514037168841,"real_conditional"
+"216",10,"IV: 
+afspraak_afsprakenplan: 7
+",1270,10.0434954527481,"real_conditional"
+"217",10,"IV: 
+afspraak_afsprakenplan: 8
+",1271,10.0514037168841,"real_conditional"
+"218",10,"IV: 
+afspraak_afsprakenplan: 9
+",1271,10.0514037168841,"real_conditional"
+"219",1,"IV: 
+afspraak_afsprakenplan: 0
+",324,12.6168224299065,"synth"
+"220",1,"IV: 
+afspraak_afsprakenplan: 1
+",546,10.0738007380074,"synth"
+"221",1,"IV: 
+afspraak_afsprakenplan: 2
+",283,8.80248833592535,"synth"
+"222",1,"IV: 
+afspraak_afsprakenplan: 3
+",95,8.30419580419581,"synth"
+"223",1,"IV: 
+afspraak_afsprakenplan: 4
+",15,5.79150579150579,"synth"
+"224",1,"IV: 
+afspraak_afsprakenplan: 5
+",2,5.71428571428571,"synth"
+"225",2,"IV: 
+afspraak_afsprakenplan: 0
+",265,10.3193146417445,"synth"
+"226",2,"IV: 
+afspraak_afsprakenplan: 1
+",557,10.2767527675277,"synth"
+"227",2,"IV: 
+afspraak_afsprakenplan: 2
+",316,9.82892690513219,"synth"
+"228",2,"IV: 
+afspraak_afsprakenplan: 3
+",104,9.09090909090909,"synth"
+"229",2,"IV: 
+afspraak_afsprakenplan: 4
+",22,8.49420849420849,"synth"
+"230",2,"IV: 
+afspraak_afsprakenplan: 5
+",1,2.85714285714286,"synth"
+"231",3,"IV: 
+afspraak_afsprakenplan: 0
+",272,10.5919003115265,"synth"
+"232",3,"IV: 
+afspraak_afsprakenplan: 1
+",528,9.74169741697417,"synth"
+"233",3,"IV: 
+afspraak_afsprakenplan: 2
+",310,9.64230171073095,"synth"
+"234",3,"IV: 
+afspraak_afsprakenplan: 3
+",125,10.9265734265734,"synth"
+"235",3,"IV: 
+afspraak_afsprakenplan: 4
+",26,10.03861003861,"synth"
+"236",3,"IV: 
+afspraak_afsprakenplan: 5
+",4,11.4285714285714,"synth"
+"237",4,"IV: 
+afspraak_afsprakenplan: 0
+",262,10.202492211838,"synth"
+"238",4,"IV: 
+afspraak_afsprakenplan: 1
+",550,10.1476014760148,"synth"
+"239",4,"IV: 
+afspraak_afsprakenplan: 2
+",316,9.82892690513219,"synth"
+"240",4,"IV: 
+afspraak_afsprakenplan: 3
+",107,9.35314685314685,"synth"
+"241",4,"IV: 
+afspraak_afsprakenplan: 4
+",20,7.72200772200772,"synth"
+"242",4,"IV: 
+afspraak_afsprakenplan: 5
+",9,25.7142857142857,"synth"
+"243",4,"IV: 
+afspraak_afsprakenplan: 6
+",1,25,"synth"
+"244",5,"IV: 
+afspraak_afsprakenplan: 0
+",240,9.34579439252336,"synth"
+"245",5,"IV: 
+afspraak_afsprakenplan: 1
+",529,9.76014760147602,"synth"
+"246",5,"IV: 
+afspraak_afsprakenplan: 2
+",339,10.5443234836703,"synth"
+"247",5,"IV: 
+afspraak_afsprakenplan: 3
+",118,10.3146853146853,"synth"
+"248",5,"IV: 
+afspraak_afsprakenplan: 4
+",36,13.8996138996139,"synth"
+"249",5,"IV: 
+afspraak_afsprakenplan: 5
+",2,5.71428571428571,"synth"
+"250",5,"IV: 
+afspraak_afsprakenplan: 6
+",1,25,"synth"
+"251",6,"IV: 
+afspraak_afsprakenplan: 0
+",244,9.50155763239875,"synth"
+"252",6,"IV: 
+afspraak_afsprakenplan: 1
+",513,9.46494464944649,"synth"
+"253",6,"IV: 
+afspraak_afsprakenplan: 2
+",357,11.104199066874,"synth"
+"254",6,"IV: 
+afspraak_afsprakenplan: 3
+",116,10.1398601398601,"synth"
+"255",6,"IV: 
+afspraak_afsprakenplan: 4
+",32,12.3552123552124,"synth"
+"256",6,"IV: 
+afspraak_afsprakenplan: 5
+",2,5.71428571428571,"synth"
+"257",7,"IV: 
+afspraak_afsprakenplan: 0
+",230,8.95638629283489,"synth"
+"258",7,"IV: 
+afspraak_afsprakenplan: 1
+",552,10.1845018450185,"synth"
+"259",7,"IV: 
+afspraak_afsprakenplan: 2
+",322,10.0155520995334,"synth"
+"260",7,"IV: 
+afspraak_afsprakenplan: 3
+",126,11.013986013986,"synth"
+"261",7,"IV: 
+afspraak_afsprakenplan: 4
+",28,10.8108108108108,"synth"
+"262",7,"IV: 
+afspraak_afsprakenplan: 5
+",6,17.1428571428571,"synth"
+"263",8,"IV: 
+afspraak_afsprakenplan: 0
+",242,9.42367601246106,"synth"
+"264",8,"IV: 
+afspraak_afsprakenplan: 1
+",540,9.96309963099631,"synth"
+"265",8,"IV: 
+afspraak_afsprakenplan: 2
+",325,10.1088646967341,"synth"
+"266",8,"IV: 
+afspraak_afsprakenplan: 3
+",126,11.013986013986,"synth"
+"267",8,"IV: 
+afspraak_afsprakenplan: 4
+",29,11.1969111969112,"synth"
+"268",8,"IV: 
+afspraak_afsprakenplan: 5
+",2,5.71428571428571,"synth"
+"269",9,"IV: 
+afspraak_afsprakenplan: 0
+",231,8.99532710280374,"synth"
+"270",9,"IV: 
+afspraak_afsprakenplan: 1
+",549,10.1291512915129,"synth"
+"271",9,"IV: 
+afspraak_afsprakenplan: 2
+",333,10.3576982892691,"synth"
+"272",9,"IV: 
+afspraak_afsprakenplan: 3
+",121,10.5769230769231,"synth"
+"273",9,"IV: 
+afspraak_afsprakenplan: 4
+",24,9.26640926640927,"synth"
+"274",9,"IV: 
+afspraak_afsprakenplan: 5
+",4,11.4285714285714,"synth"
+"275",9,"IV: 
+afspraak_afsprakenplan: 6
+",2,50,"synth"
+"276",10,"IV: 
+afspraak_afsprakenplan: 0
+",258,10.0467289719626,"synth"
+"277",10,"IV: 
+afspraak_afsprakenplan: 1
+",556,10.2583025830258,"synth"
+"278",10,"IV: 
+afspraak_afsprakenplan: 2
+",314,9.76671850699844,"synth"
+"279",10,"IV: 
+afspraak_afsprakenplan: 3
+",106,9.26573426573426,"synth"
+"280",10,"IV: 
+afspraak_afsprakenplan: 4
+",27,10.4247104247104,"synth"
+"281",10,"IV: 
+afspraak_afsprakenplan: 5
+",3,8.57142857142857,"synth"
+"282",1,"IV: 
+afspraak_afsprakenplan: 0
+",1282,10.2494403581708,"synth_conditional"
+"283",1,"IV: 
+afspraak_afsprakenplan: 1
+",1264,10.1055324592261,"synth_conditional"
+"284",1,"IV: 
+afspraak_afsprakenplan: 10
+",1233,9.85769107771027,"synth_conditional"
+"285",1,"IV: 
+afspraak_afsprakenplan: 11
+",1233,9.85769107771027,"synth_conditional"
+"286",1,"IV: 
+afspraak_afsprakenplan: 2
+",1264,10.1055324592261,"synth_conditional"
+"287",1,"IV: 
+afspraak_afsprakenplan: 3
+",1264,10.1055324592261,"synth_conditional"
+"288",1,"IV: 
+afspraak_afsprakenplan: 4
+",1268,10.1375119923249,"synth_conditional"
+"289",1,"IV: 
+afspraak_afsprakenplan: 5
+",1268,10.1375119923249,"synth_conditional"
+"290",1,"IV: 
+afspraak_afsprakenplan: 6
+",1234,9.86568596098497,"synth_conditional"
+"291",1,"IV: 
+afspraak_afsprakenplan: 7
+",1234,9.86568596098497,"synth_conditional"
+"292",1,"IV: 
+afspraak_afsprakenplan: 8
+",1233,9.85769107771027,"synth_conditional"
+"293",1,"IV: 
+afspraak_afsprakenplan: 9
+",1233,9.85769107771027,"synth_conditional"
+"294",2,"IV: 
+afspraak_afsprakenplan: 0
+",1282,10.2494403581708,"synth_conditional"
+"295",2,"IV: 
+afspraak_afsprakenplan: 1
+",1273,10.1774864086984,"synth_conditional"
+"296",2,"IV: 
+afspraak_afsprakenplan: 10
+",1226,9.80172689478734,"synth_conditional"
+"297",2,"IV: 
+afspraak_afsprakenplan: 11
+",1226,9.80172689478734,"synth_conditional"
+"298",2,"IV: 
+afspraak_afsprakenplan: 2
+",1274,10.1854812919731,"synth_conditional"
+"299",2,"IV: 
+afspraak_afsprakenplan: 3
+",1273,10.1774864086984,"synth_conditional"
+"300",2,"IV: 
+afspraak_afsprakenplan: 4
+",1277,10.2094659417972,"synth_conditional"
+"301",2,"IV: 
+afspraak_afsprakenplan: 5
+",1277,10.2094659417972,"synth_conditional"
+"302",2,"IV: 
+afspraak_afsprakenplan: 6
+",1225,9.79373201151263,"synth_conditional"
+"303",2,"IV: 
+afspraak_afsprakenplan: 7
+",1225,9.79373201151263,"synth_conditional"
+"304",2,"IV: 
+afspraak_afsprakenplan: 8
+",1226,9.80172689478734,"synth_conditional"
+"305",2,"IV: 
+afspraak_afsprakenplan: 9
+",1226,9.80172689478734,"synth_conditional"
+"306",3,"IV: 
+afspraak_afsprakenplan: 0
+",1262,10.0895426926767,"synth_conditional"
+"307",3,"IV: 
+afspraak_afsprakenplan: 1
+",1259,10.0655580428526,"synth_conditional"
+"308",3,"IV: 
+afspraak_afsprakenplan: 10
+",1243,9.93763991045731,"synth_conditional"
+"309",3,"IV: 
+afspraak_afsprakenplan: 11
+",1243,9.93763991045731,"synth_conditional"
+"310",3,"IV: 
+afspraak_afsprakenplan: 2
+",1258,10.0575631595779,"synth_conditional"
+"311",3,"IV: 
+afspraak_afsprakenplan: 3
+",1259,10.0655580428526,"synth_conditional"
+"312",3,"IV: 
+afspraak_afsprakenplan: 4
+",1256,10.0415733930285,"synth_conditional"
+"313",3,"IV: 
+afspraak_afsprakenplan: 5
+",1256,10.0415733930285,"synth_conditional"
+"314",3,"IV: 
+afspraak_afsprakenplan: 6
+",1244,9.94563479373201,"synth_conditional"
+"315",3,"IV: 
+afspraak_afsprakenplan: 7
+",1244,9.94563479373201,"synth_conditional"
+"316",3,"IV: 
+afspraak_afsprakenplan: 8
+",1243,9.93763991045731,"synth_conditional"
+"317",3,"IV: 
+afspraak_afsprakenplan: 9
+",1243,9.93763991045731,"synth_conditional"
+"318",4,"IV: 
+afspraak_afsprakenplan: 0
+",1257,10.0495682763032,"synth_conditional"
+"319",4,"IV: 
+afspraak_afsprakenplan: 1
+",1260,10.0735529261273,"synth_conditional"
+"320",4,"IV: 
+afspraak_afsprakenplan: 10
+",1242,9.9296450271826,"synth_conditional"
+"321",4,"IV: 
+afspraak_afsprakenplan: 11
+",1242,9.9296450271826,"synth_conditional"
+"322",4,"IV: 
+afspraak_afsprakenplan: 2
+",1260,10.0735529261273,"synth_conditional"
+"323",4,"IV: 
+afspraak_afsprakenplan: 3
+",1259,10.0655580428526,"synth_conditional"
+"324",4,"IV: 
+afspraak_afsprakenplan: 4
+",1262,10.0895426926767,"synth_conditional"
+"325",4,"IV: 
+afspraak_afsprakenplan: 5
+",1262,10.0895426926767,"synth_conditional"
+"326",4,"IV: 
+afspraak_afsprakenplan: 6
+",1241,9.9216501439079,"synth_conditional"
+"327",4,"IV: 
+afspraak_afsprakenplan: 7
+",1241,9.9216501439079,"synth_conditional"
+"328",4,"IV: 
+afspraak_afsprakenplan: 8
+",1242,9.9296450271826,"synth_conditional"
+"329",4,"IV: 
+afspraak_afsprakenplan: 9
+",1242,9.9296450271826,"synth_conditional"
+"330",5,"IV: 
+afspraak_afsprakenplan: 0
+",1257,10.0495682763032,"synth_conditional"
+"331",5,"IV: 
+afspraak_afsprakenplan: 1
+",1249,9.98560921010553,"synth_conditional"
+"332",5,"IV: 
+afspraak_afsprakenplan: 10
+",1250,9.99360409338024,"synth_conditional"
+"333",5,"IV: 
+afspraak_afsprakenplan: 11
+",1250,9.99360409338024,"synth_conditional"
+"334",5,"IV: 
+afspraak_afsprakenplan: 2
+",1249,9.98560921010553,"synth_conditional"
+"335",5,"IV: 
+afspraak_afsprakenplan: 3
+",1250,9.99360409338024,"synth_conditional"
+"336",5,"IV: 
+afspraak_afsprakenplan: 4
+",1252,10.0095938599296,"synth_conditional"
+"337",5,"IV: 
+afspraak_afsprakenplan: 5
+",1252,10.0095938599296,"synth_conditional"
+"338",5,"IV: 
+afspraak_afsprakenplan: 6
+",1250,9.99360409338024,"synth_conditional"
+"339",5,"IV: 
+afspraak_afsprakenplan: 7
+",1251,10.0015989766549,"synth_conditional"
+"340",5,"IV: 
+afspraak_afsprakenplan: 8
+",1250,9.99360409338024,"synth_conditional"
+"341",5,"IV: 
+afspraak_afsprakenplan: 9
+",1250,9.99360409338024,"synth_conditional"
+"342",6,"IV: 
+afspraak_afsprakenplan: 0
+",1268,10.1375119923249,"synth_conditional"
+"343",6,"IV: 
+afspraak_afsprakenplan: 1
+",1258,10.0575631595779,"synth_conditional"
+"344",6,"IV: 
+afspraak_afsprakenplan: 10
+",1242,9.9296450271826,"synth_conditional"
+"345",6,"IV: 
+afspraak_afsprakenplan: 11
+",1242,9.9296450271826,"synth_conditional"
+"346",6,"IV: 
+afspraak_afsprakenplan: 2
+",1259,10.0655580428526,"synth_conditional"
+"347",6,"IV: 
+afspraak_afsprakenplan: 3
+",1258,10.0575631595779,"synth_conditional"
+"348",6,"IV: 
+afspraak_afsprakenplan: 4
+",1258,10.0575631595779,"synth_conditional"
+"349",6,"IV: 
+afspraak_afsprakenplan: 5
+",1258,10.0575631595779,"synth_conditional"
+"350",6,"IV: 
+afspraak_afsprakenplan: 6
+",1242,9.9296450271826,"synth_conditional"
+"351",6,"IV: 
+afspraak_afsprakenplan: 7
+",1241,9.9216501439079,"synth_conditional"
+"352",6,"IV: 
+afspraak_afsprakenplan: 8
+",1242,9.9296450271826,"synth_conditional"
+"353",6,"IV: 
+afspraak_afsprakenplan: 9
+",1242,9.9296450271826,"synth_conditional"
+"354",7,"IV: 
+afspraak_afsprakenplan: 0
+",1244,9.94563479373201,"synth_conditional"
+"355",7,"IV: 
+afspraak_afsprakenplan: 1
+",1249,9.98560921010553,"synth_conditional"
+"356",7,"IV: 
+afspraak_afsprakenplan: 10
+",1254,10.0255836264791,"synth_conditional"
+"357",7,"IV: 
+afspraak_afsprakenplan: 11
+",1254,10.0255836264791,"synth_conditional"
+"358",7,"IV: 
+afspraak_afsprakenplan: 2
+",1248,9.97761432683083,"synth_conditional"
+"359",7,"IV: 
+afspraak_afsprakenplan: 3
+",1249,9.98560921010553,"synth_conditional"
+"360",7,"IV: 
+afspraak_afsprakenplan: 4
+",1248,9.97761432683083,"synth_conditional"
+"361",7,"IV: 
+afspraak_afsprakenplan: 5
+",1248,9.97761432683083,"synth_conditional"
+"362",7,"IV: 
+afspraak_afsprakenplan: 6
+",1254,10.0255836264791,"synth_conditional"
+"363",7,"IV: 
+afspraak_afsprakenplan: 7
+",1254,10.0255836264791,"synth_conditional"
+"364",7,"IV: 
+afspraak_afsprakenplan: 8
+",1254,10.0255836264791,"synth_conditional"
+"365",7,"IV: 
+afspraak_afsprakenplan: 9
+",1253,10.0175887432043,"synth_conditional"
+"366",8,"IV: 
+afspraak_afsprakenplan: 0
+",1236,9.88167572753438,"synth_conditional"
+"367",8,"IV: 
+afspraak_afsprakenplan: 1
+",1246,9.96162456028142,"synth_conditional"
+"368",8,"IV: 
+afspraak_afsprakenplan: 10
+",1257,10.0495682763032,"synth_conditional"
+"369",8,"IV: 
+afspraak_afsprakenplan: 11
+",1256,10.0415733930285,"synth_conditional"
+"370",8,"IV: 
+afspraak_afsprakenplan: 2
+",1246,9.96162456028142,"synth_conditional"
+"371",8,"IV: 
+afspraak_afsprakenplan: 3
+",1246,9.96162456028142,"synth_conditional"
+"372",8,"IV: 
+afspraak_afsprakenplan: 4
+",1247,9.96961944355612,"synth_conditional"
+"373",8,"IV: 
+afspraak_afsprakenplan: 5
+",1247,9.96961944355612,"synth_conditional"
+"374",8,"IV: 
+afspraak_afsprakenplan: 6
+",1257,10.0495682763032,"synth_conditional"
+"375",8,"IV: 
+afspraak_afsprakenplan: 7
+",1257,10.0495682763032,"synth_conditional"
+"376",8,"IV: 
+afspraak_afsprakenplan: 8
+",1257,10.0495682763032,"synth_conditional"
+"377",8,"IV: 
+afspraak_afsprakenplan: 9
+",1257,10.0495682763032,"synth_conditional"
+"378",9,"IV: 
+afspraak_afsprakenplan: 0
+",1217,9.729772945315,"synth_conditional"
+"379",9,"IV: 
+afspraak_afsprakenplan: 1
+",1225,9.79373201151263,"synth_conditional"
+"380",9,"IV: 
+afspraak_afsprakenplan: 10
+",1278,10.217460825072,"synth_conditional"
+"381",9,"IV: 
+afspraak_afsprakenplan: 11
+",1279,10.2254557083467,"synth_conditional"
+"382",9,"IV: 
+afspraak_afsprakenplan: 2
+",1225,9.79373201151263,"synth_conditional"
+"383",9,"IV: 
+afspraak_afsprakenplan: 3
+",1225,9.79373201151263,"synth_conditional"
+"384",9,"IV: 
+afspraak_afsprakenplan: 4
+",1223,9.77774224496322,"synth_conditional"
+"385",9,"IV: 
+afspraak_afsprakenplan: 5
+",1223,9.77774224496322,"synth_conditional"
+"386",9,"IV: 
+afspraak_afsprakenplan: 6
+",1278,10.217460825072,"synth_conditional"
+"387",9,"IV: 
+afspraak_afsprakenplan: 7
+",1279,10.2254557083467,"synth_conditional"
+"388",9,"IV: 
+afspraak_afsprakenplan: 8
+",1278,10.217460825072,"synth_conditional"
+"389",9,"IV: 
+afspraak_afsprakenplan: 9
+",1279,10.2254557083467,"synth_conditional"
+"390",10,"IV: 
+afspraak_afsprakenplan: 0
+",1203,9.61784457946914,"synth_conditional"
+"391",10,"IV: 
+afspraak_afsprakenplan: 1
+",1225,9.79373201151263,"synth_conditional"
+"392",10,"IV: 
+afspraak_afsprakenplan: 10
+",1283,10.2574352414455,"synth_conditional"
+"393",10,"IV: 
+afspraak_afsprakenplan: 11
+",1283,10.2574352414455,"synth_conditional"
+"394",10,"IV: 
+afspraak_afsprakenplan: 2
+",1225,9.79373201151263,"synth_conditional"
+"395",10,"IV: 
+afspraak_afsprakenplan: 3
+",1225,9.79373201151263,"synth_conditional"
+"396",10,"IV: 
+afspraak_afsprakenplan: 4
+",1217,9.729772945315,"synth_conditional"
+"397",10,"IV: 
+afspraak_afsprakenplan: 5
+",1217,9.729772945315,"synth_conditional"
+"398",10,"IV: 
+afspraak_afsprakenplan: 6
+",1283,10.2574352414455,"synth_conditional"
+"399",10,"IV: 
+afspraak_afsprakenplan: 7
+",1282,10.2494403581708,"synth_conditional"
+"400",10,"IV: 
+afspraak_afsprakenplan: 8
+",1283,10.2574352414455,"synth_conditional"
+"401",10,"IV: 
+afspraak_afsprakenplan: 9
+",1283,10.2574352414455,"synth_conditional"

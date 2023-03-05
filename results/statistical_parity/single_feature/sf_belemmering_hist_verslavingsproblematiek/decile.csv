@@ -1,0 +1,394 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1233,10.38140944683,"real"
+"2",1,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",26,3.55677154582763,"real"
+"3",1,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",6,18.1818181818182,"real"
+"4",2,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1213,10.2130167550728,"real"
+"5",2,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",48,6.56634746922025,"real"
+"6",2,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",3,9.09090909090909,"real"
+"7",2,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1,25,"real"
+"8",3,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1197,10.0783026016671,"real"
+"9",3,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",63,8.61833105335157,"real"
+"10",3,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",5,15.1515151515152,"real"
+"11",4,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1192,10.0362044287278,"real"
+"12",4,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",69,9.4391244870041,"real"
+"13",4,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1,3.03030303030303,"real"
+"14",4,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",3,75,"real"
+"15",5,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1174,9.88465100614633,"real"
+"16",5,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",87,11.9015047879617,"real"
+"17",5,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",4,12.1212121212121,"real"
+"18",6,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1186,9.98568662120064,"real"
+"19",6,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",75,10.2599179206566,"real"
+"20",6,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",3,9.09090909090909,"real"
+"21",7,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1180,9.93516881367349,"real"
+"22",7,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",84,11.4911080711354,"real"
+"23",8,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1177,9.90990990990991,"real"
+"24",8,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",84,11.4911080711354,"real"
+"25",8,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",3,9.09090909090909,"real"
+"26",9,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1144,9.63206196851057,"real"
+"27",9,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",116,15.8686730506156,"real"
+"28",9,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",4,12.1212121212121,"real"
+"29",10,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1181,9.94358844826134,"real"
+"30",10,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",79,10.8071135430917,"real"
+"31",10,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",4,12.1212121212121,"real"
+"32",1,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1445,11.427441676552,"real_conditional"
+"33",1,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1205,9.52945828390668,"real_conditional"
+"34",1,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1204,9.52155001977066,"real_conditional"
+"35",1,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1204,9.52155001977066,"real_conditional"
+"36",2,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1306,10.3281929616449,"real_conditional"
+"37",2,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1250,9.88533017002768,"real_conditional"
+"38",2,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1251,9.8932384341637,"real_conditional"
+"39",2,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1251,9.8932384341637,"real_conditional"
+"40",3,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1295,10.2412020561487,"real_conditional"
+"41",3,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1255,9.92487149070779,"real_conditional"
+"42",3,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1254,9.91696322657177,"real_conditional"
+"43",3,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1254,9.91696322657177,"real_conditional"
+"44",4,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1303,10.3044681692369,"real_conditional"
+"45",4,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1251,9.8932384341637,"real_conditional"
+"46",4,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1252,9.90114669829972,"real_conditional"
+"47",4,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1252,9.90114669829972,"real_conditional"
+"48",5,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1290,10.2016607354686,"real_conditional"
+"49",5,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1256,9.93277975484381,"real_conditional"
+"50",5,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1256,9.93277975484381,"real_conditional"
+"51",5,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1256,9.93277975484381,"real_conditional"
+"52",6,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1206,9.53736654804271,"real_conditional"
+"53",6,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1284,10.1542111506524,"real_conditional"
+"54",6,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1284,10.1542111506524,"real_conditional"
+"55",6,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1284,10.1542111506524,"real_conditional"
+"56",7,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1278,10.1067615658363,"real_conditional"
+"57",7,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1260,9.9644128113879,"real_conditional"
+"58",7,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1260,9.9644128113879,"real_conditional"
+"59",7,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1260,9.9644128113879,"real_conditional"
+"60",8,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1223,9.67180703835508,"real_conditional"
+"61",8,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1279,10.1146698299723,"real_conditional"
+"62",8,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1278,10.1067615658363,"real_conditional"
+"63",8,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1278,10.1067615658363,"real_conditional"
+"64",9,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1147,9.0707789640174,"real_conditional"
+"65",9,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1303,10.3044681692369,"real_conditional"
+"66",9,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1304,10.3123764333729,"real_conditional"
+"67",9,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1304,10.3123764333729,"real_conditional"
+"68",10,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1152,9.11032028469751,"real_conditional"
+"69",10,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1302,10.2965599051008,"real_conditional"
+"70",10,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1302,10.2965599051008,"real_conditional"
+"71",10,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1302,10.2965599051008,"real_conditional"
+"72",1,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1223,10.2833599596401,"synth"
+"73",1,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",42,5.58510638297872,"synth"
+"74",2,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1205,10.1320104263012,"synth"
+"75",2,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",60,7.97872340425532,"synth"
+"76",3,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1184,9.95543597073909,"synth"
+"77",3,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",81,10.7712765957447,"synth"
+"78",4,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1200,10.0899688892626,"synth"
+"79",4,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",65,8.6436170212766,"synth"
+"80",5,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1192,10.0227024300008,"synth"
+"81",5,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",73,9.70744680851064,"synth"
+"82",6,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1179,9.9133944337005,"synth"
+"83",6,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",85,11.3031914893617,"synth"
+"84",7,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1171,9.84612797443875,"synth"
+"85",7,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",93,12.3670212765957,"synth"
+"86",8,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1195,10.047927352224,"synth"
+"87",8,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",69,9.17553191489362,"synth"
+"88",9,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1185,9.96384427814681,"synth"
+"89",9,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",79,10.5053191489362,"synth"
+"90",10,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1159,9.74522828554612,"synth"
+"91",10,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",105,13.9627659574468,"synth"
+"92",1,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1374,10.9849696194436,"synth_conditional"
+"93",1,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1210,9.67380876239207,"synth_conditional"
+"94",1,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1210,9.67380876239207,"synth_conditional"
+"95",1,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1210,9.67380876239207,"synth_conditional"
+"96",2,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1359,10.865046370323,"synth_conditional"
+"97",2,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1215,9.71378317876559,"synth_conditional"
+"98",2,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1215,9.71378317876559,"synth_conditional"
+"99",2,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1215,9.71378317876559,"synth_conditional"
+"100",3,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1305,10.433322673489,"synth_conditional"
+"101",3,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1233,9.85769107771027,"synth_conditional"
+"102",3,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1233,9.85769107771027,"synth_conditional"
+"103",3,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1232,9.84969619443556,"synth_conditional"
+"104",4,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1295,10.3533738407419,"synth_conditional"
+"105",4,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1236,9.88167572753438,"synth_conditional"
+"106",4,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1236,9.88167572753438,"synth_conditional"
+"107",4,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1236,9.88167572753438,"synth_conditional"
+"108",5,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1243,9.93763991045731,"synth_conditional"
+"109",5,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1253,10.0175887432043,"synth_conditional"
+"110",5,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1253,10.0175887432043,"synth_conditional"
+"111",5,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1254,10.0255836264791,"synth_conditional"
+"112",6,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1289,10.3054045410937,"synth_conditional"
+"113",6,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1238,9.89766549408379,"synth_conditional"
+"114",6,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1238,9.89766549408379,"synth_conditional"
+"115",6,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1238,9.89766549408379,"synth_conditional"
+"116",7,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1197,9.56987527982091,"synth_conditional"
+"117",7,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1269,10.1455068755996,"synth_conditional"
+"118",7,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1269,10.1455068755996,"synth_conditional"
+"119",7,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1268,10.1375119923249,"synth_conditional"
+"120",8,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1195,9.55388551327151,"synth_conditional"
+"121",8,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1269,10.1455068755996,"synth_conditional"
+"122",8,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1269,10.1455068755996,"synth_conditional"
+"123",8,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1270,10.1535017588743,"synth_conditional"
+"124",9,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1166,9.32203389830508,"synth_conditional"
+"125",9,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1279,10.2254557083467,"synth_conditional"
+"126",9,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1279,10.2254557083467,"synth_conditional"
+"127",9,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1279,10.2254557083467,"synth_conditional"
+"128",10,"IV: 
+belemmering_hist_verslavingsproblematiek: 0
+",1085,8.67444835305404,"synth_conditional"
+"129",10,"IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",1306,10.4413175567637,"synth_conditional"
+"130",10,"IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",1306,10.4413175567637,"synth_conditional"
+"131",10,"IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",1306,10.4413175567637,"synth_conditional"

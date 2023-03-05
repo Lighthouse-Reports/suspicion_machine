@@ -1,0 +1,106 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 0
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 1
+",12645,12645,0.022,"*",0.162,"ns","real_conditional"
+"2","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 0
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 2
+",12645,12645,0.911,"ns",1,"ns","real_conditional"
+"3","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 1
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 2
+",12645,12645,0.0162,"*",0.162,"ns","real_conditional"
+"4","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 0
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 3
+",12645,12645,0.911,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 1
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 3
+",12645,12645,0.0162,"*",0.162,"ns","real_conditional"
+"6","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 2
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 0
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 4
+",12645,12645,0.911,"ns",1,"ns","real_conditional"
+"8","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 1
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 4
+",12645,12645,0.0162,"*",0.162,"ns","real_conditional"
+"9","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 2
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 3
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"11","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 0
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 1
+",10573,2072,2.07e-13,"****",2.07e-13,"****","synth"
+"12","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 0
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 1
+",12508,12508,0.000185,"***",0.0013,"**","synth_conditional"
+"13","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 0
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 2
+",12508,12508,0.693,"ns",1,"ns","synth_conditional"
+"14","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 1
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 2
+",12508,12508,3.58e-05,"****",0.000358,"***","synth_conditional"
+"15","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 0
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 3
+",12508,12508,0.693,"ns",1,"ns","synth_conditional"
+"16","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 1
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 3
+",12508,12508,3.58e-05,"****",0.000358,"***","synth_conditional"
+"17","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 2
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"18","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 0
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 4
+",12508,12508,0.693,"ns",1,"ns","synth_conditional"
+"19","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 1
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 4
+",12508,12508,3.58e-05,"****",0.000358,"***","synth_conditional"
+"20","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 2
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"21","Ja","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 3
+","IV: 
+afspraak_verzenden_beschikking_i_v_m__niet_voldoen_aan_wet_taaleis: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"

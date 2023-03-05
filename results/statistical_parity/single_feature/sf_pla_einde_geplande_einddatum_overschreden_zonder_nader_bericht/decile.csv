@@ -1,0 +1,442 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",882,8.64790665751544,"real"
+"2",1,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",344,15.6648451730419,"real"
+"3",1,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",39,16.4556962025316,"real"
+"4",2,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",932,9.13815079909795,"real"
+"5",2,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",301,13.7067395264117,"real"
+"6",2,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",31,13.0801687763713,"real"
+"7",2,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1,7.69230769230769,"real"
+"8",3,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",982,9.62839494068046,"real"
+"9",3,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",252,11.4754098360656,"real"
+"10",3,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",29,12.2362869198312,"real"
+"11",3,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",2,15.3846153846154,"real"
+"12",4,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1026,10.0598097852731,"real"
+"13",4,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",220,10.0182149362477,"real"
+"14",4,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",19,8.0168776371308,"real"
+"15",5,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1039,10.1872732620845,"real"
+"16",5,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",194,8.83424408014572,"real"
+"17",5,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",30,12.6582278481013,"real"
+"18",5,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",2,15.3846153846154,"real"
+"19",6,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1027,10.0696146681047,"real"
+"20",6,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",210,9.56284153005464,"real"
+"21",6,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",26,10.9704641350211,"real"
+"22",6,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1,7.69230769230769,"real"
+"23",7,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1062,10.4127855672125,"real"
+"24",7,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",175,7.96903460837887,"real"
+"25",7,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",23,9.70464135021097,"real"
+"26",7,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",4,30.7692307692308,"real"
+"27",8,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1055,10.3441513873909,"real"
+"28",8,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",191,8.6976320582878,"real"
+"29",8,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",16,6.75105485232068,"real"
+"30",8,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",2,15.3846153846154,"real"
+"31",9,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1083,10.6186881066771,"real"
+"32",9,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",165,7.51366120218579,"real"
+"33",9,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",15,6.32911392405063,"real"
+"34",9,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1,7.69230769230769,"real"
+"35",10,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1111,10.8932248259633,"real"
+"36",10,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",144,6.55737704918033,"real"
+"37",10,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",9,3.79746835443038,"real"
+"38",1,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1252,9.90114669829972,"real_conditional"
+"39",1,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1269,10.0355871886121,"real_conditional"
+"40",1,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1269,10.0355871886121,"real_conditional"
+"41",1,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1268,10.0276789244761,"real_conditional"
+"42",2,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1264,9.99604586793199,"real_conditional"
+"43",2,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1265,10.003954132068,"real_conditional"
+"44",2,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1264,9.99604586793199,"real_conditional"
+"45",2,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1265,10.003954132068,"real_conditional"
+"46",3,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1259,9.95650454725188,"real_conditional"
+"47",3,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1266,10.011862396204,"real_conditional"
+"48",3,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1267,10.0197706603401,"real_conditional"
+"49",3,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1266,10.011862396204,"real_conditional"
+"50",4,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1267,10.0197706603401,"real_conditional"
+"51",4,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1264,9.99604586793199,"real_conditional"
+"52",4,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1263,9.98813760379597,"real_conditional"
+"53",4,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1264,9.99604586793199,"real_conditional"
+"54",5,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1268,10.0276789244761,"real_conditional"
+"55",5,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1263,9.98813760379597,"real_conditional"
+"56",5,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1264,9.99604586793199,"real_conditional"
+"57",5,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1263,9.98813760379597,"real_conditional"
+"58",6,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1263,9.98813760379597,"real_conditional"
+"59",6,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1265,10.003954132068,"real_conditional"
+"60",6,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1265,10.003954132068,"real_conditional"
+"61",6,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1265,10.003954132068,"real_conditional"
+"62",7,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1265,10.003954132068,"real_conditional"
+"63",7,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1264,9.99604586793199,"real_conditional"
+"64",7,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1264,9.99604586793199,"real_conditional"
+"65",7,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1265,10.003954132068,"real_conditional"
+"66",8,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1264,9.99604586793199,"real_conditional"
+"67",8,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1265,10.003954132068,"real_conditional"
+"68",8,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1265,10.003954132068,"real_conditional"
+"69",8,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1264,9.99604586793199,"real_conditional"
+"70",9,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1268,10.0276789244761,"real_conditional"
+"71",9,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1263,9.98813760379597,"real_conditional"
+"72",9,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1263,9.98813760379597,"real_conditional"
+"73",9,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1264,9.99604586793199,"real_conditional"
+"74",10,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1275,10.0830367734282,"real_conditional"
+"75",10,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1261,9.97232107552392,"real_conditional"
+"76",10,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1261,9.97232107552392,"real_conditional"
+"77",10,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1261,9.97232107552392,"real_conditional"
+"78",1,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",785,9.50938824954573,"synth"
+"79",1,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",474,10.9443546525052,"synth"
+"80",1,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",6,10.1694915254237,"synth"
+"81",2,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",777,9.41247728649303,"synth"
+"82",2,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",479,11.0598014315401,"synth"
+"83",2,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",9,15.2542372881356,"synth"
+"84",3,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",784,9.49727437916414,"synth"
+"85",3,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",475,10.9674440083122,"synth"
+"86",3,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",6,10.1694915254237,"synth"
+"87",4,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",811,9.82434887946699,"synth"
+"88",4,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",453,10.4594781805588,"synth"
+"89",4,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1,1.69491525423729,"synth"
+"90",5,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",838,10.1514233797698,"synth"
+"91",5,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",421,9.72061879473563,"synth"
+"92",5,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",6,10.1694915254237,"synth"
+"93",6,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",821,9.94548758328286,"synth"
+"94",6,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",437,10.0900484876472,"synth"
+"95",6,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",6,10.1694915254237,"synth"
+"96",7,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",848,10.2725620835857,"synth"
+"97",7,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",405,9.35118910182406,"synth"
+"98",7,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",11,18.6440677966102,"synth"
+"99",8,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",864,10.4663840096911,"synth"
+"100",8,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",394,9.09720618794736,"synth"
+"101",8,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",6,10.1694915254237,"synth"
+"102",9,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",848,10.2725620835857,"synth"
+"103",9,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",412,9.51281459247287,"synth"
+"104",9,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",4,6.77966101694915,"synth"
+"105",10,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",879,10.6480920654149,"synth"
+"106",10,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",381,8.79704456245671,"synth"
+"107",10,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",4,6.77966101694915,"synth"
+"108",1,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1245,9.95362967700671,"synth_conditional"
+"109",1,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1253,10.0175887432043,"synth_conditional"
+"110",1,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1253,10.0175887432043,"synth_conditional"
+"111",1,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1253,10.0175887432043,"synth_conditional"
+"112",2,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1234,9.86568596098497,"synth_conditional"
+"113",2,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1257,10.0495682763032,"synth_conditional"
+"114",2,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1257,10.0495682763032,"synth_conditional"
+"115",2,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1256,10.0415733930285,"synth_conditional"
+"116",3,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1252,10.0095938599296,"synth_conditional"
+"117",3,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1250,9.99360409338024,"synth_conditional"
+"118",3,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1250,9.99360409338024,"synth_conditional"
+"119",3,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1251,10.0015989766549,"synth_conditional"
+"120",4,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1244,9.94563479373201,"synth_conditional"
+"121",4,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1253,10.0175887432043,"synth_conditional"
+"122",4,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1253,10.0175887432043,"synth_conditional"
+"123",4,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1253,10.0175887432043,"synth_conditional"
+"124",5,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1246,9.96162456028142,"synth_conditional"
+"125",5,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1253,10.0175887432043,"synth_conditional"
+"126",5,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1252,10.0095938599296,"synth_conditional"
+"127",5,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1252,10.0095938599296,"synth_conditional"
+"128",6,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1246,9.96162456028142,"synth_conditional"
+"129",6,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1252,10.0095938599296,"synth_conditional"
+"130",6,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1253,10.0175887432043,"synth_conditional"
+"131",6,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1252,10.0095938599296,"synth_conditional"
+"132",7,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1241,9.9216501439079,"synth_conditional"
+"133",7,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1254,10.0255836264791,"synth_conditional"
+"134",7,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1254,10.0255836264791,"synth_conditional"
+"135",7,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1254,10.0255836264791,"synth_conditional"
+"136",8,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1278,10.217460825072,"synth_conditional"
+"137",8,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1242,9.9296450271826,"synth_conditional"
+"138",8,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1241,9.9216501439079,"synth_conditional"
+"139",8,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1242,9.9296450271826,"synth_conditional"
+"140",9,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1241,9.9216501439079,"synth_conditional"
+"141",9,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1254,10.0255836264791,"synth_conditional"
+"142",9,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1254,10.0255836264791,"synth_conditional"
+"143",9,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1254,10.0255836264791,"synth_conditional"
+"144",10,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 0
+",1281,10.2414454748961,"synth_conditional"
+"145",10,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 1
+",1240,9.9136552606332,"synth_conditional"
+"146",10,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 2
+",1241,9.9216501439079,"synth_conditional"
+"147",10,"IV: 
+pla_einde_geplande_einddatum_overschreden_zonder_nader_bericht: 3
+",1241,9.9216501439079,"synth_conditional"

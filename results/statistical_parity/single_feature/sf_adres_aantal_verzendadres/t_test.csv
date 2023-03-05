@@ -1,0 +1,211 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+adres_aantal_verzendadres: 0
+","IV: 
+adres_aantal_verzendadres: 1
+",12645,12645,5.02e-14,"****",8.03e-13,"****","real_conditional"
+"2","Ja","IV: 
+adres_aantal_verzendadres: 0
+","IV: 
+adres_aantal_verzendadres: 2
+",12645,12645,6.72e-16,"****",1.41e-14,"****","real_conditional"
+"3","Ja","IV: 
+adres_aantal_verzendadres: 1
+","IV: 
+adres_aantal_verzendadres: 2
+",12645,12645,0.586,"ns",1,"ns","real_conditional"
+"4","Ja","IV: 
+adres_aantal_verzendadres: 0
+","IV: 
+adres_aantal_verzendadres: 3
+",12645,12645,6.72e-16,"****",1.41e-14,"****","real_conditional"
+"5","Ja","IV: 
+adres_aantal_verzendadres: 1
+","IV: 
+adres_aantal_verzendadres: 3
+",12645,12645,0.586,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+adres_aantal_verzendadres: 2
+","IV: 
+adres_aantal_verzendadres: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+adres_aantal_verzendadres: 0
+","IV: 
+adres_aantal_verzendadres: 4
+",12645,12645,6.72e-16,"****",1.41e-14,"****","real_conditional"
+"8","Ja","IV: 
+adres_aantal_verzendadres: 1
+","IV: 
+adres_aantal_verzendadres: 4
+",12645,12645,0.586,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+adres_aantal_verzendadres: 2
+","IV: 
+adres_aantal_verzendadres: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+adres_aantal_verzendadres: 3
+","IV: 
+adres_aantal_verzendadres: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"11","Ja","IV: 
+adres_aantal_verzendadres: 0
+","IV: 
+adres_aantal_verzendadres: 5
+",12645,12645,6.72e-16,"****",1.41e-14,"****","real_conditional"
+"12","Ja","IV: 
+adres_aantal_verzendadres: 1
+","IV: 
+adres_aantal_verzendadres: 5
+",12645,12645,0.586,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+adres_aantal_verzendadres: 2
+","IV: 
+adres_aantal_verzendadres: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"14","Ja","IV: 
+adres_aantal_verzendadres: 3
+","IV: 
+adres_aantal_verzendadres: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"15","Ja","IV: 
+adres_aantal_verzendadres: 4
+","IV: 
+adres_aantal_verzendadres: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"16","Ja","IV: 
+adres_aantal_verzendadres: 0
+","IV: 
+adres_aantal_verzendadres: 6
+",12645,12645,6.72e-16,"****",1.41e-14,"****","real_conditional"
+"17","Ja","IV: 
+adres_aantal_verzendadres: 1
+","IV: 
+adres_aantal_verzendadres: 6
+",12645,12645,0.586,"ns",1,"ns","real_conditional"
+"18","Ja","IV: 
+adres_aantal_verzendadres: 2
+","IV: 
+adres_aantal_verzendadres: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"19","Ja","IV: 
+adres_aantal_verzendadres: 3
+","IV: 
+adres_aantal_verzendadres: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"20","Ja","IV: 
+adres_aantal_verzendadres: 4
+","IV: 
+adres_aantal_verzendadres: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"21","Ja","IV: 
+adres_aantal_verzendadres: 5
+","IV: 
+adres_aantal_verzendadres: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"22","Ja","IV: 
+adres_aantal_verzendadres: 0
+","IV: 
+adres_aantal_verzendadres: 1
+",12508,12508,2.46e-45,"****",3.93e-44,"****","synth_conditional"
+"23","Ja","IV: 
+adres_aantal_verzendadres: 0
+","IV: 
+adres_aantal_verzendadres: 2
+",12508,12508,1.88e-51,"****",3.95e-50,"****","synth_conditional"
+"24","Ja","IV: 
+adres_aantal_verzendadres: 1
+","IV: 
+adres_aantal_verzendadres: 2
+",12508,12508,0.336,"ns",1,"ns","synth_conditional"
+"25","Ja","IV: 
+adres_aantal_verzendadres: 0
+","IV: 
+adres_aantal_verzendadres: 3
+",12508,12508,1.88e-51,"****",3.95e-50,"****","synth_conditional"
+"26","Ja","IV: 
+adres_aantal_verzendadres: 1
+","IV: 
+adres_aantal_verzendadres: 3
+",12508,12508,0.336,"ns",1,"ns","synth_conditional"
+"27","Ja","IV: 
+adres_aantal_verzendadres: 2
+","IV: 
+adres_aantal_verzendadres: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"28","Ja","IV: 
+adres_aantal_verzendadres: 0
+","IV: 
+adres_aantal_verzendadres: 4
+",12508,12508,1.88e-51,"****",3.95e-50,"****","synth_conditional"
+"29","Ja","IV: 
+adres_aantal_verzendadres: 1
+","IV: 
+adres_aantal_verzendadres: 4
+",12508,12508,0.336,"ns",1,"ns","synth_conditional"
+"30","Ja","IV: 
+adres_aantal_verzendadres: 2
+","IV: 
+adres_aantal_verzendadres: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"31","Ja","IV: 
+adres_aantal_verzendadres: 3
+","IV: 
+adres_aantal_verzendadres: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"32","Ja","IV: 
+adres_aantal_verzendadres: 0
+","IV: 
+adres_aantal_verzendadres: 5
+",12508,12508,1.88e-51,"****",3.95e-50,"****","synth_conditional"
+"33","Ja","IV: 
+adres_aantal_verzendadres: 1
+","IV: 
+adres_aantal_verzendadres: 5
+",12508,12508,0.336,"ns",1,"ns","synth_conditional"
+"34","Ja","IV: 
+adres_aantal_verzendadres: 2
+","IV: 
+adres_aantal_verzendadres: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"35","Ja","IV: 
+adres_aantal_verzendadres: 3
+","IV: 
+adres_aantal_verzendadres: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"36","Ja","IV: 
+adres_aantal_verzendadres: 4
+","IV: 
+adres_aantal_verzendadres: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"37","Ja","IV: 
+adres_aantal_verzendadres: 0
+","IV: 
+adres_aantal_verzendadres: 6
+",12508,12508,1.88e-51,"****",3.95e-50,"****","synth_conditional"
+"38","Ja","IV: 
+adres_aantal_verzendadres: 1
+","IV: 
+adres_aantal_verzendadres: 6
+",12508,12508,0.336,"ns",1,"ns","synth_conditional"
+"39","Ja","IV: 
+adres_aantal_verzendadres: 2
+","IV: 
+adres_aantal_verzendadres: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"40","Ja","IV: 
+adres_aantal_verzendadres: 3
+","IV: 
+adres_aantal_verzendadres: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"41","Ja","IV: 
+adres_aantal_verzendadres: 4
+","IV: 
+adres_aantal_verzendadres: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"42","Ja","IV: 
+adres_aantal_verzendadres: 5
+","IV: 
+adres_aantal_verzendadres: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"

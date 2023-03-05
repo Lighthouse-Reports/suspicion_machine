@@ -1,0 +1,1405 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",828,10.6372045220966,"real"
+"2",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",256,10.3980503655565,"real"
+"3",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",87,7.74021352313167,"real"
+"4",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",41,7.16783216783217,"real"
+"5",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",20,7.16845878136201,"real"
+"6",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",6,4.61538461538461,"real"
+"7",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",838,10.7656731757451,"real"
+"8",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",235,9.5450852965069,"real"
+"9",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",110,9.7864768683274,"real"
+"10",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",35,6.11888111888112,"real"
+"11",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",16,5.73476702508961,"real"
+"12",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",4,3.07692307692308,"real"
+"13",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",811,10.4188078108941,"real"
+"14",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",252,10.2355808285946,"real"
+"15",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1,25,"real"
+"16",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",92,8.18505338078292,"real"
+"17",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",54,9.44055944055944,"real"
+"18",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",22,7.88530465949821,"real"
+"19",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",6,4.61538461538461,"real"
+"20",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",798,10.2517985611511,"real"
+"21",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",250,10.1543460601137,"real"
+"22",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",2,9.09090909090909,"real"
+"23",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",95,8.45195729537367,"real"
+"24",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",57,9.96503496503496,"real"
+"25",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",27,9.67741935483871,"real"
+"26",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",9,6.92307692307692,"real"
+"27",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",803,10.3160328879753,"real"
+"28",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",235,9.5450852965069,"real"
+"29",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1,4.54545454545455,"real"
+"30",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",120,10.6761565836299,"real"
+"31",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1,100,"real"
+"32",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",45,7.86713286713287,"real"
+"33",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",22,7.88530465949821,"real"
+"34",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",11,8.46153846153846,"real"
+"35",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",774,9.94347379239466,"real"
+"36",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",242,9.82940698619009,"real"
+"37",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",2,9.09090909090909,"real"
+"38",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1,25,"real"
+"39",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",113,10.0533807829181,"real"
+"40",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",65,11.3636363636364,"real"
+"41",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",28,10.0358422939068,"real"
+"42",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",13,10,"real"
+"43",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",737,9.46813977389517,"real"
+"44",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",232,9.42323314378554,"real"
+"45",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",2,9.09090909090909,"real"
+"46",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",149,13.2562277580071,"real"
+"47",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",80,13.986013986014,"real"
+"48",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",26,9.31899641577061,"real"
+"49",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",12,9.23076923076923,"real"
+"50",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",763,9.80215827338129,"real"
+"51",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",256,10.3980503655565,"real"
+"52",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",2,9.09090909090909,"real"
+"53",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",104,9.25266903914591,"real"
+"54",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",59,10.3146853146853,"real"
+"55",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",34,12.1863799283154,"real"
+"56",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",20,15.3846153846154,"real"
+"57",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",750,9.63514902363823,"real"
+"58",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",256,10.3980503655565,"real"
+"59",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",5,22.7272727272727,"real"
+"60",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",113,10.0533807829181,"real"
+"61",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",57,9.96503496503496,"real"
+"62",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",34,12.1863799283154,"real"
+"63",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",22,16.9230769230769,"real"
+"64",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",682,8.76156217882837,"real"
+"65",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",248,10.0731112916328,"real"
+"66",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",8,36.3636363636364,"real"
+"67",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",2,50,"real"
+"68",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",141,12.5444839857651,"real"
+"69",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",79,13.8111888111888,"real"
+"70",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",50,17.921146953405,"real"
+"71",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",27,20.7692307692308,"real"
+"72",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1265,10.003954132068,"real_conditional"
+"73",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"74",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1265,10.003954132068,"real_conditional"
+"75",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1265,10.003954132068,"real_conditional"
+"76",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"77",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1265,10.003954132068,"real_conditional"
+"78",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"79",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1265,10.003954132068,"real_conditional"
+"80",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"81",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"82",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1271,10.0514037168841,"real_conditional"
+"83",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1266,10.011862396204,"real_conditional"
+"84",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1262,9.98022933965994,"real_conditional"
+"85",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1262,9.98022933965994,"real_conditional"
+"86",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1266,10.011862396204,"real_conditional"
+"87",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1262,9.98022933965994,"real_conditional"
+"88",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1266,10.011862396204,"real_conditional"
+"89",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1262,9.98022933965994,"real_conditional"
+"90",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"91",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"92",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1262,9.98022933965994,"real_conditional"
+"93",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"94",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1268,10.0276789244761,"real_conditional"
+"95",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1267,10.0197706603401,"real_conditional"
+"96",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"97",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1267,10.0197706603401,"real_conditional"
+"98",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"99",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1267,10.0197706603401,"real_conditional"
+"100",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1261,9.97232107552392,"real_conditional"
+"101",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1261,9.97232107552392,"real_conditional"
+"102",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1266,10.011862396204,"real_conditional"
+"103",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1266,10.011862396204,"real_conditional"
+"104",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1262,9.98022933965994,"real_conditional"
+"105",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1263,9.98813760379597,"real_conditional"
+"106",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1266,10.011862396204,"real_conditional"
+"107",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1263,9.98813760379597,"real_conditional"
+"108",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1266,10.011862396204,"real_conditional"
+"109",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1263,9.98813760379597,"real_conditional"
+"110",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1265,10.003954132068,"real_conditional"
+"111",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1265,10.003954132068,"real_conditional"
+"112",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1264,9.99604586793199,"real_conditional"
+"113",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1262,9.98022933965994,"real_conditional"
+"114",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1270,10.0434954527481,"real_conditional"
+"115",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1269,10.0355871886121,"real_conditional"
+"116",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1262,9.98022933965994,"real_conditional"
+"117",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1269,10.0355871886121,"real_conditional"
+"118",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1262,9.98022933965994,"real_conditional"
+"119",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1269,10.0355871886121,"real_conditional"
+"120",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1259,9.95650454725188,"real_conditional"
+"121",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1259,9.95650454725188,"real_conditional"
+"122",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1261,9.97232107552392,"real_conditional"
+"123",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1268,10.0276789244761,"real_conditional"
+"124",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1260,9.9644128113879,"real_conditional"
+"125",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1261,9.97232107552392,"real_conditional"
+"126",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1268,10.0276789244761,"real_conditional"
+"127",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1261,9.97232107552392,"real_conditional"
+"128",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1268,10.0276789244761,"real_conditional"
+"129",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1260,9.9644128113879,"real_conditional"
+"130",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1269,10.0355871886121,"real_conditional"
+"131",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1269,10.0355871886121,"real_conditional"
+"132",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1266,10.011862396204,"real_conditional"
+"133",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1262,9.98022933965994,"real_conditional"
+"134",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1267,10.0197706603401,"real_conditional"
+"135",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1267,10.0197706603401,"real_conditional"
+"136",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1262,9.98022933965994,"real_conditional"
+"137",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1266,10.011862396204,"real_conditional"
+"138",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1262,9.98022933965994,"real_conditional"
+"139",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1267,10.0197706603401,"real_conditional"
+"140",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1263,9.98813760379597,"real_conditional"
+"141",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1263,9.98813760379597,"real_conditional"
+"142",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1267,10.0197706603401,"real_conditional"
+"143",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1265,10.003954132068,"real_conditional"
+"144",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1262,9.98022933965994,"real_conditional"
+"145",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1262,9.98022933965994,"real_conditional"
+"146",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1265,10.003954132068,"real_conditional"
+"147",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1263,9.98813760379597,"real_conditional"
+"148",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1265,10.003954132068,"real_conditional"
+"149",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1263,9.98813760379597,"real_conditional"
+"150",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1267,10.0197706603401,"real_conditional"
+"151",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1266,10.011862396204,"real_conditional"
+"152",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1259,9.95650454725188,"real_conditional"
+"153",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"154",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1266,10.011862396204,"real_conditional"
+"155",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1265,10.003954132068,"real_conditional"
+"156",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"157",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1265,10.003954132068,"real_conditional"
+"158",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"159",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1265,10.003954132068,"real_conditional"
+"160",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1266,10.011862396204,"real_conditional"
+"161",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1267,10.0197706603401,"real_conditional"
+"162",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1264,9.99604586793199,"real_conditional"
+"163",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"164",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1263,9.98813760379597,"real_conditional"
+"165",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"166",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"167",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"168",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"169",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1264,9.99604586793199,"real_conditional"
+"170",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1267,10.0197706603401,"real_conditional"
+"171",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1267,10.0197706603401,"real_conditional"
+"172",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",265,12.6733620277379,"synth"
+"173",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",449,11.4628542251723,"synth"
+"174",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",71,12.8390596745027,"synth"
+"175",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",41,9.07079646017699,"synth"
+"176",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",260,9.19052668787557,"synth"
+"177",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",125,6.89464975179261,"synth"
+"178",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",33,4.5643153526971,"synth"
+"179",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",15,7.07547169811321,"synth"
+"180",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",223,10.6647537063606,"synth"
+"181",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",400,10.2118968598417,"synth"
+"182",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",59,10.6690777576854,"synth"
+"183",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",41,9.07079646017699,"synth"
+"184",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",284,10.0388829975256,"synth"
+"185",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",179,9.87313844456702,"synth"
+"186",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",54,7.46887966804979,"synth"
+"187",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",19,8.9622641509434,"synth"
+"188",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",234,11.1908177905308,"synth"
+"189",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",401,10.2374266019913,"synth"
+"190",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",59,10.6690777576854,"synth"
+"191",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",39,8.6283185840708,"synth"
+"192",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",277,9.79144574054436,"synth"
+"193",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",169,9.32156646442361,"synth"
+"194",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",60,8.29875518672199,"synth"
+"195",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",20,9.43396226415094,"synth"
+"196",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",203,9.70827355332377,"synth"
+"197",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",384,9.80342098544805,"synth"
+"198",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",69,12.4773960216998,"synth"
+"199",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",37,8.1858407079646,"synth"
+"200",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",316,11.1700247437257,"synth"
+"201",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",166,9.15609487038058,"synth"
+"202",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",63,8.71369294605809,"synth"
+"203",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",21,9.90566037735849,"synth"
+"204",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",198,9.46915351506456,"synth"
+"205",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",413,10.5437835077866,"synth"
+"206",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",54,9.76491862567812,"synth"
+"207",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",40,8.84955752212389,"synth"
+"208",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",265,9.36726758571934,"synth"
+"209",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",189,10.4247104247104,"synth"
+"210",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",78,10.7883817427386,"synth"
+"211",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",22,10.377358490566,"synth"
+"212",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",190,9.08656145384983,"synth"
+"213",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",382,9.75236150114884,"synth"
+"214",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",59,10.6690777576854,"synth"
+"215",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",41,9.07079646017699,"synth"
+"216",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",293,10.3570166136444,"synth"
+"217",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",187,10.3143960286817,"synth"
+"218",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",86,11.8948824343015,"synth"
+"219",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",21,9.90566037735849,"synth"
+"220",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",211,10.0908656145385,"synth"
+"221",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",351,8.96093949451111,"synth"
+"222",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",54,9.76491862567812,"synth"
+"223",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",52,11.5044247787611,"synth"
+"224",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",298,10.5337575114882,"synth"
+"225",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",198,10.9211252068395,"synth"
+"226",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",74,10.2351313969571,"synth"
+"227",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",21,9.90566037735849,"synth"
+"228",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",207,9.89956958393113,"synth"
+"229",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",388,9.90553995404646,"synth"
+"230",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",35,6.32911392405063,"synth"
+"231",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",34,7.52212389380531,"synth"
+"232",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",272,9.6147048427006,"synth"
+"233",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",213,11.7484831770546,"synth"
+"234",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",96,13.2780082987552,"synth"
+"235",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",14,6.60377358490566,"synth"
+"236",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",196,9.37350549976088,"synth"
+"237",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",379,9.67577227470002,"synth"
+"238",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",52,9.40325497287523,"synth"
+"239",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",73,16.1504424778761,"synth"
+"240",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",270,9.5440084835631,"synth"
+"241",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",181,9.9834528405957,"synth"
+"242",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",80,11.0650069156293,"synth"
+"243",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",28,13.2075471698113,"synth"
+"244",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",164,7.84313725490196,"synth"
+"245",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",370,9.44600459535359,"synth"
+"246",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",41,7.41410488245931,"synth"
+"247",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",54,11.9469026548673,"synth"
+"248",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",294,10.3923647932131,"synth"
+"249",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",206,11.3623827909542,"synth"
+"250",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",99,13.6929460580913,"synth"
+"251",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",31,14.622641509434,"synth"
+"252",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1252,10.0095938599296,"synth_conditional"
+"253",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1253,10.0175887432043,"synth_conditional"
+"254",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1251,10.0015989766549,"synth_conditional"
+"255",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1250,9.99360409338024,"synth_conditional"
+"256",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1253,10.0175887432043,"synth_conditional"
+"257",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1250,9.99360409338024,"synth_conditional"
+"258",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1253,10.0175887432043,"synth_conditional"
+"259",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1250,9.99360409338024,"synth_conditional"
+"260",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1248,9.97761432683083,"synth_conditional"
+"261",1,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1248,9.97761432683083,"synth_conditional"
+"262",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1256,10.0415733930285,"synth_conditional"
+"263",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1259,10.0655580428526,"synth_conditional"
+"264",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1247,9.96961944355612,"synth_conditional"
+"265",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1248,9.97761432683083,"synth_conditional"
+"266",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1259,10.0655580428526,"synth_conditional"
+"267",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1248,9.97761432683083,"synth_conditional"
+"268",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1259,10.0655580428526,"synth_conditional"
+"269",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1248,9.97761432683083,"synth_conditional"
+"270",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1242,9.9296450271826,"synth_conditional"
+"271",2,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1242,9.9296450271826,"synth_conditional"
+"272",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1266,10.1215222257755,"synth_conditional"
+"273",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1260,10.0735529261273,"synth_conditional"
+"274",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1244,9.94563479373201,"synth_conditional"
+"275",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1244,9.94563479373201,"synth_conditional"
+"276",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1260,10.0735529261273,"synth_conditional"
+"277",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1243,9.93763991045731,"synth_conditional"
+"278",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1260,10.0735529261273,"synth_conditional"
+"279",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1243,9.93763991045731,"synth_conditional"
+"280",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1244,9.94563479373201,"synth_conditional"
+"281",3,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1244,9.94563479373201,"synth_conditional"
+"282",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1255,10.0335785097538,"synth_conditional"
+"283",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1257,10.0495682763032,"synth_conditional"
+"284",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1248,9.97761432683083,"synth_conditional"
+"285",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1248,9.97761432683083,"synth_conditional"
+"286",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1257,10.0495682763032,"synth_conditional"
+"287",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1248,9.97761432683083,"synth_conditional"
+"288",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1257,10.0495682763032,"synth_conditional"
+"289",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1248,9.97761432683083,"synth_conditional"
+"290",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1245,9.95362967700671,"synth_conditional"
+"291",4,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1245,9.95362967700671,"synth_conditional"
+"292",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1242,9.9296450271826,"synth_conditional"
+"293",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1244,9.94563479373201,"synth_conditional"
+"294",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1255,10.0335785097538,"synth_conditional"
+"295",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1255,10.0335785097538,"synth_conditional"
+"296",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1244,9.94563479373201,"synth_conditional"
+"297",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1256,10.0415733930285,"synth_conditional"
+"298",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1244,9.94563479373201,"synth_conditional"
+"299",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1256,10.0415733930285,"synth_conditional"
+"300",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1256,10.0415733930285,"synth_conditional"
+"301",5,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1256,10.0415733930285,"synth_conditional"
+"302",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1249,9.98560921010553,"synth_conditional"
+"303",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1247,9.96961944355612,"synth_conditional"
+"304",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1256,10.0415733930285,"synth_conditional"
+"305",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1256,10.0415733930285,"synth_conditional"
+"306",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1247,9.96961944355612,"synth_conditional"
+"307",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1255,10.0335785097538,"synth_conditional"
+"308",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1247,9.96961944355612,"synth_conditional"
+"309",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1255,10.0335785097538,"synth_conditional"
+"310",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1248,9.97761432683083,"synth_conditional"
+"311",6,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1248,9.97761432683083,"synth_conditional"
+"312",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1273,10.1774864086984,"synth_conditional"
+"313",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1274,10.1854812919731,"synth_conditional"
+"314",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1233,9.85769107771027,"synth_conditional"
+"315",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1232,9.84969619443556,"synth_conditional"
+"316",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1274,10.1854812919731,"synth_conditional"
+"317",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1233,9.85769107771027,"synth_conditional"
+"318",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1274,10.1854812919731,"synth_conditional"
+"319",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1233,9.85769107771027,"synth_conditional"
+"320",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1241,9.9216501439079,"synth_conditional"
+"321",7,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1241,9.9216501439079,"synth_conditional"
+"322",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1236,9.88167572753438,"synth_conditional"
+"323",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1235,9.87368084425967,"synth_conditional"
+"324",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1261,10.081547809402,"synth_conditional"
+"325",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1262,10.0895426926767,"synth_conditional"
+"326",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1235,9.87368084425967,"synth_conditional"
+"327",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1262,10.0895426926767,"synth_conditional"
+"328",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1235,9.87368084425967,"synth_conditional"
+"329",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1262,10.0895426926767,"synth_conditional"
+"330",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1260,10.0735529261273,"synth_conditional"
+"331",8,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1260,10.0735529261273,"synth_conditional"
+"332",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1242,9.9296450271826,"synth_conditional"
+"333",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1242,9.9296450271826,"synth_conditional"
+"334",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1254,10.0255836264791,"synth_conditional"
+"335",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1254,10.0255836264791,"synth_conditional"
+"336",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1242,9.9296450271826,"synth_conditional"
+"337",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1253,10.0175887432043,"synth_conditional"
+"338",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1242,9.9296450271826,"synth_conditional"
+"339",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1253,10.0175887432043,"synth_conditional"
+"340",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1263,10.0975375759514,"synth_conditional"
+"341",9,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1263,10.0975375759514,"synth_conditional"
+"342",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 0
+contacten_onderwerp_boolean_ziek__of_afmelding: 0
+",1237,9.88967061080908,"synth_conditional"
+"343",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 1
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1237,9.88967061080908,"synth_conditional"
+"344",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 10
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1259,10.0655580428526,"synth_conditional"
+"345",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 15
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1259,10.0655580428526,"synth_conditional"
+"346",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 2
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1237,9.88967061080908,"synth_conditional"
+"347",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 20
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1260,10.0735529261273,"synth_conditional"
+"348",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 3
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1237,9.88967061080908,"synth_conditional"
+"349",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 30
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1260,10.0735529261273,"synth_conditional"
+"350",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 4
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1261,10.081547809402,"synth_conditional"
+"351",10,"IV: 
+contacten_onderwerp_ziek__of_afmelding: 5
+contacten_onderwerp_boolean_ziek__of_afmelding: 1
+",1261,10.081547809402,"synth_conditional"

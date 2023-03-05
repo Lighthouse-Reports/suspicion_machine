@@ -1,0 +1,319 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+competentie_onderzoeken: 0
+",1251,11.2946912242687,"real"
+"2",1,"IV: 
+competentie_onderzoeken: 1
+",14,0.90032154340836,"real"
+"3",2,"IV: 
+competentie_onderzoeken: 0
+",1224,11.0509209100758,"real"
+"4",2,"IV: 
+competentie_onderzoeken: 1
+",41,2.63665594855305,"real"
+"5",3,"IV: 
+competentie_onderzoeken: 0
+",1181,10.6626941133983,"real"
+"6",3,"IV: 
+competentie_onderzoeken: 1
+",83,5.33762057877814,"real"
+"7",3,"IV: 
+competentie_onderzoeken: 2
+",1,7.14285714285714,"real"
+"8",4,"IV: 
+competentie_onderzoeken: 0
+",1103,9.95846876128566,"real"
+"9",4,"IV: 
+competentie_onderzoeken: 1
+",162,10.4180064308682,"real"
+"10",5,"IV: 
+competentie_onderzoeken: 0
+",1111,10.030697002528,"real"
+"11",5,"IV: 
+competentie_onderzoeken: 1
+",153,9.83922829581994,"real"
+"12",5,"IV: 
+competentie_onderzoeken: 2
+",1,7.14285714285714,"real"
+"13",6,"IV: 
+competentie_onderzoeken: 0
+",1084,9.78692668833514,"real"
+"14",6,"IV: 
+competentie_onderzoeken: 1
+",178,11.4469453376206,"real"
+"15",6,"IV: 
+competentie_onderzoeken: 2
+",2,14.2857142857143,"real"
+"16",7,"IV: 
+competentie_onderzoeken: 0
+",1059,9.56121343445287,"real"
+"17",7,"IV: 
+competentie_onderzoeken: 1
+",202,12.9903536977492,"real"
+"18",7,"IV: 
+competentie_onderzoeken: 2
+",3,21.4285714285714,"real"
+"19",8,"IV: 
+competentie_onderzoeken: 0
+",1053,9.50704225352113,"real"
+"20",8,"IV: 
+competentie_onderzoeken: 1
+",211,13.5691318327974,"real"
+"21",9,"IV: 
+competentie_onderzoeken: 0
+",1037,9.36258577103647,"real"
+"22",9,"IV: 
+competentie_onderzoeken: 1
+",223,14.3408360128617,"real"
+"23",9,"IV: 
+competentie_onderzoeken: 2
+",4,28.5714285714286,"real"
+"24",10,"IV: 
+competentie_onderzoeken: 0
+",973,8.78475984109787,"real"
+"25",10,"IV: 
+competentie_onderzoeken: 1
+",288,18.5209003215434,"real"
+"26",10,"IV: 
+competentie_onderzoeken: 2
+",3,21.4285714285714,"real"
+"27",1,"IV: 
+competentie_onderzoeken: 0
+",1272,10.0593119810202,"real_conditional"
+"28",1,"IV: 
+competentie_onderzoeken: 1
+",1261,9.97232107552392,"real_conditional"
+"29",1,"IV: 
+competentie_onderzoeken: 2
+",1261,9.97232107552392,"real_conditional"
+"30",2,"IV: 
+competentie_onderzoeken: 0
+",1264,9.99604586793199,"real_conditional"
+"31",2,"IV: 
+competentie_onderzoeken: 1
+",1265,10.003954132068,"real_conditional"
+"32",2,"IV: 
+competentie_onderzoeken: 2
+",1265,10.003954132068,"real_conditional"
+"33",3,"IV: 
+competentie_onderzoeken: 0
+",1268,10.0276789244761,"real_conditional"
+"34",3,"IV: 
+competentie_onderzoeken: 1
+",1263,9.98813760379597,"real_conditional"
+"35",3,"IV: 
+competentie_onderzoeken: 2
+",1263,9.98813760379597,"real_conditional"
+"36",4,"IV: 
+competentie_onderzoeken: 0
+",1260,9.9644128113879,"real_conditional"
+"37",4,"IV: 
+competentie_onderzoeken: 1
+",1267,10.0197706603401,"real_conditional"
+"38",4,"IV: 
+competentie_onderzoeken: 2
+",1267,10.0197706603401,"real_conditional"
+"39",5,"IV: 
+competentie_onderzoeken: 0
+",1270,10.0434954527481,"real_conditional"
+"40",5,"IV: 
+competentie_onderzoeken: 1
+",1262,9.98022933965994,"real_conditional"
+"41",5,"IV: 
+competentie_onderzoeken: 2
+",1262,9.98022933965994,"real_conditional"
+"42",6,"IV: 
+competentie_onderzoeken: 0
+",1259,9.95650454725188,"real_conditional"
+"43",6,"IV: 
+competentie_onderzoeken: 1
+",1267,10.0197706603401,"real_conditional"
+"44",6,"IV: 
+competentie_onderzoeken: 2
+",1267,10.0197706603401,"real_conditional"
+"45",7,"IV: 
+competentie_onderzoeken: 0
+",1268,10.0276789244761,"real_conditional"
+"46",7,"IV: 
+competentie_onderzoeken: 1
+",1263,9.98813760379597,"real_conditional"
+"47",7,"IV: 
+competentie_onderzoeken: 2
+",1262,9.98022933965994,"real_conditional"
+"48",8,"IV: 
+competentie_onderzoeken: 0
+",1264,9.99604586793199,"real_conditional"
+"49",8,"IV: 
+competentie_onderzoeken: 1
+",1264,9.99604586793199,"real_conditional"
+"50",8,"IV: 
+competentie_onderzoeken: 2
+",1265,10.003954132068,"real_conditional"
+"51",9,"IV: 
+competentie_onderzoeken: 0
+",1257,9.94068801897983,"real_conditional"
+"52",9,"IV: 
+competentie_onderzoeken: 1
+",1268,10.0276789244761,"real_conditional"
+"53",9,"IV: 
+competentie_onderzoeken: 2
+",1268,10.0276789244761,"real_conditional"
+"54",10,"IV: 
+competentie_onderzoeken: 0
+",1263,9.98813760379597,"real_conditional"
+"55",10,"IV: 
+competentie_onderzoeken: 1
+",1265,10.003954132068,"real_conditional"
+"56",10,"IV: 
+competentie_onderzoeken: 2
+",1265,10.003954132068,"real_conditional"
+"57",1,"IV: 
+competentie_onderzoeken: 0
+",1138,10.6355140186916,"synth"
+"58",1,"IV: 
+competentie_onderzoeken: 1
+",127,6.52956298200514,"synth"
+"59",2,"IV: 
+competentie_onderzoeken: 0
+",1106,10.3364485981308,"synth"
+"60",2,"IV: 
+competentie_onderzoeken: 1
+",159,8.17480719794344,"synth"
+"61",3,"IV: 
+competentie_onderzoeken: 0
+",1103,10.3084112149533,"synth"
+"62",3,"IV: 
+competentie_onderzoeken: 1
+",162,8.32904884318766,"synth"
+"63",4,"IV: 
+competentie_onderzoeken: 0
+",1089,10.1775700934579,"synth"
+"64",4,"IV: 
+competentie_onderzoeken: 1
+",176,9.04884318766067,"synth"
+"65",5,"IV: 
+competentie_onderzoeken: 0
+",1067,9.97196261682243,"synth"
+"66",5,"IV: 
+competentie_onderzoeken: 1
+",198,10.1799485861183,"synth"
+"67",6,"IV: 
+competentie_onderzoeken: 0
+",1077,10.0654205607477,"synth"
+"68",6,"IV: 
+competentie_onderzoeken: 1
+",187,9.61439588688946,"synth"
+"69",7,"IV: 
+competentie_onderzoeken: 0
+",1061,9.91588785046729,"synth"
+"70",7,"IV: 
+competentie_onderzoeken: 1
+",203,10.4370179948586,"synth"
+"71",8,"IV: 
+competentie_onderzoeken: 0
+",1049,9.80373831775701,"synth"
+"72",8,"IV: 
+competentie_onderzoeken: 1
+",215,11.0539845758355,"synth"
+"73",9,"IV: 
+competentie_onderzoeken: 0
+",998,9.32710280373832,"synth"
+"74",9,"IV: 
+competentie_onderzoeken: 1
+",266,13.6760925449871,"synth"
+"75",10,"IV: 
+competentie_onderzoeken: 0
+",1012,9.45794392523364,"synth"
+"76",10,"IV: 
+competentie_onderzoeken: 1
+",252,12.9562982005141,"synth"
+"77",1,"IV: 
+competentie_onderzoeken: 0
+",1261,10.081547809402,"synth_conditional"
+"78",1,"IV: 
+competentie_onderzoeken: 1
+",1246,9.96162456028142,"synth_conditional"
+"79",1,"IV: 
+competentie_onderzoeken: 2
+",1246,9.96162456028142,"synth_conditional"
+"80",2,"IV: 
+competentie_onderzoeken: 0
+",1264,10.1055324592261,"synth_conditional"
+"81",2,"IV: 
+competentie_onderzoeken: 1
+",1245,9.95362967700671,"synth_conditional"
+"82",2,"IV: 
+competentie_onderzoeken: 2
+",1244,9.94563479373201,"synth_conditional"
+"83",3,"IV: 
+competentie_onderzoeken: 0
+",1258,10.0575631595779,"synth_conditional"
+"84",3,"IV: 
+competentie_onderzoeken: 1
+",1247,9.96961944355612,"synth_conditional"
+"85",3,"IV: 
+competentie_onderzoeken: 2
+",1248,9.97761432683083,"synth_conditional"
+"86",4,"IV: 
+competentie_onderzoeken: 0
+",1252,10.0095938599296,"synth_conditional"
+"87",4,"IV: 
+competentie_onderzoeken: 1
+",1251,10.0015989766549,"synth_conditional"
+"88",4,"IV: 
+competentie_onderzoeken: 2
+",1250,9.99360409338024,"synth_conditional"
+"89",5,"IV: 
+competentie_onderzoeken: 0
+",1252,10.0095938599296,"synth_conditional"
+"90",5,"IV: 
+competentie_onderzoeken: 1
+",1250,9.99360409338024,"synth_conditional"
+"91",5,"IV: 
+competentie_onderzoeken: 2
+",1250,9.99360409338024,"synth_conditional"
+"92",6,"IV: 
+competentie_onderzoeken: 0
+",1253,10.0175887432043,"synth_conditional"
+"93",6,"IV: 
+competentie_onderzoeken: 1
+",1249,9.98560921010553,"synth_conditional"
+"94",6,"IV: 
+competentie_onderzoeken: 2
+",1250,9.99360409338024,"synth_conditional"
+"95",7,"IV: 
+competentie_onderzoeken: 0
+",1250,9.99360409338024,"synth_conditional"
+"96",7,"IV: 
+competentie_onderzoeken: 1
+",1251,10.0015989766549,"synth_conditional"
+"97",7,"IV: 
+competentie_onderzoeken: 2
+",1251,10.0015989766549,"synth_conditional"
+"98",8,"IV: 
+competentie_onderzoeken: 0
+",1236,9.88167572753438,"synth_conditional"
+"99",8,"IV: 
+competentie_onderzoeken: 1
+",1258,10.0575631595779,"synth_conditional"
+"100",8,"IV: 
+competentie_onderzoeken: 2
+",1258,10.0575631595779,"synth_conditional"
+"101",9,"IV: 
+competentie_onderzoeken: 0
+",1240,9.9136552606332,"synth_conditional"
+"102",9,"IV: 
+competentie_onderzoeken: 1
+",1256,10.0415733930285,"synth_conditional"
+"103",9,"IV: 
+competentie_onderzoeken: 2
+",1256,10.0415733930285,"synth_conditional"
+"104",10,"IV: 
+competentie_onderzoeken: 0
+",1242,9.9296450271826,"synth_conditional"
+"105",10,"IV: 
+competentie_onderzoeken: 1
+",1255,10.0335785097538,"synth_conditional"
+"106",10,"IV: 
+competentie_onderzoeken: 2
+",1255,10.0335785097538,"synth_conditional"

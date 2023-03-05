@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1020,13.6729222520107,"real"
+"2",1,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",245,4.725168756027,"real"
+"3",2,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",910,12.1983914209115,"real"
+"4",2,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",355,6.8466730954677,"real"
+"5",3,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",817,10.9517426273458,"real"
+"6",3,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",448,8.64030858244937,"real"
+"7",4,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",713,9.55764075067024,"real"
+"8",4,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",552,10.6460945033751,"real"
+"9",5,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",690,9.24932975871314,"real"
+"10",5,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",575,11.0896817743491,"real"
+"11",6,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",688,9.22252010723861,"real"
+"12",6,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",576,11.1089681774349,"real"
+"13",7,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",676,9.06166219839142,"real"
+"14",7,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",588,11.3404050144648,"real"
+"15",8,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",668,8.9544235924933,"real"
+"16",8,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",596,11.4946962391514,"real"
+"17",9,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",652,8.73994638069705,"real"
+"18",9,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",612,11.8032786885246,"real"
+"19",10,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",626,8.39142091152815,"real"
+"20",10,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",638,12.304725168756,"real"
+"21",1,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1265,10.003954132068,"real_conditional"
+"22",1,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1264,9.99604586793199,"real_conditional"
+"23",2,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1263,9.98813760379597,"real_conditional"
+"24",2,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1266,10.011862396204,"real_conditional"
+"25",3,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1263,9.98813760379597,"real_conditional"
+"26",3,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1266,10.011862396204,"real_conditional"
+"27",4,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1264,9.99604586793199,"real_conditional"
+"28",4,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1265,10.003954132068,"real_conditional"
+"29",5,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1263,9.98813760379597,"real_conditional"
+"30",5,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1266,10.011862396204,"real_conditional"
+"31",6,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1266,10.011862396204,"real_conditional"
+"32",6,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1263,9.98813760379597,"real_conditional"
+"33",7,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1264,9.99604586793199,"real_conditional"
+"34",7,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1265,10.003954132068,"real_conditional"
+"35",8,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1266,10.011862396204,"real_conditional"
+"36",8,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1263,9.98813760379597,"real_conditional"
+"37",9,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1263,9.98813760379597,"real_conditional"
+"38",9,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1266,10.011862396204,"real_conditional"
+"39",10,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1268,10.0276789244761,"real_conditional"
+"40",10,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1261,9.97232107552392,"real_conditional"
+"41",1,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",800,11.8764845605701,"synth"
+"42",1,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",465,7.8693518361821,"synth"
+"43",2,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",717,10.6442992874109,"synth"
+"44",2,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",548,9.27398883059739,"synth"
+"45",3,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",687,10.1989311163895,"synth"
+"46",3,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",578,9.78168894906075,"synth"
+"47",4,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",675,10.020783847981,"synth"
+"48",4,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",590,9.9847689964461,"synth"
+"49",5,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",661,9.81294536817102,"synth"
+"50",5,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",604,10.2216957183957,"synth"
+"51",6,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",641,9.51603325415677,"synth"
+"52",6,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",623,10.5432391267558,"synth"
+"53",7,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",629,9.33788598574822,"synth"
+"54",7,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",635,10.7463191741411,"synth"
+"55",8,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",664,9.85748218527316,"synth"
+"56",8,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",600,10.1540023692672,"synth"
+"57",9,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",618,9.17458432304038,"synth"
+"58",9,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",646,10.9324758842444,"synth"
+"59",10,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",644,9.56057007125891,"synth"
+"60",10,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",620,10.4924691149095,"synth"
+"61",1,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1251,10.0015989766549,"synth_conditional"
+"62",1,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1251,10.0015989766549,"synth_conditional"
+"63",2,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1250,9.99360409338024,"synth_conditional"
+"64",2,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1252,10.0095938599296,"synth_conditional"
+"65",3,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1247,9.96961944355612,"synth_conditional"
+"66",3,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1255,10.0335785097538,"synth_conditional"
+"67",4,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1252,10.0095938599296,"synth_conditional"
+"68",4,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1250,9.99360409338024,"synth_conditional"
+"69",5,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1252,10.0095938599296,"synth_conditional"
+"70",5,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1250,9.99360409338024,"synth_conditional"
+"71",6,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1250,9.99360409338024,"synth_conditional"
+"72",6,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1252,10.0095938599296,"synth_conditional"
+"73",7,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1250,9.99360409338024,"synth_conditional"
+"74",7,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1251,10.0015989766549,"synth_conditional"
+"75",8,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1252,10.0095938599296,"synth_conditional"
+"76",8,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1249,9.98560921010553,"synth_conditional"
+"77",9,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1253,10.0175887432043,"synth_conditional"
+"78",9,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1248,9.97761432683083,"synth_conditional"
+"79",10,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 0
+",1251,10.0015989766549,"synth_conditional"
+"80",10,"IV: 
+persoonlijke_eigenschappen_presentatie_opm: 1
+",1250,9.99360409338024,"synth_conditional"

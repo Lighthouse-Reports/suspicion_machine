@@ -1,0 +1,61 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",5054,6660,1.08e-59,"****",3.25e-59,"****","real"
+"2","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",5054,931,4.15e-07,"****",8.29e-07,"****","real"
+"3","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",6660,931,0.000357,"***",0.000357,"***","real"
+"4","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",12645,12645,2.83e-05,"****",8.49e-05,"****","real_conditional"
+"5","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",12645,12645,9.76e-05,"****",0.000195,"***","real_conditional"
+"6","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",12645,12645,0.772,"ns",0.772,"ns","real_conditional"
+"7","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",5043,7011,2.6e-61,"****",7.81e-61,"****","synth"
+"8","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",5043,591,0.0422,"*",0.0422,"*","synth"
+"9","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",7011,591,3.34e-20,"****",6.67e-20,"****","synth"
+"10","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+",12508,12508,1.37e-13,"****",4.1e-13,"****","synth_conditional"
+"11","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",12508,12508,4.01e-12,"****",8.01e-12,"****","synth_conditional"
+"12","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+",12508,12508,0.643,"ns",0.643,"ns","synth_conditional"

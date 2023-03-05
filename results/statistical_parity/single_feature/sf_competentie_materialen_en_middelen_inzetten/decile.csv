@@ -1,0 +1,355 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1238,12.6623708704101,"real"
+"2",1,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",27,0.953389830508475,"real"
+"3",2,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1157,11.8338958780812,"real"
+"4",2,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",107,3.77824858757062,"real"
+"5",2,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1,2.77777777777778,"real"
+"6",3,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1067,10.9133681088268,"real"
+"7",3,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",197,6.95621468926554,"real"
+"8",3,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1,2.77777777777778,"real"
+"9",4,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1008,10.309911015649,"real"
+"10",4,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",256,9.03954802259887,"real"
+"11",4,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1,2.77777777777778,"real"
+"12",5,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",955,9.7678224404214,"real"
+"13",5,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",308,10.8757062146893,"real"
+"14",5,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",2,5.55555555555556,"real"
+"15",6,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",956,9.77805052674645,"real"
+"16",6,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",307,10.840395480226,"real"
+"17",6,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1,2.77777777777778,"real"
+"18",7,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",880,9.00071596604275,"real"
+"19",7,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",373,13.1709039548023,"real"
+"20",7,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",11,30.5555555555556,"real"
+"21",8,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",899,9.19504960621868,"real"
+"22",8,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",360,12.7118644067797,"real"
+"23",8,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",5,13.8888888888889,"real"
+"24",9,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",851,8.70410146261634,"real"
+"25",9,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",407,14.3714689265537,"real"
+"26",9,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",6,16.6666666666667,"real"
+"27",10,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",766,7.83471412498722,"real"
+"28",10,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",490,17.3022598870057,"real"
+"29",10,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",8,22.2222222222222,"real"
+"30",1,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1268,10.0276789244761,"real_conditional"
+"31",1,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1263,9.98813760379597,"real_conditional"
+"32",1,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1263,9.98813760379597,"real_conditional"
+"33",2,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1266,10.011862396204,"real_conditional"
+"34",2,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1264,9.99604586793199,"real_conditional"
+"35",2,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1264,9.99604586793199,"real_conditional"
+"36",3,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1269,10.0355871886121,"real_conditional"
+"37",3,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1263,9.98813760379597,"real_conditional"
+"38",3,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1262,9.98022933965994,"real_conditional"
+"39",4,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1263,9.98813760379597,"real_conditional"
+"40",4,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1265,10.003954132068,"real_conditional"
+"41",4,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1266,10.011862396204,"real_conditional"
+"42",5,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1263,9.98813760379597,"real_conditional"
+"43",5,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1266,10.011862396204,"real_conditional"
+"44",5,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1265,10.003954132068,"real_conditional"
+"45",6,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1266,10.011862396204,"real_conditional"
+"46",6,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1263,9.98813760379597,"real_conditional"
+"47",6,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1264,9.99604586793199,"real_conditional"
+"48",7,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1273,10.0672202451562,"real_conditional"
+"49",7,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1260,9.9644128113879,"real_conditional"
+"50",7,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1260,9.9644128113879,"real_conditional"
+"51",8,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1255,9.92487149070779,"real_conditional"
+"52",8,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1269,10.0355871886121,"real_conditional"
+"53",8,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1269,10.0355871886121,"real_conditional"
+"54",9,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1264,9.99604586793199,"real_conditional"
+"55",9,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1265,10.003954132068,"real_conditional"
+"56",9,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1264,9.99604586793199,"real_conditional"
+"57",10,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1258,9.94859628311586,"real_conditional"
+"58",10,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1267,10.0197706603401,"real_conditional"
+"59",10,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1268,10.0276789244761,"real_conditional"
+"60",1,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1026,11.4394023859962,"synth"
+"61",1,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",239,6.53719912472648,"synth"
+"62",2,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",961,10.7146839112499,"synth"
+"63",2,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",303,8.28774617067834,"synth"
+"64",2,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1,5,"synth"
+"65",3,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",923,10.2910023413981,"synth"
+"66",3,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",340,9.29978118161926,"synth"
+"67",3,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",2,10,"synth"
+"68",4,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",936,10.4359460363474,"synth"
+"69",4,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",328,8.97155361050328,"synth"
+"70",4,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1,5,"synth"
+"71",5,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",897,10.0011149514996,"synth"
+"72",5,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",367,10.0382932166302,"synth"
+"73",5,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1,5,"synth"
+"74",6,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",867,9.66662950161668,"synth"
+"75",6,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",395,10.8041575492341,"synth"
+"76",6,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",2,10,"synth"
+"77",7,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",898,10.0122644664957,"synth"
+"78",7,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",363,9.92888402625821,"synth"
+"79",7,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",3,15,"synth"
+"80",8,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",854,9.52168580666741,"synth"
+"81",8,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",407,11.1323851203501,"synth"
+"82",8,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",3,15,"synth"
+"83",9,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",844,9.41019065670643,"synth"
+"84",9,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",418,11.4332603938731,"synth"
+"85",9,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",2,10,"synth"
+"86",10,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",763,8.50707994202252,"synth"
+"87",10,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",496,13.5667396061269,"synth"
+"88",10,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",5,25,"synth"
+"89",1,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1252,10.0095938599296,"synth_conditional"
+"90",1,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1251,10.0015989766549,"synth_conditional"
+"91",1,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1250,9.99360409338024,"synth_conditional"
+"92",2,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1260,10.0735529261273,"synth_conditional"
+"93",2,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1246,9.96162456028142,"synth_conditional"
+"94",2,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1247,9.96961944355612,"synth_conditional"
+"95",3,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1255,10.0335785097538,"synth_conditional"
+"96",3,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1249,9.98560921010553,"synth_conditional"
+"97",3,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1249,9.98560921010553,"synth_conditional"
+"98",4,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1254,10.0255836264791,"synth_conditional"
+"99",4,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1250,9.99360409338024,"synth_conditional"
+"100",4,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1249,9.98560921010553,"synth_conditional"
+"101",5,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1245,9.95362967700671,"synth_conditional"
+"102",5,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1253,10.0175887432043,"synth_conditional"
+"103",5,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1254,10.0255836264791,"synth_conditional"
+"104",6,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1260,10.0735529261273,"synth_conditional"
+"105",6,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1246,9.96162456028142,"synth_conditional"
+"106",6,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1246,9.96162456028142,"synth_conditional"
+"107",7,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1253,10.0175887432043,"synth_conditional"
+"108",7,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1250,9.99360409338024,"synth_conditional"
+"109",7,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1249,9.98560921010553,"synth_conditional"
+"110",8,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1251,10.0015989766549,"synth_conditional"
+"111",8,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1250,9.99360409338024,"synth_conditional"
+"112",8,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1251,10.0015989766549,"synth_conditional"
+"113",9,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1240,9.9136552606332,"synth_conditional"
+"114",9,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1256,10.0415733930285,"synth_conditional"
+"115",9,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1256,10.0415733930285,"synth_conditional"
+"116",10,"IV: 
+competentie_materialen_en_middelen_inzetten: 0
+",1238,9.89766549408379,"synth_conditional"
+"117",10,"IV: 
+competentie_materialen_en_middelen_inzetten: 1
+",1257,10.0495682763032,"synth_conditional"
+"118",10,"IV: 
+competentie_materialen_en_middelen_inzetten: 2
+",1257,10.0495682763032,"synth_conditional"

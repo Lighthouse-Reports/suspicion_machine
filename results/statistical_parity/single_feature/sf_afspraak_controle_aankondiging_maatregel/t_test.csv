@@ -1,0 +1,331 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+",11027,1152,4.74e-132,"****",9.95e-131,"****","real"
+"2","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+",11027,329,1.77e-88,"****",3.55e-87,"****","real"
+"3","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+",1152,329,1.01e-08,"****",1.72e-07,"****","real"
+"4","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+",11027,88,3.61e-32,"****",6.85e-31,"****","real"
+"5","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+",1152,88,5.97e-06,"****",8.96e-05,"****","real"
+"6","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+",329,88,0.235,"ns",1,"ns","real"
+"7","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+",11027,30,7.05e-12,"****",1.27e-10,"****","real"
+"8","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+",1152,30,0.00826,"**",0.107,"ns","real"
+"9","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+",329,30,0.495,"ns",1,"ns","real"
+"10","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+",88,30,0.953,"ns",1,"ns","real"
+"11","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+",11027,12,2.47e-06,"****",3.95e-05,"****","real"
+"12","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+",1152,12,0.0403,"*",0.444,"ns","real"
+"13","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+",329,12,0.421,"ns",1,"ns","real"
+"14","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+",88,12,0.76,"ns",1,"ns","real"
+"15","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+",30,12,0.755,"ns",1,"ns","real"
+"16","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",11027,7,6.22e-06,"****",8.96e-05,"****","real"
+"17","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",1152,7,0.0129,"*",0.155,"ns","real"
+"18","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",329,7,0.126,"ns",1,"ns","real"
+"19","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",88,7,0.26,"ns",1,"ns","real"
+"20","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",30,7,0.279,"ns",1,"ns","real"
+"21","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",12,7,0.464,"ns",1,"ns","real"
+"22","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+",12645,12645,0.0566,"ns",0.623,"ns","real_conditional"
+"23","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+",12645,12645,1.04e-13,"****",2.17e-12,"****","real_conditional"
+"24","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+",12645,12645,3.19e-08,"****",5.1e-07,"****","real_conditional"
+"25","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+",12645,12645,1.04e-13,"****",2.17e-12,"****","real_conditional"
+"26","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+",12645,12645,3.19e-08,"****",5.1e-07,"****","real_conditional"
+"27","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"28","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+",12645,12645,1.04e-13,"****",2.17e-12,"****","real_conditional"
+"29","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+",12645,12645,3.19e-08,"****",5.1e-07,"****","real_conditional"
+"30","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"31","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"32","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+",12645,12645,1.04e-13,"****",2.17e-12,"****","real_conditional"
+"33","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+",12645,12645,3.19e-08,"****",5.1e-07,"****","real_conditional"
+"34","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"35","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"36","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"37","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",12645,12645,1.04e-13,"****",2.17e-12,"****","real_conditional"
+"38","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",12645,12645,3.19e-08,"****",5.1e-07,"****","real_conditional"
+"39","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+",7504,5020,5.08e-102,"****",1.52e-101,"****","synth"
+"44","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+",7504,121,2.47e-23,"****",4.94e-23,"****","synth"
+"45","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+",5020,121,1.7e-08,"****",1.7e-08,"****","synth"
+"46","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+",12508,12508,0.0133,"*",0.146,"ns","synth_conditional"
+"47","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+",12508,12508,9.87e-21,"****",2.07e-19,"****","synth_conditional"
+"48","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+",12508,12508,6.74e-12,"****",1.08e-10,"****","synth_conditional"
+"49","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+",12508,12508,9.87e-21,"****",2.07e-19,"****","synth_conditional"
+"50","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+",12508,12508,6.74e-12,"****",1.08e-10,"****","synth_conditional"
+"51","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"52","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+",12508,12508,9.87e-21,"****",2.07e-19,"****","synth_conditional"
+"53","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+",12508,12508,6.74e-12,"****",1.08e-10,"****","synth_conditional"
+"54","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"55","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"56","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+",12508,12508,9.87e-21,"****",2.07e-19,"****","synth_conditional"
+"57","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+",12508,12508,6.74e-12,"****",1.08e-10,"****","synth_conditional"
+"58","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"59","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"60","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"61","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 0
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",12508,12508,9.87e-21,"****",2.07e-19,"****","synth_conditional"
+"62","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 1
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",12508,12508,6.74e-12,"****",1.08e-10,"****","synth_conditional"
+"63","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 2
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"64","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 3
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"65","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 4
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"66","Ja","IV: 
+afspraak_controle_aankondiging_maatregel: 5
+","IV: 
+afspraak_controle_aankondiging_maatregel: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"

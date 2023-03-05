@@ -1,0 +1,454 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1057,10.0037857278062,"real"
+"2",2,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1057,10.0037857278062,"real"
+"3",3,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1057,10.0037857278062,"real"
+"4",4,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1057,10.0037857278062,"real"
+"5",5,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1056,9.99432140829074,"real"
+"6",5,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1,50,"real"
+"7",6,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1057,10.0037857278062,"real"
+"8",7,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1057,10.0037857278062,"real"
+"9",8,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1057,10.0037857278062,"real"
+"10",9,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1056,9.99432140829074,"real"
+"11",9,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1,100,"real"
+"12",10,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1055,9.98485708877532,"real"
+"13",10,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1,50,"real"
+"14",1,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1610,12.7323052589957,"real_conditional"
+"15",1,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1610,12.7323052589957,"real_conditional"
+"16",1,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1610,12.7323052589957,"real_conditional"
+"17",1,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1256,9.93277975484381,"real_conditional"
+"18",1,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",770,6.08936338473705,"real_conditional"
+"19",1,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",731,5.78094108343219,"real_conditional"
+"20",2,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1335,10.5575326215896,"real_conditional"
+"21",2,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1335,10.5575326215896,"real_conditional"
+"22",2,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1335,10.5575326215896,"real_conditional"
+"23",2,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1303,10.3044681692369,"real_conditional"
+"24",2,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1138,8.9996045867932,"real_conditional"
+"25",2,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1141,9.02332937920126,"real_conditional"
+"26",3,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1301,10.2886516409648,"real_conditional"
+"27",3,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1301,10.2886516409648,"real_conditional"
+"28",3,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1300,10.2807433768288,"real_conditional"
+"29",3,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1285,10.1621194147885,"real_conditional"
+"30",3,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1203,9.51364175563464,"real_conditional"
+"31",3,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1197,9.46619217081851,"real_conditional"
+"32",4,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1272,10.0593119810202,"real_conditional"
+"33",4,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1272,10.0593119810202,"real_conditional"
+"34",4,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1272,10.0593119810202,"real_conditional"
+"35",4,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1262,9.98022933965994,"real_conditional"
+"36",4,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1248,9.86951364175563,"real_conditional"
+"37",4,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1261,9.97232107552392,"real_conditional"
+"38",5,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1274,10.0751285092922,"real_conditional"
+"39",5,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1274,10.0751285092922,"real_conditional"
+"40",5,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1274,10.0751285092922,"real_conditional"
+"41",5,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1288,10.1858442071965,"real_conditional"
+"42",5,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1240,9.80624752866746,"real_conditional"
+"43",5,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1237,9.78252273625939,"real_conditional"
+"44",6,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1199,9.48200869909055,"real_conditional"
+"45",6,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1199,9.48200869909055,"real_conditional"
+"46",6,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1200,9.48991696322657,"real_conditional"
+"47",6,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1269,10.0355871886121,"real_conditional"
+"48",6,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1357,10.731514432582,"real_conditional"
+"49",6,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1363,10.7789640173982,"real_conditional"
+"50",7,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1232,9.74298141557928,"real_conditional"
+"51",7,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1232,9.74298141557928,"real_conditional"
+"52",7,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1231,9.73507315144326,"real_conditional"
+"53",7,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1277,10.0988533017003,"real_conditional"
+"54",7,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1306,10.3281929616449,"real_conditional"
+"55",7,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1309,10.351917754053,"real_conditional"
+"56",8,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1194,9.44246737841044,"real_conditional"
+"57",8,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1193,9.43455911427442,"real_conditional"
+"58",8,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1194,9.44246737841044,"real_conditional"
+"59",8,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1249,9.87742190589166,"real_conditional"
+"60",8,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1355,10.71569790431,"real_conditional"
+"61",8,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1402,11.087386318703,"real_conditional"
+"62",9,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1117,8.83353103993673,"real_conditional"
+"63",9,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1118,8.84143930407276,"real_conditional"
+"64",9,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1118,8.84143930407276,"real_conditional"
+"65",9,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1253,9.90905496243574,"real_conditional"
+"66",9,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1498,11.8465796757612,"real_conditional"
+"67",9,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1483,11.7279557137208,"real_conditional"
+"68",10,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1111,8.7860814551206,"real_conditional"
+"69",10,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1111,8.7860814551206,"real_conditional"
+"70",10,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1111,8.7860814551206,"real_conditional"
+"71",10,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1203,9.51364175563464,"real_conditional"
+"72",10,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1530,12.0996441281139,"real_conditional"
+"73",10,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1521,12.0284697508897,"real_conditional"
+"74",1,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1,20,"synth"
+"75",1,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",2,20,"synth"
+"76",2,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",2,40,"synth"
+"77",2,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1,10,"synth"
+"78",3,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1,20,"synth"
+"79",3,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1,10,"synth"
+"80",3,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1,25,"synth"
+"81",4,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",2,40,"synth"
+"82",4,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1,25,"synth"
+"83",5,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1,20,"synth"
+"84",5,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",2,50,"synth"
+"85",6,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1,20,"synth"
+"86",6,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1,10,"synth"
+"87",7,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",2,40,"synth"
+"88",8,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",2,20,"synth"
+"89",9,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",2,20,"synth"
+"90",10,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1,100,"synth"
+"91",10,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1,10,"synth"
+"92",1,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1460,11.6725295810681,"synth_conditional"
+"93",1,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1460,11.6725295810681,"synth_conditional"
+"94",1,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1460,11.6725295810681,"synth_conditional"
+"95",1,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1277,10.2094659417972,"synth_conditional"
+"96",1,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",936,7.48321074512312,"synth_conditional"
+"97",1,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",912,7.29133354653022,"synth_conditional"
+"98",2,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1399,11.1848417013112,"synth_conditional"
+"99",2,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1399,11.1848417013112,"synth_conditional"
+"100",2,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1399,11.1848417013112,"synth_conditional"
+"101",2,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1271,10.161496642149,"synth_conditional"
+"102",2,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1023,8.17876559002239,"synth_conditional"
+"103",2,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1014,8.10681164055005,"synth_conditional"
+"104",3,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1342,10.729133354653,"synth_conditional"
+"105",3,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1342,10.729133354653,"synth_conditional"
+"106",3,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1342,10.729133354653,"synth_conditional"
+"107",3,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1277,10.2094659417972,"synth_conditional"
+"108",3,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1106,8.84234090182283,"synth_conditional"
+"109",3,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1096,8.76239206907579,"synth_conditional"
+"110",4,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1291,10.3213943076431,"synth_conditional"
+"111",4,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1291,10.3213943076431,"synth_conditional"
+"112",4,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1291,10.3213943076431,"synth_conditional"
+"113",4,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1300,10.3933482571154,"synth_conditional"
+"114",4,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1165,9.31403901503038,"synth_conditional"
+"115",4,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1167,9.33002878157979,"synth_conditional"
+"116",5,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1299,10.3853533738407,"synth_conditional"
+"117",5,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1299,10.3853533738407,"synth_conditional"
+"118",5,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1299,10.3853533738407,"synth_conditional"
+"119",5,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1248,9.97761432683083,"synth_conditional"
+"120",5,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1193,9.5378957467221,"synth_conditional"
+"121",5,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1167,9.33002878157979,"synth_conditional"
+"122",6,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1244,9.94563479373201,"synth_conditional"
+"123",6,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1244,9.94563479373201,"synth_conditional"
+"124",6,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1244,9.94563479373201,"synth_conditional"
+"125",6,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1264,10.1055324592261,"synth_conditional"
+"126",6,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1233,9.85769107771027,"synth_conditional"
+"127",6,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1276,10.2014710585225,"synth_conditional"
+"128",7,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1207,9.64982411256796,"synth_conditional"
+"129",7,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1207,9.64982411256796,"synth_conditional"
+"130",7,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1207,9.64982411256796,"synth_conditional"
+"131",7,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1298,10.377358490566,"synth_conditional"
+"132",7,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1300,10.3933482571154,"synth_conditional"
+"133",7,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1286,10.2814198912696,"synth_conditional"
+"134",8,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1149,9.18612088263511,"synth_conditional"
+"135",8,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1149,9.18612088263511,"synth_conditional"
+"136",8,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1149,9.18612088263511,"synth_conditional"
+"137",8,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1211,9.68180364566677,"synth_conditional"
+"138",8,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1406,11.2408058842341,"synth_conditional"
+"139",8,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1441,11.5206267988487,"synth_conditional"
+"140",9,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1107,8.85033578509754,"synth_conditional"
+"141",9,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1107,8.85033578509754,"synth_conditional"
+"142",9,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1107,8.85033578509754,"synth_conditional"
+"143",9,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1198,9.57787016309562,"synth_conditional"
+"144",9,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1496,11.9603453789575,"synth_conditional"
+"145",9,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1489,11.9043811960345,"synth_conditional"
+"146",10,"IV: 
+relatie_partner_totaal_dagen_partner: 0
+",1010,8.07483210745123,"synth_conditional"
+"147",10,"IV: 
+relatie_partner_totaal_dagen_partner: 1
+",1010,8.07483210745123,"synth_conditional"
+"148",10,"IV: 
+relatie_partner_totaal_dagen_partner: 10
+",1010,8.07483210745123,"synth_conditional"
+"149",10,"IV: 
+relatie_partner_totaal_dagen_partner: 100
+",1164,9.30604413175568,"synth_conditional"
+"150",10,"IV: 
+relatie_partner_totaal_dagen_partner: 1000
+",1650,13.1915574032619,"synth_conditional"
+"151",10,"IV: 
+relatie_partner_totaal_dagen_partner: 10000
+",1660,13.271506236009,"synth_conditional"

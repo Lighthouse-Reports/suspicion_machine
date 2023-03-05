@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+belemmering_niet_computervaardig: 0
+",1253,10.2738602820597,"real"
+"2",1,"IV: 
+belemmering_niet_computervaardig: 1
+",12,2.67260579064588,"real"
+"3",2,"IV: 
+belemmering_niet_computervaardig: 0
+",1238,10.1508691374221,"real"
+"4",2,"IV: 
+belemmering_niet_computervaardig: 1
+",27,6.01336302895323,"real"
+"5",3,"IV: 
+belemmering_niet_computervaardig: 0
+",1220,10.003279763857,"real"
+"6",3,"IV: 
+belemmering_niet_computervaardig: 1
+",45,10.022271714922,"real"
+"7",4,"IV: 
+belemmering_niet_computervaardig: 0
+",1207,9.89668743850443,"real"
+"8",4,"IV: 
+belemmering_niet_computervaardig: 1
+",58,12.9175946547884,"real"
+"9",5,"IV: 
+belemmering_niet_computervaardig: 0
+",1209,9.91308625778944,"real"
+"10",5,"IV: 
+belemmering_niet_computervaardig: 1
+",56,12.4721603563474,"real"
+"11",6,"IV: 
+belemmering_niet_computervaardig: 0
+",1215,9.96228271564447,"real"
+"12",6,"IV: 
+belemmering_niet_computervaardig: 1
+",49,10.913140311804,"real"
+"13",7,"IV: 
+belemmering_niet_computervaardig: 0
+",1217,9.97868153492949,"real"
+"14",7,"IV: 
+belemmering_niet_computervaardig: 1
+",47,10.467706013363,"real"
+"15",8,"IV: 
+belemmering_niet_computervaardig: 0
+",1215,9.96228271564447,"real"
+"16",8,"IV: 
+belemmering_niet_computervaardig: 1
+",49,10.913140311804,"real"
+"17",9,"IV: 
+belemmering_niet_computervaardig: 0
+",1208,9.90488684814693,"real"
+"18",9,"IV: 
+belemmering_niet_computervaardig: 1
+",56,12.4721603563474,"real"
+"19",10,"IV: 
+belemmering_niet_computervaardig: 0
+",1214,9.95408330600197,"real"
+"20",10,"IV: 
+belemmering_niet_computervaardig: 1
+",50,11.1358574610245,"real"
+"21",1,"IV: 
+belemmering_niet_computervaardig: 0
+",1265,10.003954132068,"real_conditional"
+"22",1,"IV: 
+belemmering_niet_computervaardig: 1
+",1264,9.99604586793199,"real_conditional"
+"23",2,"IV: 
+belemmering_niet_computervaardig: 0
+",1264,9.99604586793199,"real_conditional"
+"24",2,"IV: 
+belemmering_niet_computervaardig: 1
+",1265,10.003954132068,"real_conditional"
+"25",3,"IV: 
+belemmering_niet_computervaardig: 0
+",1265,10.003954132068,"real_conditional"
+"26",3,"IV: 
+belemmering_niet_computervaardig: 1
+",1264,9.99604586793199,"real_conditional"
+"27",4,"IV: 
+belemmering_niet_computervaardig: 0
+",1264,9.99604586793199,"real_conditional"
+"28",4,"IV: 
+belemmering_niet_computervaardig: 1
+",1265,10.003954132068,"real_conditional"
+"29",5,"IV: 
+belemmering_niet_computervaardig: 0
+",1265,10.003954132068,"real_conditional"
+"30",5,"IV: 
+belemmering_niet_computervaardig: 1
+",1264,9.99604586793199,"real_conditional"
+"31",6,"IV: 
+belemmering_niet_computervaardig: 0
+",1264,9.99604586793199,"real_conditional"
+"32",6,"IV: 
+belemmering_niet_computervaardig: 1
+",1265,10.003954132068,"real_conditional"
+"33",7,"IV: 
+belemmering_niet_computervaardig: 0
+",1265,10.003954132068,"real_conditional"
+"34",7,"IV: 
+belemmering_niet_computervaardig: 1
+",1264,9.99604586793199,"real_conditional"
+"35",8,"IV: 
+belemmering_niet_computervaardig: 0
+",1264,9.99604586793199,"real_conditional"
+"36",8,"IV: 
+belemmering_niet_computervaardig: 1
+",1265,10.003954132068,"real_conditional"
+"37",9,"IV: 
+belemmering_niet_computervaardig: 0
+",1265,10.003954132068,"real_conditional"
+"38",9,"IV: 
+belemmering_niet_computervaardig: 1
+",1264,9.99604586793199,"real_conditional"
+"39",10,"IV: 
+belemmering_niet_computervaardig: 0
+",1264,9.99604586793199,"real_conditional"
+"40",10,"IV: 
+belemmering_niet_computervaardig: 1
+",1265,10.003954132068,"real_conditional"
+"41",1,"IV: 
+belemmering_niet_computervaardig: 0
+",1254,10.0151745068285,"synth"
+"42",1,"IV: 
+belemmering_niet_computervaardig: 1
+",11,8.87096774193548,"synth"
+"43",2,"IV: 
+belemmering_niet_computervaardig: 0
+",1252,9.99920134174587,"synth"
+"44",2,"IV: 
+belemmering_niet_computervaardig: 1
+",13,10.4838709677419,"synth"
+"45",3,"IV: 
+belemmering_niet_computervaardig: 0
+",1249,9.97524159412188,"synth"
+"46",3,"IV: 
+belemmering_niet_computervaardig: 1
+",16,12.9032258064516,"synth"
+"47",4,"IV: 
+belemmering_niet_computervaardig: 0
+",1255,10.0231610893699,"synth"
+"48",4,"IV: 
+belemmering_niet_computervaardig: 1
+",10,8.06451612903226,"synth"
+"49",5,"IV: 
+belemmering_niet_computervaardig: 0
+",1256,10.0311476719112,"synth"
+"50",5,"IV: 
+belemmering_niet_computervaardig: 1
+",9,7.25806451612903,"synth"
+"51",6,"IV: 
+belemmering_niet_computervaardig: 0
+",1244,9.93530868141522,"synth"
+"52",6,"IV: 
+belemmering_niet_computervaardig: 1
+",20,16.1290322580645,"synth"
+"53",7,"IV: 
+belemmering_niet_computervaardig: 0
+",1250,9.98322817666321,"synth"
+"54",7,"IV: 
+belemmering_niet_computervaardig: 1
+",14,11.2903225806452,"synth"
+"55",8,"IV: 
+belemmering_niet_computervaardig: 0
+",1251,9.99121475920454,"synth"
+"56",8,"IV: 
+belemmering_niet_computervaardig: 1
+",13,10.4838709677419,"synth"
+"57",9,"IV: 
+belemmering_niet_computervaardig: 0
+",1253,10.0071879242872,"synth"
+"58",9,"IV: 
+belemmering_niet_computervaardig: 1
+",11,8.87096774193548,"synth"
+"59",10,"IV: 
+belemmering_niet_computervaardig: 0
+",1257,10.0391342544525,"synth"
+"60",10,"IV: 
+belemmering_niet_computervaardig: 1
+",7,5.64516129032258,"synth"
+"61",1,"IV: 
+belemmering_niet_computervaardig: 0
+",1251,10.0015989766549,"synth_conditional"
+"62",1,"IV: 
+belemmering_niet_computervaardig: 1
+",1251,10.0015989766549,"synth_conditional"
+"63",2,"IV: 
+belemmering_niet_computervaardig: 0
+",1251,10.0015989766549,"synth_conditional"
+"64",2,"IV: 
+belemmering_niet_computervaardig: 1
+",1251,10.0015989766549,"synth_conditional"
+"65",3,"IV: 
+belemmering_niet_computervaardig: 0
+",1251,10.0015989766549,"synth_conditional"
+"66",3,"IV: 
+belemmering_niet_computervaardig: 1
+",1251,10.0015989766549,"synth_conditional"
+"67",4,"IV: 
+belemmering_niet_computervaardig: 0
+",1251,10.0015989766549,"synth_conditional"
+"68",4,"IV: 
+belemmering_niet_computervaardig: 1
+",1251,10.0015989766549,"synth_conditional"
+"69",5,"IV: 
+belemmering_niet_computervaardig: 0
+",1251,10.0015989766549,"synth_conditional"
+"70",5,"IV: 
+belemmering_niet_computervaardig: 1
+",1251,10.0015989766549,"synth_conditional"
+"71",6,"IV: 
+belemmering_niet_computervaardig: 0
+",1251,10.0015989766549,"synth_conditional"
+"72",6,"IV: 
+belemmering_niet_computervaardig: 1
+",1251,10.0015989766549,"synth_conditional"
+"73",7,"IV: 
+belemmering_niet_computervaardig: 0
+",1251,10.0015989766549,"synth_conditional"
+"74",7,"IV: 
+belemmering_niet_computervaardig: 1
+",1250,9.99360409338024,"synth_conditional"
+"75",8,"IV: 
+belemmering_niet_computervaardig: 0
+",1250,9.99360409338024,"synth_conditional"
+"76",8,"IV: 
+belemmering_niet_computervaardig: 1
+",1251,10.0015989766549,"synth_conditional"
+"77",9,"IV: 
+belemmering_niet_computervaardig: 0
+",1251,10.0015989766549,"synth_conditional"
+"78",9,"IV: 
+belemmering_niet_computervaardig: 1
+",1250,9.99360409338024,"synth_conditional"
+"79",10,"IV: 
+belemmering_niet_computervaardig: 0
+",1250,9.99360409338024,"synth_conditional"
+"80",10,"IV: 
+belemmering_niet_computervaardig: 1
+",1251,10.0015989766549,"synth_conditional"

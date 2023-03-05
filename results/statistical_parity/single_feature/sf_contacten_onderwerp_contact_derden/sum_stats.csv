@@ -1,0 +1,169 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_onderwerp_contact_derden: 0
+contacten_onderwerp_boolean_contact_derden: 0
+","Ja",7165,0.48,0.157,0.0979762735519888,0.27076064200977,-0.202372644801117,17.076064200977,"real"
+"2","IV: 
+contacten_onderwerp_contact_derden: 1
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",2146,0.493,0.152,0.104846225535881,0.289841565703635,0.48462255358807,18.9841565703635,"real"
+"3","IV: 
+contacten_onderwerp_contact_derden: 10
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",35,0.565,0.119,0.0857142857142857,0.4,-1.42857142857143,30,"real"
+"4","IV: 
+contacten_onderwerp_contact_derden: 15
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",21,0.526,0.119,0.142857142857143,0.285714285714286,4.28571428571428,18.5714285714286,"real"
+"5","IV: 
+contacten_onderwerp_contact_derden: 2
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",1162,0.495,0.148,0.0981067125645439,0.280550774526678,-0.189328743545611,18.0550774526678,"real"
+"6","IV: 
+contacten_onderwerp_contact_derden: 20
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",7,0.553,0.093,0,0.285714285714286,-10,18.5714285714286,"real"
+"7","IV: 
+contacten_onderwerp_contact_derden: 3
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",694,0.504,0.147,0.106628242074928,0.286743515850144,0.662824207492795,18.6743515850144,"real"
+"8","IV: 
+contacten_onderwerp_contact_derden: 4
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",457,0.504,0.14,0.0809628008752735,0.297592997811816,-1.90371991247265,19.7592997811816,"real"
+"9","IV: 
+contacten_onderwerp_contact_derden: 5
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",258,0.515,0.132,0.0930232558139535,0.275193798449612,-0.697674418604652,17.5193798449612,"real"
+"10","IV: 
+contacten_onderwerp_contact_derden: 0
+contacten_onderwerp_boolean_contact_derden: 0
+","Ja",12645,0.489,0.153,0.10011862396204,0.281771451166469,0.0118623962040335,18.1771451166469,"real_conditional"
+"11","IV: 
+contacten_onderwerp_contact_derden: 1
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12645,0.489,0.153,0.099644128113879,0.281376037959668,-0.0355871886121004,18.1376037959668,"real_conditional"
+"12","IV: 
+contacten_onderwerp_contact_derden: 10
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12645,0.489,0.153,0.100197706603401,0.282325029655991,0.0197706603400558,18.2325029655991,"real_conditional"
+"13","IV: 
+contacten_onderwerp_contact_derden: 15
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12645,0.489,0.153,0.100197706603401,0.282325029655991,0.0197706603400558,18.2325029655991,"real_conditional"
+"14","IV: 
+contacten_onderwerp_contact_derden: 2
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12645,0.489,0.153,0.0998813760379597,0.281850533807829,-0.0118623962040335,18.1850533807829,"real_conditional"
+"15","IV: 
+contacten_onderwerp_contact_derden: 20
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12645,0.494,0.153,0.104784499802293,0.290154211150652,0.478449980229338,19.0154211150652,"real_conditional"
+"16","IV: 
+contacten_onderwerp_contact_derden: 3
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12645,0.489,0.153,0.0998813760379597,0.281850533807829,-0.0118623962040335,18.1850533807829,"real_conditional"
+"17","IV: 
+contacten_onderwerp_contact_derden: 30
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12645,0.494,0.153,0.104784499802293,0.290154211150652,0.478449980229338,19.0154211150652,"real_conditional"
+"18","IV: 
+contacten_onderwerp_contact_derden: 4
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12645,0.489,0.153,0.100197706603401,0.282325029655991,0.0197706603400558,18.2325029655991,"real_conditional"
+"19","IV: 
+contacten_onderwerp_contact_derden: 5
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12645,0.489,0.153,0.100197706603401,0.282325029655991,0.0197706603400558,18.2325029655991,"real_conditional"
+"20","IV: 
+contacten_onderwerp_contact_derden: 50
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12645,0.494,0.153,0.104784499802293,0.290154211150652,0.478449980229338,19.0154211150652,"real_conditional"
+"21","IV: 
+contacten_onderwerp_contact_derden: 0
+contacten_onderwerp_boolean_contact_derden: 0
+","Ja",1234,0.6,0.094,0.0948136142625608,0.594003241491086,-0.518638573743922,49.4003241491086,"synth"
+"22","IV: 
+contacten_onderwerp_contact_derden: 1
+contacten_onderwerp_boolean_contact_derden: 0
+","Ja",2732,0.608,0.088,0.107613469985359,0.613103953147877,0.761346998535871,51.3103953147877,"synth"
+"23","IV: 
+contacten_onderwerp_contact_derden: 1
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",19,0.606,0.059,0.0526315789473684,0.578947368421053,-4.73684210526316,47.8947368421053,"synth"
+"24","IV: 
+contacten_onderwerp_contact_derden: 10
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",22,0.639,0.062,0.0454545454545455,0.818181818181818,-5.45454545454546,71.8181818181818,"synth"
+"25","IV: 
+contacten_onderwerp_contact_derden: 2
+contacten_onderwerp_boolean_contact_derden: 0
+","Ja",2007,0.61,0.088,0.0996512207274539,0.639760837070254,-0.034877927254609,53.9760837070254,"synth"
+"26","IV: 
+contacten_onderwerp_contact_derden: 2
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",718,0.603,0.086,0.0682451253481894,0.605849582172702,-3.17548746518106,50.5849582172702,"synth"
+"27","IV: 
+contacten_onderwerp_contact_derden: 3
+contacten_onderwerp_boolean_contact_derden: 0
+","Ja",401,0.622,0.081,0.107231920199501,0.683291770573566,0.723192019950124,58.3291770573566,"synth"
+"28","IV: 
+contacten_onderwerp_contact_derden: 3
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",1705,0.613,0.083,0.098533724340176,0.639296187683284,-0.146627565982405,53.9296187683284,"synth"
+"29","IV: 
+contacten_onderwerp_contact_derden: 4
+contacten_onderwerp_boolean_contact_derden: 0
+","Ja",12,0.618,0.07,0.0833333333333333,0.583333333333333,-1.66666666666667,48.3333333333333,"synth"
+"30","IV: 
+contacten_onderwerp_contact_derden: 4
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",1619,0.616,0.081,0.10129709697344,0.654725138974676,0.12970969734404,55.4725138974676,"synth"
+"31","IV: 
+contacten_onderwerp_contact_derden: 5
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",1078,0.619,0.081,0.11317254174397,0.683673469387755,1.31725417439703,58.3673469387755,"synth"
+"32","IV: 
+contacten_onderwerp_contact_derden: 0
+contacten_onderwerp_boolean_contact_derden: 0
+","Ja",12508,0.612,0.085,0.0991365526063319,0.639590661976335,-0.086344739366806,53.9590661976335,"synth_conditional"
+"33","IV: 
+contacten_onderwerp_contact_derden: 1
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12508,0.611,0.085,0.0990566037735849,0.639430764310841,-0.0943396226415094,53.9430764310841,"synth_conditional"
+"34","IV: 
+contacten_onderwerp_contact_derden: 10
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641589382795011,-0.0223856731691729,54.1589382795011,"synth_conditional"
+"35","IV: 
+contacten_onderwerp_contact_derden: 15
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641589382795011,-0.0223856731691729,54.1589382795011,"synth_conditional"
+"36","IV: 
+contacten_onderwerp_contact_derden: 2
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12508,0.612,0.085,0.0998560921010553,0.640949792133035,-0.0143907898944681,54.0949792133035,"synth_conditional"
+"37","IV: 
+contacten_onderwerp_contact_derden: 20
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12508,0.614,0.085,0.102014710585225,0.647345698752798,0.201471058522545,54.7345698752798,"synth_conditional"
+"38","IV: 
+contacten_onderwerp_contact_derden: 3
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12508,0.612,0.085,0.0998560921010553,0.640949792133035,-0.0143907898944681,54.0949792133035,"synth_conditional"
+"39","IV: 
+contacten_onderwerp_contact_derden: 30
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12508,0.614,0.085,0.102014710585225,0.647345698752798,0.201471058522545,54.7345698752798,"synth_conditional"
+"40","IV: 
+contacten_onderwerp_contact_derden: 4
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641589382795011,-0.0223856731691729,54.1589382795011,"synth_conditional"
+"41","IV: 
+contacten_onderwerp_contact_derden: 5
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641589382795011,-0.0223856731691729,54.1589382795011,"synth_conditional"
+"42","IV: 
+contacten_onderwerp_contact_derden: 50
+contacten_onderwerp_boolean_contact_derden: 1
+","Ja",12508,0.614,0.085,0.102014710585225,0.647345698752798,0.201471058522545,54.7345698752798,"synth_conditional"

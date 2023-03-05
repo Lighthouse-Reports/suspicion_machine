@@ -1,0 +1,34 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+competentie_ethisch_en_integer_handelen: 0
+","Ja",11132,0.478,0.152,0.0865073661516349,0.260061085159899,-1.34926338483651,16.0061085159899,"real"
+"2","IV: 
+competentie_ethisch_en_integer_handelen: 1
+","Ja",1504,0.569,0.136,0.197473404255319,0.441489361702128,9.74734042553191,34.1489361702128,"real"
+"3","IV: 
+competentie_ethisch_en_integer_handelen: 2
+","Ja",9,0.699,0.118,0.555555555555556,0.777777777777778,45.5555555555556,67.7777777777778,"real"
+"4","IV: 
+competentie_ethisch_en_integer_handelen: 0
+","Ja",12645,0.489,0.153,0.100197706603401,0.281850533807829,0.0197706603400558,18.1850533807829,"real_conditional"
+"5","IV: 
+competentie_ethisch_en_integer_handelen: 1
+","Ja",12645,0.49,0.153,0.100197706603401,0.282799525504152,0.0197706603400558,18.2799525504152,"real_conditional"
+"6","IV: 
+competentie_ethisch_en_integer_handelen: 2
+","Ja",12645,0.49,0.153,0.100197706603401,0.282799525504152,0.0197706603400558,18.2799525504152,"real_conditional"
+"7","IV: 
+competentie_ethisch_en_integer_handelen: 0
+","Ja",10774,0.609,0.086,0.0935585669203638,0.627157972897717,-0.644143307963617,52.7157972897717,"synth"
+"8","IV: 
+competentie_ethisch_en_integer_handelen: 1
+","Ja",1871,0.63,0.079,0.137359700694816,0.722608230892571,3.73597006948156,62.2608230892571,"synth"
+"9","IV: 
+competentie_ethisch_en_integer_handelen: 0
+","Ja",12508,0.612,0.085,0.0995362967700672,0.640949792133035,-0.0463703229932846,54.0949792133035,"synth_conditional"
+"10","IV: 
+competentie_ethisch_en_integer_handelen: 1
+","Ja",12508,0.612,0.085,0.100015989766549,0.642388871122482,0.00159897665494013,54.2388871122482,"synth_conditional"
+"11","IV: 
+competentie_ethisch_en_integer_handelen: 2
+","Ja",12508,0.612,0.085,0.100015989766549,0.642388871122482,0.00159897665494013,54.2388871122482,"synth_conditional"

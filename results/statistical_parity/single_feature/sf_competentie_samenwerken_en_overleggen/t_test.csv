@@ -1,0 +1,91 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+competentie_samenwerken_en_overleggen: 0
+","IV: 
+competentie_samenwerken_en_overleggen: 1
+",8665,3920,3.2e-288,"****",1.92e-287,"****","real"
+"2","Ja","IV: 
+competentie_samenwerken_en_overleggen: 0
+","IV: 
+competentie_samenwerken_en_overleggen: 2
+",8665,56,8.23e-22,"****",4.12e-21,"****","real"
+"3","Ja","IV: 
+competentie_samenwerken_en_overleggen: 1
+","IV: 
+competentie_samenwerken_en_overleggen: 2
+",3920,56,2.15e-05,"****",6.45e-05,"****","real"
+"4","Ja","IV: 
+competentie_samenwerken_en_overleggen: 0
+","IV: 
+competentie_samenwerken_en_overleggen: 3
+",8665,4,1.24e-05,"****",4.98e-05,"****","real"
+"5","Ja","IV: 
+competentie_samenwerken_en_overleggen: 1
+","IV: 
+competentie_samenwerken_en_overleggen: 3
+",3920,4,0.00332,"**",0.00664,"**","real"
+"6","Ja","IV: 
+competentie_samenwerken_en_overleggen: 2
+","IV: 
+competentie_samenwerken_en_overleggen: 3
+",56,4,0.083,"ns",0.083,"ns","real"
+"7","Ja","IV: 
+competentie_samenwerken_en_overleggen: 0
+","IV: 
+competentie_samenwerken_en_overleggen: 1
+",12645,12645,0.419,"ns",1,"ns","real_conditional"
+"8","Ja","IV: 
+competentie_samenwerken_en_overleggen: 0
+","IV: 
+competentie_samenwerken_en_overleggen: 2
+",12645,12645,0.419,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+competentie_samenwerken_en_overleggen: 1
+","IV: 
+competentie_samenwerken_en_overleggen: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+competentie_samenwerken_en_overleggen: 0
+","IV: 
+competentie_samenwerken_en_overleggen: 3
+",12645,12645,0.419,"ns",1,"ns","real_conditional"
+"11","Ja","IV: 
+competentie_samenwerken_en_overleggen: 1
+","IV: 
+competentie_samenwerken_en_overleggen: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"12","Ja","IV: 
+competentie_samenwerken_en_overleggen: 2
+","IV: 
+competentie_samenwerken_en_overleggen: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+competentie_samenwerken_en_overleggen: 0
+","IV: 
+competentie_samenwerken_en_overleggen: 1
+",12508,12508,0.783,"ns",1,"ns","synth_conditional"
+"14","Ja","IV: 
+competentie_samenwerken_en_overleggen: 0
+","IV: 
+competentie_samenwerken_en_overleggen: 2
+",12508,12508,0.783,"ns",1,"ns","synth_conditional"
+"15","Ja","IV: 
+competentie_samenwerken_en_overleggen: 1
+","IV: 
+competentie_samenwerken_en_overleggen: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"16","Ja","IV: 
+competentie_samenwerken_en_overleggen: 0
+","IV: 
+competentie_samenwerken_en_overleggen: 3
+",12508,12508,0.783,"ns",1,"ns","synth_conditional"
+"17","Ja","IV: 
+competentie_samenwerken_en_overleggen: 1
+","IV: 
+competentie_samenwerken_en_overleggen: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"18","Ja","IV: 
+competentie_samenwerken_en_overleggen: 2
+","IV: 
+competentie_samenwerken_en_overleggen: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"

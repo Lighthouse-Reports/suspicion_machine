@@ -1,0 +1,41 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+var_1: NA
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",11169,970,0.000208,"***",0.000623,"***","real"
+"2","Ja","IV: 
+var_1: NA
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",11169,506,0.693,"ns",0.693,"ns","real"
+"3","Ja","IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",970,506,0.0526,"ns",0.105,"ns","real"
+"4","Ja","IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+var_1: NA
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",11710,732,8.31e-05,"****",0.000249,"***","synth"
+"6","Ja","IV: 
+var_1: NA
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",11710,203,0.567,"ns",0.567,"ns","synth"
+"7","Ja","IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",732,203,0.168,"ns",0.335,"ns","synth"
+"8","Ja","IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+","IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",12508,12508,1,"ns",1,"ns","synth_conditional"

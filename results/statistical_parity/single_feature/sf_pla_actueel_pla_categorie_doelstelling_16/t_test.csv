@@ -1,0 +1,61 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 1
+",9495,3148,1.12e-302,"****",3.35e-302,"****","real"
+"2","Ja","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 2
+",9495,2,0.584,"ns",1,"ns","real"
+"3","Ja","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 1
+","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 2
+",3148,2,0.573,"ns",1,"ns","real"
+"4","Ja","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 1
+",12645,12645,0.859,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 2
+",12645,12645,0.859,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 1
+","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 1
+",8337,4262,1.38e-135,"****",4.13e-135,"****","synth"
+"8","Ja","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 2
+",8337,46,3.38e-09,"****",6.76e-09,"****","synth"
+"9","Ja","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 1
+","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 2
+",4262,46,0.00666,"**",0.00666,"**","synth"
+"10","Ja","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 1
+",12508,12508,0.829,"ns",1,"ns","synth_conditional"
+"11","Ja","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 0
+","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 2
+",12508,12508,0.829,"ns",1,"ns","synth_conditional"
+"12","Ja","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 1
+","IV: 
+pla_actueel_pla_categorie_doelstelling_16: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"

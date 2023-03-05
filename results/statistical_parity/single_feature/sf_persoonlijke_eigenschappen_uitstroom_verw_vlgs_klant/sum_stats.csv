@@ -1,0 +1,85 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","Ja",7288,0.452,0.155,0.0712129527991218,0.217480790340285,-2.87870472008782,11.7480790340285,"real"
+"2","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","Ja",429,0.648,0.142,0.445221445221445,0.668997668997669,34.5221445221445,56.8997668997669,"real"
+"3","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","Ja",414,0.604,0.135,0.282608695652174,0.582125603864734,18.2608695652174,48.2125603864734,"real"
+"4","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+","Ja",597,0.564,0.133,0.194304857621441,0.422110552763819,9.43048576214405,32.2110552763819,"real"
+"5","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+","Ja",241,0.565,0.131,0.195020746887967,0.448132780082988,9.50207468879668,34.8132780082988,"real"
+"6","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+","Ja",495,0.544,0.126,0.105050505050505,0.367676767676768,0.505050505050504,26.7676767676768,"real"
+"7","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+","Ja",3181,0.51,0.125,0.0701037409619616,0.286387928324426,-2.98962590380384,18.6387928324426,"real"
+"8","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","Ja",12645,0.49,0.154,0.102649268485567,0.285409252669039,0.264926848556742,18.5409252669039,"real_conditional"
+"9","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","Ja",12645,0.49,0.154,0.102095689996046,0.285013839462238,0.209568999604585,18.5013839462238,"real_conditional"
+"10","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","Ja",12645,0.49,0.154,0.101542111506524,0.283274021352313,0.154211150652432,18.3274021352313,"real_conditional"
+"11","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+","Ja",12645,0.489,0.153,0.0991696322657177,0.279952550415184,-0.0830367734282328,17.9952550415184,"real_conditional"
+"12","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+","Ja",12645,0.488,0.153,0.0990905496243575,0.279873467773824,-0.0909450375642551,17.9873467773824,"real_conditional"
+"13","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+","Ja",12645,0.488,0.153,0.0979833926453143,0.279319889284302,-0.201660735468566,17.9319889284302,"real_conditional"
+"14","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+","Ja",12645,0.488,0.153,0.0975879794385132,0.2785290628707,-0.241202056148676,17.85290628707,"real_conditional"
+"15","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","Ja",7432,0.603,0.088,0.0858449946178687,0.60051130247578,-1.41550053821313,50.051130247578,"synth"
+"16","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","Ja",325,0.635,0.077,0.156923076923077,0.744615384615385,5.69230769230769,64.4615384615385,"synth"
+"17","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","Ja",253,0.644,0.071,0.185770750988142,0.790513833992095,8.57707509881423,69.0513833992095,"synth"
+"18","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+","Ja",538,0.63,0.079,0.141263940520446,0.726765799256506,4.12639405204461,62.6765799256506,"synth"
+"19","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+","Ja",97,0.664,0.067,0.288659793814433,0.865979381443299,18.8659793814433,76.5979381443299,"synth"
+"20","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+","Ja",441,0.63,0.076,0.136054421768707,0.718820861678005,3.60544217687075,61.8820861678005,"synth"
+"21","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+","Ja",3559,0.62,0.079,0.102556898005058,0.677718460241641,0.25568980050576,57.7718460241641,"synth"
+"22","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 0
+","Ja",12508,0.613,0.085,0.103613687240166,0.645187080268628,0.361368724016629,54.5187080268628,"synth_conditional"
+"23","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 1
+","Ja",12508,0.613,0.085,0.102894147745443,0.644467540773905,0.289414774544292,54.4467540773905,"synth_conditional"
+"24","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 2
+","Ja",12508,0.613,0.085,0.102254557083467,0.643028461784458,0.225455708346657,54.3028461784458,"synth_conditional"
+"25","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 3
+","Ja",12508,0.611,0.085,0.0972177806204029,0.636312759833706,-0.278221937959706,53.6312759833706,"synth_conditional"
+"26","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 4
+","Ja",12508,0.611,0.085,0.0972177806204029,0.636232811000959,-0.278221937959706,53.6232811000959,"synth_conditional"
+"27","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 5
+","Ja",12508,0.61,0.085,0.0956987527982091,0.633034857691078,-0.430124720179086,53.3034857691078,"synth_conditional"
+"28","IV: 
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_klant: 6
+","Ja",12508,0.61,0.085,0.0939398784777742,0.631755676367125,-0.606012152222578,53.1755676367125,"synth_conditional"

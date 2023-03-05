@@ -1,0 +1,79 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_onderwerp_vakantie: 0
+","Ja",12150,0.49,0.154,0.101234567901235,0.284197530864198,0.123456790123457,18.4197530864198,"real"
+"2","IV: 
+contacten_onderwerp_vakantie: 1
+","Ja",383,0.483,0.149,0.0783289817232376,0.245430809399478,-2.16710182767624,14.5430809399478,"real"
+"3","IV: 
+contacten_onderwerp_vakantie: 2
+","Ja",75,0.444,0.124,0.04,0.133333333333333,-6,3.33333333333333,"real"
+"4","IV: 
+contacten_onderwerp_vakantie: 3
+","Ja",27,0.514,0.152,0.0740740740740741,0.296296296296296,-2.59259259259259,19.6296296296296,"real"
+"5","IV: 
+contacten_onderwerp_vakantie: 4
+","Ja",5,0.423,0.115,0,0,-10,-10,"real"
+"6","IV: 
+contacten_onderwerp_vakantie: 5
+","Ja",3,0.437,0.145,0,0.333333333333333,-10,23.3333333333333,"real"
+"7","IV: 
+contacten_onderwerp_vakantie: 8
+","Ja",1,0.416,NA,0,0,-10,-10,"real"
+"8","IV: 
+contacten_onderwerp_vakantie: 9
+","Ja",1,0.202,NA,0,0,-10,-10,"real"
+"9","IV: 
+contacten_onderwerp_vakantie: 0
+","Ja",12645,0.489,0.153,0.10003954132068,0.28208778173191,0.00395413206801115,18.208778173191,"real_conditional"
+"10","IV: 
+contacten_onderwerp_vakantie: 1
+","Ja",12645,0.489,0.153,0.10003954132068,0.28208778173191,0.00395413206801115,18.208778173191,"real_conditional"
+"11","IV: 
+contacten_onderwerp_vakantie: 2
+","Ja",12645,0.489,0.153,0.10003954132068,0.28208778173191,0.00395413206801115,18.208778173191,"real_conditional"
+"12","IV: 
+contacten_onderwerp_vakantie: 3
+","Ja",12645,0.486,0.154,0.0964808224594702,0.274416765519968,-0.351917754052986,17.4416765519968,"real_conditional"
+"13","IV: 
+contacten_onderwerp_vakantie: 4
+","Ja",12645,0.486,0.154,0.0964808224594702,0.274416765519968,-0.351917754052986,17.4416765519968,"real_conditional"
+"14","IV: 
+contacten_onderwerp_vakantie: 5
+","Ja",12645,0.486,0.154,0.0964808224594702,0.274416765519968,-0.351917754052986,17.4416765519968,"real_conditional"
+"15","IV: 
+contacten_onderwerp_vakantie: 8
+","Ja",12645,0.486,0.154,0.0964808224594702,0.274416765519968,-0.351917754052986,17.4416765519968,"real_conditional"
+"16","IV: 
+contacten_onderwerp_vakantie: 9
+","Ja",12645,0.486,0.154,0.0964808224594702,0.274416765519968,-0.351917754052986,17.4416765519968,"real_conditional"
+"17","IV: 
+contacten_onderwerp_vakantie: 0
+","Ja",11129,0.613,0.085,0.10378290951568,0.644801868990925,0.378290951567975,54.4801868990925,"synth"
+"18","IV: 
+contacten_onderwerp_vakantie: 1
+","Ja",1516,0.606,0.086,0.0725593667546174,0.615435356200528,-2.74406332453826,51.5435356200528,"synth"
+"19","IV: 
+contacten_onderwerp_vakantie: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"20","IV: 
+contacten_onderwerp_vakantie: 1
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"21","IV: 
+contacten_onderwerp_vakantie: 2
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"22","IV: 
+contacten_onderwerp_vakantie: 3
+","Ja",12508,0.609,0.086,0.0933802366485449,0.625919411576591,-0.661976335145507,52.5919411576591,"synth_conditional"
+"23","IV: 
+contacten_onderwerp_vakantie: 4
+","Ja",12508,0.609,0.086,0.0933802366485449,0.625919411576591,-0.661976335145507,52.5919411576591,"synth_conditional"
+"24","IV: 
+contacten_onderwerp_vakantie: 5
+","Ja",12508,0.609,0.086,0.0933802366485449,0.625919411576591,-0.661976335145507,52.5919411576591,"synth_conditional"
+"25","IV: 
+contacten_onderwerp_vakantie: 8
+","Ja",12508,0.609,0.086,0.0933802366485449,0.625919411576591,-0.661976335145507,52.5919411576591,"synth_conditional"
+"26","IV: 
+contacten_onderwerp_vakantie: 9
+","Ja",12508,0.609,0.086,0.0933802366485449,0.625919411576591,-0.661976335145507,52.5919411576591,"synth_conditional"

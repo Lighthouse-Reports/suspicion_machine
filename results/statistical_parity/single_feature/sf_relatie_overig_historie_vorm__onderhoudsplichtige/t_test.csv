@@ -1,0 +1,256 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",9695,2468,3.85e-16,"****",5.78e-15,"****","real"
+"2","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",9695,395,1.4e-14,"****",1.97e-13,"****","real"
+"3","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",2468,395,9.44e-05,"****",0.00113,"**","real"
+"4","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",9695,68,2.48e-05,"****",0.000322,"***","real"
+"5","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",2468,68,0.00737,"**",0.081,"ns","real"
+"6","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",395,68,0.37,"ns",1,"ns","real"
+"7","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",9695,15,0.0351,"*",0.351,"ns","real"
+"8","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",2468,15,0.164,"ns",1,"ns","real"
+"9","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",395,15,0.571,"ns",1,"ns","real"
+"10","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",68,15,0.913,"ns",1,"ns","real"
+"11","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",9695,4,0.542,"ns",1,"ns","real"
+"12","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",2468,4,0.328,"ns",1,"ns","real"
+"13","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",395,4,0.163,"ns",1,"ns","real"
+"14","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",68,4,0.112,"ns",1,"ns","real"
+"15","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",15,4,0.131,"ns",1,"ns","real"
+"16","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",12645,12645,0.929,"ns",1,"ns","real_conditional"
+"17","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",12645,12645,0.629,"ns",1,"ns","real_conditional"
+"18","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",12645,12645,0.567,"ns",1,"ns","real_conditional"
+"19","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",12645,12645,0.926,"ns",1,"ns","real_conditional"
+"20","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",12645,12645,0.855,"ns",1,"ns","real_conditional"
+"21","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",12645,12645,0.696,"ns",1,"ns","real_conditional"
+"22","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",12645,12645,0.926,"ns",1,"ns","real_conditional"
+"23","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",12645,12645,0.855,"ns",1,"ns","real_conditional"
+"24","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",12645,12645,0.696,"ns",1,"ns","real_conditional"
+"25","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"26","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",12645,12645,0.926,"ns",1,"ns","real_conditional"
+"27","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",12645,12645,0.855,"ns",1,"ns","real_conditional"
+"28","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",12645,12645,0.696,"ns",1,"ns","real_conditional"
+"29","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"30","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"31","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",6845,5543,1.69e-14,"****",1.02e-13,"****","synth"
+"32","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",6845,255,1.59e-07,"****",7.94e-07,"****","synth"
+"33","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",5543,255,0.00225,"**",0.00899,"**","synth"
+"34","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",6845,2,0.931,"ns",1,"ns","synth"
+"35","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",5543,2,0.913,"ns",1,"ns","synth"
+"36","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",255,2,0.701,"ns",1,"ns","synth"
+"37","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+",12508,12508,0.984,"ns",1,"ns","synth_conditional"
+"38","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",12508,12508,0.862,"ns",1,"ns","synth_conditional"
+"39","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+",12508,12508,0.846,"ns",1,"ns","synth_conditional"
+"40","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",12508,12508,0.00891,"**",0.107,"ns","synth_conditional"
+"41","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",12508,12508,0.00944,"**",0.107,"ns","synth_conditional"
+"42","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+",12508,12508,0.00528,"**",0.0792,"ns","synth_conditional"
+"43","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",12508,12508,0.00891,"**",0.107,"ns","synth_conditional"
+"44","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",12508,12508,0.00944,"**",0.107,"ns","synth_conditional"
+"45","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",12508,12508,0.00528,"**",0.0792,"ns","synth_conditional"
+"46","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"47","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 0
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",12508,12508,0.00891,"**",0.107,"ns","synth_conditional"
+"48","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 1
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",12508,12508,0.00944,"**",0.107,"ns","synth_conditional"
+"49","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 2
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",12508,12508,0.00528,"**",0.0792,"ns","synth_conditional"
+"50","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 3
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"51","Ja","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 4
+","IV: 
+relatie_overig_historie_vorm__onderhoudsplichtige: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"

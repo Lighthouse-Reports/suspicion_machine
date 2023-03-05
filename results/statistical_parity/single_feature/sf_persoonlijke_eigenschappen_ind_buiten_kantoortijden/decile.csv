@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1243,11.1840921360446,"real"
+"2",1,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",22,1.43696930111039,"real"
+"3",2,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1205,10.8421810329314,"real"
+"4",2,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",60,3.91900718484651,"real"
+"5",3,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1190,10.7072161238078,"real"
+"6",3,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",75,4.89875898105813,"real"
+"7",4,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1142,10.2753284146122,"real"
+"8",4,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",123,8.03396472893534,"real"
+"9",5,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1123,10.1043728630556,"real"
+"10",5,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",142,9.2749836708034,"real"
+"11",6,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1103,9.92441965089077,"real"
+"12",6,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",161,10.5160026126715,"real"
+"13",7,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1078,9.69947813568472,"real"
+"14",7,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",186,12.1489222730242,"real"
+"15",8,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1073,9.65448983264351,"real"
+"16",8,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",191,12.4755062050947,"real"
+"17",9,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1054,9.48353428108692,"real"
+"18",9,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",210,13.7165251469628,"real"
+"19",10,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",903,8.1248875292424,"real"
+"20",10,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",361,23.5793598954931,"real"
+"21",1,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1265,10.003954132068,"real_conditional"
+"22",1,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1264,9.99604586793199,"real_conditional"
+"23",2,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1264,9.99604586793199,"real_conditional"
+"24",2,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1265,10.003954132068,"real_conditional"
+"25",3,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1265,10.003954132068,"real_conditional"
+"26",3,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1264,9.99604586793199,"real_conditional"
+"27",4,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1264,9.99604586793199,"real_conditional"
+"28",4,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1265,10.003954132068,"real_conditional"
+"29",5,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1265,10.003954132068,"real_conditional"
+"30",5,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1264,9.99604586793199,"real_conditional"
+"31",6,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1264,9.99604586793199,"real_conditional"
+"32",6,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1265,10.003954132068,"real_conditional"
+"33",7,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1265,10.003954132068,"real_conditional"
+"34",7,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1264,9.99604586793199,"real_conditional"
+"35",8,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1264,9.99604586793199,"real_conditional"
+"36",8,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1265,10.003954132068,"real_conditional"
+"37",9,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1265,10.003954132068,"real_conditional"
+"38",9,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1264,9.99604586793199,"real_conditional"
+"39",10,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1264,9.99604586793199,"real_conditional"
+"40",10,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1265,10.003954132068,"real_conditional"
+"41",1,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1138,10.6365080848677,"synth"
+"42",1,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",127,6.5262076053443,"synth"
+"43",2,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1120,10.4682680624357,"synth"
+"44",2,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",145,7.45118191161357,"synth"
+"45",3,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1113,10.4028413870455,"synth"
+"46",3,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",152,7.81089414182939,"synth"
+"47",4,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1092,10.2065613608748,"synth"
+"48",4,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",173,8.89003083247688,"synth"
+"49",5,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1078,10.0757080100944,"synth"
+"50",5,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",187,9.60945529290853,"synth"
+"51",6,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1045,9.76726796896906,"synth"
+"52",6,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",219,11.2538540596095,"synth"
+"53",7,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1033,9.65510795401439,"synth"
+"54",7,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",231,11.8705035971223,"synth"
+"55",8,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1048,9.79530797270773,"synth"
+"56",8,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",216,11.0996916752312,"synth"
+"57",9,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1017,9.50556126740817,"synth"
+"58",9,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",247,12.6927029804728,"synth"
+"59",10,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1015,9.48686793158239,"synth"
+"60",10,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",249,12.7954779033916,"synth"
+"61",1,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1251,10.0015989766549,"synth_conditional"
+"62",1,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1251,10.0015989766549,"synth_conditional"
+"63",2,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1251,10.0015989766549,"synth_conditional"
+"64",2,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1251,10.0015989766549,"synth_conditional"
+"65",3,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1251,10.0015989766549,"synth_conditional"
+"66",3,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1251,10.0015989766549,"synth_conditional"
+"67",4,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1251,10.0015989766549,"synth_conditional"
+"68",4,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1251,10.0015989766549,"synth_conditional"
+"69",5,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1251,10.0015989766549,"synth_conditional"
+"70",5,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1251,10.0015989766549,"synth_conditional"
+"71",6,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1251,10.0015989766549,"synth_conditional"
+"72",6,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1251,10.0015989766549,"synth_conditional"
+"73",7,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1251,10.0015989766549,"synth_conditional"
+"74",7,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1250,9.99360409338024,"synth_conditional"
+"75",8,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1250,9.99360409338024,"synth_conditional"
+"76",8,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1251,10.0015989766549,"synth_conditional"
+"77",9,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1251,10.0015989766549,"synth_conditional"
+"78",9,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1250,9.99360409338024,"synth_conditional"
+"79",10,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 0
+",1250,9.99360409338024,"synth_conditional"
+"80",10,"IV: 
+persoonlijke_eigenschappen_ind_buiten_kantoortijden: 1
+",1251,10.0015989766549,"synth_conditional"

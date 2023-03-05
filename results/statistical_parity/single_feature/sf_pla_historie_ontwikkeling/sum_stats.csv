@@ -1,0 +1,25 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+pla_historie_ontwikkeling: 0
+","Ja",5653,0.542,0.156,0.185918981071997,0.423138156730939,8.59189810719972,32.3138156730939,"real"
+"2","IV: 
+pla_historie_ontwikkeling: 1
+","Ja",6992,0.446,0.137,0.0306064073226545,0.167906178489703,-6.93935926773455,6.79061784897025,"real"
+"3","IV: 
+pla_historie_ontwikkeling: 0
+","Ja",12645,0.506,0.153,0.113562672993278,0.323685251087386,1.3562672993278,22.3685251087386,"real_conditional"
+"4","IV: 
+pla_historie_ontwikkeling: 1
+","Ja",12645,0.475,0.145,0.0674574930802689,0.240253064452353,-3.25425069197311,14.0253064452353,"real_conditional"
+"5","IV: 
+pla_historie_ontwikkeling: 0
+","Ja",4883,0.641,0.081,0.190661478599222,0.763669875076797,9.06614785992218,66.3669875076797,"synth"
+"6","IV: 
+pla_historie_ontwikkeling: 1
+","Ja",7762,0.593,0.082,0.0430301468693636,0.564287554753929,-5.69698531306364,46.4287554753929,"synth"
+"7","IV: 
+pla_historie_ontwikkeling: 0
+","Ja",12508,0.625,0.083,0.135593220338983,0.697473616885193,3.5593220338983,59.7473616885193,"synth_conditional"
+"8","IV: 
+pla_historie_ontwikkeling: 1
+","Ja",12508,0.603,0.082,0.0633994243684042,0.609689798528941,-3.66005756315958,50.9689798528942,"synth_conditional"

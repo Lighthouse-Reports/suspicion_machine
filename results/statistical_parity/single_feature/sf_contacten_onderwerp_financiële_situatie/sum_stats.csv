@@ -1,0 +1,181 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","Ja",10894,0.479,0.154,0.0907839177528915,0.262346245639802,-0.92160822471085,16.2346245639802,"real"
+"2","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",903,0.552,0.141,0.166112956810631,0.416389811738649,6.61129568106312,31.6389811738649,"real"
+"3","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",23,0.578,0.113,0.217391304347826,0.478260869565217,11.7391304347826,37.8260869565217,"real"
+"4","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",6,0.558,0.083,0,0.333333333333333,-10,23.3333333333333,"real"
+"5","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",313,0.54,0.139,0.153354632587859,0.361022364217252,5.33546325878594,26.1022364217252,"real"
+"6","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",6,0.519,0.044,0,0.166666666666667,-10,6.66666666666667,"real"
+"7","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",144,0.552,0.125,0.145833333333333,0.388888888888889,4.58333333333333,28.8888888888889,"real"
+"8","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",1,0.39,NA,0,0,-10,-10,"real"
+"9","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",94,0.554,0.125,0.127659574468085,0.404255319148936,2.76595744680851,30.4255319148936,"real"
+"10","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",63,0.539,0.14,0.126984126984127,0.412698412698413,2.6984126984127,31.2698412698413,"real"
+"11","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",1,0.408,NA,0,0,-10,-10,"real"
+"12","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","Ja",12645,0.488,0.153,0.0981415579280348,0.278924476077501,-0.185844207196521,17.8924476077501,"real_conditional"
+"13","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12645,0.496,0.151,0.104705417160933,0.292289442467378,0.470541716093317,19.2289442467378,"real_conditional"
+"14","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12645,0.506,0.149,0.11435349940688,0.312534598655595,1.43534994068802,21.2534598655595,"real_conditional"
+"15","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12645,0.509,0.149,0.118070383550811,0.320205614867537,1.80703835508106,22.0205614867537,"real_conditional"
+"16","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12645,0.497,0.151,0.105575326215896,0.294503756425465,0.557532621589561,19.4503756425465,"real_conditional"
+"17","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12645,0.509,0.149,0.118070383550811,0.320205614867537,1.80703835508106,22.0205614867537,"real_conditional"
+"18","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12645,0.501,0.15,0.110241202056149,0.30367734282325,1.02412020561487,20.367734282325,"real_conditional"
+"19","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12645,0.509,0.149,0.118070383550811,0.320205614867537,1.80703835508106,22.0205614867537,"real_conditional"
+"20","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12645,0.504,0.149,0.112218268090154,0.308105970739423,1.22182680901542,20.8105970739423,"real_conditional"
+"21","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12645,0.506,0.149,0.11435349940688,0.312534598655595,1.43534994068802,21.2534598655595,"real_conditional"
+"22","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12645,0.509,0.149,0.118070383550811,0.320205614867537,1.80703835508106,22.0205614867537,"real_conditional"
+"23","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12645,0.509,0.149,0.118070383550811,0.320205614867537,1.80703835508106,22.0205614867537,"real_conditional"
+"24","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","Ja",2080,0.596,0.091,0.0764423076923077,0.573076923076923,-2.35576923076923,47.3076923076923,"synth"
+"25","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 0
+","Ja",3899,0.607,0.086,0.0864324185688638,0.625288535521929,-1.35675814311362,52.5288535521929,"synth"
+"26","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",2,0.654,0.088,0.5,0.5,40,40,"synth"
+"27","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 0
+","Ja",3034,0.613,0.084,0.100197758734344,0.644693473961767,0.0197758734344092,54.4693473961767,"synth"
+"28","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",103,0.613,0.078,0.0485436893203883,0.70873786407767,-5.14563106796117,60.873786407767,"synth"
+"29","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 0
+","Ja",1096,0.624,0.081,0.124087591240876,0.702554744525547,2.40875912408759,60.2554744525548,"synth"
+"30","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",841,0.62,0.082,0.111771700356718,0.665873959571938,1.17717003567182,56.5873959571938,"synth"
+"31","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 0
+","Ja",69,0.613,0.083,0.101449275362319,0.623188405797101,0.144927536231884,52.3188405797101,"synth"
+"32","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",897,0.627,0.081,0.139353400222965,0.693422519509476,3.93534002229654,59.3422519509476,"synth"
+"33","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",409,0.63,0.077,0.136919315403423,0.711491442542787,3.6919315403423,61.1491442542787,"synth"
+"34","IV: 
+contacten_onderwerp_financiële_situatie: 0
+contacten_onderwerp_boolean_financiële_situatie: 0
+","Ja",12508,0.606,0.087,0.0892228973456988,0.612248161176847,-1.07771026543012,51.2248161176847,"synth_conditional"
+"35","IV: 
+contacten_onderwerp_financiële_situatie: 1
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12508,0.611,0.085,0.09729772945315,0.637352094659418,-0.270227054685002,53.7352094659418,"synth_conditional"
+"36","IV: 
+contacten_onderwerp_financiële_situatie: 10
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12508,0.619,0.083,0.112008314678606,0.668292292932523,1.20083146786057,56.8292292932523,"synth_conditional"
+"37","IV: 
+contacten_onderwerp_financiële_situatie: 15
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12508,0.621,0.083,0.119523504956828,0.678125999360409,1.95235049568276,57.8125999360409,"synth_conditional"
+"38","IV: 
+contacten_onderwerp_financiële_situatie: 2
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12508,0.612,0.085,0.0987368084425967,0.642388871122482,-0.126319155740327,54.2388871122482,"synth_conditional"
+"39","IV: 
+contacten_onderwerp_financiële_situatie: 20
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12508,0.621,0.083,0.119523504956828,0.678125999360409,1.95235049568276,57.8125999360409,"synth_conditional"
+"40","IV: 
+contacten_onderwerp_financiële_situatie: 3
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12508,0.616,0.084,0.105212663895107,0.655980172689479,0.521266389510712,55.5980172689479,"synth_conditional"
+"41","IV: 
+contacten_onderwerp_financiële_situatie: 30
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12508,0.621,0.083,0.119523504956828,0.678125999360409,1.95235049568276,57.8125999360409,"synth_conditional"
+"42","IV: 
+contacten_onderwerp_financiële_situatie: 4
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12508,0.617,0.084,0.106331947553566,0.660697153821554,0.633194755356571,56.0697153821554,"synth_conditional"
+"43","IV: 
+contacten_onderwerp_financiële_situatie: 5
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12508,0.619,0.083,0.112008314678606,0.668292292932523,1.20083146786057,56.8292292932523,"synth_conditional"
+"44","IV: 
+contacten_onderwerp_financiële_situatie: 50
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12508,0.621,0.083,0.119523504956828,0.678125999360409,1.95235049568276,57.8125999360409,"synth_conditional"
+"45","IV: 
+contacten_onderwerp_financiële_situatie: 90
+contacten_onderwerp_boolean_financiële_situatie: 1
+","Ja",12508,0.621,0.083,0.119523504956828,0.678125999360409,1.95235049568276,57.8125999360409,"synth_conditional"

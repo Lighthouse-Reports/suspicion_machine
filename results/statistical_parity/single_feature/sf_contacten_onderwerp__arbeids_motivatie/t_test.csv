@@ -1,0 +1,1429 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",3720,3011,2.5e-08,"****",8.49e-07,"****","real"
+"2","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",3720,94,0.000131,"***",0.00353,"**","real"
+"3","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",3011,94,3.09e-07,"****",9.58e-06,"****","real"
+"4","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",3720,25,0.0524,"ns",0.997,"ns","real"
+"5","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",3011,25,0.00883,"**",0.201,"ns","real"
+"6","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",94,25,0.963,"ns",1,"ns","real"
+"7","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",3720,2021,4.6e-08,"****",1.52e-06,"****","real"
+"8","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",3011,2021,0.616,"ns",1,"ns","real"
+"9","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",94,2021,1.82e-07,"****",5.82e-06,"****","real"
+"10","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",25,2021,0.00726,"**",0.181,"ns","real"
+"11","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",3720,9,0.248,"ns",1,"ns","real"
+"12","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",3011,9,0.118,"ns",1,"ns","real"
+"13","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",94,9,0.967,"ns",1,"ns","real"
+"14","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",25,9,0.992,"ns",1,"ns","real"
+"15","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",2021,9,0.108,"ns",1,"ns","real"
+"16","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",3720,1260,7.02e-11,"****",2.53e-09,"****","real"
+"17","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",3011,1260,0.0235,"*",0.47,"ns","real"
+"18","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",94,1260,1.05e-08,"****",3.66e-07,"****","real"
+"19","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",25,1260,0.00289,"**",0.075,"ns","real"
+"20","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",2021,1260,0.0863,"ns",1,"ns","real"
+"21","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",9,1260,0.0739,"ns",1,"ns","real"
+"22","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",3720,803,6.35e-05,"****",0.00178,"**","real"
+"23","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",3011,803,0.633,"ns",1,"ns","real"
+"24","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",94,803,3.56e-07,"****",1.07e-05,"****","real"
+"25","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",25,803,0.00731,"**",0.181,"ns","real"
+"26","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",2021,803,0.914,"ns",1,"ns","real"
+"27","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",9,803,0.107,"ns",1,"ns","real"
+"28","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",1260,803,0.206,"ns",1,"ns","real"
+"29","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",3720,510,0.00873,"**",0.201,"ns","real"
+"30","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",3011,510,0.788,"ns",1,"ns","real"
+"31","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",94,510,3.14e-06,"****",9.1e-05,"****","real"
+"32","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",25,510,0.0123,"*",0.258,"ns","real"
+"33","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",2021,510,0.582,"ns",1,"ns","real"
+"34","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",9,510,0.13,"ns",1,"ns","real"
+"35","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",1260,510,0.0904,"ns",1,"ns","real"
+"36","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",803,510,0.574,"ns",1,"ns","real"
+"37","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"38","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.59,"ns",1,"ns","real_conditional"
+"39","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.59,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.0597,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.0597,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.179,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.987,"ns",1,"ns","real_conditional"
+"44","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.987,"ns",1,"ns","real_conditional"
+"45","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.601,"ns",1,"ns","real_conditional"
+"46","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.0619,"ns",1,"ns","real_conditional"
+"47","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.0597,"ns",1,"ns","real_conditional"
+"48","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.0597,"ns",1,"ns","real_conditional"
+"49","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.179,"ns",1,"ns","real_conditional"
+"50","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"51","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.0619,"ns",1,"ns","real_conditional"
+"52","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.987,"ns",1,"ns","real_conditional"
+"53","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.987,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.601,"ns",1,"ns","real_conditional"
+"55","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.0619,"ns",1,"ns","real_conditional"
+"56","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"57","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.0619,"ns",1,"ns","real_conditional"
+"58","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.0597,"ns",1,"ns","real_conditional"
+"59","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.0597,"ns",1,"ns","real_conditional"
+"60","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.179,"ns",1,"ns","real_conditional"
+"61","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"62","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.0619,"ns",1,"ns","real_conditional"
+"63","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"64","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.0619,"ns",1,"ns","real_conditional"
+"65","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.987,"ns",1,"ns","real_conditional"
+"66","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.987,"ns",1,"ns","real_conditional"
+"67","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.601,"ns",1,"ns","real_conditional"
+"68","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.0619,"ns",1,"ns","real_conditional"
+"69","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"70","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.0619,"ns",1,"ns","real_conditional"
+"71","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"72","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.0619,"ns",1,"ns","real_conditional"
+"73","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.831,"ns",1,"ns","real_conditional"
+"74","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.831,"ns",1,"ns","real_conditional"
+"75","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.744,"ns",1,"ns","real_conditional"
+"76","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.095,"ns",1,"ns","real_conditional"
+"77","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.844,"ns",1,"ns","real_conditional"
+"78","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.095,"ns",1,"ns","real_conditional"
+"79","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.844,"ns",1,"ns","real_conditional"
+"80","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.095,"ns",1,"ns","real_conditional"
+"81","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12645,12645,0.844,"ns",1,"ns","real_conditional"
+"82","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",849,1985,0.229,"ns",1,"ns","synth"
+"83","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",849,68,0.0447,"*",1,"ns","synth"
+"84","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",1985,68,0.0986,"ns",1,"ns","synth"
+"85","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",849,142,0.151,"ns",1,"ns","synth"
+"86","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",1985,142,0.352,"ns",1,"ns","synth"
+"87","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",68,142,0.405,"ns",1,"ns","synth"
+"88","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",849,2,0.253,"ns",1,"ns","synth"
+"89","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",1985,2,0.283,"ns",1,"ns","synth"
+"90","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",68,2,0.438,"ns",1,"ns","synth"
+"91","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",142,2,0.34,"ns",1,"ns","synth"
+"92","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",849,1437,0.341,"ns",1,"ns","synth"
+"93","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",1985,1437,0.813,"ns",1,"ns","synth"
+"94","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",68,1437,0.0878,"ns",1,"ns","synth"
+"95","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",142,1437,0.311,"ns",1,"ns","synth"
+"96","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",2,1437,0.278,"ns",1,"ns","synth"
+"97","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",849,656,0.00359,"**",0.269,"ns","synth"
+"98","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",1985,656,0.0235,"*",1,"ns","synth"
+"99","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",68,656,0.425,"ns",1,"ns","synth"
+"100","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",142,656,0.819,"ns",1,"ns","synth"
+"101","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",2,656,0.353,"ns",1,"ns","synth"
+"102","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",1437,656,0.0194,"*",1,"ns","synth"
+"103","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",849,572,0.875,"ns",1,"ns","synth"
+"104","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",1985,572,0.223,"ns",1,"ns","synth"
+"105","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",68,572,0.0415,"*",1,"ns","synth"
+"106","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",142,572,0.139,"ns",1,"ns","synth"
+"107","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",2,572,0.248,"ns",1,"ns","synth"
+"108","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",1437,572,0.315,"ns",1,"ns","synth"
+"109","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",656,572,0.0052,"**",0.369,"ns","synth"
+"110","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",849,1434,0.00205,"**",0.156,"ns","synth"
+"111","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",1985,1434,0.0152,"*",1,"ns","synth"
+"112","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",68,1434,0.335,"ns",1,"ns","synth"
+"113","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",142,1434,0.97,"ns",1,"ns","synth"
+"114","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",2,1434,0.34,"ns",1,"ns","synth"
+"115","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",1437,1434,0.0134,"*",0.936,"ns","synth"
+"116","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",656,1434,0.705,"ns",1,"ns","synth"
+"117","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",572,1434,0.00409,"**",0.299,"ns","synth"
+"118","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",849,90,0.449,"ns",1,"ns","synth"
+"119","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",1985,90,0.216,"ns",1,"ns","synth"
+"120","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",68,90,0.036,"*",1,"ns","synth"
+"121","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",142,90,0.112,"ns",1,"ns","synth"
+"122","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",2,90,0.212,"ns",1,"ns","synth"
+"123","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",1437,90,0.25,"ns",1,"ns","synth"
+"124","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",656,90,0.0364,"*",1,"ns","synth"
+"125","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",572,90,0.506,"ns",1,"ns","synth"
+"126","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",1434,90,0.0454,"*",1,"ns","synth"
+"127","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",849,1532,0.000604,"***",0.0471,"*","synth"
+"128","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",1985,1532,0.00418,"**",0.301,"ns","synth"
+"129","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",68,1532,0.391,"ns",1,"ns","synth"
+"130","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",142,1532,0.85,"ns",1,"ns","synth"
+"131","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",2,1532,0.349,"ns",1,"ns","synth"
+"132","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",1437,1532,0.00404,"**",0.299,"ns","synth"
+"133","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",656,1532,0.921,"ns",1,"ns","synth"
+"134","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",572,1532,0.00153,"**",0.118,"ns","synth"
+"135","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",1434,1532,0.718,"ns",1,"ns","synth"
+"136","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",90,1532,0.0335,"*",1,"ns","synth"
+"137","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",849,7,0.495,"ns",1,"ns","synth"
+"138","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",1985,7,0.415,"ns",1,"ns","synth"
+"139","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",68,7,0.197,"ns",1,"ns","synth"
+"140","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",142,7,0.315,"ns",1,"ns","synth"
+"141","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",2,7,0.183,"ns",1,"ns","synth"
+"142","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",1437,7,0.428,"ns",1,"ns","synth"
+"143","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",656,7,0.28,"ns",1,"ns","synth"
+"144","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",572,7,0.51,"ns",1,"ns","synth"
+"145","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",1434,7,0.3,"ns",1,"ns","synth"
+"146","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",90,7,0.655,"ns",1,"ns","synth"
+"147","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+",1532,7,0.284,"ns",1,"ns","synth"
+"148","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",849,1314,0.0328,"*",1,"ns","synth"
+"149","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",1985,1314,0.21,"ns",1,"ns","synth"
+"150","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",68,1314,0.201,"ns",1,"ns","synth"
+"151","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",142,1314,0.682,"ns",1,"ns","synth"
+"152","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",2,1314,0.312,"ns",1,"ns","synth"
+"153","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",1437,1314,0.167,"ns",1,"ns","synth"
+"154","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",656,1314,0.23,"ns",1,"ns","synth"
+"155","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",572,1314,0.0408,"*",1,"ns","synth"
+"156","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",1434,1314,0.3,"ns",1,"ns","synth"
+"157","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",90,1314,0.103,"ns",1,"ns","synth"
+"158","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",1532,1314,0.16,"ns",1,"ns","synth"
+"159","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",7,1314,0.352,"ns",1,"ns","synth"
+"160","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"161","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.579,"ns",1,"ns","synth_conditional"
+"162","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.579,"ns",1,"ns","synth_conditional"
+"163","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.00804,"**",0.327,"ns","synth_conditional"
+"164","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.00804,"**",0.327,"ns","synth_conditional"
+"165","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.0361,"*",0.976,"ns","synth_conditional"
+"166","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.973,"ns",1,"ns","synth_conditional"
+"167","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.973,"ns",1,"ns","synth_conditional"
+"168","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.556,"ns",1,"ns","synth_conditional"
+"169","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.00727,"**",0.327,"ns","synth_conditional"
+"170","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.00804,"**",0.327,"ns","synth_conditional"
+"171","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.00804,"**",0.327,"ns","synth_conditional"
+"172","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.0361,"*",0.976,"ns","synth_conditional"
+"173","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"174","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.00727,"**",0.327,"ns","synth_conditional"
+"175","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.973,"ns",1,"ns","synth_conditional"
+"176","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.973,"ns",1,"ns","synth_conditional"
+"177","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.556,"ns",1,"ns","synth_conditional"
+"178","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.00727,"**",0.327,"ns","synth_conditional"
+"179","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"180","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.00727,"**",0.327,"ns","synth_conditional"
+"181","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.00804,"**",0.327,"ns","synth_conditional"
+"182","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.00804,"**",0.327,"ns","synth_conditional"
+"183","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.0361,"*",0.976,"ns","synth_conditional"
+"184","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"185","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.00727,"**",0.327,"ns","synth_conditional"
+"186","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"187","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.00727,"**",0.327,"ns","synth_conditional"
+"188","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.973,"ns",1,"ns","synth_conditional"
+"189","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.973,"ns",1,"ns","synth_conditional"
+"190","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.556,"ns",1,"ns","synth_conditional"
+"191","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.00727,"**",0.327,"ns","synth_conditional"
+"192","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"193","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.00727,"**",0.327,"ns","synth_conditional"
+"194","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"195","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.00727,"**",0.327,"ns","synth_conditional"
+"196","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 0
+contacten_onderwerp_boolean__arbeids_motivatie: 0
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.955,"ns",1,"ns","synth_conditional"
+"197","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 1
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.955,"ns",1,"ns","synth_conditional"
+"198","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 10
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.618,"ns",1,"ns","synth_conditional"
+"199","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 15
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.0095,"**",0.327,"ns","synth_conditional"
+"200","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 2
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.928,"ns",1,"ns","synth_conditional"
+"201","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 20
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.0095,"**",0.327,"ns","synth_conditional"
+"202","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 3
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.928,"ns",1,"ns","synth_conditional"
+"203","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 30
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.0095,"**",0.327,"ns","synth_conditional"
+"204","Ja","IV: 
+contacten_onderwerp__arbeids_motivatie: 4
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+","IV: 
+contacten_onderwerp__arbeids_motivatie: 5
+contacten_onderwerp_boolean__arbeids_motivatie: 1
+",12508,12508,0.928,"ns",1,"ns","synth_conditional"

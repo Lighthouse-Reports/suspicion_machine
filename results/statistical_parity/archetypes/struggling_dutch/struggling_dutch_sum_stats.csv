@@ -1,0 +1,13 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","Ja",12645,0.502,0.152,0.109687623566627,0.313958086200079,0.968762356662713,21.3958086200079,"real_conditional"
+"2","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","Ja",12645,0.497,0.15,0.101067615658363,0.300514037168841,0.106761565836298,20.0514037168841,"real_conditional"
+"3","IV: 
+persoonlijke_eigenschappen_spreektaal: 0
+","Ja",12508,0.628,0.083,0.144387591941158,0.710185481291973,4.43875919411577,61.0185481291973,"synth_conditional"
+"4","IV: 
+persoonlijke_eigenschappen_spreektaal: 4
+","Ja",12508,0.624,0.083,0.12647905340582,0.695794691397506,2.64790534058203,59.5794691397506,"synth_conditional"

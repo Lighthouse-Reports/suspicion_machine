@@ -1,0 +1,433 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1145,12.0386920407949,"real"
+"2",1,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",119,3.90676296782666,"real"
+"3",1,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1,1.19047619047619,"real"
+"4",2,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1035,10.8821364735569,"real"
+"5",2,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",225,7.38673670387393,"real"
+"6",2,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",5,5.95238095238095,"real"
+"7",3,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",982,10.3248869729787,"real"
+"8",3,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",280,9.19238345370978,"real"
+"9",3,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",2,2.38095238095238,"real"
+"10",3,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1,25,"real"
+"11",4,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",866,9.10524655661865,"real"
+"12",4,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",385,12.639527248851,"real"
+"13",4,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",14,16.6666666666667,"real"
+"14",5,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",883,9.28398696246451,"real"
+"15",5,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",371,12.1799080761655,"real"
+"16",5,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",10,11.9047619047619,"real"
+"17",5,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1,25,"real"
+"18",6,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",868,9.12627483965934,"real"
+"19",6,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",382,12.5410374261326,"real"
+"20",6,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",13,15.4761904761905,"real"
+"21",6,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1,25,"real"
+"22",7,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",906,9.52581221743245,"real"
+"23",7,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",347,11.3919894944189,"real"
+"24",7,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",11,13.0952380952381,"real"
+"25",8,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",902,9.48375565135107,"real"
+"26",8,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",348,11.424819435325,"real"
+"27",8,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",14,16.6666666666667,"real"
+"28",9,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",895,9.41015666070865,"real"
+"29",9,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",359,11.7859487852922,"real"
+"30",9,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",9,10.7142857142857,"real"
+"31",9,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1,25,"real"
+"32",10,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1029,10.8190516244349,"real"
+"33",10,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",230,7.55088640840447,"real"
+"34",10,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",5,5.95238095238095,"real"
+"35",1,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1288,10.1858442071965,"real_conditional"
+"36",1,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1284,10.1542111506524,"real_conditional"
+"37",1,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1243,9.82997232107552,"real_conditional"
+"38",1,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1243,9.82997232107552,"real_conditional"
+"39",2,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1271,10.0514037168841,"real_conditional"
+"40",2,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1271,10.0514037168841,"real_conditional"
+"41",2,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1258,9.94859628311586,"real_conditional"
+"42",2,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1258,9.94859628311586,"real_conditional"
+"43",3,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1261,9.97232107552392,"real_conditional"
+"44",3,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1268,10.0276789244761,"real_conditional"
+"45",3,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1265,10.003954132068,"real_conditional"
+"46",3,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1264,9.99604586793199,"real_conditional"
+"47",4,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1258,9.94859628311586,"real_conditional"
+"48",4,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1259,9.95650454725188,"real_conditional"
+"49",4,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1270,10.0434954527481,"real_conditional"
+"50",4,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1271,10.0514037168841,"real_conditional"
+"51",5,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1265,10.003954132068,"real_conditional"
+"52",5,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1259,9.95650454725188,"real_conditional"
+"53",5,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1267,10.0197706603401,"real_conditional"
+"54",5,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1267,10.0197706603401,"real_conditional"
+"55",6,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1247,9.86160537761961,"real_conditional"
+"56",6,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1263,9.98813760379597,"real_conditional"
+"57",6,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1274,10.0751285092922,"real_conditional"
+"58",6,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1274,10.0751285092922,"real_conditional"
+"59",7,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1262,9.98022933965994,"real_conditional"
+"60",7,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1253,9.90905496243574,"real_conditional"
+"61",7,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1272,10.0593119810202,"real_conditional"
+"62",7,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1271,10.0514037168841,"real_conditional"
+"63",8,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1265,10.003954132068,"real_conditional"
+"64",8,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1259,9.95650454725188,"real_conditional"
+"65",8,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1267,10.0197706603401,"real_conditional"
+"66",8,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1267,10.0197706603401,"real_conditional"
+"67",9,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1261,9.97232107552392,"real_conditional"
+"68",9,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1262,9.98022933965994,"real_conditional"
+"69",9,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1267,10.0197706603401,"real_conditional"
+"70",9,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1268,10.0276789244761,"real_conditional"
+"71",10,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1267,10.0197706603401,"real_conditional"
+"72",10,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1267,10.0197706603401,"real_conditional"
+"73",10,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1262,9.98022933965994,"real_conditional"
+"74",10,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1262,9.98022933965994,"real_conditional"
+"75",1,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",840,10.6382978723404,"synth"
+"76",1,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",422,8.99594969089746,"synth"
+"77",1,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",3,5.17241379310345,"synth"
+"78",2,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",807,10.2203647416413,"synth"
+"79",2,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",453,9.65678959710083,"synth"
+"80",2,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",5,8.62068965517241,"synth"
+"81",3,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",786,9.95440729483283,"synth"
+"82",3,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",471,10.0405030910254,"synth"
+"83",3,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",8,13.7931034482759,"synth"
+"84",4,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",766,9.70111448834853,"synth"
+"85",4,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",496,10.5734384992539,"synth"
+"86",4,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",3,5.17241379310345,"synth"
+"87",5,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",789,9.99240121580547,"synth"
+"88",5,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",470,10.0191856746962,"synth"
+"89",5,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",6,10.3448275862069,"synth"
+"90",6,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",758,9.59979736575481,"synth"
+"91",6,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",498,10.6160733319122,"synth"
+"92",6,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",8,13.7931034482759,"synth"
+"93",7,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",782,9.90374873353597,"synth"
+"94",7,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",475,10.1257727563419,"synth"
+"95",7,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",7,12.0689655172414,"synth"
+"96",8,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",812,10.2836879432624,"synth"
+"97",8,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",445,9.4862502664677,"synth"
+"98",8,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",7,12.0689655172414,"synth"
+"99",9,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",780,9.87841945288754,"synth"
+"100",9,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",478,10.1897250053294,"synth"
+"101",9,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",6,10.3448275862069,"synth"
+"102",10,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",776,9.82776089159068,"synth"
+"103",10,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",483,10.2963120869751,"synth"
+"104",10,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",5,8.62068965517241,"synth"
+"105",1,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1231,9.84170131116086,"synth_conditional"
+"106",1,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1233,9.85769107771027,"synth_conditional"
+"107",1,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1270,10.1535017588743,"synth_conditional"
+"108",1,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1270,10.1535017588743,"synth_conditional"
+"109",2,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1230,9.83370642788615,"synth_conditional"
+"110",2,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1228,9.81771666133674,"synth_conditional"
+"111",2,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1273,10.1774864086984,"synth_conditional"
+"112",2,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1273,10.1774864086984,"synth_conditional"
+"113",3,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1234,9.86568596098497,"synth_conditional"
+"114",3,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1234,9.86568596098497,"synth_conditional"
+"115",3,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1268,10.1375119923249,"synth_conditional"
+"116",3,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1267,10.1295171090502,"synth_conditional"
+"117",4,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1234,9.86568596098497,"synth_conditional"
+"118",4,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1232,9.84969619443556,"synth_conditional"
+"119",4,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1268,10.1375119923249,"synth_conditional"
+"120",4,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1269,10.1455068755996,"synth_conditional"
+"121",5,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1224,9.78573712823793,"synth_conditional"
+"122",5,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1225,9.79373201151263,"synth_conditional"
+"123",5,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1277,10.2094659417972,"synth_conditional"
+"124",5,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1277,10.2094659417972,"synth_conditional"
+"125",6,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1251,10.0015989766549,"synth_conditional"
+"126",6,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1251,10.0015989766549,"synth_conditional"
+"127",6,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1251,10.0015989766549,"synth_conditional"
+"128",6,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1250,9.99360409338024,"synth_conditional"
+"129",7,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1241,9.9216501439079,"synth_conditional"
+"130",7,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1245,9.95362967700671,"synth_conditional"
+"131",7,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1258,10.0575631595779,"synth_conditional"
+"132",7,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1259,10.0655580428526,"synth_conditional"
+"133",8,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1273,10.1774864086984,"synth_conditional"
+"134",8,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1270,10.1535017588743,"synth_conditional"
+"135",8,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1230,9.83370642788615,"synth_conditional"
+"136",8,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1230,9.83370642788615,"synth_conditional"
+"137",9,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1286,10.2814198912696,"synth_conditional"
+"138",9,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1283,10.2574352414455,"synth_conditional"
+"139",9,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1217,9.729772945315,"synth_conditional"
+"140",9,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1217,9.729772945315,"synth_conditional"
+"141",10,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 0
+",1304,10.4253277902143,"synth_conditional"
+"142",10,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 1
+",1307,10.4493124400384,"synth_conditional"
+"143",10,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 2
+",1196,9.56188039654621,"synth_conditional"
+"144",10,"IV: 
+afspraak_vervolgmeting_matchbaarheid_werkzoekende_klant: 3
+",1196,9.56188039654621,"synth_conditional"

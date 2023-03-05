@@ -1,0 +1,201 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","IV: 
+deelname_act_actueel_projecten_uniek: 1
+",12645,12645,0.109,"ns",1,"ns","real_conditional"
+"2","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","IV: 
+deelname_act_actueel_projecten_uniek: 2
+",12645,12645,0.109,"ns",1,"ns","real_conditional"
+"3","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 1
+","IV: 
+deelname_act_actueel_projecten_uniek: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"4","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","IV: 
+deelname_act_actueel_projecten_uniek: 3
+",12645,12645,0.109,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 1
+","IV: 
+deelname_act_actueel_projecten_uniek: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 2
+","IV: 
+deelname_act_actueel_projecten_uniek: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","IV: 
+deelname_act_actueel_projecten_uniek: 4
+",12645,12645,0.109,"ns",1,"ns","real_conditional"
+"8","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 1
+","IV: 
+deelname_act_actueel_projecten_uniek: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"9","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 2
+","IV: 
+deelname_act_actueel_projecten_uniek: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 3
+","IV: 
+deelname_act_actueel_projecten_uniek: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"11","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","IV: 
+deelname_act_actueel_projecten_uniek: 5
+",12645,12645,0.109,"ns",1,"ns","real_conditional"
+"12","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 1
+","IV: 
+deelname_act_actueel_projecten_uniek: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 2
+","IV: 
+deelname_act_actueel_projecten_uniek: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"14","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 3
+","IV: 
+deelname_act_actueel_projecten_uniek: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"15","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 4
+","IV: 
+deelname_act_actueel_projecten_uniek: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"16","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","IV: 
+deelname_act_actueel_projecten_uniek: 1
+",5324,6061,2.42e-70,"****",2.42e-69,"****","synth"
+"17","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","IV: 
+deelname_act_actueel_projecten_uniek: 2
+",5324,1192,3.7e-63,"****",3.33e-62,"****","synth"
+"18","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 1
+","IV: 
+deelname_act_actueel_projecten_uniek: 2
+",6061,1192,9.33e-11,"****",7.46e-10,"****","synth"
+"19","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","IV: 
+deelname_act_actueel_projecten_uniek: 3
+",5324,65,1.55e-09,"****",1.09e-08,"****","synth"
+"20","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 1
+","IV: 
+deelname_act_actueel_projecten_uniek: 3
+",6061,65,0.000781,"***",0.00469,"**","synth"
+"21","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 2
+","IV: 
+deelname_act_actueel_projecten_uniek: 3
+",1192,65,0.0936,"ns",0.468,"ns","synth"
+"22","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","IV: 
+deelname_act_actueel_projecten_uniek: 4
+",5324,3,0.44,"ns",1,"ns","synth"
+"23","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 1
+","IV: 
+deelname_act_actueel_projecten_uniek: 4
+",6061,3,0.848,"ns",1,"ns","synth"
+"24","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 2
+","IV: 
+deelname_act_actueel_projecten_uniek: 4
+",1192,3,0.87,"ns",1,"ns","synth"
+"25","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 3
+","IV: 
+deelname_act_actueel_projecten_uniek: 4
+",65,3,0.602,"ns",1,"ns","synth"
+"26","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","IV: 
+deelname_act_actueel_projecten_uniek: 1
+",12508,12508,0.0175,"*",0.263,"ns","synth_conditional"
+"27","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","IV: 
+deelname_act_actueel_projecten_uniek: 2
+",12508,12508,0.0175,"*",0.263,"ns","synth_conditional"
+"28","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 1
+","IV: 
+deelname_act_actueel_projecten_uniek: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"29","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","IV: 
+deelname_act_actueel_projecten_uniek: 3
+",12508,12508,0.0175,"*",0.263,"ns","synth_conditional"
+"30","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 1
+","IV: 
+deelname_act_actueel_projecten_uniek: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"31","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 2
+","IV: 
+deelname_act_actueel_projecten_uniek: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"32","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","IV: 
+deelname_act_actueel_projecten_uniek: 4
+",12508,12508,0.0175,"*",0.263,"ns","synth_conditional"
+"33","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 1
+","IV: 
+deelname_act_actueel_projecten_uniek: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"34","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 2
+","IV: 
+deelname_act_actueel_projecten_uniek: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"35","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 3
+","IV: 
+deelname_act_actueel_projecten_uniek: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"36","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 0
+","IV: 
+deelname_act_actueel_projecten_uniek: 5
+",12508,12508,0.0175,"*",0.263,"ns","synth_conditional"
+"37","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 1
+","IV: 
+deelname_act_actueel_projecten_uniek: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"38","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 2
+","IV: 
+deelname_act_actueel_projecten_uniek: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"39","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 3
+","IV: 
+deelname_act_actueel_projecten_uniek: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"40","Ja","IV: 
+deelname_act_actueel_projecten_uniek: 4
+","IV: 
+deelname_act_actueel_projecten_uniek: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"

@@ -1,0 +1,43 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+relatie_partner_aantal_partner___partner__ongehuwd_: 0
+","Ja",11945,0.485,0.153,0.0951862704060276,0.271243197990791,-0.481372959397237,17.1243197990791,"real"
+"2","IV: 
+relatie_partner_aantal_partner___partner__ongehuwd_: 1
+","Ja",617,0.563,0.139,0.178282009724473,0.447325769854133,7.82820097244732,34.7325769854133,"real"
+"3","IV: 
+relatie_partner_aantal_partner___partner__ongehuwd_: 2
+","Ja",67,0.597,0.13,0.208955223880597,0.567164179104478,10.8955223880597,46.7164179104478,"real"
+"4","IV: 
+relatie_partner_aantal_partner___partner__ongehuwd_: 3
+","Ja",16,0.628,0.109,0.25,0.75,15,65,"real"
+"5","IV: 
+relatie_partner_aantal_partner___partner__ongehuwd_: 0
+","Ja",12645,0.489,0.153,0.0998022933965994,0.281613285883749,-0.0197706603400558,18.1613285883749,"real_conditional"
+"6","IV: 
+relatie_partner_aantal_partner___partner__ongehuwd_: 1
+","Ja",12645,0.491,0.153,0.100830367734282,0.284143930407276,0.0830367734282314,18.4143930407276,"real_conditional"
+"7","IV: 
+relatie_partner_aantal_partner___partner__ongehuwd_: 2
+","Ja",12645,0.491,0.153,0.100830367734282,0.284143930407276,0.0830367734282314,18.4143930407276,"real_conditional"
+"8","IV: 
+relatie_partner_aantal_partner___partner__ongehuwd_: 3
+","Ja",12645,0.491,0.153,0.100830367734282,0.284143930407276,0.0830367734282314,18.4143930407276,"real_conditional"
+"9","IV: 
+relatie_partner_aantal_partner___partner__ongehuwd_: 0
+","Ja",11670,0.611,0.085,0.0991431019708655,0.638731790916881,-0.0856898029134537,53.8731790916881,"synth"
+"10","IV: 
+relatie_partner_aantal_partner___partner__ongehuwd_: 1
+","Ja",975,0.618,0.084,0.110769230769231,0.671794871794872,1.07692307692308,57.1794871794872,"synth"
+"11","IV: 
+relatie_partner_aantal_partner___partner__ongehuwd_: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.640869843300288,-0.0223856731691729,54.0869843300288,"synth_conditional"
+"12","IV: 
+relatie_partner_aantal_partner___partner__ongehuwd_: 1
+","Ja",12508,0.613,0.085,0.10081547809402,0.643188359449952,0.0815478094019828,54.3188359449952,"synth_conditional"
+"13","IV: 
+relatie_partner_aantal_partner___partner__ongehuwd_: 2
+","Ja",12508,0.613,0.085,0.10081547809402,0.643188359449952,0.0815478094019828,54.3188359449952,"synth_conditional"
+"14","IV: 
+relatie_partner_aantal_partner___partner__ongehuwd_: 3
+","Ja",12508,0.613,0.085,0.10081547809402,0.643188359449952,0.0815478094019828,54.3188359449952,"synth_conditional"

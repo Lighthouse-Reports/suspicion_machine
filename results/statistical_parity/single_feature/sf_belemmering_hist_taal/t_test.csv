@@ -1,0 +1,51 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+belemmering_hist_taal: 0
+","IV: 
+belemmering_hist_taal: 1
+",11742,893,3.3e-05,"****",9.9e-05,"****","real"
+"2","Ja","IV: 
+belemmering_hist_taal: 0
+","IV: 
+belemmering_hist_taal: 2
+",11742,10,0.569,"ns",1,"ns","real"
+"3","Ja","IV: 
+belemmering_hist_taal: 1
+","IV: 
+belemmering_hist_taal: 2
+",893,10,0.909,"ns",1,"ns","real"
+"4","Ja","IV: 
+belemmering_hist_taal: 0
+","IV: 
+belemmering_hist_taal: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"5","Ja","IV: 
+belemmering_hist_taal: 0
+","IV: 
+belemmering_hist_taal: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"6","Ja","IV: 
+belemmering_hist_taal: 1
+","IV: 
+belemmering_hist_taal: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+belemmering_hist_taal: 0
+","IV: 
+belemmering_hist_taal: 1
+",11748,897,0.976,"ns",0.976,"ns","synth"
+"8","Ja","IV: 
+belemmering_hist_taal: 0
+","IV: 
+belemmering_hist_taal: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"9","Ja","IV: 
+belemmering_hist_taal: 0
+","IV: 
+belemmering_hist_taal: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"10","Ja","IV: 
+belemmering_hist_taal: 1
+","IV: 
+belemmering_hist_taal: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"

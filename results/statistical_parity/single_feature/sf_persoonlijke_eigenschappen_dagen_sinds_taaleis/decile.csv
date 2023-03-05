@@ -1,0 +1,460 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",595,9.9514969058371,"real"
+"2",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",2,28.5714285714286,"real"
+"3",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1,33.3333333333333,"real"
+"4",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",2,66.6666666666667,"real"
+"5",2,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",599,10.0183977253721,"real"
+"6",2,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1,20,"real"
+"7",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",596,9.96822211072086,"real"
+"8",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1,14.2857142857143,"real"
+"9",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",2,40,"real"
+"10",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1,33.3333333333333,"real"
+"11",4,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",599,10.0183977253721,"real"
+"12",4,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1,33.3333333333333,"real"
+"13",5,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",600,10.0351229302559,"real"
+"14",6,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",599,10.0183977253721,"real"
+"15",6,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1,14.2857142857143,"real"
+"16",7,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",599,10.0183977253721,"real"
+"17",7,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1,14.2857142857143,"real"
+"18",8,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",598,10.0016725204884,"real"
+"19",8,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1,14.2857142857143,"real"
+"20",9,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",598,10.0016725204884,"real"
+"21",9,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1,14.2857142857143,"real"
+"22",10,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",596,9.96822211072086,"real"
+"23",10,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",2,40,"real"
+"24",10,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1,33.3333333333333,"real"
+"25",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1174,9.28430209569,"real_conditional"
+"26",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1188,9.39501779359431,"real_conditional"
+"27",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1204,9.52155001977066,"real_conditional"
+"28",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1280,10.1225780941083,"real_conditional"
+"29",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1477,11.6805061289047,"real_conditional"
+"30",2,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1227,9.70344009489917,"real_conditional"
+"31",2,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1233,9.7508896797153,"real_conditional"
+"32",2,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1238,9.79043100039541,"real_conditional"
+"33",2,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1267,10.0197706603401,"real_conditional"
+"34",2,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1358,10.7394226967181,"real_conditional"
+"35",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1230,9.72716488730724,"real_conditional"
+"36",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1231,9.73507315144326,"real_conditional"
+"37",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1239,9.79833926453144,"real_conditional"
+"38",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1281,10.1304863582444,"real_conditional"
+"39",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1342,10.6128904705417,"real_conditional"
+"40",4,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1258,9.94859628311586,"real_conditional"
+"41",4,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1248,9.86951364175563,"real_conditional"
+"42",4,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1247,9.86160537761961,"real_conditional"
+"43",4,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1235,9.76670620798735,"real_conditional"
+"44",4,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1335,10.5575326215896,"real_conditional"
+"45",5,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1240,9.80624752866746,"real_conditional"
+"46",5,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1236,9.77461447212337,"real_conditional"
+"47",5,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1231,9.73507315144326,"real_conditional"
+"48",5,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1249,9.87742190589166,"real_conditional"
+"49",5,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1367,10.8105970739423,"real_conditional"
+"50",6,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1290,10.2016607354686,"real_conditional"
+"51",6,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1289,10.1937524713325,"real_conditional"
+"52",6,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1278,10.1067615658363,"real_conditional"
+"53",6,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1250,9.88533017002768,"real_conditional"
+"54",6,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1215,9.6085409252669,"real_conditional"
+"55",7,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1241,9.81415579280348,"real_conditional"
+"56",7,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1244,9.83788058521155,"real_conditional"
+"57",7,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1249,9.87742190589166,"real_conditional"
+"58",7,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1279,10.1146698299723,"real_conditional"
+"59",7,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1309,10.351917754053,"real_conditional"
+"60",8,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1295,10.2412020561487,"real_conditional"
+"61",8,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1295,10.2412020561487,"real_conditional"
+"62",8,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1290,10.2016607354686,"real_conditional"
+"63",8,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1235,9.76670620798735,"real_conditional"
+"64",8,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1207,9.54527481217873,"real_conditional"
+"65",9,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1315,10.3993673388691,"real_conditional"
+"66",9,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1308,10.344009489917,"real_conditional"
+"67",9,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1304,10.3123764333729,"real_conditional"
+"68",9,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1285,10.1621194147885,"real_conditional"
+"69",9,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1110,8.77817319098458,"real_conditional"
+"70",10,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1375,10.8738631870304,"real_conditional"
+"71",10,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1373,10.8580466587584,"real_conditional"
+"72",10,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1365,10.7947805456702,"real_conditional"
+"73",10,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1284,10.1542111506524,"real_conditional"
+"74",10,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",925,7.31514432582048,"real_conditional"
+"75",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1,16.6666666666667,"synth"
+"76",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1,8.33333333333333,"synth"
+"77",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",2,12.5,"synth"
+"78",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1,50,"synth"
+"79",2,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1,12.5,"synth"
+"80",2,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",3,25,"synth"
+"81",2,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1,6.25,"synth"
+"82",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1,16.6666666666667,"synth"
+"83",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",2,25,"synth"
+"84",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",2,12.5,"synth"
+"85",4,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1,12.5,"synth"
+"86",4,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",2,16.6666666666667,"synth"
+"87",4,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",2,12.5,"synth"
+"88",5,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1,16.6666666666667,"synth"
+"89",5,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1,12.5,"synth"
+"90",5,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1,8.33333333333333,"synth"
+"91",5,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1,6.25,"synth"
+"92",6,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1,12.5,"synth"
+"93",6,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",3,18.75,"synth"
+"94",7,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",2,16.6666666666667,"synth"
+"95",7,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",2,12.5,"synth"
+"96",8,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1,16.6666666666667,"synth"
+"97",8,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",2,12.5,"synth"
+"98",8,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1,50,"synth"
+"99",9,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",2,25,"synth"
+"100",9,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",2,16.6666666666667,"synth"
+"101",10,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",2,33.3333333333333,"synth"
+"102",10,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1,8.33333333333333,"synth"
+"103",10,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1,6.25,"synth"
+"104",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1168,9.33802366485449,"synth_conditional"
+"105",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1177,9.40997761432683,"synth_conditional"
+"106",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1185,9.47393668052446,"synth_conditional"
+"107",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1259,10.0655580428526,"synth_conditional"
+"108",1,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1465,11.7125039974416,"synth_conditional"
+"109",2,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1185,9.47393668052446,"synth_conditional"
+"110",2,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1184,9.46594179724976,"synth_conditional"
+"111",2,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1182,9.44995203070035,"synth_conditional"
+"112",2,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1260,10.0735529261273,"synth_conditional"
+"113",2,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1443,11.5366165653981,"synth_conditional"
+"114",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1202,9.60984969619444,"synth_conditional"
+"115",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1208,9.65781899584266,"synth_conditional"
+"116",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1203,9.61784457946914,"synth_conditional"
+"117",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1239,9.90566037735849,"synth_conditional"
+"118",3,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1402,11.2088263511353,"synth_conditional"
+"119",4,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1199,9.58586504637032,"synth_conditional"
+"120",4,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1205,9.63383434601855,"synth_conditional"
+"121",4,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1212,9.68979852894148,"synth_conditional"
+"122",4,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1256,10.0415733930285,"synth_conditional"
+"123",4,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1382,11.0489286856412,"synth_conditional"
+"124",5,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1230,9.83370642788615,"synth_conditional"
+"125",5,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1230,9.83370642788615,"synth_conditional"
+"126",5,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1224,9.78573712823793,"synth_conditional"
+"127",5,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1221,9.76175247841381,"synth_conditional"
+"128",5,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1349,10.785097537576,"synth_conditional"
+"129",6,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1234,9.86568596098497,"synth_conditional"
+"130",6,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1232,9.84969619443556,"synth_conditional"
+"131",6,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1231,9.84170131116086,"synth_conditional"
+"132",6,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1248,9.97761432683083,"synth_conditional"
+"133",6,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1309,10.4653022065878,"synth_conditional"
+"134",7,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1263,10.0975375759514,"synth_conditional"
+"135",7,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1257,10.0495682763032,"synth_conditional"
+"136",7,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1256,10.0415733930285,"synth_conditional"
+"137",7,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1261,10.081547809402,"synth_conditional"
+"138",7,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1217,9.729772945315,"synth_conditional"
+"139",8,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1279,10.2254557083467,"synth_conditional"
+"140",8,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1288,10.297409657819,"synth_conditional"
+"141",8,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1289,10.3054045410937,"synth_conditional"
+"142",8,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1243,9.93763991045731,"synth_conditional"
+"143",8,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1155,9.23409018228334,"synth_conditional"
+"144",9,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1331,10.6411896386313,"synth_conditional"
+"145",9,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1319,10.5452510393348,"synth_conditional"
+"146",9,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1320,10.5532459226095,"synth_conditional"
+"147",9,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1248,9.97761432683083,"synth_conditional"
+"148",9,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",1036,8.28269907259354,"synth_conditional"
+"149",10,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+",1417,11.3287496002558,"synth_conditional"
+"150",10,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1
+",1408,11.2567956507835,"synth_conditional"
+"151",10,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 10
+",1406,11.2408058842341,"synth_conditional"
+"152",10,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 100
+",1273,10.1774864086984,"synth_conditional"
+"153",10,"IV: 
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 1000
+",750,5.99616245602814,"synth_conditional"

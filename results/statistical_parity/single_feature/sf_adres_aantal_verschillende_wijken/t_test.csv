@@ -1,0 +1,541 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 2
+",6928,2975,6.84e-50,"****",2.33e-48,"****","real"
+"2","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 3
+",6928,1403,1e-67,"****",3.61e-66,"****","real"
+"3","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 3
+",2975,1403,1.1e-08,"****",3.2e-07,"****","real"
+"4","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 4
+",6928,791,5.24e-57,"****",1.83e-55,"****","real"
+"5","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 4
+",2975,791,8.87e-12,"****",2.84e-10,"****","real"
+"6","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 4
+",1403,791,0.0477,"*",0.811,"ns","real"
+"7","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 5
+",6928,373,2.56e-34,"****",8.45e-33,"****","real"
+"8","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 5
+",2975,373,3.64e-09,"****",1.09e-07,"****","real"
+"9","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 5
+",1403,373,0.017,"*",0.349,"ns","real"
+"10","Ja","IV: 
+adres_aantal_verschillende_wijken: 4
+","IV: 
+adres_aantal_verschillende_wijken: 5
+",791,373,0.416,"ns",1,"ns","real"
+"11","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 6
+",6928,125,9.31e-10,"****",2.89e-08,"****","real"
+"12","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 6
+",2975,125,0.0134,"*",0.308,"ns","real"
+"13","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 6
+",1403,125,0.663,"ns",1,"ns","real"
+"14","Ja","IV: 
+adres_aantal_verschillende_wijken: 4
+","IV: 
+adres_aantal_verschillende_wijken: 6
+",791,125,0.622,"ns",1,"ns","real"
+"15","Ja","IV: 
+adres_aantal_verschillende_wijken: 5
+","IV: 
+adres_aantal_verschillende_wijken: 6
+",373,125,0.341,"ns",1,"ns","real"
+"16","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",6928,33,7.26e-05,"****",0.00196,"**","real"
+"17","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",2975,33,0.0368,"*",0.662,"ns","real"
+"18","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",1403,33,0.306,"ns",1,"ns","real"
+"19","Ja","IV: 
+adres_aantal_verschillende_wijken: 4
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",791,33,0.603,"ns",1,"ns","real"
+"20","Ja","IV: 
+adres_aantal_verschillende_wijken: 5
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",373,33,0.82,"ns",1,"ns","real"
+"21","Ja","IV: 
+adres_aantal_verschillende_wijken: 6
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",125,33,0.475,"ns",1,"ns","real"
+"22","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",6928,12,7.25e-06,"****",0.000203,"***","real"
+"23","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",2975,12,0.000803,"***",0.0209,"*","real"
+"24","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",1403,12,0.00681,"**",0.17,"ns","real"
+"25","Ja","IV: 
+adres_aantal_verschillende_wijken: 4
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",791,12,0.0166,"*",0.349,"ns","real"
+"26","Ja","IV: 
+adres_aantal_verschillende_wijken: 5
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",373,12,0.0278,"*",0.527,"ns","real"
+"27","Ja","IV: 
+adres_aantal_verschillende_wijken: 6
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",125,12,0.0138,"*",0.308,"ns","real"
+"28","Ja","IV: 
+adres_aantal_verschillende_wijken: 7
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",33,12,0.0731,"ns",1,"ns","real"
+"29","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",6928,5,0.0106,"*",0.254,"ns","real"
+"30","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",2975,5,0.068,"ns",1,"ns","real"
+"31","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",1403,5,0.159,"ns",1,"ns","real"
+"32","Ja","IV: 
+adres_aantal_verschillende_wijken: 4
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",791,5,0.226,"ns",1,"ns","real"
+"33","Ja","IV: 
+adres_aantal_verschillende_wijken: 5
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",373,5,0.274,"ns",1,"ns","real"
+"34","Ja","IV: 
+adres_aantal_verschillende_wijken: 6
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",125,5,0.195,"ns",1,"ns","real"
+"35","Ja","IV: 
+adres_aantal_verschillende_wijken: 7
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",33,5,0.347,"ns",1,"ns","real"
+"36","Ja","IV: 
+adres_aantal_verschillende_wijken: 8
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12,5,0.774,"ns",1,"ns","real"
+"37","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"38","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 3
+",12645,12645,0.881,"ns",1,"ns","real_conditional"
+"39","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 3
+",12645,12645,0.881,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 4
+",12645,12645,0.0913,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 4
+",12645,12645,0.0913,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 4
+",12645,12645,0.124,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 5
+",12645,12645,0.0703,"ns",1,"ns","real_conditional"
+"44","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 5
+",12645,12645,0.0703,"ns",1,"ns","real_conditional"
+"45","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 5
+",12645,12645,0.0968,"ns",1,"ns","real_conditional"
+"46","Ja","IV: 
+adres_aantal_verschillende_wijken: 4
+","IV: 
+adres_aantal_verschillende_wijken: 5
+",12645,12645,0.903,"ns",1,"ns","real_conditional"
+"47","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 6
+",12645,12645,0.0703,"ns",1,"ns","real_conditional"
+"48","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 6
+",12645,12645,0.0703,"ns",1,"ns","real_conditional"
+"49","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 6
+",12645,12645,0.0968,"ns",1,"ns","real_conditional"
+"50","Ja","IV: 
+adres_aantal_verschillende_wijken: 4
+","IV: 
+adres_aantal_verschillende_wijken: 6
+",12645,12645,0.903,"ns",1,"ns","real_conditional"
+"51","Ja","IV: 
+adres_aantal_verschillende_wijken: 5
+","IV: 
+adres_aantal_verschillende_wijken: 6
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"52","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",12645,12645,6.29e-08,"****",2.26e-06,"****","real_conditional"
+"53","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",12645,12645,6.29e-08,"****",2.26e-06,"****","real_conditional"
+"54","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",12645,12645,1.43e-07,"****",4.3e-06,"****","real_conditional"
+"55","Ja","IV: 
+adres_aantal_verschillende_wijken: 4
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",12645,12645,0.000198,"***",0.00534,"**","real_conditional"
+"56","Ja","IV: 
+adres_aantal_verschillende_wijken: 5
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",12645,12645,0.000318,"***",0.00762,"**","real_conditional"
+"57","Ja","IV: 
+adres_aantal_verschillende_wijken: 6
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",12645,12645,0.000318,"***",0.00762,"**","real_conditional"
+"58","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",12645,12645,6.29e-08,"****",2.26e-06,"****","real_conditional"
+"59","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",12645,12645,6.29e-08,"****",2.26e-06,"****","real_conditional"
+"60","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",12645,12645,1.43e-07,"****",4.3e-06,"****","real_conditional"
+"61","Ja","IV: 
+adres_aantal_verschillende_wijken: 4
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",12645,12645,0.000198,"***",0.00534,"**","real_conditional"
+"62","Ja","IV: 
+adres_aantal_verschillende_wijken: 5
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",12645,12645,0.000318,"***",0.00762,"**","real_conditional"
+"63","Ja","IV: 
+adres_aantal_verschillende_wijken: 6
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",12645,12645,0.000318,"***",0.00762,"**","real_conditional"
+"64","Ja","IV: 
+adres_aantal_verschillende_wijken: 7
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"65","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12645,12645,6.29e-08,"****",2.26e-06,"****","real_conditional"
+"66","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12645,12645,6.29e-08,"****",2.26e-06,"****","real_conditional"
+"67","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12645,12645,1.43e-07,"****",4.3e-06,"****","real_conditional"
+"68","Ja","IV: 
+adres_aantal_verschillende_wijken: 4
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12645,12645,0.000198,"***",0.00534,"**","real_conditional"
+"69","Ja","IV: 
+adres_aantal_verschillende_wijken: 5
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12645,12645,0.000318,"***",0.00762,"**","real_conditional"
+"70","Ja","IV: 
+adres_aantal_verschillende_wijken: 6
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12645,12645,0.000318,"***",0.00762,"**","real_conditional"
+"71","Ja","IV: 
+adres_aantal_verschillende_wijken: 7
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"72","Ja","IV: 
+adres_aantal_verschillende_wijken: 8
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"73","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"74","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 3
+",12508,12508,0.674,"ns",1,"ns","synth_conditional"
+"75","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 3
+",12508,12508,0.674,"ns",1,"ns","synth_conditional"
+"76","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 4
+",12508,12508,0.522,"ns",1,"ns","synth_conditional"
+"77","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 4
+",12508,12508,0.522,"ns",1,"ns","synth_conditional"
+"78","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 4
+",12508,12508,0.288,"ns",1,"ns","synth_conditional"
+"79","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 5
+",12508,12508,0.249,"ns",1,"ns","synth_conditional"
+"80","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 5
+",12508,12508,0.249,"ns",1,"ns","synth_conditional"
+"81","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 5
+",12508,12508,0.116,"ns",1,"ns","synth_conditional"
+"82","Ja","IV: 
+adres_aantal_verschillende_wijken: 4
+","IV: 
+adres_aantal_verschillende_wijken: 5
+",12508,12508,0.609,"ns",1,"ns","synth_conditional"
+"83","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 6
+",12508,12508,0.249,"ns",1,"ns","synth_conditional"
+"84","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 6
+",12508,12508,0.249,"ns",1,"ns","synth_conditional"
+"85","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 6
+",12508,12508,0.116,"ns",1,"ns","synth_conditional"
+"86","Ja","IV: 
+adres_aantal_verschillende_wijken: 4
+","IV: 
+adres_aantal_verschillende_wijken: 6
+",12508,12508,0.609,"ns",1,"ns","synth_conditional"
+"87","Ja","IV: 
+adres_aantal_verschillende_wijken: 5
+","IV: 
+adres_aantal_verschillende_wijken: 6
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"88","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",12508,12508,8.3e-11,"****",2.74e-09,"****","synth_conditional"
+"89","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",12508,12508,8.3e-11,"****",2.74e-09,"****","synth_conditional"
+"90","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",12508,12508,4.64e-12,"****",1.67e-10,"****","synth_conditional"
+"91","Ja","IV: 
+adres_aantal_verschillende_wijken: 4
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",12508,12508,4.77e-09,"****",1.29e-07,"****","synth_conditional"
+"92","Ja","IV: 
+adres_aantal_verschillende_wijken: 5
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",12508,12508,9.13e-08,"****",2.19e-06,"****","synth_conditional"
+"93","Ja","IV: 
+adres_aantal_verschillende_wijken: 6
+","IV: 
+adres_aantal_verschillende_wijken: 7
+",12508,12508,9.13e-08,"****",2.19e-06,"****","synth_conditional"
+"94","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",12508,12508,8.3e-11,"****",2.74e-09,"****","synth_conditional"
+"95","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",12508,12508,8.3e-11,"****",2.74e-09,"****","synth_conditional"
+"96","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",12508,12508,4.64e-12,"****",1.67e-10,"****","synth_conditional"
+"97","Ja","IV: 
+adres_aantal_verschillende_wijken: 4
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",12508,12508,4.77e-09,"****",1.29e-07,"****","synth_conditional"
+"98","Ja","IV: 
+adres_aantal_verschillende_wijken: 5
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",12508,12508,9.13e-08,"****",2.19e-06,"****","synth_conditional"
+"99","Ja","IV: 
+adres_aantal_verschillende_wijken: 6
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",12508,12508,9.13e-08,"****",2.19e-06,"****","synth_conditional"
+"100","Ja","IV: 
+adres_aantal_verschillende_wijken: 7
+","IV: 
+adres_aantal_verschillende_wijken: 8
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"101","Ja","IV: 
+adres_aantal_verschillende_wijken: 1
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12508,12508,8.3e-11,"****",2.74e-09,"****","synth_conditional"
+"102","Ja","IV: 
+adres_aantal_verschillende_wijken: 2
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12508,12508,8.3e-11,"****",2.74e-09,"****","synth_conditional"
+"103","Ja","IV: 
+adres_aantal_verschillende_wijken: 3
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12508,12508,4.64e-12,"****",1.67e-10,"****","synth_conditional"
+"104","Ja","IV: 
+adres_aantal_verschillende_wijken: 4
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12508,12508,4.77e-09,"****",1.29e-07,"****","synth_conditional"
+"105","Ja","IV: 
+adres_aantal_verschillende_wijken: 5
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12508,12508,9.13e-08,"****",2.19e-06,"****","synth_conditional"
+"106","Ja","IV: 
+adres_aantal_verschillende_wijken: 6
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12508,12508,9.13e-08,"****",2.19e-06,"****","synth_conditional"
+"107","Ja","IV: 
+adres_aantal_verschillende_wijken: 7
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"108","Ja","IV: 
+adres_aantal_verschillende_wijken: 8
+","IV: 
+adres_aantal_verschillende_wijken: 9
+",12508,12508,1,"ns",1,"ns","synth_conditional"

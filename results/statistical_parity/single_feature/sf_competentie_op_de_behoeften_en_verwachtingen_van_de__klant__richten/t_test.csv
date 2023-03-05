@@ -1,0 +1,51 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",10959,1677,1.33e-98,"****",3.98e-98,"****","real"
+"2","Ja","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",10959,9,0.00437,"**",0.00874,"**","real"
+"3","Ja","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",1677,9,0.24,"ns",0.24,"ns","real"
+"4","Ja","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",12645,12645,0.277,"ns",0.83,"ns","real_conditional"
+"5","Ja","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",12645,12645,0.277,"ns",0.83,"ns","real_conditional"
+"6","Ja","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"7","Ja","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",10566,2079,4.11e-18,"****",4.11e-18,"****","synth"
+"8","Ja","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+",12508,12508,0.12,"ns",0.359,"ns","synth_conditional"
+"9","Ja","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 0
+","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",12508,12508,0.12,"ns",0.359,"ns","synth_conditional"
+"10","Ja","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 1
+","IV: 
+competentie_op_de_behoeften_en_verwachtingen_van_de__klant__richten: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"

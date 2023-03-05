@@ -1,0 +1,619 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",822,10.0538160469667,"real"
+"2",1,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",4,7.40740740740741,"real"
+"3",2,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",823,10.0660469667319,"real"
+"4",2,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",2,3.7037037037037,"real"
+"5",2,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",1,4.76190476190476,"real"
+"6",3,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",819,10.0171232876712,"real"
+"7",3,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",6,11.1111111111111,"real"
+"8",3,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",1,4.76190476190476,"real"
+"9",4,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",819,10.0171232876712,"real"
+"10",4,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",4,7.40740740740741,"real"
+"11",4,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",3,14.2857142857143,"real"
+"12",5,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",820,10.0293542074364,"real"
+"13",5,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",4,7.40740740740741,"real"
+"14",5,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",2,9.52380952380952,"real"
+"15",6,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",820,10.0293542074364,"real"
+"16",6,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",5,9.25925925925926,"real"
+"17",6,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1,12.5,"real"
+"18",7,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",811,9.9192759295499,"real"
+"19",7,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",10,18.5185185185185,"real"
+"20",7,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",4,19.047619047619,"real"
+"21",7,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1,12.5,"real"
+"22",8,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",811,9.9192759295499,"real"
+"23",8,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",8,14.8148148148148,"real"
+"24",8,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",6,28.5714285714286,"real"
+"25",8,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1,12.5,"real"
+"26",9,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",817,9.9926614481409,"real"
+"27",9,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",4,7.40740740740741,"real"
+"28",9,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",2,9.52380952380952,"real"
+"29",9,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",3,37.5,"real"
+"30",10,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",814,9.9559686888454,"real"
+"31",10,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",7,12.962962962963,"real"
+"32",10,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",2,9.52380952380952,"real"
+"33",10,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",2,25,"real"
+"34",1,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1781,14.0846184262554,"real_conditional"
+"35",1,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",748,5.91538157374456,"real_conditional"
+"36",2,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1372,10.8501383946224,"real_conditional"
+"37",2,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1157,9.14986160537762,"real_conditional"
+"38",3,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1271,10.0514037168841,"real_conditional"
+"39",3,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1258,9.94859628311586,"real_conditional"
+"40",4,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1282,10.1383946223804,"real_conditional"
+"41",4,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1247,9.86160537761961,"real_conditional"
+"42",5,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1278,10.1067615658363,"real_conditional"
+"43",5,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1251,9.8932384341637,"real_conditional"
+"44",6,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1223,9.67180703835508,"real_conditional"
+"45",6,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1306,10.3281929616449,"real_conditional"
+"46",7,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1217,9.62435745353895,"real_conditional"
+"47",7,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1312,10.3756425464611,"real_conditional"
+"48",8,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1105,8.73863187030447,"real_conditional"
+"49",8,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1424,11.2613681296955,"real_conditional"
+"50",9,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1070,8.46184262554369,"real_conditional"
+"51",9,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1459,11.5381573744563,"real_conditional"
+"52",10,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1046,8.27204428627916,"real_conditional"
+"53",10,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1483,11.7279557137208,"real_conditional"
+"54",1,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",21,10.4477611940299,"synth"
+"55",1,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",4,11.7647058823529,"synth"
+"56",1,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",1,6.66666666666667,"synth"
+"57",2,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",22,10.9452736318408,"synth"
+"58",2,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",2,5.88235294117647,"synth"
+"59",2,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",1,6.66666666666667,"synth"
+"60",3,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",18,8.95522388059701,"synth"
+"61",3,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",6,17.6470588235294,"synth"
+"62",3,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",1,6.66666666666667,"synth"
+"63",4,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",20,9.9502487562189,"synth"
+"64",4,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",2,5.88235294117647,"synth"
+"65",4,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",2,13.3333333333333,"synth"
+"66",4,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1,100,"synth"
+"67",5,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",22,10.9452736318408,"synth"
+"68",5,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",2,5.88235294117647,"synth"
+"69",5,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",1,6.66666666666667,"synth"
+"70",6,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",20,9.9502487562189,"synth"
+"71",6,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",3,8.82352941176471,"synth"
+"72",6,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",2,13.3333333333333,"synth"
+"73",7,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",19,9.45273631840796,"synth"
+"74",7,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",5,14.7058823529412,"synth"
+"75",7,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",1,6.66666666666667,"synth"
+"76",8,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",20,9.9502487562189,"synth"
+"77",8,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",5,14.7058823529412,"synth"
+"78",9,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",18,8.95522388059701,"synth"
+"79",9,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",3,8.82352941176471,"synth"
+"80",9,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",4,26.6666666666667,"synth"
+"81",10,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",21,10.4477611940299,"synth"
+"82",10,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",2,5.88235294117647,"synth"
+"83",10,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+",2,13.3333333333333,"synth"
+"84",1,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1623,12.9756955548449,"synth_conditional"
+"85",1,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",879,7.02750239846498,"synth_conditional"
+"86",2,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1484,11.864406779661,"synth_conditional"
+"87",2,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1018,8.13879117364887,"synth_conditional"
+"88",3,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1469,11.7444835305405,"synth_conditional"
+"89",3,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1033,8.25871442276943,"synth_conditional"
+"90",4,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1375,10.9929645027183,"synth_conditional"
+"91",4,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1127,9.01023345059162,"synth_conditional"
+"92",5,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1311,10.4812919731372,"synth_conditional"
+"93",5,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1191,9.52190598017269,"synth_conditional"
+"94",6,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1201,9.60185481291973,"synth_conditional"
+"95",6,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1301,10.4013431403901,"synth_conditional"
+"96",7,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1157,9.25007994883275,"synth_conditional"
+"97",7,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1344,10.7451231212024,"synth_conditional"
+"98",8,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",1033,8.25871442276943,"synth_conditional"
+"99",8,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1468,11.7364886472657,"synth_conditional"
+"100",9,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",985,7.87496002558363,"synth_conditional"
+"101",9,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1516,12.1202430444516,"synth_conditional"
+"102",10,"IV: 
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+",870,6.95554844899265,"synth_conditional"
+"103",10,"IV: 
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+",1631,13.0396546210425,"synth_conditional"

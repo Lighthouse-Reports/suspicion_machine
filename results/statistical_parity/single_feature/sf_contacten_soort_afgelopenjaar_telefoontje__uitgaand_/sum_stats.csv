@@ -1,0 +1,97 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","Ja",7687,0.473,0.151,0.0779237673995057,0.245349291010797,-2.20762326004944,14.5349291010797,"real"
+"2","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","Ja",2417,0.492,0.156,0.100124120810923,0.297062474141498,0.0124120810922626,19.7062474141498,"real"
+"3","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","Ja",15,0.595,0.116,0.133333333333333,0.6,3.33333333333333,50,"real"
+"4","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","Ja",2,0.639,0.131,0.5,0.5,40,40,"real"
+"5","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","Ja",1185,0.514,0.15,0.130801687763713,0.319831223628692,3.08016877637131,21.9831223628692,"real"
+"6","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+","Ja",605,0.531,0.15,0.158677685950413,0.365289256198347,5.86776859504132,26.5289256198347,"real"
+"7","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+","Ja",319,0.546,0.151,0.200626959247649,0.391849529780564,10.0626959247649,29.1849529780564,"real"
+"8","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+","Ja",183,0.587,0.131,0.234972677595628,0.519125683060109,13.4972677595628,41.9125683060109,"real"
+"9","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","Ja",12645,0.489,0.153,0.100197706603401,0.28216686437327,0.0197706603400558,18.216686437327,"real_conditional"
+"10","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","Ja",12645,0.489,0.153,0.100197706603401,0.28216686437327,0.0197706603400558,18.216686437327,"real_conditional"
+"11","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","Ja",12645,0.489,0.152,0.0975879794385132,0.279003558718861,-0.241202056148676,17.9003558718861,"real_conditional"
+"12","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","Ja",12645,0.489,0.152,0.0975879794385132,0.279003558718861,-0.241202056148676,17.9003558718861,"real_conditional"
+"13","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","Ja",12645,0.489,0.153,0.0988533017002768,0.280506128904705,-0.114669829972322,18.0506128904705,"real_conditional"
+"14","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+","Ja",12645,0.489,0.152,0.0975879794385132,0.279003558718861,-0.241202056148676,17.9003558718861,"real_conditional"
+"15","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+","Ja",12645,0.49,0.153,0.0994068801897983,0.28208778173191,-0.0593119810201673,18.208778173191,"real_conditional"
+"16","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+","Ja",12645,0.49,0.153,0.0994068801897983,0.28208778173191,-0.0593119810201673,18.208778173191,"real_conditional"
+"17","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+","Ja",12645,0.49,0.153,0.0994068801897983,0.28208778173191,-0.0593119810201673,18.208778173191,"real_conditional"
+"18","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","Ja",2814,0.595,0.09,0.0707178393745558,0.566453447050462,-2.92821606254442,46.6453447050462,"synth"
+"19","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","Ja",4809,0.608,0.086,0.0973175296319401,0.628405073819921,-0.268247036805989,52.8405073819921,"synth"
+"20","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","Ja",2964,0.619,0.081,0.111336032388664,0.669028340080972,1.1336032388664,56.9028340080972,"synth"
+"21","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+","Ja",1455,0.631,0.077,0.127835051546392,0.72233676975945,2.78350515463917,62.233676975945,"synth"
+"22","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+","Ja",473,0.635,0.077,0.128964059196617,0.758985200845666,2.89640591966173,65.8985200845666,"synth"
+"23","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+","Ja",113,0.643,0.071,0.168141592920354,0.769911504424779,6.8141592920354,66.9911504424779,"synth"
+"24","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 0
+","Ja",12508,0.612,0.085,0.100015989766549,0.640150303805564,0.00159897665494013,54.0150303805565,"synth_conditional"
+"25","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 1
+","Ja",12508,0.612,0.085,0.100015989766549,0.640150303805564,0.00159897665494013,54.0150303805565,"synth_conditional"
+"26","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 10
+","Ja",12508,0.61,0.085,0.0929804924848097,0.630076750879437,-0.701950751519029,53.0076750879437,"synth_conditional"
+"27","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 15
+","Ja",12508,0.61,0.085,0.0929804924848097,0.630076750879437,-0.701950751519029,53.0076750879437,"synth_conditional"
+"28","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 2
+","Ja",12508,0.612,0.085,0.0995362967700672,0.641029740965782,-0.0463703229932846,54.1029740965782,"synth_conditional"
+"29","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 20
+","Ja",12508,0.61,0.085,0.0929804924848097,0.630076750879437,-0.701950751519029,53.0076750879437,"synth_conditional"
+"30","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 3
+","Ja",12508,0.612,0.085,0.100415733930285,0.642149024624241,0.0415733930284615,54.214902462424,"synth_conditional"
+"31","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 4
+","Ja",12508,0.612,0.085,0.100415733930285,0.642149024624241,0.0415733930284615,54.214902462424,"synth_conditional"
+"32","IV: 
+contacten_soort_afgelopenjaar_telefoontje__uitgaand_: 5
+","Ja",12508,0.612,0.085,0.100415733930285,0.642149024624241,0.0415733930284615,54.214902462424,"synth_conditional"

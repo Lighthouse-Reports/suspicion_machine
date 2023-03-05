@@ -1,0 +1,21 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+relatie_overig_bewindvoerder: 0
+","IV: 
+relatie_overig_bewindvoerder: 1
+",12159,486,0.739,"ns",0.739,"ns","real"
+"2","Ja","IV: 
+relatie_overig_bewindvoerder: 0
+","IV: 
+relatie_overig_bewindvoerder: 1
+",12645,12645,1.03e-07,"****",1.03e-07,"****","real_conditional"
+"3","Ja","IV: 
+relatie_overig_bewindvoerder: 0
+","IV: 
+relatie_overig_bewindvoerder: 1
+",12525,120,0.414,"ns",0.414,"ns","synth"
+"4","Ja","IV: 
+relatie_overig_bewindvoerder: 0
+","IV: 
+relatie_overig_bewindvoerder: 1
+",12508,12508,1.43e-26,"****",1.43e-26,"****","synth_conditional"

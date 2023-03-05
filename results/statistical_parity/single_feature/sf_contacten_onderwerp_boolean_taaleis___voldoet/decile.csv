@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1066,10.2372034956305,"real"
+"2",1,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",199,8.915770609319,"real"
+"3",2,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1046,10.0451358878325,"real"
+"4",2,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",219,9.81182795698925,"real"
+"5",3,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1010,9.69941419379622,"real"
+"6",3,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",255,11.4247311827957,"real"
+"7",4,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1001,9.61298377028714,"real"
+"8",4,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",264,11.8279569892473,"real"
+"9",5,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1013,9.72822433496591,"real"
+"10",5,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",252,11.2903225806452,"real"
+"11",6,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1018,9.77624123691539,"real"
+"12",6,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",246,11.0215053763441,"real"
+"13",7,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1033,9.92029194276385,"real"
+"14",7,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",231,10.3494623655914,"real"
+"15",8,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1046,10.0451358878325,"real"
+"16",8,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",218,9.76702508960573,"real"
+"17",9,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1075,10.3236339191395,"real"
+"18",9,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",189,8.46774193548387,"real"
+"19",10,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1105,10.6117353308365,"real"
+"20",10,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",159,7.12365591397849,"real"
+"21",1,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1265,10.003954132068,"real_conditional"
+"22",1,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1264,9.99604586793199,"real_conditional"
+"23",2,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1264,9.99604586793199,"real_conditional"
+"24",2,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1265,10.003954132068,"real_conditional"
+"25",3,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1265,10.003954132068,"real_conditional"
+"26",3,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1264,9.99604586793199,"real_conditional"
+"27",4,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1264,9.99604586793199,"real_conditional"
+"28",4,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1265,10.003954132068,"real_conditional"
+"29",5,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1265,10.003954132068,"real_conditional"
+"30",5,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1264,9.99604586793199,"real_conditional"
+"31",6,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1264,9.99604586793199,"real_conditional"
+"32",6,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1265,10.003954132068,"real_conditional"
+"33",7,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1265,10.003954132068,"real_conditional"
+"34",7,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1264,9.99604586793199,"real_conditional"
+"35",8,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1264,9.99604586793199,"real_conditional"
+"36",8,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1265,10.003954132068,"real_conditional"
+"37",9,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1265,10.003954132068,"real_conditional"
+"38",9,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1264,9.99604586793199,"real_conditional"
+"39",10,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1264,9.99604586793199,"real_conditional"
+"40",10,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1265,10.003954132068,"real_conditional"
+"41",1,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",896,9.77419002945348,"synth"
+"42",1,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",369,10.6095457159287,"synth"
+"43",2,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",894,9.75237264099487,"synth"
+"44",2,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",371,10.6670500287522,"synth"
+"45",3,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",898,9.79600741791208,"synth"
+"46",3,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",367,10.5520414031052,"synth"
+"47",4,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",896,9.77419002945348,"synth"
+"48",4,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",369,10.6095457159287,"synth"
+"49",5,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",889,9.69782916984837,"synth"
+"50",5,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",376,10.8108108108108,"synth"
+"51",6,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",904,9.86145958328788,"synth"
+"52",6,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",360,10.3507763082231,"synth"
+"53",7,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",939,10.2432638813134,"synth"
+"54",7,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",325,9.34445083381254,"synth"
+"55",8,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",949,10.3523508236064,"synth"
+"56",8,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",315,9.05692926969523,"synth"
+"57",9,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",950,10.3632595178357,"synth"
+"58",9,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",314,9.0281771132835,"synth"
+"59",10,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",952,10.3850769062943,"synth"
+"60",10,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",312,8.97067280046003,"synth"
+"61",1,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1251,10.0015989766549,"synth_conditional"
+"62",1,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1251,10.0015989766549,"synth_conditional"
+"63",2,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1251,10.0015989766549,"synth_conditional"
+"64",2,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1251,10.0015989766549,"synth_conditional"
+"65",3,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1251,10.0015989766549,"synth_conditional"
+"66",3,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1251,10.0015989766549,"synth_conditional"
+"67",4,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1251,10.0015989766549,"synth_conditional"
+"68",4,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1251,10.0015989766549,"synth_conditional"
+"69",5,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1251,10.0015989766549,"synth_conditional"
+"70",5,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1251,10.0015989766549,"synth_conditional"
+"71",6,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1251,10.0015989766549,"synth_conditional"
+"72",6,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1251,10.0015989766549,"synth_conditional"
+"73",7,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1251,10.0015989766549,"synth_conditional"
+"74",7,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1250,9.99360409338024,"synth_conditional"
+"75",8,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1250,9.99360409338024,"synth_conditional"
+"76",8,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1251,10.0015989766549,"synth_conditional"
+"77",9,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1251,10.0015989766549,"synth_conditional"
+"78",9,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1250,9.99360409338024,"synth_conditional"
+"79",10,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 0
+",1250,9.99360409338024,"synth_conditional"
+"80",10,"IV: 
+contacten_onderwerp_boolean_taaleis___voldoet: 1
+",1251,10.0015989766549,"synth_conditional"

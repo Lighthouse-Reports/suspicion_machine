@@ -1,0 +1,361 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 0
+","Ja",4403,0.444,0.146,0.0590506472859414,0.181694299341358,-4.09493527140586,8.16942993413582,"real"
+"2","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 700
+","Ja",1,0.51,NA,0,0,-10,-10,"real"
+"3","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 0
+","Ja",3,0.555,0.157,0.333333333333333,0.333333333333333,23.3333333333333,23.3333333333333,"real"
+"4","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 0
+","Ja",1446,0.419,0.162,0.0726141078838174,0.170816044260028,-2.73858921161826,7.08160442600277,"real"
+"5","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 700
+","Ja",1,0.515,NA,0,0,-10,-10,"real"
+"6","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 0
+","Ja",33,0.474,0.148,0.0606060606060606,0.212121212121212,-3.93939393939394,11.2121212121212,"real"
+"7","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 0
+","Ja",14,0.501,0.127,0.0714285714285714,0.214285714285714,-2.85714285714286,11.4285714285714,"real"
+"8","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 0
+","Ja",2,0.739,0.107,0.5,1,40,90,"real"
+"9","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 0
+","Ja",12645,0.461,0.149,0.0695927243969949,0.209727164887307,-3.04072756030051,10.9727164887307,"real_conditional"
+"10","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 700
+","Ja",12645,0.476,0.145,0.0752866745749308,0.228311585606959,-2.47133254250692,12.8311585606959,"real_conditional"
+"11","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 0
+","Ja",12645,0.507,0.141,0.0990905496243575,0.298695136417556,-0.0909450375642551,19.8695136417556,"real_conditional"
+"12","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 700
+","Ja",12645,0.52,0.137,0.109529458283907,0.323764333728747,0.952945828390668,22.3764333728747,"real_conditional"
+"13","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 720
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 0
+","Ja",12645,0.503,0.144,0.100830367734282,0.290075128509292,0.0830367734282314,19.0075128509292,"real_conditional"
+"14","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 720
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 700
+","Ja",12645,0.517,0.14,0.110003954132068,0.314590747330961,1.0003954132068,21.4590747330961,"real_conditional"
+"15","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 720
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 0
+","Ja",12645,0.542,0.136,0.140213523131673,0.384104389086595,4.02135231316726,28.4104389086596,"real_conditional"
+"16","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 720
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 700
+","Ja",12645,0.554,0.132,0.15342032423883,0.410517991300909,5.34203242388296,31.0517991300909,"real_conditional"
+"17","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 0
+","Ja",12645,0.483,0.15,0.0911822854883353,0.254408857255832,-0.88177145116647,15.4408857255832,"real_conditional"
+"18","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 700
+","Ja",12645,0.497,0.146,0.0990114669829972,0.277500988533017,-0.0988533017002774,17.7500988533017,"real_conditional"
+"19","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 0
+","Ja",12645,0.525,0.143,0.127876631079478,0.344404903123764,2.7876631079478,24.4404903123764,"real_conditional"
+"20","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 700
+","Ja",12645,0.537,0.138,0.140529853697113,0.370106761565836,4.05298536971135,27.0106761565836,"real_conditional"
+"21","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 720
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 0
+","Ja",12645,0.518,0.145,0.122261763542902,0.327085804665876,2.22617635429023,22.7085804665876,"real_conditional"
+"22","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 720
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 700
+","Ja",12645,0.532,0.141,0.134124159746936,0.354764729141953,3.41241597469356,25.4764729141953,"real_conditional"
+"23","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 720
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 0
+","Ja",12645,0.553,0.138,0.167338869118229,0.414709371293001,6.73388691182286,31.4709371293001,"real_conditional"
+"24","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 720
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 700
+","Ja",12645,0.565,0.133,0.181099248714907,0.443574535389482,8.10992487149071,34.3574535389482,"real_conditional"
+"25","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 0
+","Ja",12508,0.555,0.093,0.0254237288135593,0.37863767188999,-7.45762711864407,27.863767188999,"synth_conditional"
+"26","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 700
+","Ja",12508,0.563,0.09,0.0288615286216821,0.40917812599936,-7.11384713783179,30.917812599936,"synth_conditional"
+"27","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 0
+","Ja",12508,0.596,0.086,0.0641989126958746,0.571154461144867,-3.58010873041254,47.1154461144867,"synth_conditional"
+"28","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 700
+","Ja",12508,0.602,0.083,0.0720338983050847,0.597457627118644,-2.79661016949153,49.7457627118644,"synth_conditional"
+"29","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 720
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 0
+","Ja",12508,0.583,0.088,0.0529261272785417,0.50431723696834,-4.70738727214583,40.431723696834,"synth_conditional"
+"30","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 720
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 700
+","Ja",12508,0.591,0.085,0.0594019827310521,0.537416053725616,-4.05980172689479,43.7416053725616,"synth_conditional"
+"31","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 720
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 0
+","Ja",12508,0.617,0.082,0.105212663895107,0.667732651103294,0.521266389510712,56.7732651103294,"synth_conditional"
+"32","IV: 
+persoon_geslacht_vrouw: 0
+relatie_partner_totaal_dagen_partner: 720
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 700
+","Ja",12508,0.623,0.08,0.116005756315958,0.692996482251359,1.60057563159578,59.2996482251359,"synth_conditional"
+"33","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 0
+","Ja",12508,0.564,0.093,0.0355772305724336,0.415733930284618,-6.44227694275664,31.5733930284618,"synth_conditional"
+"34","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 700
+","Ja",12508,0.572,0.09,0.0412535976974736,0.447873361048929,-5.87464023025264,34.7873361048929,"synth_conditional"
+"35","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 0
+","Ja",12508,0.602,0.086,0.0799488327470419,0.594339622641509,-2.00511672529581,49.4339622641509,"synth_conditional"
+"36","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 0
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 700
+","Ja",12508,0.608,0.084,0.0900223856731692,0.622321714102974,-0.997761432683084,52.2321714102974,"synth_conditional"
+"37","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 720
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 0
+","Ja",12508,0.59,0.088,0.0646786056923569,0.53189958426607,-3.53213943076431,43.189958426607,"synth_conditional"
+"38","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 720
+relatie_kind_huidige_aantal: 0
+relatie_kind_heeft_kinderen: 0
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 0
+relatie_kind_basisschool_kind: 0
+belemmering_dagen_financiele_problemen: 700
+","Ja",12508,0.597,0.085,0.072513591301567,0.562999680204669,-2.7486408698433,46.2999680204669,"synth_conditional"
+"39","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 720
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 0
+","Ja",12508,0.621,0.083,0.118084425967381,0.679165334186121,1.80844259673809,57.9165334186121,"synth_conditional"
+"40","IV: 
+persoon_geslacht_vrouw: 1
+relatie_partner_totaal_dagen_partner: 720
+relatie_kind_huidige_aantal: 2
+relatie_kind_heeft_kinderen: 1
+relatie_kind_leeftijd_verschil_ouder_eerste_kind: 20
+relatie_kind_basisschool_kind: 2
+belemmering_dagen_financiele_problemen: 700
+","Ja",12508,0.627,0.08,0.12919731371922,0.702270546850016,2.91973137192197,60.2270546850016,"synth_conditional"

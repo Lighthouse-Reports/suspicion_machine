@@ -1,0 +1,322 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1250,11.3163135976824,"real"
+"2",1,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",15,0.94876660341556,"real"
+"3",2,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1205,10.9089263081659,"real"
+"4",2,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",60,3.79506641366224,"real"
+"5",3,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1153,10.4381676625023,"real"
+"6",3,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",112,7.08412397216951,"real"
+"7",4,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1107,10.0217273221075,"real"
+"8",4,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",157,9.93042378241619,"real"
+"9",4,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1,5.55555555555556,"real"
+"10",5,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1113,10.0760456273764,"real"
+"11",5,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",152,9.61416824794434,"real"
+"12",6,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1068,9.66865833785986,"real"
+"13",6,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",195,12.3339658444023,"real"
+"14",6,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1,5.55555555555556,"real"
+"15",7,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1070,9.68676443961615,"real"
+"16",7,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",191,12.0809614168248,"real"
+"17",7,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",3,16.6666666666667,"real"
+"18",8,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1064,9.63244613434727,"real"
+"19",8,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",196,12.3972169512966,"real"
+"20",8,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",4,22.2222222222222,"real"
+"21",9,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1029,9.31558935361217,"real"
+"22",9,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",232,14.674256799494,"real"
+"23",9,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",3,16.6666666666667,"real"
+"24",10,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",987,8.93536121673004,"real"
+"25",10,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",271,17.1410499683744,"real"
+"26",10,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",6,33.3333333333333,"real"
+"27",1,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1353,10.699881376038,"real_conditional"
+"28",1,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1221,9.65599051008304,"real_conditional"
+"29",1,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1220,9.64808224594701,"real_conditional"
+"30",2,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1273,10.0672202451562,"real_conditional"
+"31",2,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1260,9.9644128113879,"real_conditional"
+"32",2,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1261,9.97232107552392,"real_conditional"
+"33",3,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1267,10.0197706603401,"real_conditional"
+"34",3,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1264,9.99604586793199,"real_conditional"
+"35",3,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1263,9.98813760379597,"real_conditional"
+"36",4,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1261,9.97232107552392,"real_conditional"
+"37",4,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1266,10.011862396204,"real_conditional"
+"38",4,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1267,10.0197706603401,"real_conditional"
+"39",5,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1262,9.98022933965994,"real_conditional"
+"40",5,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1266,10.011862396204,"real_conditional"
+"41",5,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1266,10.011862396204,"real_conditional"
+"42",6,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1246,9.85369711348359,"real_conditional"
+"43",6,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1274,10.0751285092922,"real_conditional"
+"44",6,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1273,10.0672202451562,"real_conditional"
+"45",7,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1265,10.003954132068,"real_conditional"
+"46",7,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1264,9.99604586793199,"real_conditional"
+"47",7,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1264,9.99604586793199,"real_conditional"
+"48",8,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1251,9.8932384341637,"real_conditional"
+"49",8,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1271,10.0514037168841,"real_conditional"
+"50",8,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1271,10.0514037168841,"real_conditional"
+"51",9,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1240,9.80624752866746,"real_conditional"
+"52",9,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1276,10.0909450375643,"real_conditional"
+"53",9,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1277,10.0988533017003,"real_conditional"
+"54",10,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1227,9.70344009489917,"real_conditional"
+"55",10,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1283,10.1463028865164,"real_conditional"
+"56",10,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1283,10.1463028865164,"real_conditional"
+"57",1,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1121,10.6599467478129,"synth"
+"58",1,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",144,6.76691729323308,"synth"
+"59",2,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1092,10.3841764929631,"synth"
+"60",2,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",173,8.1296992481203,"synth"
+"61",3,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1099,10.4507417268924,"synth"
+"62",3,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",166,7.80075187969925,"synth"
+"63",4,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1065,10.1274248763789,"synth"
+"64",4,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",200,9.3984962406015,"synth"
+"65",5,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1030,9.7945987067326,"synth"
+"66",5,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",235,11.0432330827068,"synth"
+"67",6,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1033,9.82312666413085,"synth"
+"68",6,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",230,10.8082706766917,"synth"
+"69",6,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1,100,"synth"
+"70",7,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1050,9.9847850893876,"synth"
+"71",7,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",214,10.0563909774436,"synth"
+"72",8,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1032,9.8136173449981,"synth"
+"73",8,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",232,10.9022556390977,"synth"
+"74",9,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1018,9.6804868771396,"synth"
+"75",9,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",246,11.5601503759399,"synth"
+"76",10,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",976,9.28109547356409,"synth"
+"77",10,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",288,13.5338345864662,"synth"
+"78",1,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1288,10.297409657819,"synth_conditional"
+"79",1,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1233,9.85769107771027,"synth_conditional"
+"80",1,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1232,9.84969619443556,"synth_conditional"
+"81",2,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1299,10.3853533738407,"synth_conditional"
+"82",2,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1227,9.80972177806204,"synth_conditional"
+"83",2,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1227,9.80972177806204,"synth_conditional"
+"84",3,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1277,10.2094659417972,"synth_conditional"
+"85",3,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1238,9.89766549408379,"synth_conditional"
+"86",3,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1238,9.89766549408379,"synth_conditional"
+"87",4,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1251,10.0015989766549,"synth_conditional"
+"88",4,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1251,10.0015989766549,"synth_conditional"
+"89",4,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1251,10.0015989766549,"synth_conditional"
+"90",5,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1239,9.90566037735849,"synth_conditional"
+"91",5,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1256,10.0415733930285,"synth_conditional"
+"92",5,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1257,10.0495682763032,"synth_conditional"
+"93",6,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1257,10.0495682763032,"synth_conditional"
+"94",6,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1248,9.97761432683083,"synth_conditional"
+"95",6,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1247,9.96961944355612,"synth_conditional"
+"96",7,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1241,9.9216501439079,"synth_conditional"
+"97",7,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1255,10.0335785097538,"synth_conditional"
+"98",7,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1256,10.0415733930285,"synth_conditional"
+"99",8,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1240,9.9136552606332,"synth_conditional"
+"100",8,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1256,10.0415733930285,"synth_conditional"
+"101",8,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1256,10.0415733930285,"synth_conditional"
+"102",9,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1212,9.68979852894148,"synth_conditional"
+"103",9,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1270,10.1535017588743,"synth_conditional"
+"104",9,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1270,10.1535017588743,"synth_conditional"
+"105",10,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 0
+",1204,9.62583946274384,"synth_conditional"
+"106",10,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 1
+",1274,10.1854812919731,"synth_conditional"
+"107",10,"IV: 
+competentie_gedrevenheid_en_ambitie_tonen: 2
+",1274,10.1854812919731,"synth_conditional"

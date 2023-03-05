@@ -1,0 +1,301 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+var_1: NA
+",1174,10.5112364580535,"real"
+"2",1,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",48,4.94845360824742,"real"
+"3",1,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",43,8.49802371541502,"real"
+"4",2,"IV: 
+var_1: NA
+",1141,10.2157758080401,"real"
+"5",2,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",77,7.93814432989691,"real"
+"6",2,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",47,9.28853754940712,"real"
+"7",3,"IV: 
+var_1: NA
+",1127,10.0904288656102,"real"
+"8",3,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",94,9.69072164948454,"real"
+"9",3,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",44,8.69565217391304,"real"
+"10",4,"IV: 
+var_1: NA
+",1090,9.7591548034739,"real"
+"11",4,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",121,12.4742268041237,"real"
+"12",4,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",54,10.6719367588933,"real"
+"13",5,"IV: 
+var_1: NA
+",1099,9.83973498075029,"real"
+"14",5,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",98,10.1030927835052,"real"
+"15",5,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",68,13.4387351778656,"real"
+"16",6,"IV: 
+var_1: NA
+",1094,9.79496821559674,"real"
+"17",6,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",118,12.1649484536082,"real"
+"18",6,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",52,10.2766798418972,"real"
+"19",7,"IV: 
+var_1: NA
+",1104,9.88450174590384,"real"
+"20",7,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",108,11.1340206185567,"real"
+"21",7,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",52,10.2766798418972,"real"
+"22",8,"IV: 
+var_1: NA
+",1096,9.81287492165816,"real"
+"23",8,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",111,11.4432989690722,"real"
+"24",8,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",57,11.2648221343874,"real"
+"25",9,"IV: 
+var_1: NA
+",1117,10.0008953353031,"real"
+"26",9,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",101,10.4123711340206,"real"
+"27",9,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",46,9.09090909090909,"real"
+"28",10,"IV: 
+var_1: NA
+",1127,10.0904288656102,"real"
+"29",10,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",94,9.69072164948454,"real"
+"30",10,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",43,8.49802371541502,"real"
+"31",1,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1265,10.003954132068,"real_conditional"
+"32",1,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1264,9.99604586793199,"real_conditional"
+"33",2,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1264,9.99604586793199,"real_conditional"
+"34",2,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1265,10.003954132068,"real_conditional"
+"35",3,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1265,10.003954132068,"real_conditional"
+"36",3,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1264,9.99604586793199,"real_conditional"
+"37",4,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1264,9.99604586793199,"real_conditional"
+"38",4,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1265,10.003954132068,"real_conditional"
+"39",5,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1265,10.003954132068,"real_conditional"
+"40",5,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1264,9.99604586793199,"real_conditional"
+"41",6,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1264,9.99604586793199,"real_conditional"
+"42",6,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1265,10.003954132068,"real_conditional"
+"43",7,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1265,10.003954132068,"real_conditional"
+"44",7,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1264,9.99604586793199,"real_conditional"
+"45",8,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1264,9.99604586793199,"real_conditional"
+"46",8,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1265,10.003954132068,"real_conditional"
+"47",9,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1265,10.003954132068,"real_conditional"
+"48",9,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1264,9.99604586793199,"real_conditional"
+"49",10,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1264,9.99604586793199,"real_conditional"
+"50",10,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1265,10.003954132068,"real_conditional"
+"51",1,"IV: 
+var_1: NA
+",1197,10.2220324508967,"synth"
+"52",1,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",54,7.37704918032787,"synth"
+"53",1,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",14,6.89655172413793,"synth"
+"54",2,"IV: 
+var_1: NA
+",1179,10.068317677199,"synth"
+"55",2,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",64,8.7431693989071,"synth"
+"56",2,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",22,10.8374384236453,"synth"
+"57",3,"IV: 
+var_1: NA
+",1168,9.97438087105038,"synth"
+"58",3,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",70,9.56284153005464,"synth"
+"59",3,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",27,13.3004926108374,"synth"
+"60",4,"IV: 
+var_1: NA
+",1182,10.0939368061486,"synth"
+"61",4,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",65,8.87978142076503,"synth"
+"62",4,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",18,8.86699507389163,"synth"
+"63",5,"IV: 
+var_1: NA
+",1176,10.0426985482494,"synth"
+"64",5,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",71,9.69945355191257,"synth"
+"65",5,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",18,8.86699507389163,"synth"
+"66",6,"IV: 
+var_1: NA
+",1171,10,"synth"
+"67",6,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",71,9.69945355191257,"synth"
+"68",6,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",22,10.8374384236453,"synth"
+"69",7,"IV: 
+var_1: NA
+",1164,9.9402220324509,"synth"
+"70",7,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",80,10.9289617486339,"synth"
+"71",7,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",20,9.85221674876847,"synth"
+"72",8,"IV: 
+var_1: NA
+",1162,9.92314261315115,"synth"
+"73",8,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",78,10.655737704918,"synth"
+"74",8,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",24,11.8226600985222,"synth"
+"75",9,"IV: 
+var_1: NA
+",1157,9.88044406490179,"synth"
+"76",9,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",87,11.8852459016393,"synth"
+"77",9,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",20,9.85221674876847,"synth"
+"78",10,"IV: 
+var_1: NA
+",1154,9.85482493595218,"synth"
+"79",10,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",92,12.568306010929,"synth"
+"80",10,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",18,8.86699507389163,"synth"
+"81",1,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1251,10.0015989766549,"synth_conditional"
+"82",1,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1251,10.0015989766549,"synth_conditional"
+"83",2,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1251,10.0015989766549,"synth_conditional"
+"84",2,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1251,10.0015989766549,"synth_conditional"
+"85",3,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1251,10.0015989766549,"synth_conditional"
+"86",3,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1251,10.0015989766549,"synth_conditional"
+"87",4,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1251,10.0015989766549,"synth_conditional"
+"88",4,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1251,10.0015989766549,"synth_conditional"
+"89",5,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1251,10.0015989766549,"synth_conditional"
+"90",5,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1251,10.0015989766549,"synth_conditional"
+"91",6,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1251,10.0015989766549,"synth_conditional"
+"92",6,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1251,10.0015989766549,"synth_conditional"
+"93",7,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1251,10.0015989766549,"synth_conditional"
+"94",7,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1250,9.99360409338024,"synth_conditional"
+"95",8,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1250,9.99360409338024,"synth_conditional"
+"96",8,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1251,10.0015989766549,"synth_conditional"
+"97",9,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1251,10.0015989766549,"synth_conditional"
+"98",9,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1250,9.99360409338024,"synth_conditional"
+"99",10,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen3
+",1250,9.99360409338024,"synth_conditional"
+"100",10,"IV: 
+var_1: persoonlijke_eigenschappen_nl_lezen4
+",1251,10.0015989766549,"synth_conditional"

@@ -1,0 +1,21 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+ontheffing_reden_tijdelijke_ontheffing_arbeidsverpl__en_tegenprestatie: 0
+","IV: 
+ontheffing_reden_tijdelijke_ontheffing_arbeidsverpl__en_tegenprestatie: 1
+",11732,913,5.79e-32,"****",5.79e-32,"****","real"
+"2","Ja","IV: 
+ontheffing_reden_tijdelijke_ontheffing_arbeidsverpl__en_tegenprestatie: 0
+","IV: 
+ontheffing_reden_tijdelijke_ontheffing_arbeidsverpl__en_tegenprestatie: 1
+",12645,12645,0.88,"ns",0.88,"ns","real_conditional"
+"3","Ja","IV: 
+ontheffing_reden_tijdelijke_ontheffing_arbeidsverpl__en_tegenprestatie: 0
+","IV: 
+ontheffing_reden_tijdelijke_ontheffing_arbeidsverpl__en_tegenprestatie: 1
+",11564,1081,4.68e-07,"****",4.68e-07,"****","synth"
+"4","Ja","IV: 
+ontheffing_reden_tijdelijke_ontheffing_arbeidsverpl__en_tegenprestatie: 0
+","IV: 
+ontheffing_reden_tijdelijke_ontheffing_arbeidsverpl__en_tegenprestatie: 1
+",12508,12508,0.998,"ns",0.998,"ns","synth_conditional"

@@ -1,0 +1,43 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+","Ja",11700,0.489,0.155,0.102136752136752,0.284700854700855,0.213675213675213,18.4700854700855,"real"
+"2","IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+","Ja",922,0.485,0.137,0.0748373101952278,0.246203904555315,-2.51626898047722,14.6203904555315,"real"
+"3","IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+","Ja",22,0.529,0.144,0.0454545454545455,0.363636363636364,-5.45454545454546,26.3636363636364,"real"
+"4","IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+","Ja",1,0.358,NA,0,0,-10,-10,"real"
+"5","IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+","Ja",12645,0.489,0.153,0.10003954132068,0.281850533807829,0.00395413206801115,18.1850533807829,"real_conditional"
+"6","IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+","Ja",12645,0.49,0.153,0.100672202451562,0.282720442862792,0.0672202451561868,18.2720442862792,"real_conditional"
+"7","IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+","Ja",12645,0.49,0.153,0.100672202451562,0.282720442862792,0.0672202451561868,18.2720442862792,"real_conditional"
+"8","IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+","Ja",12645,0.49,0.153,0.100672202451562,0.282720442862792,0.0672202451561868,18.2720442862792,"real_conditional"
+"9","IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+","Ja",11711,0.612,0.085,0.100503799846298,0.642814447954914,0.050379984629835,54.2814447954914,"synth"
+"10","IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+","Ja",934,0.609,0.086,0.0942184154175589,0.622055674518201,-0.578158458244111,52.2055674518201,"synth"
+"11","IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"12","IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+","Ja",12508,0.612,0.085,0.100415733930285,0.642788615286217,0.0415733930284615,54.2788615286217,"synth_conditional"
+"13","IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+","Ja",12508,0.612,0.085,0.100415733930285,0.642788615286217,0.0415733930284615,54.2788615286217,"synth_conditional"
+"14","IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+","Ja",12508,0.612,0.085,0.100415733930285,0.642788615286217,0.0415733930284615,54.2788615286217,"synth_conditional"

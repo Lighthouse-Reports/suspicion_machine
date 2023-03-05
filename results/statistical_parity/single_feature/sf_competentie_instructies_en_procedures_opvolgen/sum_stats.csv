@@ -1,0 +1,46 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+competentie_instructies_en_procedures_opvolgen: 0
+","Ja",8594,0.456,0.151,0.0644635792413312,0.218524552013032,-3.55364207586688,11.8524552013032,"real"
+"2","IV: 
+competentie_instructies_en_procedures_opvolgen: 1
+","Ja",3974,0.559,0.134,0.172873678912934,0.414192249622547,7.28736789129341,31.4192249622547,"real"
+"3","IV: 
+competentie_instructies_en_procedures_opvolgen: 2
+","Ja",76,0.622,0.119,0.302631578947368,0.539473684210526,20.2631578947368,43.9473684210526,"real"
+"4","IV: 
+competentie_instructies_en_procedures_opvolgen: 3
+","Ja",1,0.746,NA,1,1,90,90,"real"
+"5","IV: 
+competentie_instructies_en_procedures_opvolgen: 0
+","Ja",12645,0.489,0.153,0.10003954132068,0.28200869909055,0.00395413206801115,18.200869909055,"real_conditional"
+"6","IV: 
+competentie_instructies_en_procedures_opvolgen: 1
+","Ja",12645,0.489,0.153,0.10003954132068,0.28200869909055,0.00395413206801115,18.200869909055,"real_conditional"
+"7","IV: 
+competentie_instructies_en_procedures_opvolgen: 2
+","Ja",12645,0.489,0.153,0.10003954132068,0.28200869909055,0.00395413206801115,18.200869909055,"real_conditional"
+"8","IV: 
+competentie_instructies_en_procedures_opvolgen: 3
+","Ja",12645,0.489,0.153,0.10003954132068,0.28200869909055,0.00395413206801115,18.200869909055,"real_conditional"
+"9","IV: 
+competentie_instructies_en_procedures_opvolgen: 0
+","Ja",7875,0.601,0.087,0.0778412698412698,0.595809523809524,-2.21587301587302,49.5809523809524,"synth"
+"10","IV: 
+competentie_instructies_en_procedures_opvolgen: 1
+","Ja",4685,0.629,0.079,0.134471718249733,0.714834578441836,3.44717182497332,61.4834578441836,"synth"
+"11","IV: 
+competentie_instructies_en_procedures_opvolgen: 2
+","Ja",85,0.657,0.076,0.258823529411765,0.8,15.8823529411765,70,"synth"
+"12","IV: 
+competentie_instructies_en_procedures_opvolgen: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"13","IV: 
+competentie_instructies_en_procedures_opvolgen: 1
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"14","IV: 
+competentie_instructies_en_procedures_opvolgen: 2
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"15","IV: 
+competentie_instructies_en_procedures_opvolgen: 3
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"

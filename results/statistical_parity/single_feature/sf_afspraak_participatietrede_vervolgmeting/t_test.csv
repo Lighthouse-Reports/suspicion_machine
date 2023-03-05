@@ -1,0 +1,201 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+",3682,6709,6.12e-187,"****",6.12e-186,"****","real"
+"2","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+",3682,2124,4.01e-104,"****",3.6e-103,"****","real"
+"3","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+",6709,2124,0.621,"ns",1,"ns","real"
+"4","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+",3682,124,4.06e-05,"****",0.000325,"***","real"
+"5","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+",6709,124,0.01,"*",0.0701,"ns","real"
+"6","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+",2124,124,0.0167,"*",0.1,"ns","real"
+"7","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+",3682,6,0.874,"ns",1,"ns","real"
+"8","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+",6709,6,0.0993,"ns",0.496,"ns","real"
+"9","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+",2124,6,0.106,"ns",0.496,"ns","real"
+"10","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+",124,6,0.293,"ns",0.878,"ns","real"
+"11","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+",12645,12645,0.216,"ns",1,"ns","real_conditional"
+"12","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+",12645,12645,0.141,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+",12645,12645,0.815,"ns",1,"ns","real_conditional"
+"14","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+",12645,12645,0.141,"ns",1,"ns","real_conditional"
+"15","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+",12645,12645,0.815,"ns",1,"ns","real_conditional"
+"16","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"17","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+",12645,12645,0.141,"ns",1,"ns","real_conditional"
+"18","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+",12645,12645,0.815,"ns",1,"ns","real_conditional"
+"19","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"20","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"21","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+",3285,6381,9.07e-12,"****",7.26e-11,"****","synth"
+"22","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+",3285,2511,5.96e-24,"****",5.96e-23,"****","synth"
+"23","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+",6381,2511,2.55e-07,"****",1.79e-06,"****","synth"
+"24","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+",3285,453,1.57e-13,"****",1.41e-12,"****","synth"
+"25","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+",6381,453,4.23e-06,"****",2.54e-05,"****","synth"
+"26","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+",2511,453,0.0451,"*",0.0451,"*","synth"
+"27","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+",3285,15,0.000135,"***",0.000675,"***","synth"
+"28","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+",6381,15,0.00114,"**",0.00454,"**","synth"
+"29","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+",2511,15,0.00544,"**",0.0163,"*","synth"
+"30","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+",453,15,0.0186,"*",0.0372,"*","synth"
+"31","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+",12508,12508,0.517,"ns",1,"ns","synth_conditional"
+"32","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+",12508,12508,0.366,"ns",1,"ns","synth_conditional"
+"33","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+",12508,12508,0.798,"ns",1,"ns","synth_conditional"
+"34","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+",12508,12508,0.366,"ns",1,"ns","synth_conditional"
+"35","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+",12508,12508,0.798,"ns",1,"ns","synth_conditional"
+"36","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"37","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 0
+","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+",12508,12508,0.366,"ns",1,"ns","synth_conditional"
+"38","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 1
+","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+",12508,12508,0.798,"ns",1,"ns","synth_conditional"
+"39","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 2
+","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"40","Ja","IV: 
+afspraak_participatietrede_vervolgmeting: 3
+","IV: 
+afspraak_participatietrede_vervolgmeting: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"

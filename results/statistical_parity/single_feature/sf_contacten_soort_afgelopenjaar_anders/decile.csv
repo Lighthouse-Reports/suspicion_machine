@@ -1,0 +1,964 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",976,11.4958775029446,"real"
+"2",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",211,8.3399209486166,"real"
+"3",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",50,5.51876379690949,"real"
+"4",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",10,2.80898876404494,"real"
+"5",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",6,3.72670807453416,"real"
+"6",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1,1.17647058823529,"real"
+"7",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",932,10.9776207302709,"real"
+"8",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",241,9.52569169960474,"real"
+"9",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",61,6.73289183222958,"real"
+"10",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",13,3.65168539325843,"real"
+"11",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",6,3.72670807453416,"real"
+"12",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1,1.17647058823529,"real"
+"13",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",913,10.75382803298,"real"
+"14",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",244,9.64426877470356,"real"
+"15",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",70,7.72626931567329,"real"
+"16",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",19,5.33707865168539,"real"
+"17",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",4,2.48447204968944,"real"
+"18",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",4,4.70588235294118,"real"
+"19",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",860,10.1295641931684,"real"
+"20",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",256,10.1185770750988,"real"
+"21",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",88,9.71302428256071,"real"
+"22",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",31,8.70786516853933,"real"
+"23",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",11,6.83229813664596,"real"
+"24",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",8,9.41176470588235,"real"
+"25",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",836,9.84687868080094,"real"
+"26",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",278,10.9881422924901,"real"
+"27",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1,16.6666666666667,"real"
+"28",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",94,10.3752759381898,"real"
+"29",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",33,9.26966292134832,"real"
+"30",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",11,6.83229813664596,"real"
+"31",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1,1.17647058823529,"real"
+"32",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",866,10.2002355712603,"real"
+"33",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",245,9.68379446640316,"real"
+"34",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",97,10.7064017660044,"real"
+"35",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",30,8.42696629213483,"real"
+"36",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12,7.45341614906832,"real"
+"37",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",4,4.70588235294118,"real"
+"38",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",850,10.0117785630153,"real"
+"39",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",247,9.76284584980237,"real"
+"40",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",102,11.2582781456954,"real"
+"41",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",34,9.55056179775281,"real"
+"42",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",15,9.3167701863354,"real"
+"43",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",6,7.05882352941176,"real"
+"44",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",832,9.79976442873969,"real"
+"45",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",263,10.395256916996,"real"
+"46",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",86,9.49227373068433,"real"
+"47",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",41,11.5168539325843,"real"
+"48",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",20,12.4223602484472,"real"
+"49",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",11,12.9411764705882,"real"
+"50",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",784,9.23439340400471,"real"
+"51",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",256,10.1185770750988,"real"
+"52",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",114,12.5827814569536,"real"
+"53",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",51,14.3258426966292,"real"
+"54",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",29,18.0124223602484,"real"
+"55",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",19,22.3529411764706,"real"
+"56",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",641,7.55005889281508,"real"
+"57",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",289,11.4229249011858,"real"
+"58",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",5,83.3333333333333,"real"
+"59",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",3,100,"real"
+"60",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",144,15.8940397350993,"real"
+"61",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",94,26.4044943820225,"real"
+"62",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",47,29.1925465838509,"real"
+"63",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",30,35.2941176470588,"real"
+"64",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1564,12.3685251087386,"real_conditional"
+"65",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1564,12.3685251087386,"real_conditional"
+"66",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1141,9.02332937920126,"real_conditional"
+"67",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1141,9.02332937920126,"real_conditional"
+"68",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1477,11.6805061289047,"real_conditional"
+"69",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1140,9.01542111506524,"real_conditional"
+"70",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1196,9.45828390668248,"real_conditional"
+"71",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1140,9.01542111506524,"real_conditional"
+"72",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1141,9.02332937920126,"real_conditional"
+"73",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1141,9.02332937920126,"real_conditional"
+"74",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1349,10.6682483194939,"real_conditional"
+"75",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1346,10.6445235270858,"real_conditional"
+"76",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1232,9.74298141557928,"real_conditional"
+"77",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1232,9.74298141557928,"real_conditional"
+"78",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1305,10.3202846975089,"real_conditional"
+"79",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1233,9.7508896797153,"real_conditional"
+"80",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1252,9.90114669829972,"real_conditional"
+"81",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1232,9.74298141557928,"real_conditional"
+"82",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1232,9.74298141557928,"real_conditional"
+"83",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1232,9.74298141557928,"real_conditional"
+"84",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1280,10.1225780941083,"real_conditional"
+"85",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1278,10.1067615658363,"real_conditional"
+"86",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1258,9.94859628311586,"real_conditional"
+"87",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1258,9.94859628311586,"real_conditional"
+"88",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1291,10.2095689996046,"real_conditional"
+"89",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1258,9.94859628311586,"real_conditional"
+"90",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1247,9.86160537761961,"real_conditional"
+"91",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1259,9.95650454725188,"real_conditional"
+"92",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1258,9.94859628311586,"real_conditional"
+"93",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1258,9.94859628311586,"real_conditional"
+"94",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1323,10.4626334519573,"real_conditional"
+"95",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1322,10.4547251878213,"real_conditional"
+"96",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1244,9.83788058521155,"real_conditional"
+"97",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1244,9.83788058521155,"real_conditional"
+"98",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1277,10.0988533017003,"real_conditional"
+"99",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1244,9.83788058521155,"real_conditional"
+"100",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1259,9.95650454725188,"real_conditional"
+"101",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1244,9.83788058521155,"real_conditional"
+"102",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1244,9.83788058521155,"real_conditional"
+"103",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1244,9.83788058521155,"real_conditional"
+"104",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1276,10.0909450375643,"real_conditional"
+"105",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1272,10.0593119810202,"real_conditional"
+"106",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1264,9.99604586793199,"real_conditional"
+"107",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1264,9.99604586793199,"real_conditional"
+"108",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1274,10.0751285092922,"real_conditional"
+"109",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1264,9.99604586793199,"real_conditional"
+"110",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1240,9.80624752866746,"real_conditional"
+"111",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1263,9.98813760379597,"real_conditional"
+"112",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1264,9.99604586793199,"real_conditional"
+"113",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1264,9.99604586793199,"real_conditional"
+"114",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1174,9.28430209569,"real_conditional"
+"115",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1178,9.31593515223408,"real_conditional"
+"116",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1300,10.2807433768288,"real_conditional"
+"117",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1300,10.2807433768288,"real_conditional"
+"118",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1191,9.41874258600237,"real_conditional"
+"119",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1300,10.2807433768288,"real_conditional"
+"120",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1301,10.2886516409648,"real_conditional"
+"121",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1301,10.2886516409648,"real_conditional"
+"122",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1300,10.2807433768288,"real_conditional"
+"123",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1300,10.2807433768288,"real_conditional"
+"124",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1273,10.0672202451562,"real_conditional"
+"125",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1273,10.0672202451562,"real_conditional"
+"126",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1259,9.95650454725188,"real_conditional"
+"127",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1259,9.95650454725188,"real_conditional"
+"128",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1284,10.1542111506524,"real_conditional"
+"129",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1259,9.95650454725188,"real_conditional"
+"130",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1262,9.98022933965994,"real_conditional"
+"131",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1258,9.94859628311586,"real_conditional"
+"132",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1259,9.95650454725188,"real_conditional"
+"133",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1259,9.95650454725188,"real_conditional"
+"134",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1205,9.52945828390668,"real_conditional"
+"135",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1204,9.52155001977066,"real_conditional"
+"136",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1292,10.2174772637406,"real_conditional"
+"137",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1292,10.2174772637406,"real_conditional"
+"138",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1212,9.58481613285884,"real_conditional"
+"139",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1292,10.2174772637406,"real_conditional"
+"140",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1271,10.0514037168841,"real_conditional"
+"141",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1293,10.2253855278766,"real_conditional"
+"142",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1292,10.2174772637406,"real_conditional"
+"143",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1292,10.2174772637406,"real_conditional"
+"144",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1101,8.70699881376038,"real_conditional"
+"145",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1105,8.73863187030447,"real_conditional"
+"146",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1326,10.4863582443654,"real_conditional"
+"147",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1325,10.4784499802293,"real_conditional"
+"148",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1175,9.29221035982602,"real_conditional"
+"149",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1325,10.4784499802293,"real_conditional"
+"150",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1311,10.367734282325,"real_conditional"
+"151",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1325,10.4784499802293,"real_conditional"
+"152",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1326,10.4863582443654,"real_conditional"
+"153",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1326,10.4863582443654,"real_conditional"
+"154",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1100,8.69909054962436,"real_conditional"
+"155",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1103,8.72281534203242,"real_conditional"
+"156",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1329,10.5100830367734,"real_conditional"
+"157",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1330,10.5179913009095,"real_conditional"
+"158",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1159,9.16567813364966,"real_conditional"
+"159",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1330,10.5179913009095,"real_conditional"
+"160",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1306,10.3281929616449,"real_conditional"
+"161",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1330,10.5179913009095,"real_conditional"
+"162",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1329,10.5100830367734,"real_conditional"
+"163",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1329,10.5100830367734,"real_conditional"
+"164",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",477,13.8864628820961,"synth"
+"165",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",593,10.6827598630877,"synth"
+"166",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",162,6.11551528878822,"synth"
+"167",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",29,3.43601895734597,"synth"
+"168",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",4,2.7027027027027,"synth"
+"169",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",398,11.5866084425036,"synth"
+"170",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",612,11.0250405332373,"synth"
+"171",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",209,7.88976972442431,"synth"
+"172",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",42,4.97630331753555,"synth"
+"173",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",3,2.02702702702703,"synth"
+"174",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1,5.88235294117647,"synth"
+"175",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",408,11.8777292576419,"synth"
+"176",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",558,10.0522428391281,"synth"
+"177",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",228,8.60702151755379,"synth"
+"178",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",64,7.58293838862559,"synth"
+"179",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",6,4.05405405405405,"synth"
+"180",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1,5.88235294117647,"synth"
+"181",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",388,11.2954876273654,"synth"
+"182",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",571,10.2864348765988,"synth"
+"183",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",246,9.28652321630804,"synth"
+"184",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",50,5.92417061611374,"synth"
+"185",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",8,5.40540540540541,"synth"
+"186",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",2,11.7647058823529,"synth"
+"187",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",333,9.6943231441048,"synth"
+"188",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",592,10.6647450909746,"synth"
+"189",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",266,10.0415251038128,"synth"
+"190",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",64,7.58293838862559,"synth"
+"191",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",8,5.40540540540541,"synth"
+"192",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1,5.88235294117647,"synth"
+"193",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",334,9.72343522561863,"synth"
+"194",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",553,9.96216897856242,"synth"
+"195",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",278,10.4945262363156,"synth"
+"196",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",87,10.3080568720379,"synth"
+"197",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",12,8.10810810810811,"synth"
+"198",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",296,8.61717612809316,"synth"
+"199",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",571,10.2864348765988,"synth"
+"200",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",291,10.9852774631937,"synth"
+"201",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",88,10.4265402843602,"synth"
+"202",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",17,11.4864864864865,"synth"
+"203",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1,5.88235294117647,"synth"
+"204",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",294,8.5589519650655,"synth"
+"205",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",530,9.54782921996037,"synth"
+"206",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",296,11.1740279350698,"synth"
+"207",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",124,14.6919431279621,"synth"
+"208",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",19,12.8378378378378,"synth"
+"209",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1,5.88235294117647,"synth"
+"210",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",251,7.30713245997089,"synth"
+"211",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",513,9.24157809403711,"synth"
+"212",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",313,11.8157795394488,"synth"
+"213",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",146,17.2985781990521,"synth"
+"214",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",35,23.6486486486486,"synth"
+"215",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",6,35.2941176470588,"synth"
+"216",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",256,7.45269286754003,"synth"
+"217",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",458,8.25076562781481,"synth"
+"218",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",360,13.5900339750849,"synth"
+"219",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",150,17.7725118483412,"synth"
+"220",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",36,24.3243243243243,"synth"
+"221",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",4,23.5294117647059,"synth"
+"222",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1591,12.7198592900544,"synth_conditional"
+"223",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1588,12.6958746402303,"synth_conditional"
+"224",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1122,8.9702590342181,"synth_conditional"
+"225",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1122,8.9702590342181,"synth_conditional"
+"226",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1433,11.4566677326511,"synth_conditional"
+"227",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1122,8.9702590342181,"synth_conditional"
+"228",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1162,9.29005436520627,"synth_conditional"
+"229",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1122,8.9702590342181,"synth_conditional"
+"230",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1123,8.9782539174928,"synth_conditional"
+"231",1,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1123,8.9782539174928,"synth_conditional"
+"232",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1521,12.1602174608251,"synth_conditional"
+"233",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1523,12.1762072273745,"synth_conditional"
+"234",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1145,9.1541413495363,"synth_conditional"
+"235",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1145,9.1541413495363,"synth_conditional"
+"236",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1410,11.2727854173329,"synth_conditional"
+"237",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1145,9.1541413495363,"synth_conditional"
+"238",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1184,9.46594179724976,"synth_conditional"
+"239",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1145,9.1541413495363,"synth_conditional"
+"240",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1145,9.1541413495363,"synth_conditional"
+"241",2,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1145,9.1541413495363,"synth_conditional"
+"242",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1410,11.2727854173329,"synth_conditional"
+"243",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1403,11.21682123441,"synth_conditional"
+"244",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1194,9.5458906299968,"synth_conditional"
+"245",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1194,9.5458906299968,"synth_conditional"
+"246",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1339,10.7051487048289,"synth_conditional"
+"247",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1194,9.5458906299968,"synth_conditional"
+"248",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1195,9.55388551327151,"synth_conditional"
+"249",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1193,9.5378957467221,"synth_conditional"
+"250",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1193,9.5378957467221,"synth_conditional"
+"251",3,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1193,9.5378957467221,"synth_conditional"
+"252",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1334,10.6651742884554,"synth_conditional"
+"253",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1335,10.6731691717301,"synth_conditional"
+"254",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1213,9.69779341221618,"synth_conditional"
+"255",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1213,9.69779341221618,"synth_conditional"
+"256",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1319,10.5452510393348,"synth_conditional"
+"257",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1213,9.69779341221618,"synth_conditional"
+"258",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1240,9.9136552606332,"synth_conditional"
+"259",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1214,9.70578829549089,"synth_conditional"
+"260",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1214,9.70578829549089,"synth_conditional"
+"261",4,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1213,9.69779341221618,"synth_conditional"
+"262",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1312,10.4892868564119,"synth_conditional"
+"263",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1310,10.4732970898625,"synth_conditional"
+"264",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1228,9.81771666133674,"synth_conditional"
+"265",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1228,9.81771666133674,"synth_conditional"
+"266",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1271,10.161496642149,"synth_conditional"
+"267",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1228,9.81771666133674,"synth_conditional"
+"268",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1249,9.98560921010553,"synth_conditional"
+"269",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1227,9.80972177806204,"synth_conditional"
+"270",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1227,9.80972177806204,"synth_conditional"
+"271",5,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1228,9.81771666133674,"synth_conditional"
+"272",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1266,10.1215222257755,"synth_conditional"
+"273",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1265,10.1135273425008,"synth_conditional"
+"274",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1250,9.99360409338024,"synth_conditional"
+"275",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1249,9.98560921010553,"synth_conditional"
+"276",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1255,10.0335785097538,"synth_conditional"
+"277",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1249,9.98560921010553,"synth_conditional"
+"278",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1224,9.78573712823793,"synth_conditional"
+"279",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1250,9.99360409338024,"synth_conditional"
+"280",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1250,9.99360409338024,"synth_conditional"
+"281",6,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1250,9.99360409338024,"synth_conditional"
+"282",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1144,9.14614646626159,"synth_conditional"
+"283",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1142,9.13015669971218,"synth_conditional"
+"284",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1283,10.2574352414455,"synth_conditional"
+"285",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1283,10.2574352414455,"synth_conditional"
+"286",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1220,9.75375759513911,"synth_conditional"
+"287",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1283,10.2574352414455,"synth_conditional"
+"288",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1304,10.4253277902143,"synth_conditional"
+"289",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1283,10.2574352414455,"synth_conditional"
+"290",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1283,10.2574352414455,"synth_conditional"
+"291",7,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1283,10.2574352414455,"synth_conditional"
+"292",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",1085,8.67444835305404,"synth_conditional"
+"293",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",1085,8.67444835305404,"synth_conditional"
+"294",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1319,10.5452510393348,"synth_conditional"
+"295",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1320,10.5532459226095,"synth_conditional"
+"296",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1133,9.05820275023985,"synth_conditional"
+"297",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1319,10.5452510393348,"synth_conditional"
+"298",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1290,10.3133994243684,"synth_conditional"
+"299",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1319,10.5452510393348,"synth_conditional"
+"300",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1319,10.5452510393348,"synth_conditional"
+"301",8,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1319,10.5452510393348,"synth_conditional"
+"302",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",941,7.52318516149664,"synth_conditional"
+"303",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",942,7.53118004477135,"synth_conditional"
+"304",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1368,10.9370003197953,"synth_conditional"
+"305",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1368,10.9370003197953,"synth_conditional"
+"306",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1093,8.73840741925168,"synth_conditional"
+"307",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1369,10.94499520307,"synth_conditional"
+"308",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1323,10.5772305724336,"synth_conditional"
+"309",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1368,10.9370003197953,"synth_conditional"
+"310",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1368,10.9370003197953,"synth_conditional"
+"311",9,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1368,10.9370003197953,"synth_conditional"
+"312",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 0
+",904,7.22737448033259,"synth_conditional"
+"313",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 1
+",915,7.31531819635433,"synth_conditional"
+"314",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 10
+",1386,11.08090821874,"synth_conditional"
+"315",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 15
+",1386,11.08090821874,"synth_conditional"
+"316",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 2
+",1035,8.27470418931884,"synth_conditional"
+"317",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 20
+",1386,11.08090821874,"synth_conditional"
+"318",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 3
+",1337,10.6891589382795,"synth_conditional"
+"319",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 30
+",1387,11.0889031020147,"synth_conditional"
+"320",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 4
+",1386,11.08090821874,"synth_conditional"
+"321",10,"IV: 
+contacten_soort_afgelopenjaar_anders: 5
+",1386,11.08090821874,"synth_conditional"

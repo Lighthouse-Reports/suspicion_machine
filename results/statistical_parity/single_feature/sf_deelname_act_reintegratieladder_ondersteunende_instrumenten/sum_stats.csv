@@ -1,0 +1,109 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 0
+","Ja",3542,0.496,0.163,0.129587803500847,0.316205533596838,2.9587803500847,21.6205533596838,"real"
+"2","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 1
+","Ja",2703,0.478,0.155,0.0862005179430263,0.257861635220126,-1.37994820569737,15.7861635220126,"real"
+"3","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 10
+","Ja",103,0.489,0.132,0.0194174757281553,0.29126213592233,-8.05825242718447,19.126213592233,"real"
+"4","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 15
+","Ja",13,0.517,0.096,0,0.307692307692308,-10,20.7692307692308,"real"
+"5","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 2
+","Ja",1940,0.483,0.152,0.0994845360824742,0.267010309278351,-0.0515463917525785,16.701030927835,"real"
+"6","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 20
+","Ja",1,0.326,NA,0,0,-10,-10,"real"
+"7","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 3
+","Ja",1505,0.491,0.148,0.0883720930232558,0.269102990033223,-1.16279069767442,16.9102990033223,"real"
+"8","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 4
+","Ja",953,0.492,0.139,0.0766002098635887,0.25813221406086,-2.33997901364113,15.813221406086,"real"
+"9","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 5
+","Ja",667,0.496,0.151,0.104947526236882,0.289355322338831,0.494752623688155,18.9355322338831,"real"
+"10","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 0
+","Ja",12645,0.49,0.153,0.100751285092922,0.282957690786872,0.0751285092922091,18.2957690786872,"real_conditional"
+"11","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 1
+","Ja",12645,0.489,0.153,0.0999604586793199,0.281771451166469,-0.00395413206801115,18.1771451166469,"real_conditional"
+"12","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 10
+","Ja",12645,0.488,0.153,0.0987742190589166,0.280268880980625,-0.122578094108343,18.0268880980625,"real_conditional"
+"13","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 15
+","Ja",12645,0.49,0.153,0.100514037168841,0.282325029655991,0.0514037168841436,18.2325029655991,"real_conditional"
+"14","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 2
+","Ja",12645,0.489,0.153,0.0999604586793199,0.281771451166469,-0.00395413206801115,18.1771451166469,"real_conditional"
+"15","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 20
+","Ja",12645,0.49,0.153,0.100514037168841,0.282325029655991,0.0514037168841436,18.2325029655991,"real_conditional"
+"16","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 3
+","Ja",12645,0.489,0.153,0.0995650454725188,0.281059707394227,-0.0434954527481227,18.1059707394227,"real_conditional"
+"17","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 30
+","Ja",12645,0.49,0.153,0.100514037168841,0.282325029655991,0.0514037168841436,18.2325029655991,"real_conditional"
+"18","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 4
+","Ja",12645,0.489,0.153,0.099644128113879,0.281296955318308,-0.0355871886121004,18.1296955318308,"real_conditional"
+"19","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 5
+","Ja",12645,0.489,0.153,0.0999604586793199,0.28200869909055,-0.00395413206801115,18.200869909055,"real_conditional"
+"20","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 0
+","Ja",818,0.611,0.089,0.111246943765281,0.647921760391198,1.12469437652812,54.7921760391198,"synth"
+"21","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 1
+","Ja",2277,0.614,0.087,0.1133069828722,0.639437856829161,1.33069828722003,53.9437856829161,"synth"
+"22","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 10
+","Ja",82,0.621,0.071,0.121951219512195,0.682926829268293,2.19512195121951,58.2926829268293,"synth"
+"23","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 2
+","Ja",2295,0.612,0.084,0.0984749455337691,0.640958605664488,-0.152505446623094,54.0958605664488,"synth"
+"24","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 3
+","Ja",2217,0.611,0.087,0.0938204781235904,0.635092467298151,-0.617952187640956,53.5092467298151,"synth"
+"25","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 4
+","Ja",1753,0.611,0.086,0.108956075299487,0.630347974900171,0.895607529948658,53.0347974900171,"synth"
+"26","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 5
+","Ja",1338,0.614,0.082,0.0941704035874439,0.65695067264574,-0.582959641255607,55.695067264574,"synth"
+"27","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 0
+","Ja",12508,0.612,0.085,0.100495682763032,0.642228973456987,0.0495682763031649,54.2228973456987,"synth_conditional"
+"28","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 1
+","Ja",12508,0.612,0.085,0.0994563479373201,0.6405500479693,-0.0543652062679895,54.05500479693,"synth_conditional"
+"29","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 10
+","Ja",12508,0.611,0.085,0.0984969619443556,0.639270866645347,-0.150303805564439,53.9270866645347,"synth_conditional"
+"30","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 15
+","Ja",12508,0.613,0.085,0.101135273425008,0.646146466261593,0.113527342500799,54.6146466261593,"synth_conditional"
+"31","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 2
+","Ja",12508,0.612,0.085,0.0994563479373201,0.6405500479693,-0.0543652062679895,54.05500479693,"synth_conditional"
+"32","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 20
+","Ja",12508,0.613,0.085,0.101135273425008,0.646146466261593,0.113527342500799,54.6146466261593,"synth_conditional"
+"33","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 3
+","Ja",12508,0.612,0.085,0.0993763991045731,0.6405500479693,-0.0623600895426929,54.05500479693,"synth_conditional"
+"34","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 30
+","Ja",12508,0.613,0.085,0.101135273425008,0.646146466261593,0.113527342500799,54.6146466261593,"synth_conditional"
+"35","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 4
+","Ja",12508,0.612,0.085,0.099296450271826,0.640150303805564,-0.0703549728173977,54.0150303805565,"synth_conditional"
+"36","IV: 
+deelname_act_reintegratieladder_ondersteunende_instrumenten: 5
+","Ja",12508,0.612,0.085,0.100655580428526,0.641909178125999,0.0655580428525732,54.1909178125999,"synth_conditional"

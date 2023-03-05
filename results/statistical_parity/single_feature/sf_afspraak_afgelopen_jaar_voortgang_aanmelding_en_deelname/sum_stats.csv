@@ -1,0 +1,166 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 0
+","Ja",3928,0.483,0.149,0.0804480651731161,0.274949083503055,-1.95519348268839,17.4949083503055,"real"
+"2","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 1
+","Ja",2513,0.472,0.152,0.0771985674492638,0.254675686430561,-2.28014325507362,15.4675686430561,"real"
+"3","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 10
+","Ja",16,0.627,0.091,0.25,0.75,15,65,"real"
+"4","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 11
+","Ja",5,0.586,0.169,0.2,0.6,10,50,"real"
+"5","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 12
+","Ja",6,0.643,0.072,0.333333333333333,0.666666666666667,23.3333333333333,56.6666666666667,"real"
+"6","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 13
+","Ja",4,0.585,0.087,0,0.75,-10,65,"real"
+"7","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 14
+","Ja",1,0.747,NA,1,1,90,90,"real"
+"8","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 2
+","Ja",2547,0.479,0.148,0.0781311346682371,0.250490773458971,-2.18688653317629,15.0490773458971,"real"
+"9","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 3
+","Ja",1730,0.486,0.156,0.108670520231214,0.271098265895954,0.867052023121387,17.1098265895954,"real"
+"10","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 4
+","Ja",938,0.515,0.156,0.146055437100213,0.318763326226013,4.60554371002132,21.8763326226013,"real"
+"11","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 5
+","Ja",491,0.541,0.157,0.195519348268839,0.382892057026477,9.55193482688391,28.2892057026477,"real"
+"12","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 6
+","Ja",234,0.573,0.157,0.239316239316239,0.452991452991453,13.9316239316239,35.2991452991453,"real"
+"13","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 7
+","Ja",139,0.58,0.153,0.287769784172662,0.510791366906475,18.7769784172662,41.0791366906475,"real"
+"14","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 8
+","Ja",65,0.616,0.142,0.338461538461538,0.538461538461538,23.8461538461538,43.8461538461538,"real"
+"15","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 9
+","Ja",28,0.619,0.149,0.321428571428571,0.607142857142857,22.1428571428571,50.7142857142857,"real"
+"16","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 0
+","Ja",12645,0.49,0.153,0.101383946223804,0.283353103993673,0.138394622380388,18.3353103993673,"real_conditional"
+"17","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 1
+","Ja",12645,0.49,0.153,0.101383946223804,0.283432186635034,0.138394622380388,18.3432186635034,"real_conditional"
+"18","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 10
+","Ja",12645,0.488,0.153,0.098220640569395,0.279478054567023,-0.177935943060499,17.9478054567023,"real_conditional"
+"19","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 11
+","Ja",12645,0.488,0.153,0.098220640569395,0.279478054567023,-0.177935943060499,17.9478054567023,"real_conditional"
+"20","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 12
+","Ja",12645,0.488,0.153,0.098220640569395,0.279478054567023,-0.177935943060499,17.9478054567023,"real_conditional"
+"21","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 13
+","Ja",12645,0.488,0.153,0.098220640569395,0.279478054567023,-0.177935943060499,17.9478054567023,"real_conditional"
+"22","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 14
+","Ja",12645,0.488,0.153,0.098220640569395,0.279478054567023,-0.177935943060499,17.9478054567023,"real_conditional"
+"23","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 2
+","Ja",12645,0.489,0.153,0.0995650454725188,0.28208778173191,-0.0434954527481227,18.208778173191,"real_conditional"
+"24","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 3
+","Ja",12645,0.489,0.153,0.0990905496243575,0.281296955318308,-0.0909450375642551,18.1296955318308,"real_conditional"
+"25","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 4
+","Ja",12645,0.489,0.153,0.0990905496243575,0.281296955318308,-0.0909450375642551,18.1296955318308,"real_conditional"
+"26","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 5
+","Ja",12645,0.489,0.153,0.0990905496243575,0.281296955318308,-0.0909450375642551,18.1296955318308,"real_conditional"
+"27","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 6
+","Ja",12645,0.489,0.153,0.0990905496243575,0.281296955318308,-0.0909450375642551,18.1296955318308,"real_conditional"
+"28","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 7
+","Ja",12645,0.488,0.153,0.098220640569395,0.279478054567023,-0.177935943060499,17.9478054567023,"real_conditional"
+"29","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 8
+","Ja",12645,0.488,0.153,0.098220640569395,0.279478054567023,-0.177935943060499,17.9478054567023,"real_conditional"
+"30","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 9
+","Ja",12645,0.488,0.153,0.098220640569395,0.279478054567023,-0.177935943060499,17.9478054567023,"real_conditional"
+"31","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 0
+","Ja",2304,0.61,0.089,0.106336805555556,0.642361111111111,0.633680555555555,54.2361111111111,"synth"
+"32","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 1
+","Ja",4081,0.61,0.086,0.101200686106346,0.625091889242833,0.120068610634648,52.5091889242833,"synth"
+"33","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 2
+","Ja",2854,0.61,0.084,0.0882971268395235,0.635949544498949,-1.17028731604765,53.5949544498949,"synth"
+"34","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 3
+","Ja",1799,0.612,0.087,0.102279043913285,0.631461923290717,0.227904391328515,53.1461923290717,"synth"
+"35","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 4
+","Ja",942,0.621,0.079,0.102972399150743,0.687898089171974,0.29723991507431,58.7898089171974,"synth"
+"36","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 5
+","Ja",394,0.631,0.073,0.114213197969543,0.723350253807107,1.42131979695431,62.3350253807107,"synth"
+"37","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 6
+","Ja",173,0.629,0.069,0.115606936416185,0.728323699421965,1.5606936416185,62.8323699421965,"synth"
+"38","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 7
+","Ja",76,0.622,0.073,0.105263157894737,0.697368421052632,0.526315789473683,59.7368421052632,"synth"
+"39","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 8
+","Ja",15,0.63,0.069,0.0666666666666667,0.866666666666667,-3.33333333333333,76.6666666666667,"synth"
+"40","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 9
+","Ja",7,0.604,0.06,0,0.285714285714286,-10,18.5714285714286,"synth"
+"41","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 0
+","Ja",12508,0.612,0.085,0.101455068755996,0.643188359449952,0.145506875599616,54.3188359449952,"synth_conditional"
+"42","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 1
+","Ja",12508,0.613,0.085,0.101854812919731,0.643268308282699,0.185481291973137,54.3268308282699,"synth_conditional"
+"43","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 10
+","Ja",12508,0.609,0.085,0.0926606971538216,0.628237927726255,-0.733930284617845,52.8237927726255,"synth_conditional"
+"44","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 11
+","Ja",12508,0.609,0.085,0.0926606971538216,0.628237927726255,-0.733930284617845,52.8237927726255,"synth_conditional"
+"45","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 12
+","Ja",12508,0.609,0.085,0.0926606971538216,0.628237927726255,-0.733930284617845,52.8237927726255,"synth_conditional"
+"46","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 13
+","Ja",12508,0.609,0.085,0.0926606971538216,0.628237927726255,-0.733930284617845,52.8237927726255,"synth_conditional"
+"47","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 14
+","Ja",12508,0.609,0.085,0.0926606971538216,0.628237927726255,-0.733930284617845,52.8237927726255,"synth_conditional"
+"48","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 2
+","Ja",12508,0.612,0.085,0.0994563479373201,0.640789894467541,-0.0543652062679895,54.0789894467541,"synth_conditional"
+"49","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 3
+","Ja",12508,0.611,0.085,0.0991365526063319,0.638871122481612,-0.086344739366806,53.8871122481612,"synth_conditional"
+"50","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 4
+","Ja",12508,0.611,0.085,0.0991365526063319,0.638871122481612,-0.086344739366806,53.8871122481612,"synth_conditional"
+"51","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 5
+","Ja",12508,0.611,0.085,0.0991365526063319,0.638871122481612,-0.086344739366806,53.8871122481612,"synth_conditional"
+"52","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 6
+","Ja",12508,0.611,0.085,0.0991365526063319,0.638871122481612,-0.086344739366806,53.8871122481612,"synth_conditional"
+"53","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 7
+","Ja",12508,0.609,0.085,0.0926606971538216,0.628237927726255,-0.733930284617845,52.8237927726255,"synth_conditional"
+"54","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 8
+","Ja",12508,0.609,0.085,0.0926606971538216,0.628237927726255,-0.733930284617845,52.8237927726255,"synth_conditional"
+"55","IV: 
+afspraak_afgelopen_jaar_voortgang_aanmelding_en_deelname: 9
+","Ja",12508,0.609,0.085,0.0926606971538216,0.628237927726255,-0.733930284617845,52.8237927726255,"synth_conditional"

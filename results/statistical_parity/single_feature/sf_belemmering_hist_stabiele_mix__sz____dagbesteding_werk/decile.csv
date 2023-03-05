@@ -1,0 +1,388 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1218,10.4102564102564,"real"
+"2",1,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",47,5.09761388286334,"real"
+"3",2,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1175,10.042735042735,"real"
+"4",2,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",88,9.54446854663774,"real"
+"5",2,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",2,9.09090909090909,"real"
+"6",3,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1131,9.66666666666667,"real"
+"7",3,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",130,14.0997830802603,"real"
+"8",3,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",3,13.6363636363636,"real"
+"9",3,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1,100,"real"
+"10",4,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1152,9.84615384615385,"real"
+"11",4,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",112,12.1475054229935,"real"
+"12",4,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1,4.54545454545455,"real"
+"13",5,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1150,9.82905982905983,"real"
+"14",5,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",112,12.1475054229935,"real"
+"15",5,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",3,13.6363636363636,"real"
+"16",6,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1150,9.82905982905983,"real"
+"17",6,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",111,12.0390455531453,"real"
+"18",6,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",3,13.6363636363636,"real"
+"19",7,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1177,10.0598290598291,"real"
+"20",7,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",85,9.21908893709328,"real"
+"21",7,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",2,9.09090909090909,"real"
+"22",8,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1187,10.1452991452991,"real"
+"23",8,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",77,8.35140997830803,"real"
+"24",9,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1166,9.96581196581197,"real"
+"25",9,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",91,9.86984815618221,"real"
+"26",9,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",7,31.8181818181818,"real"
+"27",10,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1194,10.2051282051282,"real"
+"28",10,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",69,7.48373101952278,"real"
+"29",10,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1,4.54545454545455,"real"
+"30",1,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1275,10.0830367734282,"real_conditional"
+"31",1,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1261,9.97232107552392,"real_conditional"
+"32",1,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1261,9.97232107552392,"real_conditional"
+"33",1,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1261,9.97232107552392,"real_conditional"
+"34",2,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1266,10.011862396204,"real_conditional"
+"35",2,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1264,9.99604586793199,"real_conditional"
+"36",2,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1264,9.99604586793199,"real_conditional"
+"37",2,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1264,9.99604586793199,"real_conditional"
+"38",3,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1271,10.0514037168841,"real_conditional"
+"39",3,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1263,9.98813760379597,"real_conditional"
+"40",3,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1262,9.98022933965994,"real_conditional"
+"41",3,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1262,9.98022933965994,"real_conditional"
+"42",4,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1264,9.99604586793199,"real_conditional"
+"43",4,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1264,9.99604586793199,"real_conditional"
+"44",4,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1265,10.003954132068,"real_conditional"
+"45",4,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1265,10.003954132068,"real_conditional"
+"46",5,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1263,9.98813760379597,"real_conditional"
+"47",5,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1265,10.003954132068,"real_conditional"
+"48",5,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1265,10.003954132068,"real_conditional"
+"49",5,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1265,10.003954132068,"real_conditional"
+"50",6,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1260,9.9644128113879,"real_conditional"
+"51",6,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1266,10.011862396204,"real_conditional"
+"52",6,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1266,10.011862396204,"real_conditional"
+"53",6,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1266,10.011862396204,"real_conditional"
+"54",7,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1263,9.98813760379597,"real_conditional"
+"55",7,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1265,10.003954132068,"real_conditional"
+"56",7,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1265,10.003954132068,"real_conditional"
+"57",7,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1265,10.003954132068,"real_conditional"
+"58",8,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1266,10.011862396204,"real_conditional"
+"59",8,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1264,9.99604586793199,"real_conditional"
+"60",8,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1264,9.99604586793199,"real_conditional"
+"61",8,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1264,9.99604586793199,"real_conditional"
+"62",9,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1262,9.98022933965994,"real_conditional"
+"63",9,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1266,10.011862396204,"real_conditional"
+"64",9,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1265,10.003954132068,"real_conditional"
+"65",9,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1265,10.003954132068,"real_conditional"
+"66",10,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1255,9.92487149070779,"real_conditional"
+"67",10,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1267,10.0197706603401,"real_conditional"
+"68",10,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1268,10.0276789244761,"real_conditional"
+"69",10,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1268,10.0276789244761,"real_conditional"
+"70",1,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1164,9.93937323883528,"synth"
+"71",1,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",101,10.813704496788,"synth"
+"72",2,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1166,9.95645119972675,"synth"
+"73",2,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",99,10.5995717344754,"synth"
+"74",3,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1171,9.99914610195543,"synth"
+"75",3,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",94,10.0642398286938,"synth"
+"76",4,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1175,10.0333020237384,"synth"
+"77",4,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",90,9.63597430406852,"synth"
+"78",5,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1171,9.99914610195543,"synth"
+"79",5,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",94,10.0642398286938,"synth"
+"80",6,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1161,9.91375629749808,"synth"
+"81",6,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",103,11.0278372591006,"synth"
+"82",7,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1186,10.1272308086414,"synth"
+"83",7,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",78,8.35117773019272,"synth"
+"84",8,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1179,10.0674579455213,"synth"
+"85",8,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",85,9.10064239828694,"synth"
+"86",9,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1162,9.92229527794381,"synth"
+"87",9,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",102,10.9207708779443,"synth"
+"88",10,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1176,10.0418410041841,"synth"
+"89",10,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",88,9.42184154175589,"synth"
+"90",1,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1254,10.0255836264791,"synth_conditional"
+"91",1,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1250,9.99360409338024,"synth_conditional"
+"92",1,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1250,9.99360409338024,"synth_conditional"
+"93",1,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1250,9.99360409338024,"synth_conditional"
+"94",2,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1261,10.081547809402,"synth_conditional"
+"95",2,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1248,9.97761432683083,"synth_conditional"
+"96",2,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1248,9.97761432683083,"synth_conditional"
+"97",2,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1247,9.96961944355612,"synth_conditional"
+"98",3,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1253,10.0175887432043,"synth_conditional"
+"99",3,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1250,9.99360409338024,"synth_conditional"
+"100",3,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1250,9.99360409338024,"synth_conditional"
+"101",3,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1250,9.99360409338024,"synth_conditional"
+"102",4,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1254,10.0255836264791,"synth_conditional"
+"103",4,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1250,9.99360409338024,"synth_conditional"
+"104",4,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1249,9.98560921010553,"synth_conditional"
+"105",4,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1250,9.99360409338024,"synth_conditional"
+"106",5,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1244,9.94563479373201,"synth_conditional"
+"107",5,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1253,10.0175887432043,"synth_conditional"
+"108",5,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1253,10.0175887432043,"synth_conditional"
+"109",5,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1253,10.0175887432043,"synth_conditional"
+"110",6,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1258,10.0575631595779,"synth_conditional"
+"111",6,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1248,9.97761432683083,"synth_conditional"
+"112",6,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1249,9.98560921010553,"synth_conditional"
+"113",6,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1248,9.97761432683083,"synth_conditional"
+"114",7,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1247,9.96961944355612,"synth_conditional"
+"115",7,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1252,10.0095938599296,"synth_conditional"
+"116",7,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1252,10.0095938599296,"synth_conditional"
+"117",7,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1252,10.0095938599296,"synth_conditional"
+"118",8,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1249,9.98560921010553,"synth_conditional"
+"119",8,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1251,10.0015989766549,"synth_conditional"
+"120",8,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1251,10.0015989766549,"synth_conditional"
+"121",8,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1252,10.0095938599296,"synth_conditional"
+"122",9,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1244,9.94563479373201,"synth_conditional"
+"123",9,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1253,10.0175887432043,"synth_conditional"
+"124",9,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1253,10.0175887432043,"synth_conditional"
+"125",9,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1253,10.0175887432043,"synth_conditional"
+"126",10,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 0
+",1244,9.94563479373201,"synth_conditional"
+"127",10,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 1
+",1253,10.0175887432043,"synth_conditional"
+"128",10,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 2
+",1253,10.0175887432043,"synth_conditional"
+"129",10,"IV: 
+belemmering_hist_stabiele_mix__sz____dagbesteding_werk: 3
+",1253,10.0175887432043,"synth_conditional"

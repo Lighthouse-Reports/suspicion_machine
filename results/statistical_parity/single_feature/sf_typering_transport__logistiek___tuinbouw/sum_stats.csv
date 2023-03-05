@@ -1,0 +1,41 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+typering_transport__logistiek___tuinbouw: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+","Ja",5868,0.468,0.152,0.0743012951601909,0.245569188820723,-2.56987048398091,14.5569188820723,"real"
+"2","IV: 
+typering_transport__logistiek___tuinbouw: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+","Ja",956,0.438,0.158,0.053347280334728,0.191422594142259,-4.6652719665272,9.14225941422594,"real"
+"3","IV: 
+typering_transport__logistiek___tuinbouw: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+","Ja",12645,0.487,0.153,0.0977461447212337,0.277975484381178,-0.225385527876631,17.7975484381178,"real_conditional"
+"4","IV: 
+typering_transport__logistiek___tuinbouw: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+","Ja",12645,0.487,0.153,0.0977461447212337,0.277975484381178,-0.225385527876631,17.7975484381178,"real_conditional"
+"5","IV: 
+typering_transport__logistiek___tuinbouw: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+","Ja",12645,0.488,0.153,0.0981415579280348,0.279003558718861,-0.185844207196521,17.9003558718861,"real_conditional"
+"6","IV: 
+typering_transport__logistiek___tuinbouw: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+","Ja",12508,0.61,0.086,0.0967380876239207,0.632635113527342,-0.326191237607931,53.2635113527342,"synth_conditional"
+"7","IV: 
+typering_transport__logistiek___tuinbouw: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+","Ja",12508,0.61,0.086,0.0967380876239207,0.632635113527342,-0.326191237607931,53.2635113527342,"synth_conditional"
+"8","IV: 
+typering_transport__logistiek___tuinbouw: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+","Ja",12508,0.611,0.086,0.0983370642788615,0.635913015669971,-0.166293572113847,53.5913015669971,"synth_conditional"

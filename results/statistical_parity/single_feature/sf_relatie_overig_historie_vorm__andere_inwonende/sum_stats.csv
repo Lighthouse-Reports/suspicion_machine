@@ -1,0 +1,103 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","Ja",10598,0.475,0.152,0.0862426872994905,0.248348745046235,-1.37573127005095,14.8348745046235,"real"
+"2","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","Ja",1373,0.556,0.138,0.161689730517116,0.431172614712309,6.16897305171158,33.1172614712309,"real"
+"3","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","Ja",413,0.575,0.134,0.188861985472155,0.498789346246973,8.8861985472155,39.8789346246973,"real"
+"4","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","Ja",152,0.577,0.128,0.177631578947368,0.493421052631579,7.76315789473684,39.3421052631579,"real"
+"5","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","Ja",55,0.566,0.119,0.127272727272727,0.490909090909091,2.72727272727273,39.0909090909091,"real"
+"6","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+","Ja",34,0.604,0.144,0.352941176470588,0.529411764705882,25.2941176470588,42.9411764705882,"real"
+"7","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+","Ja",10,0.624,0.085,0.2,0.8,10,70,"real"
+"8","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+","Ja",3,0.732,0.048,0.666666666666667,1,56.6666666666667,90,"real"
+"9","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+","Ja",5,0.64,0.085,0.2,0.8,10,70,"real"
+"10","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+","Ja",2,0.574,0.028,0,0.5,-10,40,"real"
+"11","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","Ja",12645,0.486,0.152,0.0950573349149862,0.274021352313167,-0.494266508501384,17.4021352313167,"real_conditional"
+"12","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","Ja",12645,0.506,0.149,0.115776986951364,0.311427441676552,1.57769869513642,21.1427441676552,"real_conditional"
+"13","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","Ja",12645,0.506,0.149,0.116488730723606,0.312139185448794,1.64887307236062,21.2139185448794,"real_conditional"
+"14","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","Ja",12645,0.507,0.149,0.118228548833531,0.314511664689601,1.8228548833531,21.4511664689601,"real_conditional"
+"15","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","Ja",12645,0.509,0.149,0.120442862791617,0.320047449584816,2.04428627916172,22.0047449584816,"real_conditional"
+"16","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+","Ja",12645,0.509,0.149,0.120442862791617,0.320047449584816,2.04428627916172,22.0047449584816,"real_conditional"
+"17","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+","Ja",12645,0.509,0.149,0.120442862791617,0.320047449584816,2.04428627916172,22.0047449584816,"real_conditional"
+"18","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+","Ja",12645,0.509,0.149,0.120442862791617,0.320047449584816,2.04428627916172,22.0047449584816,"real_conditional"
+"19","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+","Ja",12645,0.509,0.149,0.120442862791617,0.320047449584816,2.04428627916172,22.0047449584816,"real_conditional"
+"20","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+","Ja",12645,0.509,0.149,0.120442862791617,0.320047449584816,2.04428627916172,22.0047449584816,"real_conditional"
+"21","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","Ja",5959,0.594,0.088,0.0701459976506125,0.553280751803994,-2.98540023493875,45.3280751803994,"synth"
+"22","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","Ja",6019,0.626,0.08,0.124937697291909,0.711746137232098,2.4937697291909,61.1746137232098,"synth"
+"23","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","Ja",652,0.643,0.07,0.141104294478528,0.789877300613497,4.11042944785276,68.9877300613497,"synth"
+"24","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","Ja",15,0.65,0.065,0.2,0.866666666666667,10,76.6666666666667,"synth"
+"25","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 0
+","Ja",12508,0.606,0.085,0.0853853533738407,0.613847137831788,-1.46146466261593,51.3847137831788,"synth_conditional"
+"26","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 1
+","Ja",12508,0.617,0.083,0.108330668372242,0.664614646626159,0.833066837224177,56.4614646626159,"synth_conditional"
+"27","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 2
+","Ja",12508,0.618,0.083,0.109290054365206,0.665574032619124,0.929005436520626,56.5574032619124,"synth_conditional"
+"28","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 3
+","Ja",12508,0.619,0.083,0.1121682123441,0.669091781259994,1.21682123440998,56.9091781259994,"synth_conditional"
+"29","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 4
+","Ja",12508,0.62,0.083,0.117604732970899,0.675247841381516,1.76047329708986,57.5247841381516,"synth_conditional"
+"30","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 5
+","Ja",12508,0.62,0.083,0.117604732970899,0.675247841381516,1.76047329708986,57.5247841381516,"synth_conditional"
+"31","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 6
+","Ja",12508,0.62,0.083,0.117604732970899,0.675247841381516,1.76047329708986,57.5247841381516,"synth_conditional"
+"32","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 7
+","Ja",12508,0.62,0.083,0.117604732970899,0.675247841381516,1.76047329708986,57.5247841381516,"synth_conditional"
+"33","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 8
+","Ja",12508,0.62,0.083,0.117604732970899,0.675247841381516,1.76047329708986,57.5247841381516,"synth_conditional"
+"34","IV: 
+relatie_overig_historie_vorm__andere_inwonende: 9
+","Ja",12508,0.62,0.083,0.117604732970899,0.675247841381516,1.76047329708986,57.5247841381516,"synth_conditional"

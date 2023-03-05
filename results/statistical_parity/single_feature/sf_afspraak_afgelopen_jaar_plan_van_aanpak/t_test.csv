@@ -1,0 +1,276 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+",4405,5621,3.79e-08,"****",4.54e-07,"****","real"
+"2","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+",4405,2304,0.554,"ns",1,"ns","real"
+"3","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+",5621,2304,0.000113,"***",0.000906,"***","real"
+"4","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+",4405,287,1.06e-15,"****",1.38e-14,"****","real"
+"5","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+",5621,287,4.39e-23,"****",6.59e-22,"****","real"
+"6","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+",2304,287,8.41e-16,"****",1.18e-14,"****","real"
+"7","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+",4405,24,1.18e-05,"****",0.000106,"***","real"
+"8","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+",5621,24,8.42e-07,"****",9.26e-06,"****","real"
+"9","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+",2304,24,8.77e-06,"****",8.77e-05,"****","real"
+"10","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+",287,24,0.0548,"ns",0.384,"ns","real"
+"11","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 5
+",4405,4,0.109,"ns",0.512,"ns","real"
+"12","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 5
+",5621,4,0.068,"ns",0.408,"ns","real"
+"13","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 5
+",2304,4,0.102,"ns",0.512,"ns","real"
+"14","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 5
+",287,4,0.534,"ns",1,"ns","real"
+"15","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 5
+",24,4,0.86,"ns",1,"ns","real"
+"16","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"17","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+",12645,12645,0.837,"ns",1,"ns","real_conditional"
+"18","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+",12645,12645,0.837,"ns",1,"ns","real_conditional"
+"19","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+",12645,12645,0.934,"ns",1,"ns","real_conditional"
+"20","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+",12645,12645,0.934,"ns",1,"ns","real_conditional"
+"21","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+",12645,12645,0.773,"ns",1,"ns","real_conditional"
+"22","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+",12645,12645,0.934,"ns",1,"ns","real_conditional"
+"23","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+",12645,12645,0.934,"ns",1,"ns","real_conditional"
+"24","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+",12645,12645,0.773,"ns",1,"ns","real_conditional"
+"25","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"26","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 5
+",12645,12645,0.934,"ns",1,"ns","real_conditional"
+"27","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 5
+",12645,12645,0.934,"ns",1,"ns","real_conditional"
+"28","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 5
+",12645,12645,0.773,"ns",1,"ns","real_conditional"
+"29","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"30","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"31","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+",4512,5938,0.0742,"ns",0.594,"ns","synth"
+"32","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+",4512,1888,0.0528,"ns",0.528,"ns","synth"
+"33","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+",5938,1888,0.5,"ns",1,"ns","synth"
+"34","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+",4512,279,0.267,"ns",1,"ns","synth"
+"35","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+",5938,279,0.0902,"ns",0.631,"ns","synth"
+"36","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+",1888,279,0.058,"ns",0.528,"ns","synth"
+"37","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+",4512,28,0.677,"ns",1,"ns","synth"
+"38","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+",5938,28,0.546,"ns",1,"ns","synth"
+"39","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+",1888,28,0.488,"ns",1,"ns","synth"
+"40","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+",279,28,0.958,"ns",1,"ns","synth"
+"41","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"42","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+",12508,12508,0.978,"ns",1,"ns","synth_conditional"
+"43","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+",12508,12508,0.978,"ns",1,"ns","synth_conditional"
+"44","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+",12508,12508,0.675,"ns",1,"ns","synth_conditional"
+"45","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+",12508,12508,0.675,"ns",1,"ns","synth_conditional"
+"46","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+",12508,12508,0.655,"ns",1,"ns","synth_conditional"
+"47","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+",12508,12508,0.675,"ns",1,"ns","synth_conditional"
+"48","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+",12508,12508,0.675,"ns",1,"ns","synth_conditional"
+"49","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+",12508,12508,0.655,"ns",1,"ns","synth_conditional"
+"50","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"51","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 0
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 5
+",12508,12508,0.675,"ns",1,"ns","synth_conditional"
+"52","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 1
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 5
+",12508,12508,0.675,"ns",1,"ns","synth_conditional"
+"53","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 2
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 5
+",12508,12508,0.655,"ns",1,"ns","synth_conditional"
+"54","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 3
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"55","Ja","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 4
+","IV: 
+afspraak_afgelopen_jaar_plan_van_aanpak: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"

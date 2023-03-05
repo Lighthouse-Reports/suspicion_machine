@@ -1,0 +1,21 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+","IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",9426,3219,1.08e-28,"****",1.08e-28,"****","real"
+"2","Ja","IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+","IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",12645,12645,0.622,"ns",0.622,"ns","real_conditional"
+"3","Ja","IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+","IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",7644,5001,0.000227,"***",0.000227,"***","synth"
+"4","Ja","IV: 
+persoonlijke_eigenschappen_hobbies_sport: 0
+","IV: 
+persoonlijke_eigenschappen_hobbies_sport: 1
+",12508,12508,0.373,"ns",0.373,"ns","synth_conditional"

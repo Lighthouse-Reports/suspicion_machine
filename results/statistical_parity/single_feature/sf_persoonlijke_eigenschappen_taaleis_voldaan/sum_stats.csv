@@ -1,0 +1,37 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+","Ja",5054,0.516,0.155,0.139097744360902,0.349228333992877,3.90977443609022,24.9228333992877,"real"
+"2","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+","Ja",6660,0.469,0.15,0.0722222222222222,0.232732732732733,-2.77777777777778,13.2732732732733,"real"
+"3","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+","Ja",931,0.488,0.146,0.0870032223415682,0.269602577873255,-1.29967776584318,16.9602577873255,"real"
+"4","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+","Ja",12645,0.494,0.152,0.10351917754053,0.291340450771056,0.351917754052984,19.1340450771056,"real_conditional"
+"5","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+","Ja",12645,0.486,0.152,0.0942665085013839,0.273705021747726,-0.573349149861606,17.3705021747726,"real_conditional"
+"6","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+","Ja",12645,0.487,0.152,0.0951364175563464,0.27489126136813,-0.486358244365363,17.489126136813,"real_conditional"
+"7","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+","Ja",5043,0.626,0.084,0.14039262343843,0.698988697204045,4.03926234384295,59.8988697204045,"synth"
+"8","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+","Ja",7011,0.6,0.084,0.0646127513906718,0.593353301954072,-3.53872486093282,49.3353301954072,"synth"
+"9","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+","Ja",591,0.633,0.084,0.175972927241963,0.717428087986464,7.59729272419628,61.7428087986464,"synth"
+"10","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+","Ja",12508,0.617,0.084,0.109529900863447,0.661096897985289,0.952990086344739,56.1096897985289,"synth_conditional"
+"11","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+","Ja",12508,0.609,0.085,0.0911416693316278,0.626958746402303,-0.885833066837224,52.6958746402303,"synth_conditional"
+"12","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 2
+","Ja",12508,0.609,0.085,0.0909018228333866,0.628397825391749,-0.909817716661337,52.8397825391749,"synth_conditional"

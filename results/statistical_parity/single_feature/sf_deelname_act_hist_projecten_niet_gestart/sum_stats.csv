@@ -1,0 +1,145 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+deelname_act_hist_projecten_niet_gestart: 0
+","Ja",4770,0.46,0.151,0.0710691823899371,0.219706498951782,-2.89308176100629,11.9706498951782,"real"
+"2","IV: 
+deelname_act_hist_projecten_niet_gestart: 1
+","Ja",3566,0.48,0.154,0.0933819405496354,0.261076836791924,-0.661805945036456,16.1076836791924,"real"
+"3","IV: 
+deelname_act_hist_projecten_niet_gestart: 10
+","Ja",3,0.65,0.023,0,1,-10,90,"real"
+"4","IV: 
+deelname_act_hist_projecten_niet_gestart: 11
+","Ja",3,0.731,0.031,1,1,90,90,"real"
+"5","IV: 
+deelname_act_hist_projecten_niet_gestart: 12
+","Ja",4,0.667,0.072,0.25,1,15,90,"real"
+"6","IV: 
+deelname_act_hist_projecten_niet_gestart: 2
+","Ja",2086,0.508,0.15,0.11313518696069,0.311601150527325,1.31351869606903,21.1601150527325,"real"
+"7","IV: 
+deelname_act_hist_projecten_niet_gestart: 3
+","Ja",1098,0.534,0.146,0.14207650273224,0.389799635701275,4.20765027322404,28.9799635701275,"real"
+"8","IV: 
+deelname_act_hist_projecten_niet_gestart: 4
+","Ja",556,0.553,0.133,0.14568345323741,0.413669064748201,4.56834532374101,31.3669064748201,"real"
+"9","IV: 
+deelname_act_hist_projecten_niet_gestart: 5
+","Ja",282,0.546,0.138,0.148936170212766,0.418439716312057,4.89361702127659,31.8439716312057,"real"
+"10","IV: 
+deelname_act_hist_projecten_niet_gestart: 6
+","Ja",148,0.582,0.142,0.243243243243243,0.506756756756757,14.3243243243243,40.6756756756757,"real"
+"11","IV: 
+deelname_act_hist_projecten_niet_gestart: 7
+","Ja",80,0.616,0.128,0.3125,0.6125,21.25,51.25,"real"
+"12","IV: 
+deelname_act_hist_projecten_niet_gestart: 8
+","Ja",38,0.61,0.113,0.289473684210526,0.552631578947368,18.9473684210526,45.2631578947368,"real"
+"13","IV: 
+deelname_act_hist_projecten_niet_gestart: 9
+","Ja",11,0.614,0.111,0.181818181818182,0.545454545454545,8.18181818181818,44.5454545454545,"real"
+"14","IV: 
+deelname_act_hist_projecten_niet_gestart: 0
+","Ja",12645,0.488,0.154,0.0995650454725188,0.279478054567023,-0.0434954527481227,17.9478054567023,"real_conditional"
+"15","IV: 
+deelname_act_hist_projecten_niet_gestart: 1
+","Ja",12645,0.488,0.153,0.099644128113879,0.279952550415184,-0.0355871886121004,17.9952550415184,"real_conditional"
+"16","IV: 
+deelname_act_hist_projecten_niet_gestart: 10
+","Ja",12645,0.487,0.151,0.0941083432186635,0.275444839857651,-0.589165678133651,17.5444839857651,"real_conditional"
+"17","IV: 
+deelname_act_hist_projecten_niet_gestart: 11
+","Ja",12645,0.487,0.151,0.0941083432186635,0.275444839857651,-0.589165678133651,17.5444839857651,"real_conditional"
+"18","IV: 
+deelname_act_hist_projecten_niet_gestart: 12
+","Ja",12645,0.487,0.151,0.0941083432186635,0.275444839857651,-0.589165678133651,17.5444839857651,"real_conditional"
+"19","IV: 
+deelname_act_hist_projecten_niet_gestart: 2
+","Ja",12645,0.492,0.152,0.101463028865164,0.285488335310399,0.14630288651641,18.5488335310399,"real_conditional"
+"20","IV: 
+deelname_act_hist_projecten_niet_gestart: 3
+","Ja",12645,0.492,0.152,0.101383946223804,0.286041913799921,0.138394622380388,18.6041913799921,"real_conditional"
+"21","IV: 
+deelname_act_hist_projecten_niet_gestart: 4
+","Ja",12645,0.492,0.152,0.101383946223804,0.286041913799921,0.138394622380388,18.6041913799921,"real_conditional"
+"22","IV: 
+deelname_act_hist_projecten_niet_gestart: 5
+","Ja",12645,0.492,0.152,0.101383946223804,0.286041913799921,0.138394622380388,18.6041913799921,"real_conditional"
+"23","IV: 
+deelname_act_hist_projecten_niet_gestart: 6
+","Ja",12645,0.492,0.152,0.100276789244761,0.28580466587584,0.0276789244760767,18.580466587584,"real_conditional"
+"24","IV: 
+deelname_act_hist_projecten_niet_gestart: 7
+","Ja",12645,0.491,0.152,0.0994859628311586,0.283511269276394,-0.051403716884145,18.3511269276394,"real_conditional"
+"25","IV: 
+deelname_act_hist_projecten_niet_gestart: 8
+","Ja",12645,0.487,0.151,0.0941083432186635,0.275444839857651,-0.589165678133651,17.5444839857651,"real_conditional"
+"26","IV: 
+deelname_act_hist_projecten_niet_gestart: 9
+","Ja",12645,0.487,0.151,0.0941083432186635,0.275444839857651,-0.589165678133651,17.5444839857651,"real_conditional"
+"27","IV: 
+deelname_act_hist_projecten_niet_gestart: 0
+","Ja",1958,0.592,0.089,0.0633299284984678,0.548008171603677,-3.66700715015322,44.8008171603677,"synth"
+"28","IV: 
+deelname_act_hist_projecten_niet_gestart: 1
+","Ja",4357,0.608,0.087,0.0906587101216433,0.623823731925637,-0.934128987835667,52.3823731925637,"synth"
+"29","IV: 
+deelname_act_hist_projecten_niet_gestart: 2
+","Ja",3290,0.616,0.083,0.102431610942249,0.661398176291793,0.243161094224924,56.1398176291793,"synth"
+"30","IV: 
+deelname_act_hist_projecten_niet_gestart: 3
+","Ja",1877,0.621,0.082,0.122003196590304,0.682472029834843,2.20031965903037,58.2472029834843,"synth"
+"31","IV: 
+deelname_act_hist_projecten_niet_gestart: 4
+","Ja",813,0.633,0.077,0.153751537515375,0.730627306273063,5.37515375153751,63.0627306273063,"synth"
+"32","IV: 
+deelname_act_hist_projecten_niet_gestart: 5
+","Ja",252,0.637,0.075,0.126984126984127,0.746031746031746,2.6984126984127,64.6031746031746,"synth"
+"33","IV: 
+deelname_act_hist_projecten_niet_gestart: 6
+","Ja",77,0.647,0.073,0.207792207792208,0.779220779220779,10.7792207792208,67.9220779220779,"synth"
+"34","IV: 
+deelname_act_hist_projecten_niet_gestart: 7
+","Ja",18,0.673,0.086,0.388888888888889,0.888888888888889,28.8888888888889,78.8888888888889,"synth"
+"35","IV: 
+deelname_act_hist_projecten_niet_gestart: 8
+","Ja",3,0.619,0.023,0,1,-10,90,"synth"
+"36","IV: 
+deelname_act_hist_projecten_niet_gestart: 0
+","Ja",12508,0.611,0.086,0.0989766549408379,0.637352094659418,-0.102334505916214,53.7352094659418,"synth_conditional"
+"37","IV: 
+deelname_act_hist_projecten_niet_gestart: 1
+","Ja",12508,0.611,0.086,0.100095938599296,0.638551327150624,0.00959385992964495,53.8551327150624,"synth_conditional"
+"38","IV: 
+deelname_act_hist_projecten_niet_gestart: 10
+","Ja",12508,0.602,0.085,0.0745922609529901,0.595778701630956,-2.54077390470099,49.5778701630956,"synth_conditional"
+"39","IV: 
+deelname_act_hist_projecten_niet_gestart: 11
+","Ja",12508,0.602,0.085,0.0745922609529901,0.595778701630956,-2.54077390470099,49.5778701630956,"synth_conditional"
+"40","IV: 
+deelname_act_hist_projecten_niet_gestart: 12
+","Ja",12508,0.602,0.085,0.0745922609529901,0.595778701630956,-2.54077390470099,49.5778701630956,"synth_conditional"
+"41","IV: 
+deelname_act_hist_projecten_niet_gestart: 2
+","Ja",12508,0.613,0.085,0.100095938599296,0.643668052446434,0.00959385992964495,54.3668052446434,"synth_conditional"
+"42","IV: 
+deelname_act_hist_projecten_niet_gestart: 3
+","Ja",12508,0.613,0.085,0.100175887432043,0.643827950111928,0.0175887432043484,54.3827950111928,"synth_conditional"
+"43","IV: 
+deelname_act_hist_projecten_niet_gestart: 4
+","Ja",12508,0.613,0.085,0.100175887432043,0.643827950111928,0.0175887432043484,54.3827950111928,"synth_conditional"
+"44","IV: 
+deelname_act_hist_projecten_niet_gestart: 5
+","Ja",12508,0.613,0.085,0.100175887432043,0.643827950111928,0.0175887432043484,54.3827950111928,"synth_conditional"
+"45","IV: 
+deelname_act_hist_projecten_niet_gestart: 6
+","Ja",12508,0.612,0.085,0.0991365526063319,0.643188359449952,-0.086344739366806,54.3188359449952,"synth_conditional"
+"46","IV: 
+deelname_act_hist_projecten_niet_gestart: 7
+","Ja",12508,0.609,0.085,0.089702590342181,0.625599616245603,-1.0297409657819,52.5599616245603,"synth_conditional"
+"47","IV: 
+deelname_act_hist_projecten_niet_gestart: 8
+","Ja",12508,0.602,0.085,0.0745922609529901,0.595778701630956,-2.54077390470099,49.5778701630956,"synth_conditional"
+"48","IV: 
+deelname_act_hist_projecten_niet_gestart: 9
+","Ja",12508,0.602,0.085,0.0745922609529901,0.595778701630956,-2.54077390470099,49.5778701630956,"synth_conditional"

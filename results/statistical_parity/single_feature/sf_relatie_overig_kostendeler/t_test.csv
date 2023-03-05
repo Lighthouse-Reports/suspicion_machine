@@ -1,0 +1,21 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+relatie_overig_kostendeler: 0
+","IV: 
+relatie_overig_kostendeler: 1
+",10517,2128,0,"****",0,"****","real"
+"2","Ja","IV: 
+relatie_overig_kostendeler: 0
+","IV: 
+relatie_overig_kostendeler: 1
+",12645,12645,1.24e-109,"****",1.24e-109,"****","real_conditional"
+"3","Ja","IV: 
+relatie_overig_kostendeler: 0
+","IV: 
+relatie_overig_kostendeler: 1
+",9495,3150,2.65e-307,"****",2.65e-307,"****","synth"
+"4","Ja","IV: 
+relatie_overig_kostendeler: 0
+","IV: 
+relatie_overig_kostendeler: 1
+",12508,12508,2.43e-173,"****",2.43e-173,"****","synth_conditional"

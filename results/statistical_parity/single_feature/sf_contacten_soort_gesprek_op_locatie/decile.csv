@@ -1,0 +1,655 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1101,9.49956859361519,"real"
+"2",1,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",140,16.5680473372781,"real"
+"3",1,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",19,13.8686131386861,"real"
+"4",1,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",4,8.16326530612245,"real"
+"5",1,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1,5,"real"
+"6",2,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1133,9.77566867989646,"real"
+"7",2,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",114,13.491124260355,"real"
+"8",2,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",15,10.9489051094891,"real"
+"9",2,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",2,4.08163265306122,"real"
+"10",2,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1,5,"real"
+"11",3,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1132,9.76704055220017,"real"
+"12",3,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",105,12.4260355029586,"real"
+"13",3,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",16,11.6788321167883,"real"
+"14",3,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",9,18.3673469387755,"real"
+"15",3,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",2,10,"real"
+"16",3,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1,33.3333333333333,"real"
+"17",4,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1158,9.99137187230371,"real"
+"18",4,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",86,10.1775147928994,"real"
+"19",4,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",15,10.9489051094891,"real"
+"20",4,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",5,10.2040816326531,"real"
+"21",4,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1,5,"real"
+"22",5,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1147,9.89646246764452,"real"
+"23",5,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",95,11.2426035502959,"real"
+"24",5,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",15,10.9489051094891,"real"
+"25",5,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",3,6.12244897959184,"real"
+"26",5,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",5,25,"real"
+"27",6,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1154,9.95685936151855,"real"
+"28",6,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",89,10.5325443786982,"real"
+"29",6,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",10,7.2992700729927,"real"
+"30",6,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",6,12.2448979591837,"real"
+"31",6,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",3,15,"real"
+"32",6,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1,33.3333333333333,"real"
+"33",6,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1,100,"real"
+"34",7,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1160,10.0086281276963,"real"
+"35",7,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",74,8.75739644970414,"real"
+"36",7,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",15,10.9489051094891,"real"
+"37",7,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",14,28.5714285714286,"real"
+"38",7,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1,5,"real"
+"39",8,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1173,10.1207937877481,"real"
+"40",8,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",66,7.81065088757396,"real"
+"41",8,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",19,13.8686131386861,"real"
+"42",8,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",3,6.12244897959184,"real"
+"43",8,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",3,15,"real"
+"44",9,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1205,10.3968938740293,"real"
+"45",9,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",47,5.56213017751479,"real"
+"46",9,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",8,5.83941605839416,"real"
+"47",9,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",2,4.08163265306122,"real"
+"48",9,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",2,10,"real"
+"49",10,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1227,10.5867126833477,"real"
+"50",10,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",29,3.43195266272189,"real"
+"51",10,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",5,3.64963503649635,"real"
+"52",10,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1,2.04081632653061,"real"
+"53",10,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1,5,"real"
+"54",10,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1,33.3333333333333,"real"
+"55",1,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1075,8.5013839462238,"real_conditional"
+"56",1,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1229,9.71925662317121,"real_conditional"
+"57",1,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1310,10.359826018189,"real_conditional"
+"58",1,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1310,10.359826018189,"real_conditional"
+"59",1,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1310,10.359826018189,"real_conditional"
+"60",1,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1309,10.351917754053,"real_conditional"
+"61",1,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1309,10.351917754053,"real_conditional"
+"62",2,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1161,9.18149466192171,"real_conditional"
+"63",2,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1239,9.79833926453144,"real_conditional"
+"64",2,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1290,10.2016607354686,"real_conditional"
+"65",2,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1290,10.2016607354686,"real_conditional"
+"66",2,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1290,10.2016607354686,"real_conditional"
+"67",2,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1291,10.2095689996046,"real_conditional"
+"68",2,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1291,10.2095689996046,"real_conditional"
+"69",3,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1190,9.41083432186635,"real_conditional"
+"70",3,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1252,9.90114669829972,"real_conditional"
+"71",3,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1282,10.1383946223804,"real_conditional"
+"72",3,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1282,10.1383946223804,"real_conditional"
+"73",3,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1282,10.1383946223804,"real_conditional"
+"74",3,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1282,10.1383946223804,"real_conditional"
+"75",3,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1282,10.1383946223804,"real_conditional"
+"76",4,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1241,9.81415579280348,"real_conditional"
+"77",4,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1276,10.0909450375643,"real_conditional"
+"78",4,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1267,10.0197706603401,"real_conditional"
+"79",4,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1267,10.0197706603401,"real_conditional"
+"80",4,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1267,10.0197706603401,"real_conditional"
+"81",4,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1267,10.0197706603401,"real_conditional"
+"82",4,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1267,10.0197706603401,"real_conditional"
+"83",5,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1220,9.64808224594701,"real_conditional"
+"84",5,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1240,9.80624752866746,"real_conditional"
+"85",5,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1279,10.1146698299723,"real_conditional"
+"86",5,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1279,10.1146698299723,"real_conditional"
+"87",5,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1278,10.1067615658363,"real_conditional"
+"88",5,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1278,10.1067615658363,"real_conditional"
+"89",5,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1278,10.1067615658363,"real_conditional"
+"90",6,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1328,10.5021747726374,"real_conditional"
+"91",6,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1285,10.1621194147885,"real_conditional"
+"92",6,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1247,9.86160537761961,"real_conditional"
+"93",6,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1247,9.86160537761961,"real_conditional"
+"94",6,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1248,9.86951364175563,"real_conditional"
+"95",6,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1248,9.86951364175563,"real_conditional"
+"96",6,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1248,9.86951364175563,"real_conditional"
+"97",7,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1200,9.48991696322657,"real_conditional"
+"98",7,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1236,9.77461447212337,"real_conditional"
+"99",7,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1283,10.1463028865164,"real_conditional"
+"100",7,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1283,10.1463028865164,"real_conditional"
+"101",7,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1283,10.1463028865164,"real_conditional"
+"102",7,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1283,10.1463028865164,"real_conditional"
+"103",7,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1283,10.1463028865164,"real_conditional"
+"104",8,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1325,10.4784499802293,"real_conditional"
+"105",8,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1277,10.0988533017003,"real_conditional"
+"106",8,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1250,9.88533017002768,"real_conditional"
+"107",8,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1250,9.88533017002768,"real_conditional"
+"108",8,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1250,9.88533017002768,"real_conditional"
+"109",8,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1250,9.88533017002768,"real_conditional"
+"110",8,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1249,9.87742190589166,"real_conditional"
+"111",9,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1384,10.9450375642546,"real_conditional"
+"112",9,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1288,10.1858442071965,"real_conditional"
+"113",9,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1236,9.77461447212337,"real_conditional"
+"114",9,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1236,9.77461447212337,"real_conditional"
+"115",9,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1236,9.77461447212337,"real_conditional"
+"116",9,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1235,9.76670620798735,"real_conditional"
+"117",9,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1236,9.77461447212337,"real_conditional"
+"118",10,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1521,12.0284697508897,"real_conditional"
+"119",10,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1323,10.4626334519573,"real_conditional"
+"120",10,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1201,9.49782522736259,"real_conditional"
+"121",10,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1201,9.49782522736259,"real_conditional"
+"122",10,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1201,9.49782522736259,"real_conditional"
+"123",10,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1202,9.50573349149862,"real_conditional"
+"124",10,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1202,9.50573349149862,"real_conditional"
+"125",1,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",869,9.29809544190028,"synth"
+"126",1,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",396,12.0328167730173,"synth"
+"127",2,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",873,9.34089450032099,"synth"
+"128",2,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",391,11.8808872683075,"synth"
+"129",2,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1,12.5,"synth"
+"130",3,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",886,9.47999144018832,"synth"
+"131",3,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",377,11.45548465512,"synth"
+"132",3,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",2,25,"synth"
+"133",4,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",894,9.56558955702975,"synth"
+"134",4,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",368,11.1820115466424,"synth"
+"135",4,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",3,37.5,"synth"
+"136",5,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",917,9.81168414294886,"synth"
+"137",5,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",348,10.5742935278031,"synth"
+"138",6,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",933,9.98288037663171,"synth"
+"139",6,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",329,9.9969614099058,"synth"
+"140",6,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",2,25,"synth"
+"141",7,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",950,10.1647763749198,"synth"
+"142",7,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",314,9.54117289577636,"synth"
+"143",8,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",979,10.4750695484699,"synth"
+"144",8,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",285,8.65998176845943,"synth"
+"145",9,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",995,10.6462657821528,"synth"
+"146",9,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",269,8.17380735338803,"synth"
+"147",10,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1050,11.2347528354376,"synth"
+"148",10,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",214,6.50258280158007,"synth"
+"149",1,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1041,8.32267348896706,"synth_conditional"
+"150",1,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1220,9.75375759513911,"synth_conditional"
+"151",1,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1299,10.3853533738407,"synth_conditional"
+"152",1,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1299,10.3853533738407,"synth_conditional"
+"153",1,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1299,10.3853533738407,"synth_conditional"
+"154",1,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1299,10.3853533738407,"synth_conditional"
+"155",1,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1299,10.3853533738407,"synth_conditional"
+"156",2,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1056,8.44259673808762,"synth_conditional"
+"157",2,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1201,9.60185481291973,"synth_conditional"
+"158",2,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1300,10.3933482571154,"synth_conditional"
+"159",2,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1300,10.3933482571154,"synth_conditional"
+"160",2,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1300,10.3933482571154,"synth_conditional"
+"161",2,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1300,10.3933482571154,"synth_conditional"
+"162",2,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1299,10.3853533738407,"synth_conditional"
+"163",3,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1112,8.89031020147106,"synth_conditional"
+"164",3,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1214,9.70578829549089,"synth_conditional"
+"165",3,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1286,10.2814198912696,"synth_conditional"
+"166",3,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1286,10.2814198912696,"synth_conditional"
+"167",3,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1286,10.2814198912696,"synth_conditional"
+"168",3,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1286,10.2814198912696,"synth_conditional"
+"169",3,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1286,10.2814198912696,"synth_conditional"
+"170",4,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1074,8.5865046370323,"synth_conditional"
+"171",4,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1237,9.88967061080908,"synth_conditional"
+"172",4,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1289,10.3054045410937,"synth_conditional"
+"173",4,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1289,10.3054045410937,"synth_conditional"
+"174",4,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1289,10.3054045410937,"synth_conditional"
+"175",4,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1289,10.3054045410937,"synth_conditional"
+"176",4,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1289,10.3054045410937,"synth_conditional"
+"177",5,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1210,9.67380876239207,"synth_conditional"
+"178",5,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1215,9.71378317876559,"synth_conditional"
+"179",5,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1266,10.1215222257755,"synth_conditional"
+"180",5,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1266,10.1215222257755,"synth_conditional"
+"181",5,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1266,10.1215222257755,"synth_conditional"
+"182",5,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1266,10.1215222257755,"synth_conditional"
+"183",5,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1267,10.1295171090502,"synth_conditional"
+"184",6,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1166,9.32203389830508,"synth_conditional"
+"185",6,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1264,10.1055324592261,"synth_conditional"
+"186",6,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1265,10.1135273425008,"synth_conditional"
+"187",6,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1266,10.1215222257755,"synth_conditional"
+"188",6,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1265,10.1135273425008,"synth_conditional"
+"189",6,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1265,10.1135273425008,"synth_conditional"
+"190",6,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1265,10.1135273425008,"synth_conditional"
+"191",7,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1225,9.79373201151263,"synth_conditional"
+"192",7,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1268,10.1375119923249,"synth_conditional"
+"193",7,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1253,10.0175887432043,"synth_conditional"
+"194",7,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1252,10.0095938599296,"synth_conditional"
+"195",7,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1253,10.0175887432043,"synth_conditional"
+"196",7,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1252,10.0095938599296,"synth_conditional"
+"197",7,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1252,10.0095938599296,"synth_conditional"
+"198",8,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1419,11.3447393668052,"synth_conditional"
+"199",8,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1248,9.97761432683083,"synth_conditional"
+"200",8,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1217,9.729772945315,"synth_conditional"
+"201",8,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1218,9.7377678285897,"synth_conditional"
+"202",8,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1217,9.729772945315,"synth_conditional"
+"203",8,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1218,9.7377678285897,"synth_conditional"
+"204",8,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1218,9.7377678285897,"synth_conditional"
+"205",9,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1436,11.4806523824752,"synth_conditional"
+"206",9,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1303,10.4173329069396,"synth_conditional"
+"207",9,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1204,9.62583946274384,"synth_conditional"
+"208",9,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1203,9.61784457946914,"synth_conditional"
+"209",9,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1203,9.61784457946914,"synth_conditional"
+"210",9,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1203,9.61784457946914,"synth_conditional"
+"211",9,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1203,9.61784457946914,"synth_conditional"
+"212",10,"IV: 
+contacten_soort_gesprek_op_locatie: 0
+",1769,14.1429485129517,"synth_conditional"
+"213",10,"IV: 
+contacten_soort_gesprek_op_locatie: 1
+",1338,10.6971538215542,"synth_conditional"
+"214",10,"IV: 
+contacten_soort_gesprek_op_locatie: 2
+",1129,9.02622321714103,"synth_conditional"
+"215",10,"IV: 
+contacten_soort_gesprek_op_locatie: 3
+",1129,9.02622321714103,"synth_conditional"
+"216",10,"IV: 
+contacten_soort_gesprek_op_locatie: 4
+",1130,9.03421810041573,"synth_conditional"
+"217",10,"IV: 
+contacten_soort_gesprek_op_locatie: 5
+",1130,9.03421810041573,"synth_conditional"
+"218",10,"IV: 
+contacten_soort_gesprek_op_locatie: 6
+",1130,9.03421810041573,"synth_conditional"

@@ -1,0 +1,73 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","Ja",10934,0.474,0.151,0.0800256081946223,0.249131150539601,-1.99743918053777,14.9131150539601,"real"
+"2","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+","Ja",1375,0.58,0.133,0.213818181818182,0.474181818181818,11.3818181818182,37.4181818181818,"real"
+"3","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+","Ja",257,0.615,0.119,0.272373540856031,0.556420233463035,17.2373540856031,45.6420233463035,"real"
+"4","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 3
+","Ja",58,0.629,0.118,0.310344827586207,0.586206896551724,21.0344827586207,48.6206896551724,"real"
+"5","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 4
+","Ja",18,0.646,0.114,0.388888888888889,0.611111111111111,28.8888888888889,51.1111111111111,"real"
+"6","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 5
+","Ja",2,0.623,0.139,0.5,0.5,40,40,"real"
+"7","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 7
+","Ja",1,0.627,NA,0,1,-10,90,"real"
+"8","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","Ja",12645,0.489,0.153,0.0990114669829972,0.280743376828786,-0.0988533017002774,18.0743376828786,"real_conditional"
+"9","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+","Ja",12645,0.492,0.153,0.103281929616449,0.286990905496244,0.328192961644919,18.6990905496244,"real_conditional"
+"10","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+","Ja",12645,0.493,0.153,0.10367734282325,0.288730723606168,0.367734282325029,18.8730723606168,"real_conditional"
+"11","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 3
+","Ja",12645,0.493,0.153,0.10367734282325,0.288730723606168,0.367734282325029,18.8730723606168,"real_conditional"
+"12","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 4
+","Ja",12645,0.493,0.153,0.10367734282325,0.288730723606168,0.367734282325029,18.8730723606168,"real_conditional"
+"13","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 5
+","Ja",12645,0.493,0.153,0.10367734282325,0.288730723606168,0.367734282325029,18.8730723606168,"real_conditional"
+"14","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 7
+","Ja",12645,0.493,0.153,0.10367734282325,0.288730723606168,0.367734282325029,18.8730723606168,"real_conditional"
+"15","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","Ja",8675,0.605,0.087,0.0857636887608069,0.609337175792507,-1.42363112391931,50.9337175792507,"synth"
+"16","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+","Ja",3942,0.628,0.079,0.13064434297311,0.710299340436327,3.06443429731101,61.0299340436327,"synth"
+"17","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+","Ja",28,0.649,0.084,0.214285714285714,0.821428571428571,11.4285714285714,72.1428571428571,"synth"
+"18","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 0
+","Ja",12508,0.611,0.085,0.0964982411256796,0.63703229932843,-0.350175887432044,53.703229932843,"synth_conditional"
+"19","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 1
+","Ja",12508,0.614,0.085,0.103933482571154,0.64782539174928,0.393348257115446,54.782539174928,"synth_conditional"
+"20","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 2
+","Ja",12508,0.614,0.085,0.105372561560601,0.649984010233451,0.537256156060122,54.9984010233451,"synth_conditional"
+"21","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 3
+","Ja",12508,0.614,0.085,0.105372561560601,0.649984010233451,0.537256156060122,54.9984010233451,"synth_conditional"
+"22","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 4
+","Ja",12508,0.614,0.085,0.105372561560601,0.649984010233451,0.537256156060122,54.9984010233451,"synth_conditional"
+"23","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 5
+","Ja",12508,0.614,0.085,0.105372561560601,0.649984010233451,0.537256156060122,54.9984010233451,"synth_conditional"
+"24","IV: 
+afspraak_gespr__einde_zoekt___galo_gesprek_: 7
+","Ja",12508,0.614,0.085,0.105372561560601,0.649984010233451,0.537256156060122,54.9984010233451,"synth_conditional"

@@ -1,0 +1,109 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+",12645,12645,0.000108,"***",0.000216,"***","real_conditional"
+"2","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+",12645,12645,2.7e-114,"****",1.35e-113,"****","real_conditional"
+"3","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+",12645,12645,1.85e-79,"****",5.56e-79,"****","real_conditional"
+"4","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+",12645,12645,1.89e-148,"****",1.13e-147,"****","real_conditional"
+"5","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+",12645,12645,2.59e-108,"****",1.04e-107,"****","real_conditional"
+"6","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+",12645,12645,0.00114,"**",0.00114,"**","real_conditional"
+"7","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+",12645,12645,1.72e-09,"****",3.44e-09,"****","synth_conditional"
+"8","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+",12645,12645,4.54e-174,"****",2.27e-173,"****","synth_conditional"
+"9","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+",12645,12645,8.27e-109,"****",2.48e-108,"****","synth_conditional"
+"10","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+",12645,12645,3.78e-237,"****",2.27e-236,"****","synth_conditional"
+"11","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 0
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 0
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+",12645,12645,7.5e-160,"****",3e-159,"****","synth_conditional"
+"12","Ja","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 1
+","IV: 
+persoonlijke_eigenschappen_taaleis_voldaan: 1
+persoonlijke_eigenschappen_dagen_sinds_taaleis: 720
+persoonlijke_eigenschappen_uitstroom_verw_vlgs_km: 5
+",12645,12645,1.42e-06,"****",1.42e-06,"****","synth_conditional"

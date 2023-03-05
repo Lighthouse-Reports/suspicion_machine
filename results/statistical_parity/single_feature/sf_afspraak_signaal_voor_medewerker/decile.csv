@@ -1,0 +1,1099 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",282,6.26110124333925,"real"
+"2",1,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",212,11.2886048988285,"real"
+"3",1,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",22,12.5714285714286,"real"
+"4",1,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",7,14,"real"
+"5",1,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",189,13.0977130977131,"real"
+"6",1,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",169,14.8767605633803,"real"
+"7",1,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",117,13.6842105263158,"real"
+"8",1,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",69,11.219512195122,"real"
+"9",2,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",378,8.39253996447602,"real"
+"10",2,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",193,10.2768903088392,"real"
+"11",2,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",26,14.8571428571429,"real"
+"12",2,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",6,12,"real"
+"13",2,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",164,11.3652113652114,"real"
+"14",2,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",3,27.2727272727273,"real"
+"15",2,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",137,12.0598591549296,"real"
+"16",2,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",89,10.4093567251462,"real"
+"17",2,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",71,11.5447154471545,"real"
+"18",3,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",393,8.72557726465364,"real"
+"19",3,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",208,11.0756123535676,"real"
+"20",3,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",20,11.4285714285714,"real"
+"21",3,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",5,10,"real"
+"22",3,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",155,10.7415107415107,"real"
+"23",3,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",112,9.85915492957746,"real"
+"24",3,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",103,12.046783625731,"real"
+"25",3,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",71,11.5447154471545,"real"
+"26",4,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",382,8.48134991119005,"real"
+"27",4,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",204,10.8626198083067,"real"
+"28",4,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",20,11.4285714285714,"real"
+"29",4,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",3,6,"real"
+"30",4,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",158,10.949410949411,"real"
+"31",4,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1,9.09090909090909,"real"
+"32",4,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",143,12.5880281690141,"real"
+"33",4,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",88,10.2923976608187,"real"
+"34",4,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",68,11.0569105691057,"real"
+"35",5,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",420,9.32504440497336,"real"
+"36",5,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",187,9.95740149094782,"real"
+"37",5,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",16,9.14285714285714,"real"
+"38",5,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",2,4,"real"
+"39",5,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",146,10.1178101178101,"real"
+"40",5,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1,9.09090909090909,"real"
+"41",5,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",126,11.0915492957746,"real"
+"42",5,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",86,10.0584795321637,"real"
+"43",5,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",83,13.4959349593496,"real"
+"44",6,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",422,9.36944937833037,"real"
+"45",6,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",188,10.010649627263,"real"
+"46",6,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",13,7.42857142857143,"real"
+"47",6,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",10,20,"real"
+"48",6,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",150,10.3950103950104,"real"
+"49",6,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",2,18.1818181818182,"real"
+"50",6,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",111,9.77112676056338,"real"
+"51",6,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",103,12.046783625731,"real"
+"52",6,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",68,11.0569105691057,"real"
+"53",7,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",441,9.79129662522202,"real"
+"54",7,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",178,9.47816826411076,"real"
+"55",7,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",23,13.1428571428571,"real"
+"56",7,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",7,14,"real"
+"57",7,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",139,9.63270963270963,"real"
+"58",7,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",111,9.77112676056338,"real"
+"59",7,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1,100,"real"
+"60",7,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",98,11.4619883040936,"real"
+"61",7,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",69,11.219512195122,"real"
+"62",8,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",484,10.7460035523979,"real"
+"63",8,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",196,10.4366347177849,"real"
+"64",8,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",15,8.57142857142857,"real"
+"65",8,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",4,8,"real"
+"66",8,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",125,8.66250866250866,"real"
+"67",8,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1,9.09090909090909,"real"
+"68",8,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",113,9.94718309859155,"real"
+"69",8,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",80,9.35672514619883,"real"
+"70",8,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",49,7.96747967479675,"real"
+"71",9,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",572,12.6998223801066,"real"
+"72",9,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",175,9.31842385516507,"real"
+"73",9,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",15,8.57142857142857,"real"
+"74",9,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",2,4,"real"
+"75",9,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",127,8.8011088011088,"real"
+"76",9,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1,9.09090909090909,"real"
+"77",9,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",68,5.98591549295775,"real"
+"78",9,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",61,7.13450292397661,"real"
+"79",9,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",45,7.31707317073171,"real"
+"80",10,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",730,16.2078152753108,"real"
+"81",10,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",137,7.29499467518637,"real"
+"82",10,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",5,2.85714285714286,"real"
+"83",10,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",4,8,"real"
+"84",10,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",90,6.23700623700624,"real"
+"85",10,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",2,18.1818181818182,"real"
+"86",10,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",46,4.04929577464789,"real"
+"87",10,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",30,3.50877192982456,"real"
+"88",10,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",22,3.57723577235772,"real"
+"89",1,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1200,9.48991696322657,"real_conditional"
+"90",1,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1351,10.6840648477659,"real_conditional"
+"91",1,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1379,10.9054962435745,"real_conditional"
+"92",1,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1206,9.53736654804271,"real_conditional"
+"93",1,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1388,10.9766706207987,"real_conditional"
+"94",1,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",985,7.78964017398181,"real_conditional"
+"95",1,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1388,10.9766706207987,"real_conditional"
+"96",1,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",985,7.78964017398181,"real_conditional"
+"97",1,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1381,10.9213127718466,"real_conditional"
+"98",1,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1382,10.9292210359826,"real_conditional"
+"99",2,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1236,9.77461447212337,"real_conditional"
+"100",2,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1293,10.2253855278766,"real_conditional"
+"101",2,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1294,10.2332937920127,"real_conditional"
+"102",2,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1246,9.85369711348359,"real_conditional"
+"103",2,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1294,10.2332937920127,"real_conditional"
+"104",2,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1200,9.48991696322657,"real_conditional"
+"105",2,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1294,10.2332937920127,"real_conditional"
+"106",2,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1200,9.48991696322657,"real_conditional"
+"107",2,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1296,10.2491103202847,"real_conditional"
+"108",2,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1292,10.2174772637406,"real_conditional"
+"109",3,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1278,10.1067615658363,"real_conditional"
+"110",3,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1291,10.2095689996046,"real_conditional"
+"111",3,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1266,10.011862396204,"real_conditional"
+"112",3,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1255,9.92487149070779,"real_conditional"
+"113",3,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1269,10.0355871886121,"real_conditional"
+"114",3,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1240,9.80624752866746,"real_conditional"
+"115",3,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1269,10.0355871886121,"real_conditional"
+"116",3,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1240,9.80624752866746,"real_conditional"
+"117",3,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1268,10.0276789244761,"real_conditional"
+"118",3,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1269,10.0355871886121,"real_conditional"
+"119",4,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1255,9.92487149070779,"real_conditional"
+"120",4,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1274,10.0751285092922,"real_conditional"
+"121",4,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1280,10.1225780941083,"real_conditional"
+"122",4,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1267,10.0197706603401,"real_conditional"
+"123",4,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1283,10.1463028865164,"real_conditional"
+"124",4,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1218,9.63226571767497,"real_conditional"
+"125",4,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1285,10.1621194147885,"real_conditional"
+"126",4,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1218,9.63226571767497,"real_conditional"
+"127",4,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1282,10.1383946223804,"real_conditional"
+"128",4,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1283,10.1463028865164,"real_conditional"
+"129",5,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1272,10.0593119810202,"real_conditional"
+"130",5,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1259,9.95650454725188,"real_conditional"
+"131",5,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1272,10.0593119810202,"real_conditional"
+"132",5,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1220,9.64808224594701,"real_conditional"
+"133",5,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1259,9.95650454725188,"real_conditional"
+"134",5,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1283,10.1463028865164,"real_conditional"
+"135",5,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1261,9.97232107552392,"real_conditional"
+"136",5,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1283,10.1463028865164,"real_conditional"
+"137",5,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1268,10.0276789244761,"real_conditional"
+"138",5,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1268,10.0276789244761,"real_conditional"
+"139",6,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1283,10.1463028865164,"real_conditional"
+"140",6,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1238,9.79043100039541,"real_conditional"
+"141",6,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1221,9.65599051008304,"real_conditional"
+"142",6,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1330,10.5179913009095,"real_conditional"
+"143",6,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1224,9.6797153024911,"real_conditional"
+"144",6,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1340,10.5970739422697,"real_conditional"
+"145",6,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1222,9.66389877421906,"real_conditional"
+"146",6,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1340,10.5970739422697,"real_conditional"
+"147",6,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1226,9.69553183076315,"real_conditional"
+"148",6,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1221,9.65599051008304,"real_conditional"
+"149",7,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1254,9.91696322657177,"real_conditional"
+"150",7,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1276,10.0909450375643,"real_conditional"
+"151",7,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1273,10.0672202451562,"real_conditional"
+"152",7,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1243,9.82997232107552,"real_conditional"
+"153",7,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1272,10.0593119810202,"real_conditional"
+"154",7,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1252,9.90114669829972,"real_conditional"
+"155",7,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1273,10.0672202451562,"real_conditional"
+"156",7,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1252,9.90114669829972,"real_conditional"
+"157",7,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1273,10.0672202451562,"real_conditional"
+"158",7,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1277,10.0988533017003,"real_conditional"
+"159",8,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1269,10.0355871886121,"real_conditional"
+"160",8,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1238,9.79043100039541,"real_conditional"
+"161",8,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1256,9.93277975484381,"real_conditional"
+"162",8,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1262,9.98022933965994,"real_conditional"
+"163",8,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1246,9.85369711348359,"real_conditional"
+"164",8,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1308,10.344009489917,"real_conditional"
+"165",8,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1251,9.8932384341637,"real_conditional"
+"166",8,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1308,10.344009489917,"real_conditional"
+"167",8,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1256,9.93277975484381,"real_conditional"
+"168",8,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1251,9.8932384341637,"real_conditional"
+"169",9,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1293,10.2253855278766,"real_conditional"
+"170",9,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1220,9.64808224594701,"real_conditional"
+"171",9,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1206,9.53736654804271,"real_conditional"
+"172",9,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1296,10.2491103202847,"real_conditional"
+"173",9,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1210,9.56899960458679,"real_conditional"
+"174",9,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1401,11.079478054567,"real_conditional"
+"175",9,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1207,9.54527481217873,"real_conditional"
+"176",9,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1401,11.079478054567,"real_conditional"
+"177",9,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1206,9.53736654804271,"real_conditional"
+"178",9,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1205,9.52945828390668,"real_conditional"
+"179",10,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1305,10.3202846975089,"real_conditional"
+"180",10,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1205,9.52945828390668,"real_conditional"
+"181",10,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1198,9.47410043495453,"real_conditional"
+"182",10,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1320,10.4389086595492,"real_conditional"
+"183",10,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1200,9.48991696322657,"real_conditional"
+"184",10,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1418,11.2139185448794,"real_conditional"
+"185",10,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1195,9.45037564254646,"real_conditional"
+"186",10,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1418,11.2139185448794,"real_conditional"
+"187",10,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1189,9.40292605773033,"real_conditional"
+"188",10,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1197,9.46619217081851,"real_conditional"
+"189",1,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",50,7.14285714285714,"synth"
+"190",1,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",158,9.12767186597343,"synth"
+"191",1,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",34,12.2302158273381,"synth"
+"192",1,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",2,12.5,"synth"
+"193",1,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",166,8.96812533765532,"synth"
+"194",1,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",181,10.2202145680407,"synth"
+"195",1,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",157,10.0447856685861,"synth"
+"196",1,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",185,13.0373502466526,"synth"
+"197",2,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",45,6.42857142857143,"synth"
+"198",2,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",156,9.01213171577123,"synth"
+"199",2,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",38,13.6690647482014,"synth"
+"200",2,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",3,18.75,"synth"
+"201",2,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",190,10.2647217720151,"synth"
+"202",2,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",184,10.3896103896104,"synth"
+"203",2,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",164,10.4926423544466,"synth"
+"204",2,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",153,10.7822410147992,"synth"
+"205",3,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",48,6.85714285714286,"synth"
+"206",3,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",145,8.37666088965916,"synth"
+"207",3,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",34,12.2302158273381,"synth"
+"208",3,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",172,9.29227444624527,"synth"
+"209",3,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",186,10.5025409373235,"synth"
+"210",3,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",178,11.3883557261676,"synth"
+"211",3,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",170,11.9802677942213,"synth"
+"212",4,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",50,7.14285714285714,"synth"
+"213",4,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",153,8.83882149046794,"synth"
+"214",4,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",26,9.35251798561151,"synth"
+"215",4,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1,6.25,"synth"
+"216",4,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",187,10.1026472177202,"synth"
+"217",4,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",198,11.1801242236025,"synth"
+"218",4,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",148,9.46896992962252,"synth"
+"219",4,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",170,11.9802677942213,"synth"
+"220",5,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",61,8.71428571428571,"synth"
+"221",5,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",147,8.49220103986135,"synth"
+"222",5,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",36,12.9496402877698,"synth"
+"223",5,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1,6.25,"synth"
+"224",5,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",187,10.1026472177202,"synth"
+"225",5,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",184,10.3896103896104,"synth"
+"226",5,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",158,10.1087651951376,"synth"
+"227",5,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",159,11.2050739957717,"synth"
+"228",6,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",68,9.71428571428571,"synth"
+"229",6,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",183,10.5719237435009,"synth"
+"230",6,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",34,12.2302158273381,"synth"
+"231",6,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1,6.25,"synth"
+"232",6,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",172,9.29227444624527,"synth"
+"233",6,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",180,10.1637492941841,"synth"
+"234",6,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",156,9.98080614203455,"synth"
+"235",6,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",139,9.79563072586328,"synth"
+"236",7,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",63,9,"synth"
+"237",7,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",169,9.7631426920855,"synth"
+"238",7,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",35,12.589928057554,"synth"
+"239",7,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",3,18.75,"synth"
+"240",7,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",184,9.94057266342518,"synth"
+"241",7,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",175,9.88142292490119,"synth"
+"242",7,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",174,11.1324376199616,"synth"
+"243",7,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",130,9.16138125440451,"synth"
+"244",8,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",74,10.5714285714286,"synth"
+"245",8,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",192,11.0918544194107,"synth"
+"246",8,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",23,8.27338129496403,"synth"
+"247",8,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",3,18.75,"synth"
+"248",8,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",192,10.3727714748784,"synth"
+"249",8,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",179,10.1072840203275,"synth"
+"250",8,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",149,9.53294945617403,"synth"
+"251",8,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",121,8.52713178294574,"synth"
+"252",9,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",95,13.5714285714286,"synth"
+"253",9,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",212,12.2472559214327,"synth"
+"254",9,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",11,3.9568345323741,"synth"
+"255",9,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",2,12.5,"synth"
+"256",9,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",193,10.4267963263101,"synth"
+"257",9,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",148,8.35686053077357,"synth"
+"258",9,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",153,9.78886756238004,"synth"
+"259",9,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",119,8.3861874559549,"synth"
+"260",10,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",146,20.8571428571429,"synth"
+"261",10,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",216,12.4783362218371,"synth"
+"262",10,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",7,2.51798561151079,"synth"
+"263",10,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",208,11.237169097785,"synth"
+"264",10,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",156,8.8085827216262,"synth"
+"265",10,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",126,8.06142034548944,"synth"
+"266",10,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",73,5.14446793516561,"synth"
+"267",1,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1221,9.76175247841381,"synth_conditional"
+"268",1,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1318,10.5372561560601,"synth_conditional"
+"269",1,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1337,10.6891589382795,"synth_conditional"
+"270",1,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1197,9.56987527982091,"synth_conditional"
+"271",1,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1340,10.7131435881036,"synth_conditional"
+"272",1,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1036,8.28269907259354,"synth_conditional"
+"273",1,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1343,10.7371282379277,"synth_conditional"
+"274",1,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1036,8.28269907259354,"synth_conditional"
+"275",1,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1343,10.7371282379277,"synth_conditional"
+"276",1,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1337,10.6891589382795,"synth_conditional"
+"277",2,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1227,9.80972177806204,"synth_conditional"
+"278",2,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1317,10.5292612727854,"synth_conditional"
+"279",2,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1317,10.5292612727854,"synth_conditional"
+"280",2,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1197,9.56987527982091,"synth_conditional"
+"281",2,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1315,10.513271506236,"synth_conditional"
+"282",2,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1086,8.68244323632875,"synth_conditional"
+"283",2,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1320,10.5532459226095,"synth_conditional"
+"284",2,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1086,8.68244323632875,"synth_conditional"
+"285",2,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1324,10.5852254557083,"synth_conditional"
+"286",2,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1319,10.5452510393348,"synth_conditional"
+"287",3,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1254,10.0255836264791,"synth_conditional"
+"288",3,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1288,10.297409657819,"synth_conditional"
+"289",3,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1288,10.297409657819,"synth_conditional"
+"290",3,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1225,9.79373201151263,"synth_conditional"
+"291",3,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1287,10.2894147745443,"synth_conditional"
+"292",3,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1145,9.1541413495363,"synth_conditional"
+"293",3,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1290,10.3133994243684,"synth_conditional"
+"294",3,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1145,9.1541413495363,"synth_conditional"
+"295",3,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1300,10.3933482571154,"synth_conditional"
+"296",3,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1286,10.2814198912696,"synth_conditional"
+"297",4,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1246,9.96162456028142,"synth_conditional"
+"298",4,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1295,10.3533738407419,"synth_conditional"
+"299",4,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1287,10.2894147745443,"synth_conditional"
+"300",4,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1208,9.65781899584266,"synth_conditional"
+"301",4,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1286,10.2814198912696,"synth_conditional"
+"302",4,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1160,9.27406459865686,"synth_conditional"
+"303",4,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1289,10.3054045410937,"synth_conditional"
+"304",4,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1160,9.27406459865686,"synth_conditional"
+"305",4,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1289,10.3054045410937,"synth_conditional"
+"306",4,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1288,10.297409657819,"synth_conditional"
+"307",5,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1270,10.1535017588743,"synth_conditional"
+"308",5,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1244,9.94563479373201,"synth_conditional"
+"309",5,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1245,9.95362967700671,"synth_conditional"
+"310",5,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1261,10.081547809402,"synth_conditional"
+"311",5,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1247,9.96961944355612,"synth_conditional"
+"312",5,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1250,9.99360409338024,"synth_conditional"
+"313",5,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1246,9.96162456028142,"synth_conditional"
+"314",5,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1249,9.98560921010553,"synth_conditional"
+"315",5,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1250,9.99360409338024,"synth_conditional"
+"316",5,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1246,9.96162456028142,"synth_conditional"
+"317",6,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1258,10.0575631595779,"synth_conditional"
+"318",6,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1242,9.9296450271826,"synth_conditional"
+"319",6,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1269,10.1455068755996,"synth_conditional"
+"320",6,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1264,10.1055324592261,"synth_conditional"
+"321",6,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1247,9.96961944355612,"synth_conditional"
+"322",6,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1216,9.72177806204029,"synth_conditional"
+"323",6,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1261,10.081547809402,"synth_conditional"
+"324",6,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1217,9.729772945315,"synth_conditional"
+"325",6,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1266,10.1215222257755,"synth_conditional"
+"326",6,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1268,10.1375119923249,"synth_conditional"
+"327",7,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1269,10.1455068755996,"synth_conditional"
+"328",7,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1242,9.9296450271826,"synth_conditional"
+"329",7,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1250,9.99360409338024,"synth_conditional"
+"330",7,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1237,9.88967061080908,"synth_conditional"
+"331",7,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1243,9.93763991045731,"synth_conditional"
+"332",7,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1264,10.1055324592261,"synth_conditional"
+"333",7,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1247,9.96961944355612,"synth_conditional"
+"334",7,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1264,10.1055324592261,"synth_conditional"
+"335",7,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1243,9.93763991045731,"synth_conditional"
+"336",7,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1249,9.98560921010553,"synth_conditional"
+"337",8,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1250,9.99360409338024,"synth_conditional"
+"338",8,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1222,9.76974736168852,"synth_conditional"
+"339",8,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1224,9.78573712823793,"synth_conditional"
+"340",8,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1269,10.1455068755996,"synth_conditional"
+"341",8,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1208,9.65781899584266,"synth_conditional"
+"342",8,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1339,10.7051487048289,"synth_conditional"
+"343",8,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1211,9.68180364566677,"synth_conditional"
+"344",8,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1338,10.6971538215542,"synth_conditional"
+"345",8,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1222,9.76974736168852,"synth_conditional"
+"346",8,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1225,9.79373201151263,"synth_conditional"
+"347",9,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1254,10.0255836264791,"synth_conditional"
+"348",9,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1178,9.41797249760154,"synth_conditional"
+"349",9,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1161,9.28205948193156,"synth_conditional"
+"350",9,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1317,10.5292612727854,"synth_conditional"
+"351",9,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1181,9.44195714742565,"synth_conditional"
+"352",9,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1469,11.7444835305405,"synth_conditional"
+"353",9,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1166,9.32203389830508,"synth_conditional"
+"354",9,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1470,11.7524784138152,"synth_conditional"
+"355",9,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1152,9.21010553245923,"synth_conditional"
+"356",9,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1160,9.27406459865686,"synth_conditional"
+"357",10,"IV: 
+afspraak_signaal_voor_medewerker: 0
+",1259,10.0655580428526,"synth_conditional"
+"358",10,"IV: 
+afspraak_signaal_voor_medewerker: 1
+",1162,9.29005436520627,"synth_conditional"
+"359",10,"IV: 
+afspraak_signaal_voor_medewerker: 10
+",1130,9.03421810041573,"synth_conditional"
+"360",10,"IV: 
+afspraak_signaal_voor_medewerker: 15
+",1333,10.6571794051807,"synth_conditional"
+"361",10,"IV: 
+afspraak_signaal_voor_medewerker: 2
+",1154,9.22609529900863,"synth_conditional"
+"362",10,"IV: 
+afspraak_signaal_voor_medewerker: 20
+",1543,12.3361048928686,"synth_conditional"
+"363",10,"IV: 
+afspraak_signaal_voor_medewerker: 3
+",1135,9.07419251678925,"synth_conditional"
+"364",10,"IV: 
+afspraak_signaal_voor_medewerker: 30
+",1543,12.3361048928686,"synth_conditional"
+"365",10,"IV: 
+afspraak_signaal_voor_medewerker: 4
+",1119,8.94627438439399,"synth_conditional"
+"366",10,"IV: 
+afspraak_signaal_voor_medewerker: 5
+",1130,9.03421810041573,"synth_conditional"

@@ -1,0 +1,129 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_onderwerp_diagnosegesprek: 0
+contacten_onderwerp_boolean_diagnosegesprek: 0
+","Ja",10639,0.486,0.154,0.0975655606729956,0.274931854497603,-0.243443932700442,17.4931854497603,"real"
+"2","IV: 
+contacten_onderwerp_diagnosegesprek: 1
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",1497,0.498,0.15,0.10688042752171,0.30126920507682,0.688042752171009,20.126920507682,"real"
+"3","IV: 
+contacten_onderwerp_diagnosegesprek: 2
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",340,0.532,0.143,0.135294117647059,0.376470588235294,3.52941176470588,27.6470588235294,"real"
+"4","IV: 
+contacten_onderwerp_diagnosegesprek: 3
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",111,0.528,0.138,0.135135135135135,0.333333333333333,3.51351351351351,23.3333333333333,"real"
+"5","IV: 
+contacten_onderwerp_diagnosegesprek: 4
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",36,0.529,0.128,0.0833333333333333,0.388888888888889,-1.66666666666667,28.8888888888889,"real"
+"6","IV: 
+contacten_onderwerp_diagnosegesprek: 5
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",11,0.563,0.151,0.181818181818182,0.454545454545455,8.18181818181818,35.4545454545455,"real"
+"7","IV: 
+contacten_onderwerp_diagnosegesprek: 6
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",6,0.588,0.097,0.166666666666667,0.5,6.66666666666667,40,"real"
+"8","IV: 
+contacten_onderwerp_diagnosegesprek: 7
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",3,0.544,0.061,0,0.333333333333333,-10,23.3333333333333,"real"
+"9","IV: 
+contacten_onderwerp_diagnosegesprek: 8
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",2,0.657,0.041,0,1,-10,90,"real"
+"10","IV: 
+contacten_onderwerp_diagnosegesprek: 0
+contacten_onderwerp_boolean_diagnosegesprek: 0
+","Ja",12645,0.489,0.153,0.10011862396204,0.28216686437327,0.0118623962040335,18.216686437327,"real_conditional"
+"11","IV: 
+contacten_onderwerp_diagnosegesprek: 1
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",12645,0.489,0.153,0.10011862396204,0.28216686437327,0.0118623962040335,18.216686437327,"real_conditional"
+"12","IV: 
+contacten_onderwerp_diagnosegesprek: 2
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",12645,0.489,0.153,0.10011862396204,0.28216686437327,0.0118623962040335,18.216686437327,"real_conditional"
+"13","IV: 
+contacten_onderwerp_diagnosegesprek: 3
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",12645,0.489,0.153,0.100276789244761,0.281455120601028,0.0276789244760767,18.1455120601028,"real_conditional"
+"14","IV: 
+contacten_onderwerp_diagnosegesprek: 4
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",12645,0.487,0.152,0.0956109134045077,0.277105575326216,-0.438908659549229,17.7105575326216,"real_conditional"
+"15","IV: 
+contacten_onderwerp_diagnosegesprek: 5
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",12645,0.487,0.152,0.0956109134045077,0.277105575326216,-0.438908659549229,17.7105575326216,"real_conditional"
+"16","IV: 
+contacten_onderwerp_diagnosegesprek: 6
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",12645,0.487,0.152,0.0956109134045077,0.277105575326216,-0.438908659549229,17.7105575326216,"real_conditional"
+"17","IV: 
+contacten_onderwerp_diagnosegesprek: 7
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",12645,0.487,0.152,0.0956109134045077,0.277105575326216,-0.438908659549229,17.7105575326216,"real_conditional"
+"18","IV: 
+contacten_onderwerp_diagnosegesprek: 8
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",12645,0.487,0.152,0.0956109134045077,0.277105575326216,-0.438908659549229,17.7105575326216,"real_conditional"
+"19","IV: 
+contacten_onderwerp_diagnosegesprek: 0
+contacten_onderwerp_boolean_diagnosegesprek: 0
+","Ja",6792,0.609,0.085,0.0940812720848057,0.627797408716137,-0.591872791519435,52.7797408716137,"synth"
+"20","IV: 
+contacten_onderwerp_diagnosegesprek: 1
+contacten_onderwerp_boolean_diagnosegesprek: 0
+","Ja",2778,0.613,0.086,0.104391648668107,0.647948164146868,0.439164866810654,54.7948164146868,"synth"
+"21","IV: 
+contacten_onderwerp_diagnosegesprek: 1
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",2786,0.616,0.084,0.10875807609476,0.659368269921034,0.875807609475951,55.9368269921034,"synth"
+"22","IV: 
+contacten_onderwerp_diagnosegesprek: 2
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",284,0.625,0.082,0.109154929577465,0.71830985915493,0.915492957746478,61.830985915493,"synth"
+"23","IV: 
+contacten_onderwerp_diagnosegesprek: 3
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",5,0.658,0.082,0.4,0.8,30,70,"synth"
+"24","IV: 
+contacten_onderwerp_diagnosegesprek: 0
+contacten_onderwerp_boolean_diagnosegesprek: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"25","IV: 
+contacten_onderwerp_diagnosegesprek: 1
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"26","IV: 
+contacten_onderwerp_diagnosegesprek: 2
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"27","IV: 
+contacten_onderwerp_diagnosegesprek: 3
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",12508,0.613,0.085,0.10161496642149,0.645346977934122,0.161496642149024,54.5346977934122,"synth_conditional"
+"28","IV: 
+contacten_onderwerp_diagnosegesprek: 4
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",12508,0.61,0.085,0.0921010553245923,0.633994243684042,-0.789894467540775,53.3994243684042,"synth_conditional"
+"29","IV: 
+contacten_onderwerp_diagnosegesprek: 5
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",12508,0.61,0.085,0.0921010553245923,0.633994243684042,-0.789894467540775,53.3994243684042,"synth_conditional"
+"30","IV: 
+contacten_onderwerp_diagnosegesprek: 6
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",12508,0.61,0.085,0.0921010553245923,0.633994243684042,-0.789894467540775,53.3994243684042,"synth_conditional"
+"31","IV: 
+contacten_onderwerp_diagnosegesprek: 7
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",12508,0.61,0.085,0.0921010553245923,0.633994243684042,-0.789894467540775,53.3994243684042,"synth_conditional"
+"32","IV: 
+contacten_onderwerp_diagnosegesprek: 8
+contacten_onderwerp_boolean_diagnosegesprek: 1
+","Ja",12508,0.61,0.085,0.0921010553245923,0.633994243684042,-0.789894467540775,53.3994243684042,"synth_conditional"

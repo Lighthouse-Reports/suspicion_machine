@@ -1,0 +1,442 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1007,9.67990002883784,"real"
+"2",1,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",214,11.1458333333333,"real"
+"3",1,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",43,13.8263665594855,"real"
+"4",1,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1,9.09090909090909,"real"
+"5",2,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",996,9.57416129962511,"real"
+"6",2,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",225,11.71875,"real"
+"7",2,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",43,13.8263665594855,"real"
+"8",2,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1,9.09090909090909,"real"
+"9",3,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",983,9.44919734691916,"real"
+"10",3,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",238,12.3958333333333,"real"
+"11",3,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",42,13.5048231511254,"real"
+"12",3,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",2,18.1818181818182,"real"
+"13",4,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1016,9.76641353455734,"real"
+"14",4,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",214,11.1458333333333,"real"
+"15",4,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",34,10.9324758842444,"real"
+"16",4,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1,9.09090909090909,"real"
+"17",5,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1001,9.62222435835817,"real"
+"18",5,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",229,11.9270833333333,"real"
+"19",5,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",35,11.2540192926045,"real"
+"20",6,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1017,9.77602614630395,"real"
+"21",6,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",210,10.9375,"real"
+"22",6,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",36,11.5755627009646,"real"
+"23",6,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1,9.09090909090909,"real"
+"24",7,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1049,10.0836297221955,"real"
+"25",7,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",182,9.47916666666667,"real"
+"26",7,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",29,9.32475884244373,"real"
+"27",7,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",4,36.3636363636364,"real"
+"28",8,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1063,10.2182062866481,"real"
+"29",8,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",174,9.0625,"real"
+"30",8,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",26,8.36012861736334,"real"
+"31",8,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1,9.09090909090909,"real"
+"32",9,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1102,10.5930981447659,"real"
+"33",9,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",142,7.39583333333333,"real"
+"34",9,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",20,6.43086816720257,"real"
+"35",10,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1169,11.2371431317889,"real"
+"36",10,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",92,4.79166666666667,"real"
+"37",10,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",3,0.964630225080386,"real"
+"38",1,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1262,9.98022933965994,"real_conditional"
+"39",1,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1262,9.98022933965994,"real_conditional"
+"40",1,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1267,10.0197706603401,"real_conditional"
+"41",1,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1267,10.0197706603401,"real_conditional"
+"42",2,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1264,9.99604586793199,"real_conditional"
+"43",2,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1264,9.99604586793199,"real_conditional"
+"44",2,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1265,10.003954132068,"real_conditional"
+"45",2,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1265,10.003954132068,"real_conditional"
+"46",3,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1261,9.97232107552392,"real_conditional"
+"47",3,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1261,9.97232107552392,"real_conditional"
+"48",3,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1268,10.0276789244761,"real_conditional"
+"49",3,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1268,10.0276789244761,"real_conditional"
+"50",4,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1261,9.97232107552392,"real_conditional"
+"51",4,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1261,9.97232107552392,"real_conditional"
+"52",4,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1268,10.0276789244761,"real_conditional"
+"53",4,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1268,10.0276789244761,"real_conditional"
+"54",5,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1263,9.98813760379597,"real_conditional"
+"55",5,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1263,9.98813760379597,"real_conditional"
+"56",5,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1266,10.011862396204,"real_conditional"
+"57",5,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1266,10.011862396204,"real_conditional"
+"58",6,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1264,9.99604586793199,"real_conditional"
+"59",6,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1264,9.99604586793199,"real_conditional"
+"60",6,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1265,10.003954132068,"real_conditional"
+"61",6,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1265,10.003954132068,"real_conditional"
+"62",7,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1253,9.90905496243574,"real_conditional"
+"63",7,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1253,9.90905496243574,"real_conditional"
+"64",7,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1276,10.0909450375643,"real_conditional"
+"65",7,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1276,10.0909450375643,"real_conditional"
+"66",8,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1265,10.003954132068,"real_conditional"
+"67",8,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1265,10.003954132068,"real_conditional"
+"68",8,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1264,9.99604586793199,"real_conditional"
+"69",8,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1264,9.99604586793199,"real_conditional"
+"70",9,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1273,10.0672202451562,"real_conditional"
+"71",9,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1273,10.0672202451562,"real_conditional"
+"72",9,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1256,9.93277975484381,"real_conditional"
+"73",9,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1256,9.93277975484381,"real_conditional"
+"74",10,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1279,10.1146698299723,"real_conditional"
+"75",10,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1279,10.1146698299723,"real_conditional"
+"76",10,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1250,9.88533017002768,"real_conditional"
+"77",10,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1250,9.88533017002768,"real_conditional"
+"78",1,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",745,10.3890670757217,"synth"
+"79",1,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",513,9.47718455569924,"synth"
+"80",1,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",7,11.4754098360656,"synth"
+"81",2,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",679,9.46869334820806,"synth"
+"82",2,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",579,10.6964714576021,"synth"
+"83",2,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",7,11.4754098360656,"synth"
+"84",3,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",722,10.0683307767396,"synth"
+"85",3,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",537,9.92056161093663,"synth"
+"86",3,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",6,9.83606557377049,"synth"
+"87",4,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",730,10.1798912285595,"synth"
+"88",4,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",525,9.69887308331794,"synth"
+"89",4,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",10,16.3934426229508,"synth"
+"90",5,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",709,9.88704504253242,"synth"
+"91",5,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",552,10.19767227046,"synth"
+"92",5,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",4,6.55737704918033,"synth"
+"93",6,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",705,9.83126481662251,"synth"
+"94",6,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",550,10.1607241825236,"synth"
+"95",6,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",9,14.7540983606557,"synth"
+"96",7,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",719,10.0264956073072,"synth"
+"97",7,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",540,9.97598374284131,"synth"
+"98",7,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",5,8.19672131147541,"synth"
+"99",8,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",718,10.0125505508297,"synth"
+"100",8,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",539,9.95750969887308,"synth"
+"101",8,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",7,11.4754098360656,"synth"
+"102",9,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",732,10.2077813415144,"synth"
+"103",9,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",530,9.79124330315906,"synth"
+"104",9,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",2,3.27868852459016,"synth"
+"105",10,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",712,9.92888021196486,"synth"
+"106",10,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",548,10.1237760945871,"synth"
+"107",10,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",4,6.55737704918033,"synth"
+"108",1,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1246,9.96162456028142,"synth_conditional"
+"109",1,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1246,9.96162456028142,"synth_conditional"
+"110",1,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1256,10.0415733930285,"synth_conditional"
+"111",1,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1256,10.0415733930285,"synth_conditional"
+"112",2,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1239,9.90566037735849,"synth_conditional"
+"113",2,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1239,9.90566037735849,"synth_conditional"
+"114",2,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1263,10.0975375759514,"synth_conditional"
+"115",2,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1263,10.0975375759514,"synth_conditional"
+"116",3,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1251,10.0015989766549,"synth_conditional"
+"117",3,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1250,9.99360409338024,"synth_conditional"
+"118",3,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1251,10.0015989766549,"synth_conditional"
+"119",3,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1251,10.0015989766549,"synth_conditional"
+"120",4,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1246,9.96162456028142,"synth_conditional"
+"121",4,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1247,9.96961944355612,"synth_conditional"
+"122",4,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1255,10.0335785097538,"synth_conditional"
+"123",4,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1255,10.0335785097538,"synth_conditional"
+"124",5,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1253,10.0175887432043,"synth_conditional"
+"125",5,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1252,10.0095938599296,"synth_conditional"
+"126",5,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1249,9.98560921010553,"synth_conditional"
+"127",5,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1249,9.98560921010553,"synth_conditional"
+"128",6,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1251,10.0015989766549,"synth_conditional"
+"129",6,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1252,10.0095938599296,"synth_conditional"
+"130",6,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1250,9.99360409338024,"synth_conditional"
+"131",6,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1250,9.99360409338024,"synth_conditional"
+"132",7,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1245,9.95362967700671,"synth_conditional"
+"133",7,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1244,9.94563479373201,"synth_conditional"
+"134",7,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1257,10.0495682763032,"synth_conditional"
+"135",7,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1257,10.0495682763032,"synth_conditional"
+"136",8,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1256,10.0415733930285,"synth_conditional"
+"137",8,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1257,10.0495682763032,"synth_conditional"
+"138",8,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1245,9.95362967700671,"synth_conditional"
+"139",8,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1245,9.95362967700671,"synth_conditional"
+"140",9,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1255,10.0335785097538,"synth_conditional"
+"141",9,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1255,10.0335785097538,"synth_conditional"
+"142",9,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1247,9.96961944355612,"synth_conditional"
+"143",9,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1246,9.96162456028142,"synth_conditional"
+"144",10,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 0
+",1266,10.1215222257755,"synth_conditional"
+"145",10,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 1
+",1266,10.1215222257755,"synth_conditional"
+"146",10,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 2
+",1235,9.87368084425967,"synth_conditional"
+"147",10,"IV: 
+afspraak_afgelopen_jaar_ontheffing: 3
+",1236,9.88167572753438,"synth_conditional"

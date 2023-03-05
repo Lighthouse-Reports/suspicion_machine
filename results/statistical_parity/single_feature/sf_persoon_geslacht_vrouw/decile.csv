@@ -1,0 +1,241 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+persoon_geslacht_vrouw: 0
+",680,9.30232558139535,"real"
+"2",1,"IV: 
+persoon_geslacht_vrouw: 1
+",585,10.9653233364574,"real"
+"3",2,"IV: 
+persoon_geslacht_vrouw: 0
+",765,10.4651162790698,"real"
+"4",2,"IV: 
+persoon_geslacht_vrouw: 1
+",500,9.37207122774133,"real"
+"5",3,"IV: 
+persoon_geslacht_vrouw: 0
+",791,10.8207934336525,"real"
+"6",3,"IV: 
+persoon_geslacht_vrouw: 1
+",474,8.88472352389878,"real"
+"7",4,"IV: 
+persoon_geslacht_vrouw: 0
+",777,10.6292749658003,"real"
+"8",4,"IV: 
+persoon_geslacht_vrouw: 1
+",488,9.14714151827554,"real"
+"9",5,"IV: 
+persoon_geslacht_vrouw: 0
+",771,10.547195622435,"real"
+"10",5,"IV: 
+persoon_geslacht_vrouw: 1
+",494,9.25960637300843,"real"
+"11",6,"IV: 
+persoon_geslacht_vrouw: 0
+",744,10.1778385772914,"real"
+"12",6,"IV: 
+persoon_geslacht_vrouw: 1
+",520,9.74695407685098,"real"
+"13",7,"IV: 
+persoon_geslacht_vrouw: 0
+",713,9.75376196990424,"real"
+"14",7,"IV: 
+persoon_geslacht_vrouw: 1
+",551,10.3280224929709,"real"
+"15",8,"IV: 
+persoon_geslacht_vrouw: 0
+",726,9.93160054719562,"real"
+"16",8,"IV: 
+persoon_geslacht_vrouw: 1
+",538,10.0843486410497,"real"
+"17",9,"IV: 
+persoon_geslacht_vrouw: 0
+",682,9.3296853625171,"real"
+"18",9,"IV: 
+persoon_geslacht_vrouw: 1
+",582,10.9090909090909,"real"
+"19",10,"IV: 
+persoon_geslacht_vrouw: 0
+",661,9.04240766073871,"real"
+"20",10,"IV: 
+persoon_geslacht_vrouw: 1
+",603,11.302717900656,"real"
+"21",1,"IV: 
+persoon_geslacht_vrouw: 0
+",1448,11.4511664689601,"real_conditional"
+"22",1,"IV: 
+persoon_geslacht_vrouw: 1
+",1081,8.54883353103994,"real_conditional"
+"23",2,"IV: 
+persoon_geslacht_vrouw: 0
+",1324,10.4705417160933,"real_conditional"
+"24",2,"IV: 
+persoon_geslacht_vrouw: 1
+",1205,9.52945828390668,"real_conditional"
+"25",3,"IV: 
+persoon_geslacht_vrouw: 0
+",1292,10.2174772637406,"real_conditional"
+"26",3,"IV: 
+persoon_geslacht_vrouw: 1
+",1237,9.78252273625939,"real_conditional"
+"27",4,"IV: 
+persoon_geslacht_vrouw: 0
+",1267,10.0197706603401,"real_conditional"
+"28",4,"IV: 
+persoon_geslacht_vrouw: 1
+",1262,9.98022933965994,"real_conditional"
+"29",5,"IV: 
+persoon_geslacht_vrouw: 0
+",1292,10.2174772637406,"real_conditional"
+"30",5,"IV: 
+persoon_geslacht_vrouw: 1
+",1237,9.78252273625939,"real_conditional"
+"31",6,"IV: 
+persoon_geslacht_vrouw: 0
+",1230,9.72716488730724,"real_conditional"
+"32",6,"IV: 
+persoon_geslacht_vrouw: 1
+",1299,10.2728351126928,"real_conditional"
+"33",7,"IV: 
+persoon_geslacht_vrouw: 0
+",1268,10.0276789244761,"real_conditional"
+"34",7,"IV: 
+persoon_geslacht_vrouw: 1
+",1261,9.97232107552392,"real_conditional"
+"35",8,"IV: 
+persoon_geslacht_vrouw: 0
+",1246,9.85369711348359,"real_conditional"
+"36",8,"IV: 
+persoon_geslacht_vrouw: 1
+",1283,10.1463028865164,"real_conditional"
+"37",9,"IV: 
+persoon_geslacht_vrouw: 0
+",1155,9.13404507710558,"real_conditional"
+"38",9,"IV: 
+persoon_geslacht_vrouw: 1
+",1374,10.8659549228944,"real_conditional"
+"39",10,"IV: 
+persoon_geslacht_vrouw: 0
+",1123,8.88098062475287,"real_conditional"
+"40",10,"IV: 
+persoon_geslacht_vrouw: 1
+",1406,11.1190193752471,"real_conditional"
+"41",1,"IV: 
+persoon_geslacht_vrouw: 0
+",698,10.6695200244574,"synth"
+"42",1,"IV: 
+persoon_geslacht_vrouw: 1
+",567,9.29051286252663,"synth"
+"43",2,"IV: 
+persoon_geslacht_vrouw: 0
+",668,10.21094466524,"synth"
+"44",2,"IV: 
+persoon_geslacht_vrouw: 1
+",597,9.78207438964444,"synth"
+"45",3,"IV: 
+persoon_geslacht_vrouw: 0
+",652,9.96637114032406,"synth"
+"46",3,"IV: 
+persoon_geslacht_vrouw: 1
+",613,10.0442405374406,"synth"
+"47",4,"IV: 
+persoon_geslacht_vrouw: 0
+",655,10.0122286762458,"synth"
+"48",4,"IV: 
+persoon_geslacht_vrouw: 1
+",610,9.99508438472882,"synth"
+"49",5,"IV: 
+persoon_geslacht_vrouw: 0
+",651,9.95108529501681,"synth"
+"50",5,"IV: 
+persoon_geslacht_vrouw: 1
+",614,10.0606259216779,"synth"
+"51",6,"IV: 
+persoon_geslacht_vrouw: 0
+",636,9.72179761540813,"synth"
+"52",6,"IV: 
+persoon_geslacht_vrouw: 1
+",628,10.2900213009995,"synth"
+"53",7,"IV: 
+persoon_geslacht_vrouw: 0
+",637,9.73708346071538,"synth"
+"54",7,"IV: 
+persoon_geslacht_vrouw: 1
+",627,10.2736359167622,"synth"
+"55",8,"IV: 
+persoon_geslacht_vrouw: 0
+",644,9.8440843778661,"synth"
+"56",8,"IV: 
+persoon_geslacht_vrouw: 1
+",620,10.1589382271014,"synth"
+"57",9,"IV: 
+persoon_geslacht_vrouw: 0
+",639,9.76765515132987,"synth"
+"58",9,"IV: 
+persoon_geslacht_vrouw: 1
+",625,10.2408651482877,"synth"
+"59",10,"IV: 
+persoon_geslacht_vrouw: 0
+",662,10.1192295933965,"synth"
+"60",10,"IV: 
+persoon_geslacht_vrouw: 1
+",602,9.86400131083074,"synth"
+"61",1,"IV: 
+persoon_geslacht_vrouw: 0
+",1308,10.4573073233131,"synth_conditional"
+"62",1,"IV: 
+persoon_geslacht_vrouw: 1
+",1194,9.5458906299968,"synth_conditional"
+"63",2,"IV: 
+persoon_geslacht_vrouw: 0
+",1285,10.2734250079949,"synth_conditional"
+"64",2,"IV: 
+persoon_geslacht_vrouw: 1
+",1217,9.729772945315,"synth_conditional"
+"65",3,"IV: 
+persoon_geslacht_vrouw: 0
+",1273,10.1774864086984,"synth_conditional"
+"66",3,"IV: 
+persoon_geslacht_vrouw: 1
+",1229,9.82571154461145,"synth_conditional"
+"67",4,"IV: 
+persoon_geslacht_vrouw: 0
+",1302,10.4093380236649,"synth_conditional"
+"68",4,"IV: 
+persoon_geslacht_vrouw: 1
+",1200,9.59385992964503,"synth_conditional"
+"69",5,"IV: 
+persoon_geslacht_vrouw: 0
+",1263,10.0975375759514,"synth_conditional"
+"70",5,"IV: 
+persoon_geslacht_vrouw: 1
+",1239,9.90566037735849,"synth_conditional"
+"71",6,"IV: 
+persoon_geslacht_vrouw: 0
+",1249,9.98560921010553,"synth_conditional"
+"72",6,"IV: 
+persoon_geslacht_vrouw: 1
+",1253,10.0175887432043,"synth_conditional"
+"73",7,"IV: 
+persoon_geslacht_vrouw: 0
+",1258,10.0575631595779,"synth_conditional"
+"74",7,"IV: 
+persoon_geslacht_vrouw: 1
+",1243,9.93763991045731,"synth_conditional"
+"75",8,"IV: 
+persoon_geslacht_vrouw: 0
+",1224,9.78573712823793,"synth_conditional"
+"76",8,"IV: 
+persoon_geslacht_vrouw: 1
+",1277,10.2094659417972,"synth_conditional"
+"77",9,"IV: 
+persoon_geslacht_vrouw: 0
+",1203,9.61784457946914,"synth_conditional"
+"78",9,"IV: 
+persoon_geslacht_vrouw: 1
+",1298,10.377358490566,"synth_conditional"
+"79",10,"IV: 
+persoon_geslacht_vrouw: 0
+",1143,9.13815158298689,"synth_conditional"
+"80",10,"IV: 
+persoon_geslacht_vrouw: 1
+",1358,10.8570514870483,"synth_conditional"

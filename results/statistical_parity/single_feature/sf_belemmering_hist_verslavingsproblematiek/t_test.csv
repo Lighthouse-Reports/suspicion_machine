@@ -1,0 +1,96 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 0
+","IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",11877,731,1.98e-12,"****",1.19e-11,"****","real"
+"2","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 0
+","IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",11877,33,0.494,"ns",0.616,"ns","real"
+"3","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 1
+","IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",731,33,0.0294,"*",0.147,"ns","real"
+"4","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 0
+","IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",11877,4,0.187,"ns",0.562,"ns","real"
+"5","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 1
+","IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",731,4,0.0643,"ns",0.257,"ns","real"
+"6","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 2
+","IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",33,4,0.308,"ns",0.616,"ns","real"
+"7","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 0
+","IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",12645,12645,2.07e-11,"****",1.24e-10,"****","real_conditional"
+"8","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 0
+","IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",12645,12645,2.07e-11,"****",1.24e-10,"****","real_conditional"
+"9","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 1
+","IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"10","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 0
+","IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",12645,12645,2.07e-11,"****",1.24e-10,"****","real_conditional"
+"11","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 1
+","IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"12","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 2
+","IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"13","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 0
+","IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",11893,752,1.05e-07,"****",1.05e-07,"****","synth"
+"14","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 0
+","IV: 
+belemmering_hist_verslavingsproblematiek: 1
+",12508,12508,8.96e-13,"****",5.38e-12,"****","synth_conditional"
+"15","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 0
+","IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",12508,12508,8.96e-13,"****",5.38e-12,"****","synth_conditional"
+"16","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 1
+","IV: 
+belemmering_hist_verslavingsproblematiek: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"17","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 0
+","IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",12508,12508,8.96e-13,"****",5.38e-12,"****","synth_conditional"
+"18","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 1
+","IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"19","Ja","IV: 
+belemmering_hist_verslavingsproblematiek: 2
+","IV: 
+belemmering_hist_verslavingsproblematiek: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"

@@ -1,0 +1,801 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",516,8.79345603271984,"real"
+"2",1,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",167,17.4686192468619,"real"
+"3",2,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",574,9.78186775732788,"real"
+"4",2,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",109,11.4016736401674,"real"
+"5",3,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",607,10.3442399454669,"real"
+"6",3,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",76,7.94979079497908,"real"
+"7",4,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",600,10.2249488752556,"real"
+"8",4,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",83,8.68200836820084,"real"
+"9",5,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",610,10.3953646898432,"real"
+"10",5,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",72,7.53138075313807,"real"
+"11",6,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",584,9.95228357191547,"real"
+"12",6,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",98,10.2510460251046,"real"
+"13",7,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",578,9.85003408316292,"real"
+"14",7,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",104,10.8786610878661,"real"
+"15",8,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",582,9.91820040899795,"real"
+"16",8,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",100,10.4602510460251,"real"
+"17",9,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",611,10.412406271302,"real"
+"18",9,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",71,7.42677824267782,"real"
+"19",10,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",606,10.3271983640082,"real"
+"20",10,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",76,7.94979079497908,"real"
+"21",1,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1291,10.2095689996046,"real_conditional"
+"22",1,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1291,10.2095689996046,"real_conditional"
+"23",1,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1291,10.2095689996046,"real_conditional"
+"24",1,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1291,10.2095689996046,"real_conditional"
+"25",1,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1282,10.1383946223804,"real_conditional"
+"26",1,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1196,9.45828390668248,"real_conditional"
+"27",1,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1210,9.56899960458679,"real_conditional"
+"28",2,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1266,10.011862396204,"real_conditional"
+"29",2,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1266,10.011862396204,"real_conditional"
+"30",2,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1266,10.011862396204,"real_conditional"
+"31",2,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1265,10.003954132068,"real_conditional"
+"32",2,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1261,9.97232107552392,"real_conditional"
+"33",2,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1250,9.88533017002768,"real_conditional"
+"34",2,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1278,10.1067615658363,"real_conditional"
+"35",3,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1266,10.011862396204,"real_conditional"
+"36",3,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1266,10.011862396204,"real_conditional"
+"37",3,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1266,10.011862396204,"real_conditional"
+"38",3,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1267,10.0197706603401,"real_conditional"
+"39",3,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1272,10.0593119810202,"real_conditional"
+"40",3,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1244,9.83788058521155,"real_conditional"
+"41",3,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1271,10.0514037168841,"real_conditional"
+"42",4,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1263,9.98813760379597,"real_conditional"
+"43",4,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1263,9.98813760379597,"real_conditional"
+"44",4,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1263,9.98813760379597,"real_conditional"
+"45",4,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1262,9.98022933965994,"real_conditional"
+"46",4,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1258,9.94859628311586,"real_conditional"
+"47",4,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1260,9.9644128113879,"real_conditional"
+"48",4,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1283,10.1463028865164,"real_conditional"
+"49",5,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1265,10.003954132068,"real_conditional"
+"50",5,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1265,10.003954132068,"real_conditional"
+"51",5,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1265,10.003954132068,"real_conditional"
+"52",5,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1266,10.011862396204,"real_conditional"
+"53",5,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1268,10.0276789244761,"real_conditional"
+"54",5,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1264,9.99604586793199,"real_conditional"
+"55",5,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1259,9.95650454725188,"real_conditional"
+"56",6,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1260,9.9644128113879,"real_conditional"
+"57",6,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1260,9.9644128113879,"real_conditional"
+"58",6,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1260,9.9644128113879,"real_conditional"
+"59",6,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1260,9.9644128113879,"real_conditional"
+"60",6,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1257,9.94068801897983,"real_conditional"
+"61",6,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1285,10.1621194147885,"real_conditional"
+"62",6,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1269,10.0355871886121,"real_conditional"
+"63",7,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1260,9.9644128113879,"real_conditional"
+"64",7,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1260,9.9644128113879,"real_conditional"
+"65",7,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1260,9.9644128113879,"real_conditional"
+"66",7,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1260,9.9644128113879,"real_conditional"
+"67",7,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1264,9.99604586793199,"real_conditional"
+"68",7,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1254,9.91696322657177,"real_conditional"
+"69",7,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1293,10.2253855278766,"real_conditional"
+"70",8,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1259,9.95650454725188,"real_conditional"
+"71",8,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1259,9.95650454725188,"real_conditional"
+"72",8,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1259,9.95650454725188,"real_conditional"
+"73",8,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1258,9.94859628311586,"real_conditional"
+"74",8,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1263,9.98813760379597,"real_conditional"
+"75",8,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1292,10.2174772637406,"real_conditional"
+"76",8,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1261,9.97232107552392,"real_conditional"
+"77",9,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1258,9.94859628311586,"real_conditional"
+"78",9,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1258,9.94859628311586,"real_conditional"
+"79",9,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1257,9.94068801897983,"real_conditional"
+"80",9,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1258,9.94859628311586,"real_conditional"
+"81",9,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1261,9.97232107552392,"real_conditional"
+"82",9,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1290,10.2016607354686,"real_conditional"
+"83",9,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1269,10.0355871886121,"real_conditional"
+"84",10,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1257,9.94068801897983,"real_conditional"
+"85",10,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1257,9.94068801897983,"real_conditional"
+"86",10,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1258,9.94859628311586,"real_conditional"
+"87",10,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1258,9.94859628311586,"real_conditional"
+"88",10,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1259,9.95650454725188,"real_conditional"
+"89",10,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1310,10.359826018189,"real_conditional"
+"90",10,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1252,9.90114669829972,"real_conditional"
+"91",1,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1255,10.0335785097538,"synth_conditional"
+"92",1,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1255,10.0335785097538,"synth_conditional"
+"93",1,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1255,10.0335785097538,"synth_conditional"
+"94",1,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1255,10.0335785097538,"synth_conditional"
+"95",1,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1245,9.95362967700671,"synth_conditional"
+"96",1,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1186,9.48193156379917,"synth_conditional"
+"97",1,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1305,10.433322673489,"synth_conditional"
+"98",2,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1257,10.0495682763032,"synth_conditional"
+"99",2,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1257,10.0495682763032,"synth_conditional"
+"100",2,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1257,10.0495682763032,"synth_conditional"
+"101",2,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1257,10.0495682763032,"synth_conditional"
+"102",2,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1244,9.94563479373201,"synth_conditional"
+"103",2,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1195,9.55388551327151,"synth_conditional"
+"104",2,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1289,10.3054045410937,"synth_conditional"
+"105",3,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1242,9.9296450271826,"synth_conditional"
+"106",3,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1242,9.9296450271826,"synth_conditional"
+"107",3,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1242,9.9296450271826,"synth_conditional"
+"108",3,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1242,9.9296450271826,"synth_conditional"
+"109",3,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1252,10.0095938599296,"synth_conditional"
+"110",3,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1238,9.89766549408379,"synth_conditional"
+"111",3,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1298,10.377358490566,"synth_conditional"
+"112",4,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1255,10.0335785097538,"synth_conditional"
+"113",4,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1255,10.0335785097538,"synth_conditional"
+"114",4,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1255,10.0335785097538,"synth_conditional"
+"115",4,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1254,10.0255836264791,"synth_conditional"
+"116",4,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1246,9.96162456028142,"synth_conditional"
+"117",4,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1218,9.7377678285897,"synth_conditional"
+"118",4,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1273,10.1774864086984,"synth_conditional"
+"119",5,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1245,9.95362967700671,"synth_conditional"
+"120",5,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1245,9.95362967700671,"synth_conditional"
+"121",5,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1245,9.95362967700671,"synth_conditional"
+"122",5,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1246,9.96162456028142,"synth_conditional"
+"123",5,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1245,9.95362967700671,"synth_conditional"
+"124",5,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1251,10.0015989766549,"synth_conditional"
+"125",5,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1279,10.2254557083467,"synth_conditional"
+"126",6,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1253,10.0175887432043,"synth_conditional"
+"127",6,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1253,10.0175887432043,"synth_conditional"
+"128",6,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1253,10.0175887432043,"synth_conditional"
+"129",6,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1252,10.0095938599296,"synth_conditional"
+"130",6,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1255,10.0335785097538,"synth_conditional"
+"131",6,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1254,10.0255836264791,"synth_conditional"
+"132",6,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1236,9.88167572753438,"synth_conditional"
+"133",7,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1244,9.94563479373201,"synth_conditional"
+"134",7,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1244,9.94563479373201,"synth_conditional"
+"135",7,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1244,9.94563479373201,"synth_conditional"
+"136",7,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1245,9.95362967700671,"synth_conditional"
+"137",7,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1253,10.0175887432043,"synth_conditional"
+"138",7,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1256,10.0415733930285,"synth_conditional"
+"139",7,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1269,10.1455068755996,"synth_conditional"
+"140",8,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1254,10.0255836264791,"synth_conditional"
+"141",8,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1254,10.0255836264791,"synth_conditional"
+"142",8,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1254,10.0255836264791,"synth_conditional"
+"143",8,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1254,10.0255836264791,"synth_conditional"
+"144",8,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1259,10.0655580428526,"synth_conditional"
+"145",8,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1289,10.3054045410937,"synth_conditional"
+"146",8,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1191,9.52190598017269,"synth_conditional"
+"147",9,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1250,9.99360409338024,"synth_conditional"
+"148",9,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1250,9.99360409338024,"synth_conditional"
+"149",9,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1249,9.98560921010553,"synth_conditional"
+"150",9,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1249,9.98560921010553,"synth_conditional"
+"151",9,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1252,10.0095938599296,"synth_conditional"
+"152",9,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1301,10.4013431403901,"synth_conditional"
+"153",9,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1204,9.62583946274384,"synth_conditional"
+"154",10,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 0
+typering_hist_aantal: 0
+",1253,10.0175887432043,"synth_conditional"
+"155",10,"IV: 
+typering_dagen_som: 0
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1253,10.0175887432043,"synth_conditional"
+"156",10,"IV: 
+typering_dagen_som: 1
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1254,10.0255836264791,"synth_conditional"
+"157",10,"IV: 
+typering_dagen_som: 10
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1254,10.0255836264791,"synth_conditional"
+"158",10,"IV: 
+typering_dagen_som: 100
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1257,10.0495682763032,"synth_conditional"
+"159",10,"IV: 
+typering_dagen_som: 1000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1320,10.5532459226095,"synth_conditional"
+"160",10,"IV: 
+typering_dagen_som: 10000
+typering_hist_ind: 1
+typering_hist_aantal: 1
+",1164,9.30604413175568,"synth_conditional"

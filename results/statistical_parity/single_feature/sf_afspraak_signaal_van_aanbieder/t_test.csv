@@ -1,0 +1,666 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 1
+",9853,1372,3.21e-14,"****",8.97e-13,"****","real"
+"2","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 10
+",9853,16,0.328,"ns",1,"ns","real"
+"3","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 10
+",1372,16,0.0653,"ns",1,"ns","real"
+"4","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 15
+",9853,5,0.619,"ns",1,"ns","real"
+"5","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 15
+",1372,5,0.994,"ns",1,"ns","real"
+"6","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 15
+",16,5,0.362,"ns",1,"ns","real"
+"7","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 2
+",9853,590,0.00536,"**",0.145,"ns","real"
+"8","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 2
+",1372,590,0.0404,"*",0.969,"ns","real"
+"9","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 2
+",16,590,0.152,"ns",1,"ns","real"
+"10","Ja","IV: 
+afspraak_signaal_van_aanbieder: 15
+","IV: 
+afspraak_signaal_van_aanbieder: 2
+",5,590,0.816,"ns",1,"ns","real"
+"11","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",9853,344,0.0456,"*",1,"ns","real"
+"12","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",1372,344,0.0699,"ns",1,"ns","real"
+"13","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",16,344,0.166,"ns",1,"ns","real"
+"14","Ja","IV: 
+afspraak_signaal_van_aanbieder: 15
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",5,344,0.802,"ns",1,"ns","real"
+"15","Ja","IV: 
+afspraak_signaal_van_aanbieder: 2
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",590,344,0.902,"ns",1,"ns","real"
+"16","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",9853,171,0.977,"ns",1,"ns","real"
+"17","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",1372,171,0.00753,"**",0.196,"ns","real"
+"18","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",16,171,0.345,"ns",1,"ns","real"
+"19","Ja","IV: 
+afspraak_signaal_van_aanbieder: 15
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",5,171,0.627,"ns",1,"ns","real"
+"20","Ja","IV: 
+afspraak_signaal_van_aanbieder: 2
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",590,171,0.182,"ns",1,"ns","real"
+"21","Ja","IV: 
+afspraak_signaal_van_aanbieder: 3
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",344,171,0.251,"ns",1,"ns","real"
+"22","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",9853,101,0.93,"ns",1,"ns","real"
+"23","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",1372,101,0.0272,"*",0.679,"ns","real"
+"24","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",16,101,0.381,"ns",1,"ns","real"
+"25","Ja","IV: 
+afspraak_signaal_van_aanbieder: 15
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",5,101,0.614,"ns",1,"ns","real"
+"26","Ja","IV: 
+afspraak_signaal_van_aanbieder: 2
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",590,101,0.239,"ns",1,"ns","real"
+"27","Ja","IV: 
+afspraak_signaal_van_aanbieder: 3
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",344,101,0.295,"ns",1,"ns","real"
+"28","Ja","IV: 
+afspraak_signaal_van_aanbieder: 4
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",171,101,0.93,"ns",1,"ns","real"
+"29","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 1
+",12645,12645,0.913,"ns",1,"ns","real_conditional"
+"30","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 10
+",12645,12645,4.37e-05,"****",0.001,"**","real_conditional"
+"31","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 10
+",12645,12645,6.95e-05,"****",0.00146,"**","real_conditional"
+"32","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 15
+",12645,12645,2.27e-21,"****",9.54e-20,"****","real_conditional"
+"33","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 15
+",12645,12645,6.43e-21,"****",2.32e-19,"****","real_conditional"
+"34","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 15
+",12645,12645,6.45e-08,"****",1.74e-06,"****","real_conditional"
+"35","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 2
+",12645,12645,0.913,"ns",1,"ns","real_conditional"
+"36","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"37","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 2
+",12645,12645,6.95e-05,"****",0.00146,"**","real_conditional"
+"38","Ja","IV: 
+afspraak_signaal_van_aanbieder: 15
+","IV: 
+afspraak_signaal_van_aanbieder: 2
+",12645,12645,6.43e-21,"****",2.32e-19,"****","real_conditional"
+"39","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 20
+",12645,12645,2.27e-21,"****",9.54e-20,"****","real_conditional"
+"40","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 20
+",12645,12645,6.43e-21,"****",2.32e-19,"****","real_conditional"
+"41","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 20
+",12645,12645,6.45e-08,"****",1.74e-06,"****","real_conditional"
+"42","Ja","IV: 
+afspraak_signaal_van_aanbieder: 15
+","IV: 
+afspraak_signaal_van_aanbieder: 20
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+afspraak_signaal_van_aanbieder: 2
+","IV: 
+afspraak_signaal_van_aanbieder: 20
+",12645,12645,6.43e-21,"****",2.32e-19,"****","real_conditional"
+"44","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",12645,12645,0.982,"ns",1,"ns","real_conditional"
+"45","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",12645,12645,0.931,"ns",1,"ns","real_conditional"
+"46","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",12645,12645,4.82e-05,"****",0.00106,"**","real_conditional"
+"47","Ja","IV: 
+afspraak_signaal_van_aanbieder: 15
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",12645,12645,2.83e-21,"****",1.1e-19,"****","real_conditional"
+"48","Ja","IV: 
+afspraak_signaal_van_aanbieder: 2
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",12645,12645,0.931,"ns",1,"ns","real_conditional"
+"49","Ja","IV: 
+afspraak_signaal_van_aanbieder: 20
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",12645,12645,2.83e-21,"****",1.1e-19,"****","real_conditional"
+"50","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 30
+",12645,12645,2.27e-21,"****",9.54e-20,"****","real_conditional"
+"51","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 30
+",12645,12645,6.43e-21,"****",2.32e-19,"****","real_conditional"
+"52","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 30
+",12645,12645,6.45e-08,"****",1.74e-06,"****","real_conditional"
+"53","Ja","IV: 
+afspraak_signaal_van_aanbieder: 15
+","IV: 
+afspraak_signaal_van_aanbieder: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+afspraak_signaal_van_aanbieder: 2
+","IV: 
+afspraak_signaal_van_aanbieder: 30
+",12645,12645,6.43e-21,"****",2.32e-19,"****","real_conditional"
+"55","Ja","IV: 
+afspraak_signaal_van_aanbieder: 20
+","IV: 
+afspraak_signaal_van_aanbieder: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"56","Ja","IV: 
+afspraak_signaal_van_aanbieder: 3
+","IV: 
+afspraak_signaal_van_aanbieder: 30
+",12645,12645,2.83e-21,"****",1.1e-19,"****","real_conditional"
+"57","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",12645,12645,0.961,"ns",1,"ns","real_conditional"
+"58","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",12645,12645,0.874,"ns",1,"ns","real_conditional"
+"59","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",12645,12645,3.53e-05,"****",0.000846,"***","real_conditional"
+"60","Ja","IV: 
+afspraak_signaal_van_aanbieder: 15
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",12645,12645,1.41e-21,"****",6.36e-20,"****","real_conditional"
+"61","Ja","IV: 
+afspraak_signaal_van_aanbieder: 2
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",12645,12645,0.874,"ns",1,"ns","real_conditional"
+"62","Ja","IV: 
+afspraak_signaal_van_aanbieder: 20
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",12645,12645,1.41e-21,"****",6.36e-20,"****","real_conditional"
+"63","Ja","IV: 
+afspraak_signaal_van_aanbieder: 3
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",12645,12645,0.942,"ns",1,"ns","real_conditional"
+"64","Ja","IV: 
+afspraak_signaal_van_aanbieder: 30
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",12645,12645,1.41e-21,"****",6.36e-20,"****","real_conditional"
+"65","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12645,12645,0.595,"ns",1,"ns","real_conditional"
+"66","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12645,12645,0.673,"ns",1,"ns","real_conditional"
+"67","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12645,12645,0.000377,"***",0.00717,"**","real_conditional"
+"68","Ja","IV: 
+afspraak_signaal_van_aanbieder: 15
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12645,12645,3.24e-19,"****",9.71e-18,"****","real_conditional"
+"69","Ja","IV: 
+afspraak_signaal_van_aanbieder: 2
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12645,12645,0.673,"ns",1,"ns","real_conditional"
+"70","Ja","IV: 
+afspraak_signaal_van_aanbieder: 20
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12645,12645,3.24e-19,"****",9.71e-18,"****","real_conditional"
+"71","Ja","IV: 
+afspraak_signaal_van_aanbieder: 3
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12645,12645,0.611,"ns",1,"ns","real_conditional"
+"72","Ja","IV: 
+afspraak_signaal_van_aanbieder: 30
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12645,12645,3.24e-19,"****",9.71e-18,"****","real_conditional"
+"73","Ja","IV: 
+afspraak_signaal_van_aanbieder: 4
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12645,12645,0.561,"ns",1,"ns","real_conditional"
+"74","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 1
+",2270,4968,0.00322,"**",0.0418,"*","synth"
+"75","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 2
+",2270,3367,0.00167,"**",0.0234,"*","synth"
+"76","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 2
+",4968,3367,0.631,"ns",1,"ns","synth"
+"77","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",2270,1473,0.0182,"*",0.2,"ns","synth"
+"78","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",4968,1473,0.882,"ns",1,"ns","synth"
+"79","Ja","IV: 
+afspraak_signaal_van_aanbieder: 2
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",3367,1473,0.839,"ns",1,"ns","synth"
+"80","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",2270,447,0.000181,"***",0.00271,"**","synth"
+"81","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",4968,447,0.0158,"*",0.19,"ns","synth"
+"82","Ja","IV: 
+afspraak_signaal_van_aanbieder: 2
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",3367,447,0.0313,"*",0.299,"ns","synth"
+"83","Ja","IV: 
+afspraak_signaal_van_aanbieder: 3
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",1473,447,0.0336,"*",0.299,"ns","synth"
+"84","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",2270,111,0.707,"ns",1,"ns","synth"
+"85","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",4968,111,0.247,"ns",1,"ns","synth"
+"86","Ja","IV: 
+afspraak_signaal_van_aanbieder: 2
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",3367,111,0.206,"ns",1,"ns","synth"
+"87","Ja","IV: 
+afspraak_signaal_van_aanbieder: 3
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",1473,111,0.24,"ns",1,"ns","synth"
+"88","Ja","IV: 
+afspraak_signaal_van_aanbieder: 4
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",447,111,0.0299,"*",0.299,"ns","synth"
+"89","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 1
+",12508,12508,0.861,"ns",1,"ns","synth_conditional"
+"90","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 10
+",12508,12508,8.47e-27,"****",2.2e-25,"****","synth_conditional"
+"91","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 10
+",12508,12508,5.51e-26,"****",1.32e-24,"****","synth_conditional"
+"92","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 15
+",12508,12508,5.75e-64,"****",2.42e-62,"****","synth_conditional"
+"93","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 15
+",12508,12508,1.09e-62,"****",3.92e-61,"****","synth_conditional"
+"94","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 15
+",12508,12508,6.61e-10,"****",1.39e-08,"****","synth_conditional"
+"95","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 2
+",12508,12508,0.861,"ns",1,"ns","synth_conditional"
+"96","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"97","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 2
+",12508,12508,5.51e-26,"****",1.32e-24,"****","synth_conditional"
+"98","Ja","IV: 
+afspraak_signaal_van_aanbieder: 15
+","IV: 
+afspraak_signaal_van_aanbieder: 2
+",12508,12508,1.09e-62,"****",3.92e-61,"****","synth_conditional"
+"99","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 20
+",12508,12508,5.75e-64,"****",2.42e-62,"****","synth_conditional"
+"100","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 20
+",12508,12508,1.09e-62,"****",3.92e-61,"****","synth_conditional"
+"101","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 20
+",12508,12508,6.61e-10,"****",1.39e-08,"****","synth_conditional"
+"102","Ja","IV: 
+afspraak_signaal_van_aanbieder: 15
+","IV: 
+afspraak_signaal_van_aanbieder: 20
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"103","Ja","IV: 
+afspraak_signaal_van_aanbieder: 2
+","IV: 
+afspraak_signaal_van_aanbieder: 20
+",12508,12508,1.09e-62,"****",3.92e-61,"****","synth_conditional"
+"104","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",12508,12508,0.973,"ns",1,"ns","synth_conditional"
+"105","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",12508,12508,0.888,"ns",1,"ns","synth_conditional"
+"106","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",12508,12508,1.22e-26,"****",3.04e-25,"****","synth_conditional"
+"107","Ja","IV: 
+afspraak_signaal_van_aanbieder: 15
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",12508,12508,1.01e-63,"****",3.95e-62,"****","synth_conditional"
+"108","Ja","IV: 
+afspraak_signaal_van_aanbieder: 2
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",12508,12508,0.888,"ns",1,"ns","synth_conditional"
+"109","Ja","IV: 
+afspraak_signaal_van_aanbieder: 20
+","IV: 
+afspraak_signaal_van_aanbieder: 3
+",12508,12508,1.01e-63,"****",3.95e-62,"****","synth_conditional"
+"110","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 30
+",12508,12508,5.75e-64,"****",2.42e-62,"****","synth_conditional"
+"111","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 30
+",12508,12508,1.09e-62,"****",3.92e-61,"****","synth_conditional"
+"112","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 30
+",12508,12508,6.61e-10,"****",1.39e-08,"****","synth_conditional"
+"113","Ja","IV: 
+afspraak_signaal_van_aanbieder: 15
+","IV: 
+afspraak_signaal_van_aanbieder: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"114","Ja","IV: 
+afspraak_signaal_van_aanbieder: 2
+","IV: 
+afspraak_signaal_van_aanbieder: 30
+",12508,12508,1.09e-62,"****",3.92e-61,"****","synth_conditional"
+"115","Ja","IV: 
+afspraak_signaal_van_aanbieder: 20
+","IV: 
+afspraak_signaal_van_aanbieder: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"116","Ja","IV: 
+afspraak_signaal_van_aanbieder: 3
+","IV: 
+afspraak_signaal_van_aanbieder: 30
+",12508,12508,1.01e-63,"****",3.95e-62,"****","synth_conditional"
+"117","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",12508,12508,0.891,"ns",1,"ns","synth_conditional"
+"118","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",12508,12508,0.755,"ns",1,"ns","synth_conditional"
+"119","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",12508,12508,1.92e-27,"****",5.18e-26,"****","synth_conditional"
+"120","Ja","IV: 
+afspraak_signaal_van_aanbieder: 15
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",12508,12508,5.64e-65,"****",2.54e-63,"****","synth_conditional"
+"121","Ja","IV: 
+afspraak_signaal_van_aanbieder: 2
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",12508,12508,0.755,"ns",1,"ns","synth_conditional"
+"122","Ja","IV: 
+afspraak_signaal_van_aanbieder: 20
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",12508,12508,5.64e-65,"****",2.54e-63,"****","synth_conditional"
+"123","Ja","IV: 
+afspraak_signaal_van_aanbieder: 3
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",12508,12508,0.865,"ns",1,"ns","synth_conditional"
+"124","Ja","IV: 
+afspraak_signaal_van_aanbieder: 30
+","IV: 
+afspraak_signaal_van_aanbieder: 4
+",12508,12508,5.64e-65,"****",2.54e-63,"****","synth_conditional"
+"125","Ja","IV: 
+afspraak_signaal_van_aanbieder: 0
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12508,12508,0.752,"ns",1,"ns","synth_conditional"
+"126","Ja","IV: 
+afspraak_signaal_van_aanbieder: 1
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12508,12508,0.887,"ns",1,"ns","synth_conditional"
+"127","Ja","IV: 
+afspraak_signaal_van_aanbieder: 10
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12508,12508,2.46e-25,"****",5.41e-24,"****","synth_conditional"
+"128","Ja","IV: 
+afspraak_signaal_van_aanbieder: 15
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12508,12508,1.16e-61,"****",3.47e-60,"****","synth_conditional"
+"129","Ja","IV: 
+afspraak_signaal_van_aanbieder: 2
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12508,12508,0.887,"ns",1,"ns","synth_conditional"
+"130","Ja","IV: 
+afspraak_signaal_van_aanbieder: 20
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12508,12508,1.16e-61,"****",3.47e-60,"****","synth_conditional"
+"131","Ja","IV: 
+afspraak_signaal_van_aanbieder: 3
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12508,12508,0.777,"ns",1,"ns","synth_conditional"
+"132","Ja","IV: 
+afspraak_signaal_van_aanbieder: 30
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12508,12508,1.16e-61,"****",3.47e-60,"****","synth_conditional"
+"133","Ja","IV: 
+afspraak_signaal_van_aanbieder: 4
+","IV: 
+afspraak_signaal_van_aanbieder: 5
+",12508,12508,0.65,"ns",1,"ns","synth_conditional"

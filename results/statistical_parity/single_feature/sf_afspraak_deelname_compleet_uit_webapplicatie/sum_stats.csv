@@ -1,0 +1,115 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+","Ja",8454,0.503,0.157,0.124792997397682,0.321386325999527,2.47929973976816,22.1386325999527,"real"
+"2","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+","Ja",2730,0.456,0.144,0.0476190476190476,0.1996336996337,-5.23809523809524,9.96336996336996,"real"
+"3","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+","Ja",2,0.409,0.007,0,0,-10,-10,"real"
+"4","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+","Ja",943,0.466,0.138,0.0509013785790032,0.193001060445387,-4.90986214209968,9.30010604453871,"real"
+"5","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+","Ja",294,0.472,0.133,0.0578231292517007,0.197278911564626,-4.21768707482993,9.72789115646258,"real"
+"6","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+","Ja",139,0.5,0.126,0.0719424460431655,0.266187050359712,-2.80575539568345,16.6187050359712,"real"
+"7","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+","Ja",43,0.494,0.121,0.0232558139534884,0.27906976744186,-7.67441860465116,17.906976744186,"real"
+"8","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+","Ja",22,0.558,0.129,0.181818181818182,0.409090909090909,8.18181818181818,30.9090909090909,"real"
+"9","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+","Ja",11,0.553,0.072,0,0.363636363636364,-10,26.3636363636364,"real"
+"10","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+","Ja",5,0.423,0.147,0,0.2,-10,10,"real"
+"11","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+","Ja",2,0.546,0.1,0,0.5,-10,40,"real"
+"12","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+","Ja",12645,0.489,0.153,0.100276789244761,0.282799525504152,0.0276789244760767,18.2799525504152,"real_conditional"
+"13","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+","Ja",12645,0.489,0.153,0.098932384341637,0.281455120601028,-0.1067615658363,18.1455120601028,"real_conditional"
+"14","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+","Ja",12645,0.487,0.154,0.0964808224594702,0.276631079478055,-0.351917754052986,17.6631079478055,"real_conditional"
+"15","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+","Ja",12645,0.489,0.153,0.0987742190589166,0.281059707394227,-0.122578094108343,18.1059707394227,"real_conditional"
+"16","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+","Ja",12645,0.489,0.153,0.0987742190589166,0.280980624752867,-0.122578094108343,18.0980624752867,"real_conditional"
+"17","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+","Ja",12645,0.489,0.153,0.0987742190589166,0.280980624752867,-0.122578094108343,18.0980624752867,"real_conditional"
+"18","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+","Ja",12645,0.487,0.154,0.0964808224594702,0.276631079478055,-0.351917754052986,17.6631079478055,"real_conditional"
+"19","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+","Ja",12645,0.487,0.154,0.0964808224594702,0.276631079478055,-0.351917754052986,17.6631079478055,"real_conditional"
+"20","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+","Ja",12645,0.487,0.154,0.0964808224594702,0.276631079478055,-0.351917754052986,17.6631079478055,"real_conditional"
+"21","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+","Ja",12645,0.487,0.154,0.0964808224594702,0.276631079478055,-0.351917754052986,17.6631079478055,"real_conditional"
+"22","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+","Ja",12645,0.487,0.154,0.0964808224594702,0.276631079478055,-0.351917754052986,17.6631079478055,"real_conditional"
+"23","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+","Ja",3368,0.619,0.087,0.130641330166271,0.668349168646081,3.06413301662708,56.8349168646081,"synth"
+"24","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+","Ja",6397,0.612,0.085,0.0980146943879944,0.637329998436767,-0.198530561200563,53.7329998436767,"synth"
+"25","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+","Ja",2490,0.605,0.082,0.0706827309236948,0.62289156626506,-2.93172690763052,52.289156626506,"synth"
+"26","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+","Ja",365,0.598,0.09,0.0575342465753425,0.597260273972603,-4.24657534246575,49.7260273972603,"synth"
+"27","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+","Ja",25,0.599,0.063,0.04,0.48,-6,38,"synth"
+"28","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+","Ja",12508,0.612,0.085,0.101055324592261,0.642628717620723,0.105532459226094,54.2628717620723,"synth_conditional"
+"29","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+","Ja",12508,0.612,0.085,0.0993763991045731,0.640949792133035,-0.0623600895426929,54.0949792133035,"synth_conditional"
+"30","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+","Ja",12508,0.61,0.086,0.0971378317876559,0.633114806523825,-0.28621682123441,53.3114806523825,"synth_conditional"
+"31","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+","Ja",12508,0.611,0.085,0.0988967061080908,0.639031020147106,-0.110329389190919,53.9031020147106,"synth_conditional"
+"32","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+","Ja",12508,0.611,0.085,0.0975375759513911,0.636472657499201,-0.24624240486089,53.6472657499201,"synth_conditional"
+"33","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+","Ja",12508,0.611,0.085,0.0975375759513911,0.636472657499201,-0.24624240486089,53.6472657499201,"synth_conditional"
+"34","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+","Ja",12508,0.61,0.086,0.0971378317876559,0.633114806523825,-0.28621682123441,53.3114806523825,"synth_conditional"
+"35","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+","Ja",12508,0.61,0.086,0.0971378317876559,0.633114806523825,-0.28621682123441,53.3114806523825,"synth_conditional"
+"36","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+","Ja",12508,0.61,0.086,0.0971378317876559,0.633114806523825,-0.28621682123441,53.3114806523825,"synth_conditional"
+"37","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+","Ja",12508,0.61,0.086,0.0971378317876559,0.633114806523825,-0.28621682123441,53.3114806523825,"synth_conditional"
+"38","IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+","Ja",12508,0.61,0.086,0.0971378317876559,0.633114806523825,-0.28621682123441,53.3114806523825,"synth_conditional"

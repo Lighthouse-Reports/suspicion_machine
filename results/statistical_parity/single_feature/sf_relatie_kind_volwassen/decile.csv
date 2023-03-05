@@ -1,0 +1,616 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+relatie_kind_volwassen: 0
+",1093,9.52920662598082,"real"
+"2",1,"IV: 
+relatie_kind_volwassen: 1
+",100,13.4408602150538,"real"
+"3",1,"IV: 
+relatie_kind_volwassen: 2
+",56,18.7290969899666,"real"
+"4",1,"IV: 
+relatie_kind_volwassen: 3
+",12,12.9032258064516,"real"
+"5",1,"IV: 
+relatie_kind_volwassen: 4
+",4,13.7931034482759,"real"
+"6",2,"IV: 
+relatie_kind_volwassen: 0
+",1109,9.66870095902354,"real"
+"7",2,"IV: 
+relatie_kind_volwassen: 1
+",103,13.8440860215054,"real"
+"8",2,"IV: 
+relatie_kind_volwassen: 2
+",32,10.7023411371237,"real"
+"9",2,"IV: 
+relatie_kind_volwassen: 3
+",16,17.2043010752688,"real"
+"10",2,"IV: 
+relatie_kind_volwassen: 4
+",5,17.2413793103448,"real"
+"11",3,"IV: 
+relatie_kind_volwassen: 0
+",1143,9.96512641673932,"real"
+"12",3,"IV: 
+relatie_kind_volwassen: 1
+",81,10.8870967741935,"real"
+"13",3,"IV: 
+relatie_kind_volwassen: 2
+",28,9.36454849498328,"real"
+"14",3,"IV: 
+relatie_kind_volwassen: 3
+",9,9.67741935483871,"real"
+"15",3,"IV: 
+relatie_kind_volwassen: 4
+",2,6.89655172413793,"real"
+"16",3,"IV: 
+relatie_kind_volwassen: 5
+",2,20,"real"
+"17",4,"IV: 
+relatie_kind_volwassen: 0
+",1170,10.2005231037489,"real"
+"18",4,"IV: 
+relatie_kind_volwassen: 1
+",64,8.60215053763441,"real"
+"19",4,"IV: 
+relatie_kind_volwassen: 2
+",18,6.02006688963211,"real"
+"20",4,"IV: 
+relatie_kind_volwassen: 3
+",11,11.8279569892473,"real"
+"21",4,"IV: 
+relatie_kind_volwassen: 4
+",1,3.44827586206897,"real"
+"22",4,"IV: 
+relatie_kind_volwassen: 5
+",1,10,"real"
+"23",5,"IV: 
+relatie_kind_volwassen: 0
+",1157,10.0871839581517,"real"
+"24",5,"IV: 
+relatie_kind_volwassen: 1
+",72,9.67741935483871,"real"
+"25",5,"IV: 
+relatie_kind_volwassen: 2
+",27,9.03010033444816,"real"
+"26",5,"IV: 
+relatie_kind_volwassen: 3
+",7,7.52688172043011,"real"
+"27",5,"IV: 
+relatie_kind_volwassen: 4
+",2,6.89655172413793,"real"
+"28",6,"IV: 
+relatie_kind_volwassen: 0
+",1137,9.9128160418483,"real"
+"29",6,"IV: 
+relatie_kind_volwassen: 1
+",60,8.06451612903226,"real"
+"30",6,"IV: 
+relatie_kind_volwassen: 2
+",47,15.7190635451505,"real"
+"31",6,"IV: 
+relatie_kind_volwassen: 3
+",10,10.752688172043,"real"
+"32",6,"IV: 
+relatie_kind_volwassen: 4
+",8,27.5862068965517,"real"
+"33",6,"IV: 
+relatie_kind_volwassen: 5
+",2,20,"real"
+"34",7,"IV: 
+relatie_kind_volwassen: 0
+",1147,10,"real"
+"35",7,"IV: 
+relatie_kind_volwassen: 1
+",72,9.67741935483871,"real"
+"36",7,"IV: 
+relatie_kind_volwassen: 2
+",28,9.36454849498328,"real"
+"37",7,"IV: 
+relatie_kind_volwassen: 3
+",11,11.8279569892473,"real"
+"38",7,"IV: 
+relatie_kind_volwassen: 4
+",3,10.3448275862069,"real"
+"39",7,"IV: 
+relatie_kind_volwassen: 5
+",3,30,"real"
+"40",8,"IV: 
+relatie_kind_volwassen: 0
+",1145,9.98256320836966,"real"
+"41",8,"IV: 
+relatie_kind_volwassen: 1
+",82,11.0215053763441,"real"
+"42",8,"IV: 
+relatie_kind_volwassen: 2
+",29,9.69899665551839,"real"
+"43",8,"IV: 
+relatie_kind_volwassen: 3
+",6,6.45161290322581,"real"
+"44",8,"IV: 
+relatie_kind_volwassen: 4
+",1,3.44827586206897,"real"
+"45",8,"IV: 
+relatie_kind_volwassen: 5
+",1,10,"real"
+"46",9,"IV: 
+relatie_kind_volwassen: 0
+",1161,10.1220575414124,"real"
+"47",9,"IV: 
+relatie_kind_volwassen: 1
+",67,9.00537634408602,"real"
+"48",9,"IV: 
+relatie_kind_volwassen: 2
+",25,8.36120401337793,"real"
+"49",9,"IV: 
+relatie_kind_volwassen: 3
+",7,7.52688172043011,"real"
+"50",9,"IV: 
+relatie_kind_volwassen: 4
+",3,10.3448275862069,"real"
+"51",9,"IV: 
+relatie_kind_volwassen: 5
+",1,10,"real"
+"52",10,"IV: 
+relatie_kind_volwassen: 0
+",1208,10.5318221447254,"real"
+"53",10,"IV: 
+relatie_kind_volwassen: 1
+",43,5.77956989247312,"real"
+"54",10,"IV: 
+relatie_kind_volwassen: 2
+",9,3.01003344481605,"real"
+"55",10,"IV: 
+relatie_kind_volwassen: 3
+",4,4.3010752688172,"real"
+"56",1,"IV: 
+relatie_kind_volwassen: 0
+",1255,9.92487149070779,"real_conditional"
+"57",1,"IV: 
+relatie_kind_volwassen: 1
+",1255,9.92487149070779,"real_conditional"
+"58",1,"IV: 
+relatie_kind_volwassen: 2
+",1270,10.0434954527481,"real_conditional"
+"59",1,"IV: 
+relatie_kind_volwassen: 3
+",1269,10.0355871886121,"real_conditional"
+"60",1,"IV: 
+relatie_kind_volwassen: 4
+",1269,10.0355871886121,"real_conditional"
+"61",1,"IV: 
+relatie_kind_volwassen: 5
+",1269,10.0355871886121,"real_conditional"
+"62",2,"IV: 
+relatie_kind_volwassen: 0
+",1258,9.94859628311586,"real_conditional"
+"63",2,"IV: 
+relatie_kind_volwassen: 1
+",1258,9.94859628311586,"real_conditional"
+"64",2,"IV: 
+relatie_kind_volwassen: 2
+",1267,10.0197706603401,"real_conditional"
+"65",2,"IV: 
+relatie_kind_volwassen: 3
+",1268,10.0276789244761,"real_conditional"
+"66",2,"IV: 
+relatie_kind_volwassen: 4
+",1268,10.0276789244761,"real_conditional"
+"67",2,"IV: 
+relatie_kind_volwassen: 5
+",1268,10.0276789244761,"real_conditional"
+"68",3,"IV: 
+relatie_kind_volwassen: 0
+",1258,9.94859628311586,"real_conditional"
+"69",3,"IV: 
+relatie_kind_volwassen: 1
+",1258,9.94859628311586,"real_conditional"
+"70",3,"IV: 
+relatie_kind_volwassen: 2
+",1268,10.0276789244761,"real_conditional"
+"71",3,"IV: 
+relatie_kind_volwassen: 3
+",1268,10.0276789244761,"real_conditional"
+"72",3,"IV: 
+relatie_kind_volwassen: 4
+",1267,10.0197706603401,"real_conditional"
+"73",3,"IV: 
+relatie_kind_volwassen: 5
+",1268,10.0276789244761,"real_conditional"
+"74",4,"IV: 
+relatie_kind_volwassen: 0
+",1265,10.003954132068,"real_conditional"
+"75",4,"IV: 
+relatie_kind_volwassen: 1
+",1265,10.003954132068,"real_conditional"
+"76",4,"IV: 
+relatie_kind_volwassen: 2
+",1264,9.99604586793199,"real_conditional"
+"77",4,"IV: 
+relatie_kind_volwassen: 3
+",1264,9.99604586793199,"real_conditional"
+"78",4,"IV: 
+relatie_kind_volwassen: 4
+",1265,10.003954132068,"real_conditional"
+"79",4,"IV: 
+relatie_kind_volwassen: 5
+",1264,9.99604586793199,"real_conditional"
+"80",5,"IV: 
+relatie_kind_volwassen: 0
+",1257,9.94068801897983,"real_conditional"
+"81",5,"IV: 
+relatie_kind_volwassen: 1
+",1257,9.94068801897983,"real_conditional"
+"82",5,"IV: 
+relatie_kind_volwassen: 2
+",1269,10.0355871886121,"real_conditional"
+"83",5,"IV: 
+relatie_kind_volwassen: 3
+",1268,10.0276789244761,"real_conditional"
+"84",5,"IV: 
+relatie_kind_volwassen: 4
+",1268,10.0276789244761,"real_conditional"
+"85",5,"IV: 
+relatie_kind_volwassen: 5
+",1268,10.0276789244761,"real_conditional"
+"86",6,"IV: 
+relatie_kind_volwassen: 0
+",1269,10.0355871886121,"real_conditional"
+"87",6,"IV: 
+relatie_kind_volwassen: 1
+",1269,10.0355871886121,"real_conditional"
+"88",6,"IV: 
+relatie_kind_volwassen: 2
+",1262,9.98022933965994,"real_conditional"
+"89",6,"IV: 
+relatie_kind_volwassen: 3
+",1263,9.98813760379597,"real_conditional"
+"90",6,"IV: 
+relatie_kind_volwassen: 4
+",1262,9.98022933965994,"real_conditional"
+"91",6,"IV: 
+relatie_kind_volwassen: 5
+",1262,9.98022933965994,"real_conditional"
+"92",7,"IV: 
+relatie_kind_volwassen: 0
+",1258,9.94859628311586,"real_conditional"
+"93",7,"IV: 
+relatie_kind_volwassen: 1
+",1258,9.94859628311586,"real_conditional"
+"94",7,"IV: 
+relatie_kind_volwassen: 2
+",1268,10.0276789244761,"real_conditional"
+"95",7,"IV: 
+relatie_kind_volwassen: 3
+",1267,10.0197706603401,"real_conditional"
+"96",7,"IV: 
+relatie_kind_volwassen: 4
+",1268,10.0276789244761,"real_conditional"
+"97",7,"IV: 
+relatie_kind_volwassen: 5
+",1268,10.0276789244761,"real_conditional"
+"98",8,"IV: 
+relatie_kind_volwassen: 0
+",1261,9.97232107552392,"real_conditional"
+"99",8,"IV: 
+relatie_kind_volwassen: 1
+",1261,9.97232107552392,"real_conditional"
+"100",8,"IV: 
+relatie_kind_volwassen: 2
+",1266,10.011862396204,"real_conditional"
+"101",8,"IV: 
+relatie_kind_volwassen: 3
+",1267,10.0197706603401,"real_conditional"
+"102",8,"IV: 
+relatie_kind_volwassen: 4
+",1266,10.011862396204,"real_conditional"
+"103",8,"IV: 
+relatie_kind_volwassen: 5
+",1266,10.011862396204,"real_conditional"
+"104",9,"IV: 
+relatie_kind_volwassen: 0
+",1273,10.0672202451562,"real_conditional"
+"105",9,"IV: 
+relatie_kind_volwassen: 1
+",1272,10.0593119810202,"real_conditional"
+"106",9,"IV: 
+relatie_kind_volwassen: 2
+",1260,9.9644128113879,"real_conditional"
+"107",9,"IV: 
+relatie_kind_volwassen: 3
+",1260,9.9644128113879,"real_conditional"
+"108",9,"IV: 
+relatie_kind_volwassen: 4
+",1261,9.97232107552392,"real_conditional"
+"109",9,"IV: 
+relatie_kind_volwassen: 5
+",1261,9.97232107552392,"real_conditional"
+"110",10,"IV: 
+relatie_kind_volwassen: 0
+",1291,10.2095689996046,"real_conditional"
+"111",10,"IV: 
+relatie_kind_volwassen: 1
+",1292,10.2174772637406,"real_conditional"
+"112",10,"IV: 
+relatie_kind_volwassen: 2
+",1251,9.8932384341637,"real_conditional"
+"113",10,"IV: 
+relatie_kind_volwassen: 3
+",1251,9.8932384341637,"real_conditional"
+"114",10,"IV: 
+relatie_kind_volwassen: 4
+",1251,9.8932384341637,"real_conditional"
+"115",10,"IV: 
+relatie_kind_volwassen: 5
+",1251,9.8932384341637,"real_conditional"
+"116",1,"IV: 
+relatie_kind_volwassen: 0
+",770,9.78896516653954,"synth"
+"117",1,"IV: 
+relatie_kind_volwassen: 1
+",489,10.3755569700827,"synth"
+"118",1,"IV: 
+relatie_kind_volwassen: 2
+",6,9.09090909090909,"synth"
+"119",2,"IV: 
+relatie_kind_volwassen: 0
+",797,10.1322145944572,"synth"
+"120",2,"IV: 
+relatie_kind_volwassen: 1
+",466,9.88754508805432,"synth"
+"121",2,"IV: 
+relatie_kind_volwassen: 2
+",2,3.03030303030303,"synth"
+"122",3,"IV: 
+relatie_kind_volwassen: 0
+",768,9.76353928299008,"synth"
+"123",3,"IV: 
+relatie_kind_volwassen: 1
+",488,10.3543390621685,"synth"
+"124",3,"IV: 
+relatie_kind_volwassen: 2
+",9,13.6363636363636,"synth"
+"125",4,"IV: 
+relatie_kind_volwassen: 0
+",770,9.78896516653954,"synth"
+"126",4,"IV: 
+relatie_kind_volwassen: 1
+",487,10.3331211542542,"synth"
+"127",4,"IV: 
+relatie_kind_volwassen: 2
+",8,12.1212121212121,"synth"
+"128",5,"IV: 
+relatie_kind_volwassen: 0
+",785,9.97965929316044,"synth"
+"129",5,"IV: 
+relatie_kind_volwassen: 1
+",472,10.01485253554,"synth"
+"130",5,"IV: 
+relatie_kind_volwassen: 2
+",8,12.1212121212121,"synth"
+"131",6,"IV: 
+relatie_kind_volwassen: 0
+",769,9.77625222476481,"synth"
+"132",6,"IV: 
+relatie_kind_volwassen: 1
+",484,10.2694674305114,"synth"
+"133",6,"IV: 
+relatie_kind_volwassen: 2
+",11,16.6666666666667,"synth"
+"134",7,"IV: 
+relatie_kind_volwassen: 0
+",769,9.77625222476481,"synth"
+"135",7,"IV: 
+relatie_kind_volwassen: 1
+",488,10.3543390621685,"synth"
+"136",7,"IV: 
+relatie_kind_volwassen: 2
+",7,10.6060606060606,"synth"
+"137",8,"IV: 
+relatie_kind_volwassen: 0
+",799,10.1576404780066,"synth"
+"138",8,"IV: 
+relatie_kind_volwassen: 1
+",460,9.76023764056864,"synth"
+"139",8,"IV: 
+relatie_kind_volwassen: 2
+",5,7.57575757575758,"synth"
+"140",9,"IV: 
+relatie_kind_volwassen: 0
+",804,10.2212051868802,"synth"
+"141",9,"IV: 
+relatie_kind_volwassen: 1
+",456,9.67536600891152,"synth"
+"142",9,"IV: 
+relatie_kind_volwassen: 2
+",4,6.06060606060606,"synth"
+"143",10,"IV: 
+relatie_kind_volwassen: 0
+",835,10.6153063818968,"synth"
+"144",10,"IV: 
+relatie_kind_volwassen: 1
+",423,8.97517504774029,"synth"
+"145",10,"IV: 
+relatie_kind_volwassen: 2
+",6,9.09090909090909,"synth"
+"146",1,"IV: 
+relatie_kind_volwassen: 0
+",1218,9.7377678285897,"synth_conditional"
+"147",1,"IV: 
+relatie_kind_volwassen: 1
+",1218,9.7377678285897,"synth_conditional"
+"148",1,"IV: 
+relatie_kind_volwassen: 2
+",1268,10.1375119923249,"synth_conditional"
+"149",1,"IV: 
+relatie_kind_volwassen: 3
+",1267,10.1295171090502,"synth_conditional"
+"150",1,"IV: 
+relatie_kind_volwassen: 4
+",1267,10.1295171090502,"synth_conditional"
+"151",1,"IV: 
+relatie_kind_volwassen: 5
+",1267,10.1295171090502,"synth_conditional"
+"152",2,"IV: 
+relatie_kind_volwassen: 0
+",1221,9.76175247841381,"synth_conditional"
+"153",2,"IV: 
+relatie_kind_volwassen: 1
+",1221,9.76175247841381,"synth_conditional"
+"154",2,"IV: 
+relatie_kind_volwassen: 2
+",1265,10.1135273425008,"synth_conditional"
+"155",2,"IV: 
+relatie_kind_volwassen: 3
+",1266,10.1215222257755,"synth_conditional"
+"156",2,"IV: 
+relatie_kind_volwassen: 4
+",1266,10.1215222257755,"synth_conditional"
+"157",2,"IV: 
+relatie_kind_volwassen: 5
+",1266,10.1215222257755,"synth_conditional"
+"158",3,"IV: 
+relatie_kind_volwassen: 0
+",1205,9.63383434601855,"synth_conditional"
+"159",3,"IV: 
+relatie_kind_volwassen: 1
+",1204,9.62583946274384,"synth_conditional"
+"160",3,"IV: 
+relatie_kind_volwassen: 2
+",1274,10.1854812919731,"synth_conditional"
+"161",3,"IV: 
+relatie_kind_volwassen: 3
+",1274,10.1854812919731,"synth_conditional"
+"162",3,"IV: 
+relatie_kind_volwassen: 4
+",1274,10.1854812919731,"synth_conditional"
+"163",3,"IV: 
+relatie_kind_volwassen: 5
+",1274,10.1854812919731,"synth_conditional"
+"164",4,"IV: 
+relatie_kind_volwassen: 0
+",1240,9.9136552606332,"synth_conditional"
+"165",4,"IV: 
+relatie_kind_volwassen: 1
+",1241,9.9216501439079,"synth_conditional"
+"166",4,"IV: 
+relatie_kind_volwassen: 2
+",1256,10.0415733930285,"synth_conditional"
+"167",4,"IV: 
+relatie_kind_volwassen: 3
+",1256,10.0415733930285,"synth_conditional"
+"168",4,"IV: 
+relatie_kind_volwassen: 4
+",1256,10.0415733930285,"synth_conditional"
+"169",4,"IV: 
+relatie_kind_volwassen: 5
+",1256,10.0415733930285,"synth_conditional"
+"170",5,"IV: 
+relatie_kind_volwassen: 0
+",1233,9.85769107771027,"synth_conditional"
+"171",5,"IV: 
+relatie_kind_volwassen: 1
+",1233,9.85769107771027,"synth_conditional"
+"172",5,"IV: 
+relatie_kind_volwassen: 2
+",1260,10.0735529261273,"synth_conditional"
+"173",5,"IV: 
+relatie_kind_volwassen: 3
+",1260,10.0735529261273,"synth_conditional"
+"174",5,"IV: 
+relatie_kind_volwassen: 4
+",1259,10.0655580428526,"synth_conditional"
+"175",5,"IV: 
+relatie_kind_volwassen: 5
+",1260,10.0735529261273,"synth_conditional"
+"176",6,"IV: 
+relatie_kind_volwassen: 0
+",1240,9.9136552606332,"synth_conditional"
+"177",6,"IV: 
+relatie_kind_volwassen: 1
+",1240,9.9136552606332,"synth_conditional"
+"178",6,"IV: 
+relatie_kind_volwassen: 2
+",1256,10.0415733930285,"synth_conditional"
+"179",6,"IV: 
+relatie_kind_volwassen: 3
+",1256,10.0415733930285,"synth_conditional"
+"180",6,"IV: 
+relatie_kind_volwassen: 4
+",1257,10.0495682763032,"synth_conditional"
+"181",6,"IV: 
+relatie_kind_volwassen: 5
+",1256,10.0415733930285,"synth_conditional"
+"182",7,"IV: 
+relatie_kind_volwassen: 0
+",1251,10.0015989766549,"synth_conditional"
+"183",7,"IV: 
+relatie_kind_volwassen: 1
+",1250,9.99360409338024,"synth_conditional"
+"184",7,"IV: 
+relatie_kind_volwassen: 2
+",1251,10.0015989766549,"synth_conditional"
+"185",7,"IV: 
+relatie_kind_volwassen: 3
+",1251,10.0015989766549,"synth_conditional"
+"186",7,"IV: 
+relatie_kind_volwassen: 4
+",1251,10.0015989766549,"synth_conditional"
+"187",7,"IV: 
+relatie_kind_volwassen: 5
+",1251,10.0015989766549,"synth_conditional"
+"188",8,"IV: 
+relatie_kind_volwassen: 0
+",1265,10.1135273425008,"synth_conditional"
+"189",8,"IV: 
+relatie_kind_volwassen: 1
+",1266,10.1215222257755,"synth_conditional"
+"190",8,"IV: 
+relatie_kind_volwassen: 2
+",1244,9.94563479373201,"synth_conditional"
+"191",8,"IV: 
+relatie_kind_volwassen: 3
+",1244,9.94563479373201,"synth_conditional"
+"192",8,"IV: 
+relatie_kind_volwassen: 4
+",1243,9.93763991045731,"synth_conditional"
+"193",8,"IV: 
+relatie_kind_volwassen: 5
+",1243,9.93763991045731,"synth_conditional"
+"194",9,"IV: 
+relatie_kind_volwassen: 0
+",1305,10.433322673489,"synth_conditional"
+"195",9,"IV: 
+relatie_kind_volwassen: 1
+",1305,10.433322673489,"synth_conditional"
+"196",9,"IV: 
+relatie_kind_volwassen: 2
+",1223,9.77774224496322,"synth_conditional"
+"197",9,"IV: 
+relatie_kind_volwassen: 3
+",1223,9.77774224496322,"synth_conditional"
+"198",9,"IV: 
+relatie_kind_volwassen: 4
+",1224,9.78573712823793,"synth_conditional"
+"199",9,"IV: 
+relatie_kind_volwassen: 5
+",1224,9.78573712823793,"synth_conditional"
+"200",10,"IV: 
+relatie_kind_volwassen: 0
+",1330,10.6331947553566,"synth_conditional"
+"201",10,"IV: 
+relatie_kind_volwassen: 1
+",1330,10.6331947553566,"synth_conditional"
+"202",10,"IV: 
+relatie_kind_volwassen: 2
+",1211,9.68180364566677,"synth_conditional"
+"203",10,"IV: 
+relatie_kind_volwassen: 3
+",1211,9.68180364566677,"synth_conditional"
+"204",10,"IV: 
+relatie_kind_volwassen: 4
+",1211,9.68180364566677,"synth_conditional"
+"205",10,"IV: 
+relatie_kind_volwassen: 5
+",1211,9.68180364566677,"synth_conditional"

@@ -1,0 +1,412 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+competentie_plannen_en_organiseren: 0
+",1242,13.1151003167899,"real"
+"2",1,"IV: 
+competentie_plannen_en_organiseren: 1
+",23,0.736471341658662,"real"
+"3",2,"IV: 
+competentie_plannen_en_organiseren: 0
+",1158,12.2280887011616,"real"
+"4",2,"IV: 
+competentie_plannen_en_organiseren: 1
+",107,3.42619276336856,"real"
+"5",3,"IV: 
+competentie_plannen_en_organiseren: 0
+",1052,11.1087645195354,"real"
+"6",3,"IV: 
+competentie_plannen_en_organiseren: 1
+",211,6.75632404739033,"real"
+"7",3,"IV: 
+competentie_plannen_en_organiseren: 2
+",2,4,"real"
+"8",4,"IV: 
+competentie_plannen_en_organiseren: 0
+",956,10.0950369588173,"real"
+"9",4,"IV: 
+competentie_plannen_en_organiseren: 1
+",309,9.89433237271854,"real"
+"10",5,"IV: 
+competentie_plannen_en_organiseren: 0
+",928,9.79936642027455,"real"
+"11",5,"IV: 
+competentie_plannen_en_organiseren: 1
+",335,10.726865193724,"real"
+"12",5,"IV: 
+competentie_plannen_en_organiseren: 2
+",2,4,"real"
+"13",6,"IV: 
+competentie_plannen_en_organiseren: 0
+",893,9.42977824709609,"real"
+"14",6,"IV: 
+competentie_plannen_en_organiseren: 1
+",366,11.7195004803074,"real"
+"15",6,"IV: 
+competentie_plannen_en_organiseren: 2
+",5,10,"real"
+"16",7,"IV: 
+competentie_plannen_en_organiseren: 0
+",865,9.13410770855333,"real"
+"17",7,"IV: 
+competentie_plannen_en_organiseren: 1
+",391,12.5200128081972,"real"
+"18",7,"IV: 
+competentie_plannen_en_organiseren: 2
+",8,16,"real"
+"19",8,"IV: 
+competentie_plannen_en_organiseren: 0
+",869,9.17634635691658,"real"
+"20",8,"IV: 
+competentie_plannen_en_organiseren: 1
+",388,12.4239513288505,"real"
+"21",8,"IV: 
+competentie_plannen_en_organiseren: 2
+",7,14,"real"
+"22",9,"IV: 
+competentie_plannen_en_organiseren: 0
+",816,8.61668426610349,"real"
+"23",9,"IV: 
+competentie_plannen_en_organiseren: 1
+",440,14.0890169708614,"real"
+"24",9,"IV: 
+competentie_plannen_en_organiseren: 2
+",8,16,"real"
+"25",10,"IV: 
+competentie_plannen_en_organiseren: 0
+",691,7.29672650475185,"real"
+"26",10,"IV: 
+competentie_plannen_en_organiseren: 1
+",553,17.7073326929235,"real"
+"27",10,"IV: 
+competentie_plannen_en_organiseren: 2
+",18,36,"real"
+"28",10,"IV: 
+competentie_plannen_en_organiseren: 3
+",2,100,"real"
+"29",1,"IV: 
+competentie_plannen_en_organiseren: 0
+",1354,10.707789640174,"real_conditional"
+"30",1,"IV: 
+competentie_plannen_en_organiseren: 1
+",1235,9.76670620798735,"real_conditional"
+"31",1,"IV: 
+competentie_plannen_en_organiseren: 2
+",1235,9.76670620798735,"real_conditional"
+"32",1,"IV: 
+competentie_plannen_en_organiseren: 3
+",1234,9.75879794385133,"real_conditional"
+"33",2,"IV: 
+competentie_plannen_en_organiseren: 0
+",1300,10.2807433768288,"real_conditional"
+"34",2,"IV: 
+competentie_plannen_en_organiseren: 1
+",1253,9.90905496243574,"real_conditional"
+"35",2,"IV: 
+competentie_plannen_en_organiseren: 2
+",1252,9.90114669829972,"real_conditional"
+"36",2,"IV: 
+competentie_plannen_en_organiseren: 3
+",1253,9.90905496243574,"real_conditional"
+"37",3,"IV: 
+competentie_plannen_en_organiseren: 0
+",1276,10.0909450375643,"real_conditional"
+"38",3,"IV: 
+competentie_plannen_en_organiseren: 1
+",1260,9.9644128113879,"real_conditional"
+"39",3,"IV: 
+competentie_plannen_en_organiseren: 2
+",1261,9.97232107552392,"real_conditional"
+"40",3,"IV: 
+competentie_plannen_en_organiseren: 3
+",1261,9.97232107552392,"real_conditional"
+"41",4,"IV: 
+competentie_plannen_en_organiseren: 0
+",1256,9.93277975484381,"real_conditional"
+"42",4,"IV: 
+competentie_plannen_en_organiseren: 1
+",1268,10.0276789244761,"real_conditional"
+"43",4,"IV: 
+competentie_plannen_en_organiseren: 2
+",1267,10.0197706603401,"real_conditional"
+"44",4,"IV: 
+competentie_plannen_en_organiseren: 3
+",1267,10.0197706603401,"real_conditional"
+"45",5,"IV: 
+competentie_plannen_en_organiseren: 0
+",1272,10.0593119810202,"real_conditional"
+"46",5,"IV: 
+competentie_plannen_en_organiseren: 1
+",1262,9.98022933965994,"real_conditional"
+"47",5,"IV: 
+competentie_plannen_en_organiseren: 2
+",1262,9.98022933965994,"real_conditional"
+"48",5,"IV: 
+competentie_plannen_en_organiseren: 3
+",1262,9.98022933965994,"real_conditional"
+"49",6,"IV: 
+competentie_plannen_en_organiseren: 0
+",1248,9.86951364175563,"real_conditional"
+"50",6,"IV: 
+competentie_plannen_en_organiseren: 1
+",1270,10.0434954527481,"real_conditional"
+"51",6,"IV: 
+competentie_plannen_en_organiseren: 2
+",1270,10.0434954527481,"real_conditional"
+"52",6,"IV: 
+competentie_plannen_en_organiseren: 3
+",1270,10.0434954527481,"real_conditional"
+"53",7,"IV: 
+competentie_plannen_en_organiseren: 0
+",1234,9.75879794385133,"real_conditional"
+"54",7,"IV: 
+competentie_plannen_en_organiseren: 1
+",1274,10.0751285092922,"real_conditional"
+"55",7,"IV: 
+competentie_plannen_en_organiseren: 2
+",1275,10.0830367734282,"real_conditional"
+"56",7,"IV: 
+competentie_plannen_en_organiseren: 3
+",1275,10.0830367734282,"real_conditional"
+"57",8,"IV: 
+competentie_plannen_en_organiseren: 0
+",1263,9.98813760379597,"real_conditional"
+"58",8,"IV: 
+competentie_plannen_en_organiseren: 1
+",1265,10.003954132068,"real_conditional"
+"59",8,"IV: 
+competentie_plannen_en_organiseren: 2
+",1265,10.003954132068,"real_conditional"
+"60",8,"IV: 
+competentie_plannen_en_organiseren: 3
+",1265,10.003954132068,"real_conditional"
+"61",9,"IV: 
+competentie_plannen_en_organiseren: 0
+",1228,9.71134835903519,"real_conditional"
+"62",9,"IV: 
+competentie_plannen_en_organiseren: 1
+",1277,10.0988533017003,"real_conditional"
+"63",9,"IV: 
+competentie_plannen_en_organiseren: 2
+",1277,10.0988533017003,"real_conditional"
+"64",9,"IV: 
+competentie_plannen_en_organiseren: 3
+",1276,10.0909450375643,"real_conditional"
+"65",10,"IV: 
+competentie_plannen_en_organiseren: 0
+",1214,9.60063266113088,"real_conditional"
+"66",10,"IV: 
+competentie_plannen_en_organiseren: 1
+",1281,10.1304863582444,"real_conditional"
+"67",10,"IV: 
+competentie_plannen_en_organiseren: 2
+",1281,10.1304863582444,"real_conditional"
+"68",10,"IV: 
+competentie_plannen_en_organiseren: 3
+",1282,10.1383946223804,"real_conditional"
+"69",1,"IV: 
+competentie_plannen_en_organiseren: 0
+",1023,12.0480508773996,"synth"
+"70",1,"IV: 
+competentie_plannen_en_organiseren: 1
+",241,5.85093469288662,"synth"
+"71",1,"IV: 
+competentie_plannen_en_organiseren: 2
+",1,2.85714285714286,"synth"
+"72",2,"IV: 
+competentie_plannen_en_organiseren: 0
+",929,10.9409963490755,"synth"
+"73",2,"IV: 
+competentie_plannen_en_organiseren: 1
+",336,8.15731973780044,"synth"
+"74",3,"IV: 
+competentie_plannen_en_organiseren: 0
+",911,10.7290071840773,"synth"
+"75",3,"IV: 
+competentie_plannen_en_organiseren: 1
+",353,8.57004127215344,"synth"
+"76",3,"IV: 
+competentie_plannen_en_organiseren: 2
+",1,2.85714285714286,"synth"
+"77",4,"IV: 
+competentie_plannen_en_organiseren: 0
+",887,10.4463549640796,"synth"
+"78",4,"IV: 
+competentie_plannen_en_organiseren: 1
+",377,9.15270696771061,"synth"
+"79",4,"IV: 
+competentie_plannen_en_organiseren: 2
+",1,2.85714285714286,"synth"
+"80",5,"IV: 
+competentie_plannen_en_organiseren: 0
+",833,9.81038746908491,"synth"
+"81",5,"IV: 
+competentie_plannen_en_organiseren: 1
+",426,10.3423160961398,"synth"
+"82",5,"IV: 
+competentie_plannen_en_organiseren: 2
+",6,17.1428571428571,"synth"
+"83",6,"IV: 
+competentie_plannen_en_organiseren: 0
+",820,9.65728418325286,"synth"
+"84",6,"IV: 
+competentie_plannen_en_organiseren: 1
+",441,10.7064821558631,"synth"
+"85",6,"IV: 
+competentie_plannen_en_organiseren: 2
+",3,8.57142857142857,"synth"
+"86",7,"IV: 
+competentie_plannen_en_organiseren: 0
+",834,9.82216464491815,"synth"
+"87",7,"IV: 
+competentie_plannen_en_organiseren: 1
+",429,10.4151493080845,"synth"
+"88",7,"IV: 
+competentie_plannen_en_organiseren: 2
+",1,2.85714285714286,"synth"
+"89",8,"IV: 
+competentie_plannen_en_organiseren: 0
+",772,9.09197974325757,"synth"
+"90",8,"IV: 
+competentie_plannen_en_organiseren: 1
+",487,11.8232580723477,"synth"
+"91",8,"IV: 
+competentie_plannen_en_organiseren: 2
+",5,14.2857142857143,"synth"
+"92",9,"IV: 
+competentie_plannen_en_organiseren: 0
+",790,9.3039689082558,"synth"
+"93",9,"IV: 
+competentie_plannen_en_organiseren: 1
+",466,11.3134255887351,"synth"
+"94",9,"IV: 
+competentie_plannen_en_organiseren: 2
+",8,22.8571428571429,"synth"
+"95",10,"IV: 
+competentie_plannen_en_organiseren: 0
+",692,8.14980567659875,"synth"
+"96",10,"IV: 
+competentie_plannen_en_organiseren: 1
+",563,13.6683661082787,"synth"
+"97",10,"IV: 
+competentie_plannen_en_organiseren: 2
+",9,25.7142857142857,"synth"
+"98",1,"IV: 
+competentie_plannen_en_organiseren: 0
+",1313,10.4972817396866,"synth_conditional"
+"99",1,"IV: 
+competentie_plannen_en_organiseren: 1
+",1231,9.84170131116086,"synth_conditional"
+"100",1,"IV: 
+competentie_plannen_en_organiseren: 2
+",1230,9.83370642788615,"synth_conditional"
+"101",1,"IV: 
+competentie_plannen_en_organiseren: 3
+",1230,9.83370642788615,"synth_conditional"
+"102",2,"IV: 
+competentie_plannen_en_organiseren: 0
+",1297,10.3693636072913,"synth_conditional"
+"103",2,"IV: 
+competentie_plannen_en_organiseren: 1
+",1235,9.87368084425967,"synth_conditional"
+"104",2,"IV: 
+competentie_plannen_en_organiseren: 2
+",1236,9.88167572753438,"synth_conditional"
+"105",2,"IV: 
+competentie_plannen_en_organiseren: 3
+",1236,9.88167572753438,"synth_conditional"
+"106",3,"IV: 
+competentie_plannen_en_organiseren: 0
+",1268,10.1375119923249,"synth_conditional"
+"107",3,"IV: 
+competentie_plannen_en_organiseren: 1
+",1245,9.95362967700671,"synth_conditional"
+"108",3,"IV: 
+competentie_plannen_en_organiseren: 2
+",1245,9.95362967700671,"synth_conditional"
+"109",3,"IV: 
+competentie_plannen_en_organiseren: 3
+",1245,9.95362967700671,"synth_conditional"
+"110",4,"IV: 
+competentie_plannen_en_organiseren: 0
+",1272,10.1694915254237,"synth_conditional"
+"111",4,"IV: 
+competentie_plannen_en_organiseren: 1
+",1244,9.94563479373201,"synth_conditional"
+"112",4,"IV: 
+competentie_plannen_en_organiseren: 2
+",1244,9.94563479373201,"synth_conditional"
+"113",4,"IV: 
+competentie_plannen_en_organiseren: 3
+",1243,9.93763991045731,"synth_conditional"
+"114",5,"IV: 
+competentie_plannen_en_organiseren: 0
+",1264,10.1055324592261,"synth_conditional"
+"115",5,"IV: 
+competentie_plannen_en_organiseren: 1
+",1246,9.96162456028142,"synth_conditional"
+"116",5,"IV: 
+competentie_plannen_en_organiseren: 2
+",1246,9.96162456028142,"synth_conditional"
+"117",5,"IV: 
+competentie_plannen_en_organiseren: 3
+",1247,9.96961944355612,"synth_conditional"
+"118",6,"IV: 
+competentie_plannen_en_organiseren: 0
+",1249,9.98560921010553,"synth_conditional"
+"119",6,"IV: 
+competentie_plannen_en_organiseren: 1
+",1252,10.0095938599296,"synth_conditional"
+"120",6,"IV: 
+competentie_plannen_en_organiseren: 2
+",1251,10.0015989766549,"synth_conditional"
+"121",6,"IV: 
+competentie_plannen_en_organiseren: 3
+",1251,10.0015989766549,"synth_conditional"
+"122",7,"IV: 
+competentie_plannen_en_organiseren: 0
+",1251,10.0015989766549,"synth_conditional"
+"123",7,"IV: 
+competentie_plannen_en_organiseren: 1
+",1250,9.99360409338024,"synth_conditional"
+"124",7,"IV: 
+competentie_plannen_en_organiseren: 2
+",1251,10.0015989766549,"synth_conditional"
+"125",7,"IV: 
+competentie_plannen_en_organiseren: 3
+",1251,10.0015989766549,"synth_conditional"
+"126",8,"IV: 
+competentie_plannen_en_organiseren: 0
+",1214,9.70578829549089,"synth_conditional"
+"127",8,"IV: 
+competentie_plannen_en_organiseren: 1
+",1263,10.0975375759514,"synth_conditional"
+"128",8,"IV: 
+competentie_plannen_en_organiseren: 2
+",1263,10.0975375759514,"synth_conditional"
+"129",8,"IV: 
+competentie_plannen_en_organiseren: 3
+",1263,10.0975375759514,"synth_conditional"
+"130",9,"IV: 
+competentie_plannen_en_organiseren: 0
+",1203,9.61784457946914,"synth_conditional"
+"131",9,"IV: 
+competentie_plannen_en_organiseren: 1
+",1267,10.1295171090502,"synth_conditional"
+"132",9,"IV: 
+competentie_plannen_en_organiseren: 2
+",1267,10.1295171090502,"synth_conditional"
+"133",9,"IV: 
+competentie_plannen_en_organiseren: 3
+",1266,10.1215222257755,"synth_conditional"
+"134",10,"IV: 
+competentie_plannen_en_organiseren: 0
+",1177,9.40997761432683,"synth_conditional"
+"135",10,"IV: 
+competentie_plannen_en_organiseren: 1
+",1275,10.1934761752478,"synth_conditional"
+"136",10,"IV: 
+competentie_plannen_en_organiseren: 2
+",1275,10.1934761752478,"synth_conditional"
+"137",10,"IV: 
+competentie_plannen_en_organiseren: 3
+",1276,10.2014710585225,"synth_conditional"

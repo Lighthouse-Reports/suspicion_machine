@@ -1,0 +1,145 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+contacten_onderwerp_no_show: 0
+contacten_onderwerp_boolean_no_show: 0
+","Ja",9052,0.463,0.152,0.0750110472823685,0.224370304904993,-2.49889527176315,12.4370304904993,"real"
+"2","IV: 
+contacten_onderwerp_no_show: 1
+contacten_onderwerp_boolean_no_show: 1
+","Ja",1998,0.526,0.14,0.118618618618619,0.345845845845846,1.86186186186186,24.5845845845846,"real"
+"3","IV: 
+contacten_onderwerp_no_show: 10
+contacten_onderwerp_boolean_no_show: 1
+","Ja",9,0.682,0.055,0.333333333333333,0.888888888888889,23.3333333333333,78.8888888888889,"real"
+"4","IV: 
+contacten_onderwerp_no_show: 2
+contacten_onderwerp_boolean_no_show: 1
+","Ja",835,0.572,0.128,0.180838323353293,0.452694610778443,8.08383233532934,35.2694610778443,"real"
+"5","IV: 
+contacten_onderwerp_no_show: 3
+contacten_onderwerp_boolean_no_show: 1
+","Ja",345,0.604,0.121,0.240579710144928,0.579710144927536,14.0579710144928,47.9710144927536,"real"
+"6","IV: 
+contacten_onderwerp_no_show: 30
+contacten_onderwerp_boolean_no_show: 1
+","Ja",1,0.704,NA,1,1,90,90,"real"
+"7","IV: 
+contacten_onderwerp_no_show: 4
+contacten_onderwerp_boolean_no_show: 1
+","Ja",177,0.616,0.115,0.265536723163842,0.610169491525424,16.5536723163842,51.0169491525424,"real"
+"8","IV: 
+contacten_onderwerp_no_show: 5
+contacten_onderwerp_boolean_no_show: 1
+","Ja",90,0.613,0.099,0.211111111111111,0.611111111111111,11.1111111111111,51.1111111111111,"real"
+"9","IV: 
+contacten_onderwerp_no_show: 0
+contacten_onderwerp_boolean_no_show: 0
+","Ja",12645,0.475,0.151,0.0839066824831949,0.247370502174773,-1.60933175168051,14.7370502174773,"real_conditional"
+"10","IV: 
+contacten_onderwerp_no_show: 1
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12645,0.512,0.143,0.109845788849348,0.320680110715698,0.984578884934756,22.0680110715698,"real_conditional"
+"11","IV: 
+contacten_onderwerp_no_show: 10
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12645,0.559,0.127,0.152866745749308,0.415025701858442,5.2866745749308,31.5025701858442,"real_conditional"
+"12","IV: 
+contacten_onderwerp_no_show: 15
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12645,0.559,0.127,0.152866745749308,0.415025701858442,5.2866745749308,31.5025701858442,"real_conditional"
+"13","IV: 
+contacten_onderwerp_no_show: 2
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12645,0.539,0.134,0.129221035982602,0.369632265717675,2.92210359826018,26.9632265717675,"real_conditional"
+"14","IV: 
+contacten_onderwerp_no_show: 20
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12645,0.559,0.127,0.152866745749308,0.415025701858442,5.2866745749308,31.5025701858442,"real_conditional"
+"15","IV: 
+contacten_onderwerp_no_show: 3
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12645,0.556,0.127,0.147963621984974,0.40719652036378,4.79636219849743,30.719652036378,"real_conditional"
+"16","IV: 
+contacten_onderwerp_no_show: 30
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12645,0.559,0.127,0.152866745749308,0.415025701858442,5.2866745749308,31.5025701858442,"real_conditional"
+"17","IV: 
+contacten_onderwerp_no_show: 4
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12645,0.559,0.127,0.152866745749308,0.415025701858442,5.2866745749308,31.5025701858442,"real_conditional"
+"18","IV: 
+contacten_onderwerp_no_show: 5
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12645,0.559,0.127,0.152866745749308,0.415025701858442,5.2866745749308,31.5025701858442,"real_conditional"
+"19","IV: 
+contacten_onderwerp_no_show: 0
+contacten_onderwerp_boolean_no_show: 0
+","Ja",3321,0.573,0.091,0.0430593194820837,0.466726889491117,-5.69406805179163,36.6726889491117,"synth"
+"20","IV: 
+contacten_onderwerp_no_show: 1
+contacten_onderwerp_boolean_no_show: 0
+","Ja",3615,0.612,0.08,0.0874135546334716,0.632641770401106,-1.25864453665284,53.2641770401107,"synth"
+"21","IV: 
+contacten_onderwerp_no_show: 1
+contacten_onderwerp_boolean_no_show: 1
+","Ja",2121,0.609,0.081,0.0839226779820839,0.632720414898633,-1.60773220179161,53.2720414898633,"synth"
+"22","IV: 
+contacten_onderwerp_no_show: 2
+contacten_onderwerp_boolean_no_show: 0
+","Ja",3,0.623,0.075,0,0.666666666666667,-10,56.6666666666667,"synth"
+"23","IV: 
+contacten_onderwerp_no_show: 2
+contacten_onderwerp_boolean_no_show: 1
+","Ja",2698,0.644,0.07,0.157153446997776,0.800963676797628,5.71534469977761,70.0963676797628,"synth"
+"24","IV: 
+contacten_onderwerp_no_show: 3
+contacten_onderwerp_boolean_no_show: 1
+","Ja",741,0.662,0.066,0.224021592442645,0.854251012145749,12.4021592442645,75.4251012145749,"synth"
+"25","IV: 
+contacten_onderwerp_no_show: 4
+contacten_onderwerp_boolean_no_show: 1
+","Ja",134,0.67,0.059,0.253731343283582,0.91044776119403,15.3731343283582,81.044776119403,"synth"
+"26","IV: 
+contacten_onderwerp_no_show: 5
+contacten_onderwerp_boolean_no_show: 1
+","Ja",11,0.685,0.035,0.363636363636364,1,26.3636363636364,90,"synth"
+"27","IV: 
+contacten_onderwerp_no_show: 0
+contacten_onderwerp_boolean_no_show: 0
+","Ja",12508,0.586,0.087,0.0551646945954589,0.513671250399744,-4.48353054045411,41.3671250399744,"synth_conditional"
+"28","IV: 
+contacten_onderwerp_no_show: 1
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12508,0.612,0.081,0.0923409018228334,0.642308922289735,-0.765909817716662,54.2308922289735,"synth_conditional"
+"29","IV: 
+contacten_onderwerp_no_show: 10
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12508,0.648,0.07,0.170370962583946,0.803405820275024,7.03709625839463,70.3405820275024,"synth_conditional"
+"30","IV: 
+contacten_onderwerp_no_show: 15
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12508,0.648,0.07,0.170370962583946,0.803405820275024,7.03709625839463,70.3405820275024,"synth_conditional"
+"31","IV: 
+contacten_onderwerp_no_show: 2
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12508,0.634,0.075,0.13431403901503,0.742324912056284,3.43140390150304,64.2324912056284,"synth_conditional"
+"32","IV: 
+contacten_onderwerp_no_show: 20
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12508,0.648,0.07,0.170370962583946,0.803405820275024,7.03709625839463,70.3405820275024,"synth_conditional"
+"33","IV: 
+contacten_onderwerp_no_show: 3
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12508,0.645,0.071,0.159657818995843,0.792532779021426,5.96578189958427,69.2532779021426,"synth_conditional"
+"34","IV: 
+contacten_onderwerp_no_show: 30
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12508,0.648,0.07,0.170370962583946,0.803405820275024,7.03709625839463,70.3405820275024,"synth_conditional"
+"35","IV: 
+contacten_onderwerp_no_show: 4
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12508,0.648,0.07,0.170370962583946,0.803405820275024,7.03709625839463,70.3405820275024,"synth_conditional"
+"36","IV: 
+contacten_onderwerp_no_show: 5
+contacten_onderwerp_boolean_no_show: 1
+","Ja",12508,0.648,0.07,0.170370962583946,0.803405820275024,7.03709625839463,70.3405820275024,"synth_conditional"

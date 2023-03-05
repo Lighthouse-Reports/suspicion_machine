@@ -1,0 +1,736 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 1
+",3417,2991,1.87e-06,"****",3.75e-05,"****","real"
+"2","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 10
+",3417,80,5.91e-18,"****",1.83e-16,"****","real"
+"3","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 10
+",2991,80,3.71e-14,"****",1.08e-12,"****","real"
+"4","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 15
+",3417,16,8.01e-08,"****",1.84e-06,"****","real"
+"5","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 15
+",2991,16,1.01e-06,"****",2.12e-05,"****","real"
+"6","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 15
+",80,16,0.18,"ns",0.742,"ns","real"
+"7","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 2
+",3417,2118,7.54e-17,"****",2.26e-15,"****","real"
+"8","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 2
+",2991,2118,8.63e-05,"****",0.0013,"**","real"
+"9","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 2
+",80,2118,5.59e-11,"****",1.51e-09,"****","real"
+"10","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 2
+",16,2118,8.98e-06,"****",0.000171,"***","real"
+"11","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 20
+",3417,4,0.0107,"*",0.118,"ns","real"
+"12","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 20
+",2991,4,0.0207,"*",0.207,"ns","real"
+"13","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 20
+",80,4,0.56,"ns",1,"ns","real"
+"14","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 20
+",16,4,0.902,"ns",1,"ns","real"
+"15","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 20
+",2118,4,0.0366,"*",0.293,"ns","real"
+"16","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 3
+",3417,1404,5.94e-22,"****",1.96e-20,"****","real"
+"17","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 3
+",2991,1404,8.39e-09,"****",2.01e-07,"****","real"
+"18","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 3
+",80,1404,5.09e-09,"****",1.27e-07,"****","real"
+"19","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 3
+",16,1404,3.56e-05,"****",0.00057,"***","real"
+"20","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 3
+",2118,1404,0.0294,"*",0.265,"ns","real"
+"21","Ja","IV: 
+contacten_soort_anders: 20
+","IV: 
+contacten_soort_anders: 3
+",4,1404,0.0525,"ns",0.367,"ns","real"
+"22","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 4
+",3417,937,2.09e-39,"****",7.54e-38,"****","real"
+"23","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 4
+",2991,937,1.43e-22,"****",4.85e-21,"****","real"
+"24","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 4
+",80,937,2.42e-05,"****",0.000411,"***","real"
+"25","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 4
+",16,937,0.000654,"***",0.0085,"**","real"
+"26","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 4
+",2118,937,8.09e-11,"****",2.1e-09,"****","real"
+"27","Ja","IV: 
+contacten_soort_anders: 20
+","IV: 
+contacten_soort_anders: 4
+",4,937,0.114,"ns",0.687,"ns","real"
+"28","Ja","IV: 
+contacten_soort_anders: 3
+","IV: 
+contacten_soort_anders: 4
+",1404,937,1.94e-05,"****",0.000349,"***","real"
+"29","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 5
+",3417,577,2.37e-34,"****",8.29e-33,"****","real"
+"30","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 5
+",2991,577,2.25e-21,"****",7.2e-20,"****","real"
+"31","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 5
+",80,577,0.000354,"***",0.00496,"**","real"
+"32","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 5
+",16,577,0.00174,"**",0.0209,"*","real"
+"33","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 5
+",2118,577,8.65e-12,"****",2.42e-10,"****","real"
+"34","Ja","IV: 
+contacten_soort_anders: 20
+","IV: 
+contacten_soort_anders: 5
+",4,577,0.148,"ns",0.742,"ns","real"
+"35","Ja","IV: 
+contacten_soort_anders: 3
+","IV: 
+contacten_soort_anders: 5
+",1404,577,6.64e-07,"****",1.46e-05,"****","real"
+"36","Ja","IV: 
+contacten_soort_anders: 4
+","IV: 
+contacten_soort_anders: 5
+",937,577,0.214,"ns",0.742,"ns","real"
+"37","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 1
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"38","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 10
+",12645,12645,0.0183,"*",0.823,"ns","real_conditional"
+"39","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 10
+",12645,12645,0.0183,"*",0.823,"ns","real_conditional"
+"40","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 15
+",12645,12645,0.0183,"*",0.823,"ns","real_conditional"
+"41","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 15
+",12645,12645,0.0183,"*",0.823,"ns","real_conditional"
+"42","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 15
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"44","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 2
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"45","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 2
+",12645,12645,0.0183,"*",0.823,"ns","real_conditional"
+"46","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 2
+",12645,12645,0.0183,"*",0.823,"ns","real_conditional"
+"47","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 20
+",12645,12645,0.0183,"*",0.823,"ns","real_conditional"
+"48","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 20
+",12645,12645,0.0183,"*",0.823,"ns","real_conditional"
+"49","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 20
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"50","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 20
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"51","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 20
+",12645,12645,0.0183,"*",0.823,"ns","real_conditional"
+"52","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 3
+",12645,12645,0.817,"ns",1,"ns","real_conditional"
+"53","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 3
+",12645,12645,0.817,"ns",1,"ns","real_conditional"
+"54","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 3
+",12645,12645,0.0333,"*",1,"ns","real_conditional"
+"55","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 3
+",12645,12645,0.0333,"*",1,"ns","real_conditional"
+"56","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 3
+",12645,12645,0.817,"ns",1,"ns","real_conditional"
+"57","Ja","IV: 
+contacten_soort_anders: 20
+","IV: 
+contacten_soort_anders: 3
+",12645,12645,0.0333,"*",1,"ns","real_conditional"
+"58","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 30
+",12645,12645,0.0183,"*",0.823,"ns","real_conditional"
+"59","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 30
+",12645,12645,0.0183,"*",0.823,"ns","real_conditional"
+"60","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"61","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"62","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 30
+",12645,12645,0.0183,"*",0.823,"ns","real_conditional"
+"63","Ja","IV: 
+contacten_soort_anders: 20
+","IV: 
+contacten_soort_anders: 30
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"64","Ja","IV: 
+contacten_soort_anders: 3
+","IV: 
+contacten_soort_anders: 30
+",12645,12645,0.0333,"*",1,"ns","real_conditional"
+"65","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 4
+",12645,12645,0.516,"ns",1,"ns","real_conditional"
+"66","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 4
+",12645,12645,0.516,"ns",1,"ns","real_conditional"
+"67","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 4
+",12645,12645,0.0872,"ns",1,"ns","real_conditional"
+"68","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 4
+",12645,12645,0.0872,"ns",1,"ns","real_conditional"
+"69","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 4
+",12645,12645,0.516,"ns",1,"ns","real_conditional"
+"70","Ja","IV: 
+contacten_soort_anders: 20
+","IV: 
+contacten_soort_anders: 4
+",12645,12645,0.0872,"ns",1,"ns","real_conditional"
+"71","Ja","IV: 
+contacten_soort_anders: 3
+","IV: 
+contacten_soort_anders: 4
+",12645,12645,0.676,"ns",1,"ns","real_conditional"
+"72","Ja","IV: 
+contacten_soort_anders: 30
+","IV: 
+contacten_soort_anders: 4
+",12645,12645,0.0872,"ns",1,"ns","real_conditional"
+"73","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 5
+",12645,12645,0.0455,"*",1,"ns","real_conditional"
+"74","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 5
+",12645,12645,0.0455,"*",1,"ns","real_conditional"
+"75","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 5
+",12645,12645,0.719,"ns",1,"ns","real_conditional"
+"76","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 5
+",12645,12645,0.719,"ns",1,"ns","real_conditional"
+"77","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 5
+",12645,12645,0.0455,"*",1,"ns","real_conditional"
+"78","Ja","IV: 
+contacten_soort_anders: 20
+","IV: 
+contacten_soort_anders: 5
+",12645,12645,0.719,"ns",1,"ns","real_conditional"
+"79","Ja","IV: 
+contacten_soort_anders: 3
+","IV: 
+contacten_soort_anders: 5
+",12645,12645,0.077,"ns",1,"ns","real_conditional"
+"80","Ja","IV: 
+contacten_soort_anders: 30
+","IV: 
+contacten_soort_anders: 5
+",12645,12645,0.719,"ns",1,"ns","real_conditional"
+"81","Ja","IV: 
+contacten_soort_anders: 4
+","IV: 
+contacten_soort_anders: 5
+",12645,12645,0.177,"ns",1,"ns","real_conditional"
+"82","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 1
+",1012,2469,0.000677,"***",0.00339,"**","synth"
+"83","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 10
+",1012,65,3.5e-12,"****",5.6e-11,"****","synth"
+"84","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 10
+",2469,65,1.23e-09,"****",1.72e-08,"****","synth"
+"85","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 2
+",1012,2364,4.23e-11,"****",6.35e-10,"****","synth"
+"86","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 2
+",2469,2364,2.58e-05,"****",0.00018,"***","synth"
+"87","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 2
+",65,2364,3.2e-07,"****",3.52e-06,"****","synth"
+"88","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 3
+",1012,2150,3.07e-13,"****",5.52e-12,"****","synth"
+"89","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 3
+",2469,2150,2.9e-07,"****",3.48e-06,"****","synth"
+"90","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 3
+",65,2150,1.15e-06,"****",1.15e-05,"****","synth"
+"91","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 3
+",2364,2150,0.31,"ns",0.31,"ns","synth"
+"92","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 4
+",1012,1625,1.65e-18,"****",3.14e-17,"****","synth"
+"93","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 4
+",2469,1625,1.87e-12,"****",3.17e-11,"****","synth"
+"94","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 4
+",65,1625,2.06e-05,"****",0.000165,"***","synth"
+"95","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 4
+",2364,1625,0.00123,"**",0.00493,"**","synth"
+"96","Ja","IV: 
+contacten_soort_anders: 3
+","IV: 
+contacten_soort_anders: 4
+",2150,1625,0.0247,"*",0.0589,"ns","synth"
+"97","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 5
+",1012,1170,1.04e-24,"****",2.18e-23,"****","synth"
+"98","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 5
+",2469,1170,8.62e-19,"****",1.72e-17,"****","synth"
+"99","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 5
+",65,1170,0.000422,"***",0.00253,"**","synth"
+"100","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 5
+",2364,1170,6.21e-08,"****",8.08e-07,"****","synth"
+"101","Ja","IV: 
+contacten_soort_anders: 3
+","IV: 
+contacten_soort_anders: 5
+",2150,1170,7.01e-06,"****",6.31e-05,"****","synth"
+"102","Ja","IV: 
+contacten_soort_anders: 4
+","IV: 
+contacten_soort_anders: 5
+",1625,1170,0.0196,"*",0.0589,"ns","synth"
+"103","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 1
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"104","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 10
+",12508,12508,3.1e-06,"****",0.00014,"***","synth_conditional"
+"105","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 10
+",12508,12508,3.1e-06,"****",0.00014,"***","synth_conditional"
+"106","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 15
+",12508,12508,3.1e-06,"****",0.00014,"***","synth_conditional"
+"107","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 15
+",12508,12508,3.1e-06,"****",0.00014,"***","synth_conditional"
+"108","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 15
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"109","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"110","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 2
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"111","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 2
+",12508,12508,3.1e-06,"****",0.00014,"***","synth_conditional"
+"112","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 2
+",12508,12508,3.1e-06,"****",0.00014,"***","synth_conditional"
+"113","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 20
+",12508,12508,3.1e-06,"****",0.00014,"***","synth_conditional"
+"114","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 20
+",12508,12508,3.1e-06,"****",0.00014,"***","synth_conditional"
+"115","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 20
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"116","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 20
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"117","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 20
+",12508,12508,3.1e-06,"****",0.00014,"***","synth_conditional"
+"118","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 3
+",12508,12508,0.775,"ns",1,"ns","synth_conditional"
+"119","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 3
+",12508,12508,0.775,"ns",1,"ns","synth_conditional"
+"120","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 3
+",12508,12508,1.2e-05,"****",0.000396,"***","synth_conditional"
+"121","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 3
+",12508,12508,1.2e-05,"****",0.000396,"***","synth_conditional"
+"122","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 3
+",12508,12508,0.775,"ns",1,"ns","synth_conditional"
+"123","Ja","IV: 
+contacten_soort_anders: 20
+","IV: 
+contacten_soort_anders: 3
+",12508,12508,1.2e-05,"****",0.000396,"***","synth_conditional"
+"124","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 30
+",12508,12508,3.1e-06,"****",0.00014,"***","synth_conditional"
+"125","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 30
+",12508,12508,3.1e-06,"****",0.00014,"***","synth_conditional"
+"126","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"127","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"128","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 30
+",12508,12508,3.1e-06,"****",0.00014,"***","synth_conditional"
+"129","Ja","IV: 
+contacten_soort_anders: 20
+","IV: 
+contacten_soort_anders: 30
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"130","Ja","IV: 
+contacten_soort_anders: 3
+","IV: 
+contacten_soort_anders: 30
+",12508,12508,1.2e-05,"****",0.000396,"***","synth_conditional"
+"131","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 4
+",12508,12508,0.509,"ns",1,"ns","synth_conditional"
+"132","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 4
+",12508,12508,0.509,"ns",1,"ns","synth_conditional"
+"133","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 4
+",12508,12508,6.23e-05,"****",0.00181,"**","synth_conditional"
+"134","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 4
+",12508,12508,6.23e-05,"****",0.00181,"**","synth_conditional"
+"135","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 4
+",12508,12508,0.509,"ns",1,"ns","synth_conditional"
+"136","Ja","IV: 
+contacten_soort_anders: 20
+","IV: 
+contacten_soort_anders: 4
+",12508,12508,6.23e-05,"****",0.00181,"**","synth_conditional"
+"137","Ja","IV: 
+contacten_soort_anders: 3
+","IV: 
+contacten_soort_anders: 4
+",12508,12508,0.709,"ns",1,"ns","synth_conditional"
+"138","Ja","IV: 
+contacten_soort_anders: 30
+","IV: 
+contacten_soort_anders: 4
+",12508,12508,6.23e-05,"****",0.00181,"**","synth_conditional"
+"139","Ja","IV: 
+contacten_soort_anders: 0
+","IV: 
+contacten_soort_anders: 5
+",12508,12508,0.00019,"***",0.00474,"**","synth_conditional"
+"140","Ja","IV: 
+contacten_soort_anders: 1
+","IV: 
+contacten_soort_anders: 5
+",12508,12508,0.00019,"***",0.00474,"**","synth_conditional"
+"141","Ja","IV: 
+contacten_soort_anders: 10
+","IV: 
+contacten_soort_anders: 5
+",12508,12508,0.351,"ns",1,"ns","synth_conditional"
+"142","Ja","IV: 
+contacten_soort_anders: 15
+","IV: 
+contacten_soort_anders: 5
+",12508,12508,0.351,"ns",1,"ns","synth_conditional"
+"143","Ja","IV: 
+contacten_soort_anders: 2
+","IV: 
+contacten_soort_anders: 5
+",12508,12508,0.00019,"***",0.00474,"**","synth_conditional"
+"144","Ja","IV: 
+contacten_soort_anders: 20
+","IV: 
+contacten_soort_anders: 5
+",12508,12508,0.351,"ns",1,"ns","synth_conditional"
+"145","Ja","IV: 
+contacten_soort_anders: 3
+","IV: 
+contacten_soort_anders: 5
+",12508,12508,0.000569,"***",0.0125,"*","synth_conditional"
+"146","Ja","IV: 
+contacten_soort_anders: 30
+","IV: 
+contacten_soort_anders: 5
+",12508,12508,0.351,"ns",1,"ns","synth_conditional"
+"147","Ja","IV: 
+contacten_soort_anders: 4
+","IV: 
+contacten_soort_anders: 5
+",12508,12508,0.00212,"**",0.0446,"*","synth_conditional"

@@ -1,0 +1,21 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+belemmering_psychische_problemen: 0
+","IV: 
+belemmering_psychische_problemen: 1
+",8986,3659,2.41e-06,"****",2.41e-06,"****","real"
+"2","Ja","IV: 
+belemmering_psychische_problemen: 0
+","IV: 
+belemmering_psychische_problemen: 1
+",12645,12645,0.84,"ns",0.84,"ns","real_conditional"
+"3","Ja","IV: 
+belemmering_psychische_problemen: 0
+","IV: 
+belemmering_psychische_problemen: 1
+",6519,6126,0.0074,"**",0.0074,"**","synth"
+"4","Ja","IV: 
+belemmering_psychische_problemen: 0
+","IV: 
+belemmering_psychische_problemen: 1
+",12508,12508,0.823,"ns",0.823,"ns","synth_conditional"

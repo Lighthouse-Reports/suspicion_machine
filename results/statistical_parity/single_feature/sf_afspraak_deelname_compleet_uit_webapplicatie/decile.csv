@@ -1,0 +1,1045 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",776,9.17908682280577,"real"
+"2",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",360,13.1868131868132,"real"
+"3",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",95,10.0742311770944,"real"
+"4",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",27,9.18367346938776,"real"
+"5",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",5,3.59712230215827,"real"
+"6",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",2,4.65116279069767,"real"
+"7",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",797,9.42748994558789,"real"
+"8",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",329,12.0512820512821,"real"
+"9",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",101,10.7104984093319,"real"
+"10",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",23,7.82312925170068,"real"
+"11",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",9,6.47482014388489,"real"
+"12",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",4,9.30232558139535,"real"
+"13",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1,4.54545454545455,"real"
+"14",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1,20,"real"
+"15",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",804,9.51029098651526,"real"
+"16",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",287,10.5128205128205,"real"
+"17",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",114,12.0890774125133,"real"
+"18",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",32,10.8843537414966,"real"
+"19",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",19,13.6690647482014,"real"
+"20",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",3,6.97674418604651,"real"
+"21",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",3,13.6363636363636,"real"
+"22",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1,9.09090909090909,"real"
+"23",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",2,40,"real"
+"24",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",784,9.27371658386563,"real"
+"25",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",316,11.5750915750916,"real"
+"26",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",2,100,"real"
+"27",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",93,9.86214209968187,"real"
+"28",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",44,14.9659863945578,"real"
+"29",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",17,12.2302158273381,"real"
+"30",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",6,13.953488372093,"real"
+"31",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",2,9.09090909090909,"real"
+"32",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1,20,"real"
+"33",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",783,9.26188786373314,"real"
+"34",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",297,10.8791208791209,"real"
+"35",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",122,12.9374337221633,"real"
+"36",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",43,14.6258503401361,"real"
+"37",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",15,10.7913669064748,"real"
+"38",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",4,9.30232558139535,"real"
+"39",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1,50,"real"
+"40",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",822,9.72320794889993,"real"
+"41",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",278,10.1831501831502,"real"
+"42",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",109,11.558854718982,"real"
+"43",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",27,9.18367346938776,"real"
+"44",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",17,12.2302158273381,"real"
+"45",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",7,16.2790697674419,"real"
+"46",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1,4.54545454545455,"real"
+"47",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",3,27.2727272727273,"real"
+"48",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",829,9.8060089898273,"real"
+"49",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",260,9.52380952380952,"real"
+"50",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",116,12.3011664899258,"real"
+"51",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",35,11.9047619047619,"real"
+"52",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",12,8.63309352517986,"real"
+"53",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",4,9.30232558139535,"real"
+"54",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",5,22.7272727272727,"real"
+"55",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",3,27.2727272727273,"real"
+"56",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",861,10.1845280340667,"real"
+"57",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",265,9.70695970695971,"real"
+"58",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",75,7.95334040296925,"real"
+"59",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",25,8.50340136054422,"real"
+"60",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",24,17.2661870503597,"real"
+"61",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",7,16.2790697674419,"real"
+"62",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",2,9.09090909090909,"real"
+"63",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",4,36.3636363636364,"real"
+"64",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1,50,"real"
+"65",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",943,11.1544830849302,"real"
+"66",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",208,7.61904761904762,"real"
+"67",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",71,7.52916224814422,"real"
+"68",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",21,7.14285714285714,"real"
+"69",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",11,7.9136690647482,"real"
+"70",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",5,11.6279069767442,"real"
+"71",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",4,18.1818181818182,"real"
+"72",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1,20,"real"
+"73",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1055,12.4792997397682,"real"
+"74",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",130,4.76190476190476,"real"
+"75",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",47,4.98409331919406,"real"
+"76",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",17,5.78231292517007,"real"
+"77",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",10,7.19424460431655,"real"
+"78",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1,2.32558139534884,"real"
+"79",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",4,18.1818181818182,"real"
+"80",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1232,9.74298141557928,"real_conditional"
+"81",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1235,9.76670620798735,"real_conditional"
+"82",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1289,10.1937524713325,"real_conditional"
+"83",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1235,9.76670620798735,"real_conditional"
+"84",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1237,9.78252273625939,"real_conditional"
+"85",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1237,9.78252273625939,"real_conditional"
+"86",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1289,10.1937524713325,"real_conditional"
+"87",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1289,10.1937524713325,"real_conditional"
+"88",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1289,10.1937524713325,"real_conditional"
+"89",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1289,10.1937524713325,"real_conditional"
+"90",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1289,10.1937524713325,"real_conditional"
+"91",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1259,9.95650454725188,"real_conditional"
+"92",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1265,10.003954132068,"real_conditional"
+"93",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1263,9.98813760379597,"real_conditional"
+"94",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1270,10.0434954527481,"real_conditional"
+"95",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1269,10.0355871886121,"real_conditional"
+"96",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1269,10.0355871886121,"real_conditional"
+"97",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1263,9.98813760379597,"real_conditional"
+"98",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1263,9.98813760379597,"real_conditional"
+"99",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1263,9.98813760379597,"real_conditional"
+"100",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1263,9.98813760379597,"real_conditional"
+"101",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1263,9.98813760379597,"real_conditional"
+"102",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1252,9.90114669829972,"real_conditional"
+"103",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1256,9.93277975484381,"real_conditional"
+"104",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1272,10.0593119810202,"real_conditional"
+"105",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1255,9.92487149070779,"real_conditional"
+"106",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1256,9.93277975484381,"real_conditional"
+"107",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1256,9.93277975484381,"real_conditional"
+"108",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1273,10.0672202451562,"real_conditional"
+"109",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1273,10.0672202451562,"real_conditional"
+"110",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1273,10.0672202451562,"real_conditional"
+"111",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1272,10.0593119810202,"real_conditional"
+"112",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1272,10.0593119810202,"real_conditional"
+"113",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1269,10.0355871886121,"real_conditional"
+"114",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1267,10.0197706603401,"real_conditional"
+"115",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1260,9.9644128113879,"real_conditional"
+"116",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1272,10.0593119810202,"real_conditional"
+"117",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1272,10.0593119810202,"real_conditional"
+"118",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1273,10.0672202451562,"real_conditional"
+"119",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1259,9.95650454725188,"real_conditional"
+"120",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1259,9.95650454725188,"real_conditional"
+"121",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1259,9.95650454725188,"real_conditional"
+"122",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1260,9.9644128113879,"real_conditional"
+"123",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1260,9.9644128113879,"real_conditional"
+"124",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1249,9.87742190589166,"real_conditional"
+"125",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1254,9.91696322657177,"real_conditional"
+"126",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1274,10.0751285092922,"real_conditional"
+"127",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1254,9.91696322657177,"real_conditional"
+"128",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1255,9.92487149070779,"real_conditional"
+"129",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1254,9.91696322657177,"real_conditional"
+"130",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1274,10.0751285092922,"real_conditional"
+"131",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1274,10.0751285092922,"real_conditional"
+"132",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1274,10.0751285092922,"real_conditional"
+"133",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1274,10.0751285092922,"real_conditional"
+"134",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1274,10.0751285092922,"real_conditional"
+"135",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1280,10.1225780941083,"real_conditional"
+"136",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1277,10.0988533017003,"real_conditional"
+"137",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1254,9.91696322657177,"real_conditional"
+"138",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1277,10.0988533017003,"real_conditional"
+"139",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1275,10.0830367734282,"real_conditional"
+"140",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1275,10.0830367734282,"real_conditional"
+"141",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1254,9.91696322657177,"real_conditional"
+"142",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1254,9.91696322657177,"real_conditional"
+"143",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1255,9.92487149070779,"real_conditional"
+"144",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1254,9.91696322657177,"real_conditional"
+"145",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1254,9.91696322657177,"real_conditional"
+"146",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1247,9.86160537761961,"real_conditional"
+"147",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1257,9.94068801897983,"real_conditional"
+"148",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1271,10.0514037168841,"real_conditional"
+"149",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1259,9.95650454725188,"real_conditional"
+"150",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1260,9.9644128113879,"real_conditional"
+"151",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1261,9.97232107552392,"real_conditional"
+"152",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1271,10.0514037168841,"real_conditional"
+"153",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1271,10.0514037168841,"real_conditional"
+"154",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1270,10.0434954527481,"real_conditional"
+"155",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1271,10.0514037168841,"real_conditional"
+"156",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1271,10.0514037168841,"real_conditional"
+"157",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1285,10.1621194147885,"real_conditional"
+"158",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1273,10.0672202451562,"real_conditional"
+"159",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1257,9.94068801897983,"real_conditional"
+"160",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1270,10.0434954527481,"real_conditional"
+"161",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1268,10.0276789244761,"real_conditional"
+"162",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1267,10.0197706603401,"real_conditional"
+"163",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1258,9.94859628311586,"real_conditional"
+"164",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1258,9.94859628311586,"real_conditional"
+"165",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1258,9.94859628311586,"real_conditional"
+"166",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1258,9.94859628311586,"real_conditional"
+"167",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1257,9.94068801897983,"real_conditional"
+"168",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1275,10.0830367734282,"real_conditional"
+"169",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1280,10.1225780941083,"real_conditional"
+"170",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1255,9.92487149070779,"real_conditional"
+"171",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1276,10.0909450375643,"real_conditional"
+"172",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1276,10.0909450375643,"real_conditional"
+"173",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1276,10.0909450375643,"real_conditional"
+"174",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1254,9.91696322657177,"real_conditional"
+"175",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1254,9.91696322657177,"real_conditional"
+"176",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1254,9.91696322657177,"real_conditional"
+"177",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1254,9.91696322657177,"real_conditional"
+"178",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1255,9.92487149070779,"real_conditional"
+"179",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1297,10.2570185844207,"real_conditional"
+"180",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1281,10.1304863582444,"real_conditional"
+"181",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1250,9.88533017002768,"real_conditional"
+"182",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1277,10.0988533017003,"real_conditional"
+"183",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1277,10.0988533017003,"real_conditional"
+"184",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1277,10.0988533017003,"real_conditional"
+"185",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1250,9.88533017002768,"real_conditional"
+"186",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1250,9.88533017002768,"real_conditional"
+"187",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1250,9.88533017002768,"real_conditional"
+"188",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1250,9.88533017002768,"real_conditional"
+"189",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1250,9.88533017002768,"real_conditional"
+"190",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",315,9.35273159144893,"synth"
+"191",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",628,9.81710176645302,"synth"
+"192",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",270,10.8433734939759,"synth"
+"193",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",52,14.2465753424658,"synth"
+"194",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",280,8.31353919239905,"synth"
+"195",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",691,10.801938408629,"synth"
+"196",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",254,10.2008032128514,"synth"
+"197",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",35,9.58904109589041,"synth"
+"198",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",5,20,"synth"
+"199",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",328,9.73871733966746,"synth"
+"200",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",629,9.83273409410661,"synth"
+"201",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",272,10.9236947791165,"synth"
+"202",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",30,8.21917808219178,"synth"
+"203",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",6,24,"synth"
+"204",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",321,9.53087885985748,"synth"
+"205",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",657,10.2704392684071,"synth"
+"206",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",246,9.87951807228916,"synth"
+"207",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",39,10.6849315068493,"synth"
+"208",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",2,8,"synth"
+"209",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",336,9.97624703087886,"synth"
+"210",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",604,9.44192590276692,"synth"
+"211",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",286,11.4859437751004,"synth"
+"212",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",37,10.1369863013699,"synth"
+"213",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",2,8,"synth"
+"214",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",327,9.70902612826603,"synth"
+"215",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",628,9.81710176645302,"synth"
+"216",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",277,11.1244979919679,"synth"
+"217",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",30,8.21917808219178,"synth"
+"218",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",2,8,"synth"
+"219",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",324,9.61995249406176,"synth"
+"220",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",649,10.1453806471784,"synth"
+"221",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",234,9.39759036144578,"synth"
+"222",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",53,14.5205479452055,"synth"
+"223",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",4,16,"synth"
+"224",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",338,10.0356294536817,"synth"
+"225",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",629,9.83273409410661,"synth"
+"226",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",250,10.0401606425703,"synth"
+"227",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",45,12.3287671232877,"synth"
+"228",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",2,8,"synth"
+"229",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",360,10.6888361045131,"synth"
+"230",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",655,10.2391746130999,"synth"
+"231",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",225,9.03614457831325,"synth"
+"232",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",23,6.3013698630137,"synth"
+"233",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1,4,"synth"
+"234",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",439,13.0344418052257,"synth"
+"235",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",627,9.80146943879944,"synth"
+"236",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",176,7.06827309236948,"synth"
+"237",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",21,5.75342465753425,"synth"
+"238",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1,4,"synth"
+"239",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1214,9.70578829549089,"synth_conditional"
+"240",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1224,9.78573712823793,"synth_conditional"
+"241",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1264,10.1055324592261,"synth_conditional"
+"242",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1234,9.86568596098497,"synth_conditional"
+"243",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1251,10.0015989766549,"synth_conditional"
+"244",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1252,10.0095938599296,"synth_conditional"
+"245",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1264,10.1055324592261,"synth_conditional"
+"246",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1264,10.1055324592261,"synth_conditional"
+"247",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1264,10.1055324592261,"synth_conditional"
+"248",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1264,10.1055324592261,"synth_conditional"
+"249",1,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1264,10.1055324592261,"synth_conditional"
+"250",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1220,9.75375759513911,"synth_conditional"
+"251",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1233,9.85769107771027,"synth_conditional"
+"252",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1261,10.081547809402,"synth_conditional"
+"253",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1239,9.90566037735849,"synth_conditional"
+"254",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1251,10.0015989766549,"synth_conditional"
+"255",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1250,9.99360409338024,"synth_conditional"
+"256",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1261,10.081547809402,"synth_conditional"
+"257",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1261,10.081547809402,"synth_conditional"
+"258",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1261,10.081547809402,"synth_conditional"
+"259",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1261,10.081547809402,"synth_conditional"
+"260",2,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1261,10.081547809402,"synth_conditional"
+"261",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1224,9.78573712823793,"synth_conditional"
+"262",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1242,9.9296450271826,"synth_conditional"
+"263",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1256,10.0415733930285,"synth_conditional"
+"264",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1245,9.95362967700671,"synth_conditional"
+"265",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1255,10.0335785097538,"synth_conditional"
+"266",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1255,10.0335785097538,"synth_conditional"
+"267",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1256,10.0415733930285,"synth_conditional"
+"268",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1257,10.0495682763032,"synth_conditional"
+"269",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1257,10.0495682763032,"synth_conditional"
+"270",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1256,10.0415733930285,"synth_conditional"
+"271",3,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1256,10.0415733930285,"synth_conditional"
+"272",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1252,10.0095938599296,"synth_conditional"
+"273",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1248,9.97761432683083,"synth_conditional"
+"274",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1252,10.0095938599296,"synth_conditional"
+"275",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1251,10.0015989766549,"synth_conditional"
+"276",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1248,9.97761432683083,"synth_conditional"
+"277",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1248,9.97761432683083,"synth_conditional"
+"278",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1252,10.0095938599296,"synth_conditional"
+"279",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1252,10.0095938599296,"synth_conditional"
+"280",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1252,10.0095938599296,"synth_conditional"
+"281",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1252,10.0095938599296,"synth_conditional"
+"282",4,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1252,10.0095938599296,"synth_conditional"
+"283",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1255,10.0335785097538,"synth_conditional"
+"284",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1250,9.99360409338024,"synth_conditional"
+"285",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1252,10.0095938599296,"synth_conditional"
+"286",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1241,9.9216501439079,"synth_conditional"
+"287",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1251,10.0015989766549,"synth_conditional"
+"288",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1252,10.0095938599296,"synth_conditional"
+"289",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1252,10.0095938599296,"synth_conditional"
+"290",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1251,10.0015989766549,"synth_conditional"
+"291",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1251,10.0015989766549,"synth_conditional"
+"292",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1252,10.0095938599296,"synth_conditional"
+"293",5,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1252,10.0095938599296,"synth_conditional"
+"294",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1252,10.0095938599296,"synth_conditional"
+"295",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1267,10.1295171090502,"synth_conditional"
+"296",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1245,9.95362967700671,"synth_conditional"
+"297",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1265,10.1135273425008,"synth_conditional"
+"298",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1253,10.0175887432043,"synth_conditional"
+"299",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1252,10.0095938599296,"synth_conditional"
+"300",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1245,9.95362967700671,"synth_conditional"
+"301",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1245,9.95362967700671,"synth_conditional"
+"302",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1245,9.95362967700671,"synth_conditional"
+"303",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1245,9.95362967700671,"synth_conditional"
+"304",6,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1245,9.95362967700671,"synth_conditional"
+"305",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1256,10.0415733930285,"synth_conditional"
+"306",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1247,9.96961944355612,"synth_conditional"
+"307",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1253,10.0175887432043,"synth_conditional"
+"308",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1244,9.94563479373201,"synth_conditional"
+"309",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1247,9.96961944355612,"synth_conditional"
+"310",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1247,9.96961944355612,"synth_conditional"
+"311",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1253,10.0175887432043,"synth_conditional"
+"312",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1253,10.0175887432043,"synth_conditional"
+"313",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1253,10.0175887432043,"synth_conditional"
+"314",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1253,10.0175887432043,"synth_conditional"
+"315",7,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1253,10.0175887432043,"synth_conditional"
+"316",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1267,10.1295171090502,"synth_conditional"
+"317",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1262,10.0895426926767,"synth_conditional"
+"318",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1243,9.93763991045731,"synth_conditional"
+"319",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1258,10.0575631595779,"synth_conditional"
+"320",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1257,10.0495682763032,"synth_conditional"
+"321",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1257,10.0495682763032,"synth_conditional"
+"322",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1243,9.93763991045731,"synth_conditional"
+"323",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1243,9.93763991045731,"synth_conditional"
+"324",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1243,9.93763991045731,"synth_conditional"
+"325",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1243,9.93763991045731,"synth_conditional"
+"326",8,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1243,9.93763991045731,"synth_conditional"
+"327",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1275,10.1934761752478,"synth_conditional"
+"328",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1267,10.1295171090502,"synth_conditional"
+"329",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1242,9.9296450271826,"synth_conditional"
+"330",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1268,10.1375119923249,"synth_conditional"
+"331",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1248,9.97761432683083,"synth_conditional"
+"332",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1248,9.97761432683083,"synth_conditional"
+"333",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1242,9.9296450271826,"synth_conditional"
+"334",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1242,9.9296450271826,"synth_conditional"
+"335",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1242,9.9296450271826,"synth_conditional"
+"336",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1242,9.9296450271826,"synth_conditional"
+"337",9,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1242,9.9296450271826,"synth_conditional"
+"338",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 0
+",1293,10.3373840741925,"synth_conditional"
+"339",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 1
+",1268,10.1375119923249,"synth_conditional"
+"340",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 10
+",1240,9.9136552606332,"synth_conditional"
+"341",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 2
+",1263,10.0975375759514,"synth_conditional"
+"342",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 3
+",1247,9.96961944355612,"synth_conditional"
+"343",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 4
+",1247,9.96961944355612,"synth_conditional"
+"344",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 5
+",1240,9.9136552606332,"synth_conditional"
+"345",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 6
+",1240,9.9136552606332,"synth_conditional"
+"346",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 7
+",1240,9.9136552606332,"synth_conditional"
+"347",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 8
+",1240,9.9136552606332,"synth_conditional"
+"348",10,"IV: 
+afspraak_deelname_compleet_uit_webapplicatie: 9
+",1240,9.9136552606332,"synth_conditional"

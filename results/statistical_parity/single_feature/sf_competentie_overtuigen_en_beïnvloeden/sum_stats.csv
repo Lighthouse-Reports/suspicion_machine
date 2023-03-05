@@ -1,0 +1,46 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+competentie_overtuigen_en_beïnvloeden: 0
+","Ja",9757,0.467,0.152,0.0772778517987086,0.239212872809265,-2.27221482012914,13.9212872809265,"real"
+"2","IV: 
+competentie_overtuigen_en_beïnvloeden: 1
+","Ja",2853,0.562,0.133,0.174202593760953,0.42341395022783,7.42025937609534,32.341395022783,"real"
+"3","IV: 
+competentie_overtuigen_en_beïnvloeden: 2
+","Ja",33,0.639,0.116,0.363636363636364,0.666666666666667,26.3636363636364,56.6666666666667,"real"
+"4","IV: 
+competentie_overtuigen_en_beïnvloeden: 3
+","Ja",2,0.809,0.057,1,1,90,90,"real"
+"5","IV: 
+competentie_overtuigen_en_beïnvloeden: 0
+","Ja",12645,0.489,0.153,0.0995650454725188,0.281138790035587,-0.0434954527481227,18.1138790035587,"real_conditional"
+"6","IV: 
+competentie_overtuigen_en_beïnvloeden: 1
+","Ja",12645,0.491,0.153,0.101463028865164,0.285172004744958,0.14630288651641,18.5172004744958,"real_conditional"
+"7","IV: 
+competentie_overtuigen_en_beïnvloeden: 2
+","Ja",12645,0.491,0.153,0.101463028865164,0.285172004744958,0.14630288651641,18.5172004744958,"real_conditional"
+"8","IV: 
+competentie_overtuigen_en_beïnvloeden: 3
+","Ja",12645,0.491,0.153,0.101463028865164,0.285172004744958,0.14630288651641,18.5172004744958,"real_conditional"
+"9","IV: 
+competentie_overtuigen_en_beïnvloeden: 0
+","Ja",8829,0.604,0.087,0.0838147015517046,0.603126061841658,-1.61852984482954,50.3126061841658,"synth"
+"10","IV: 
+competentie_overtuigen_en_beïnvloeden: 1
+","Ja",3793,0.631,0.079,0.137621935143686,0.728183495913525,3.76219351436857,62.8183495913525,"synth"
+"11","IV: 
+competentie_overtuigen_en_beïnvloeden: 2
+","Ja",23,0.669,0.042,0.130434782608696,0.956521739130435,3.04347826086956,85.6521739130435,"synth"
+"12","IV: 
+competentie_overtuigen_en_beïnvloeden: 0
+","Ja",12508,0.611,0.085,0.0976974736168852,0.638631275983371,-0.230252638311482,53.8631275983371,"synth_conditional"
+"13","IV: 
+competentie_overtuigen_en_beïnvloeden: 1
+","Ja",12508,0.613,0.085,0.101295171090502,0.645906619763352,0.129517109050208,54.5906619763352,"synth_conditional"
+"14","IV: 
+competentie_overtuigen_en_beïnvloeden: 2
+","Ja",12508,0.613,0.085,0.101295171090502,0.645906619763352,0.129517109050208,54.5906619763352,"synth_conditional"
+"15","IV: 
+competentie_overtuigen_en_beïnvloeden: 3
+","Ja",12508,0.613,0.085,0.101295171090502,0.645906619763352,0.129517109050208,54.5906619763352,"synth_conditional"

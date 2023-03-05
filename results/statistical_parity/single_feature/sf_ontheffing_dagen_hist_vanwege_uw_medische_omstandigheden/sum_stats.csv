@@ -1,0 +1,77 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","Ja",6289,0.534,0.152,0.161233900461123,0.387501987597392,6.12339004611226,28.7501987597392,"real"
+"2","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","Ja",12645,0.501,0.15,0.108185053380783,0.303281929616449,0.818505338078292,20.3281929616449,"real_conditional"
+"3","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+","Ja",12645,0.5,0.15,0.107631474891261,0.302412020561487,0.763147489126136,20.2412020561487,"real_conditional"
+"4","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+","Ja",12645,0.5,0.15,0.107631474891261,0.302412020561487,0.763147489126136,20.2412020561487,"real_conditional"
+"5","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+","Ja",12645,0.5,0.15,0.107631474891261,0.302412020561487,0.763147489126136,20.2412020561487,"real_conditional"
+"6","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+","Ja",12645,0.5,0.15,0.107631474891261,0.302412020561487,0.763147489126136,20.2412020561487,"real_conditional"
+"7","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+","Ja",12645,0.5,0.15,0.10731514432582,0.302095689996046,0.731514432582048,20.2095689996046,"real_conditional"
+"8","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+","Ja",12645,0.466,0.143,0.0564650059311981,0.215579280347964,-4.35349940688019,11.5579280347964,"real_conditional"
+"9","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+","Ja",12645,0.485,0.146,0.0797153024911032,0.259786476868327,-2.02846975088968,15.9786476868327,"real_conditional"
+"10","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+","Ja",12645,0.473,0.144,0.0637406089363385,0.233847370502175,-3.62593910636615,13.3847370502175,"real_conditional"
+"11","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 0
+","Ja",12508,0.63,0.086,0.164454748960665,0.703709625839463,6.44547489606652,60.3709625839463,"synth_conditional"
+"12","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 0
+ontheffing_hist_ind: 1
+","Ja",12508,0.63,0.086,0.16405500479693,0.703389830508475,6.405500479693,60.3389830508475,"synth_conditional"
+"13","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1
+ontheffing_hist_ind: 1
+","Ja",12508,0.63,0.086,0.16405500479693,0.703389830508475,6.405500479693,60.3389830508475,"synth_conditional"
+"14","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10
+ontheffing_hist_ind: 1
+","Ja",12508,0.63,0.086,0.16405500479693,0.703389830508475,6.405500479693,60.3389830508475,"synth_conditional"
+"15","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 100
+ontheffing_hist_ind: 1
+","Ja",12508,0.63,0.086,0.16405500479693,0.703389830508475,6.405500479693,60.3389830508475,"synth_conditional"
+"16","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 1000
+ontheffing_hist_ind: 1
+","Ja",12508,0.63,0.086,0.163575311800448,0.702510393348257,6.35753118004477,60.2510393348257,"synth_conditional"
+"17","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 10000
+ontheffing_hist_ind: 1
+","Ja",12508,0.605,0.083,0.0701151263191557,0.621202430444516,-2.98848736808443,52.1202430444516,"synth_conditional"
+"18","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 2000
+ontheffing_hist_ind: 1
+","Ja",12508,0.618,0.083,0.109210105532459,0.66405500479693,0.921010553245923,56.405500479693,"synth_conditional"
+"19","IV: 
+ontheffing_dagen_hist_vanwege_uw_medische_omstandigheden: 5000
+ontheffing_hist_ind: 1
+","Ja",12508,0.61,0.083,0.0807483210745123,0.639110968979853,-1.92516789254877,53.9110968979853,"synth_conditional"

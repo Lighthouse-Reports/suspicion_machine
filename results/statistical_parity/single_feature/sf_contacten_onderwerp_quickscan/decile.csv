@@ -1,0 +1,637 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+contacten_onderwerp_quickscan: 0
+",1254,10.6244175209692,"real"
+"2",1,"IV: 
+contacten_onderwerp_quickscan: 1
+",7,1.15702479338843,"real"
+"3",1,"IV: 
+contacten_onderwerp_quickscan: 2
+",4,2.24719101123596,"real"
+"4",2,"IV: 
+contacten_onderwerp_quickscan: 0
+",1225,10.378717275269,"real"
+"5",2,"IV: 
+contacten_onderwerp_quickscan: 1
+",31,5.12396694214876,"real"
+"6",2,"IV: 
+contacten_onderwerp_quickscan: 2
+",6,3.37078651685393,"real"
+"7",2,"IV: 
+contacten_onderwerp_quickscan: 3
+",2,5.12820512820513,"real"
+"8",2,"IV: 
+contacten_onderwerp_quickscan: 5
+",1,33.3333333333333,"real"
+"9",3,"IV: 
+contacten_onderwerp_quickscan: 0
+",1214,10.2855206303482,"real"
+"10",3,"IV: 
+contacten_onderwerp_quickscan: 1
+",36,5.9504132231405,"real"
+"11",3,"IV: 
+contacten_onderwerp_quickscan: 2
+",10,5.61797752808989,"real"
+"12",3,"IV: 
+contacten_onderwerp_quickscan: 3
+",3,7.69230769230769,"real"
+"13",3,"IV: 
+contacten_onderwerp_quickscan: 4
+",1,6.25,"real"
+"14",3,"IV: 
+contacten_onderwerp_quickscan: 6
+",1,100,"real"
+"15",4,"IV: 
+contacten_onderwerp_quickscan: 0
+",1180,9.99745827332034,"real"
+"16",4,"IV: 
+contacten_onderwerp_quickscan: 1
+",63,10.4132231404959,"real"
+"17",4,"IV: 
+contacten_onderwerp_quickscan: 2
+",13,7.30337078651685,"real"
+"18",4,"IV: 
+contacten_onderwerp_quickscan: 3
+",5,12.8205128205128,"real"
+"19",4,"IV: 
+contacten_onderwerp_quickscan: 4
+",4,25,"real"
+"20",5,"IV: 
+contacten_onderwerp_quickscan: 0
+",1172,9.92967889519614,"real"
+"21",5,"IV: 
+contacten_onderwerp_quickscan: 1
+",73,12.0661157024793,"real"
+"22",5,"IV: 
+contacten_onderwerp_quickscan: 2
+",12,6.74157303370786,"real"
+"23",5,"IV: 
+contacten_onderwerp_quickscan: 3
+",6,15.3846153846154,"real"
+"24",5,"IV: 
+contacten_onderwerp_quickscan: 4
+",2,12.5,"real"
+"25",6,"IV: 
+contacten_onderwerp_quickscan: 0
+",1184,10.0313479623824,"real"
+"26",6,"IV: 
+contacten_onderwerp_quickscan: 1
+",56,9.25619834710744,"real"
+"27",6,"IV: 
+contacten_onderwerp_quickscan: 2
+",19,10.6741573033708,"real"
+"28",6,"IV: 
+contacten_onderwerp_quickscan: 3
+",4,10.2564102564103,"real"
+"29",6,"IV: 
+contacten_onderwerp_quickscan: 5
+",1,33.3333333333333,"real"
+"30",7,"IV: 
+contacten_onderwerp_quickscan: 0
+",1159,9.8195374057443,"real"
+"31",7,"IV: 
+contacten_onderwerp_quickscan: 1
+",66,10.9090909090909,"real"
+"32",7,"IV: 
+contacten_onderwerp_quickscan: 2
+",29,16.2921348314607,"real"
+"33",7,"IV: 
+contacten_onderwerp_quickscan: 3
+",6,15.3846153846154,"real"
+"34",7,"IV: 
+contacten_onderwerp_quickscan: 4
+",3,18.75,"real"
+"35",7,"IV: 
+contacten_onderwerp_quickscan: 5
+",1,33.3333333333333,"real"
+"36",8,"IV: 
+contacten_onderwerp_quickscan: 0
+",1152,9.76023044988562,"real"
+"37",8,"IV: 
+contacten_onderwerp_quickscan: 1
+",72,11.900826446281,"real"
+"38",8,"IV: 
+contacten_onderwerp_quickscan: 2
+",33,18.5393258426966,"real"
+"39",8,"IV: 
+contacten_onderwerp_quickscan: 3
+",6,15.3846153846154,"real"
+"40",8,"IV: 
+contacten_onderwerp_quickscan: 4
+",1,6.25,"real"
+"41",9,"IV: 
+contacten_onderwerp_quickscan: 0
+",1141,9.66703380496484,"real"
+"42",9,"IV: 
+contacten_onderwerp_quickscan: 1
+",99,16.3636363636364,"real"
+"43",9,"IV: 
+contacten_onderwerp_quickscan: 2
+",20,11.2359550561798,"real"
+"44",9,"IV: 
+contacten_onderwerp_quickscan: 3
+",1,2.56410256410256,"real"
+"45",9,"IV: 
+contacten_onderwerp_quickscan: 4
+",3,18.75,"real"
+"46",10,"IV: 
+contacten_onderwerp_quickscan: 0
+",1122,9.50605778191985,"real"
+"47",10,"IV: 
+contacten_onderwerp_quickscan: 1
+",102,16.8595041322314,"real"
+"48",10,"IV: 
+contacten_onderwerp_quickscan: 2
+",32,17.9775280898876,"real"
+"49",10,"IV: 
+contacten_onderwerp_quickscan: 3
+",6,15.3846153846154,"real"
+"50",10,"IV: 
+contacten_onderwerp_quickscan: 4
+",2,12.5,"real"
+"51",1,"IV: 
+contacten_onderwerp_quickscan: 0
+",1359,10.7473309608541,"real_conditional"
+"52",1,"IV: 
+contacten_onderwerp_quickscan: 1
+",1273,10.0672202451562,"real_conditional"
+"53",1,"IV: 
+contacten_onderwerp_quickscan: 2
+",1244,9.83788058521155,"real_conditional"
+"54",1,"IV: 
+contacten_onderwerp_quickscan: 3
+",1244,9.83788058521155,"real_conditional"
+"55",1,"IV: 
+contacten_onderwerp_quickscan: 4
+",1244,9.83788058521155,"real_conditional"
+"56",1,"IV: 
+contacten_onderwerp_quickscan: 5
+",1244,9.83788058521155,"real_conditional"
+"57",1,"IV: 
+contacten_onderwerp_quickscan: 6
+",1244,9.83788058521155,"real_conditional"
+"58",2,"IV: 
+contacten_onderwerp_quickscan: 0
+",1275,10.0830367734282,"real_conditional"
+"59",2,"IV: 
+contacten_onderwerp_quickscan: 1
+",1272,10.0593119810202,"real_conditional"
+"60",2,"IV: 
+contacten_onderwerp_quickscan: 2
+",1261,9.97232107552392,"real_conditional"
+"61",2,"IV: 
+contacten_onderwerp_quickscan: 3
+",1261,9.97232107552392,"real_conditional"
+"62",2,"IV: 
+contacten_onderwerp_quickscan: 4
+",1261,9.97232107552392,"real_conditional"
+"63",2,"IV: 
+contacten_onderwerp_quickscan: 5
+",1261,9.97232107552392,"real_conditional"
+"64",2,"IV: 
+contacten_onderwerp_quickscan: 6
+",1261,9.97232107552392,"real_conditional"
+"65",3,"IV: 
+contacten_onderwerp_quickscan: 0
+",1288,10.1858442071965,"real_conditional"
+"66",3,"IV: 
+contacten_onderwerp_quickscan: 1
+",1265,10.003954132068,"real_conditional"
+"67",3,"IV: 
+contacten_onderwerp_quickscan: 2
+",1260,9.9644128113879,"real_conditional"
+"68",3,"IV: 
+contacten_onderwerp_quickscan: 3
+",1260,9.9644128113879,"real_conditional"
+"69",3,"IV: 
+contacten_onderwerp_quickscan: 4
+",1260,9.9644128113879,"real_conditional"
+"70",3,"IV: 
+contacten_onderwerp_quickscan: 5
+",1260,9.9644128113879,"real_conditional"
+"71",3,"IV: 
+contacten_onderwerp_quickscan: 6
+",1259,9.95650454725188,"real_conditional"
+"72",4,"IV: 
+contacten_onderwerp_quickscan: 0
+",1255,9.92487149070779,"real_conditional"
+"73",4,"IV: 
+contacten_onderwerp_quickscan: 1
+",1256,9.93277975484381,"real_conditional"
+"74",4,"IV: 
+contacten_onderwerp_quickscan: 2
+",1268,10.0276789244761,"real_conditional"
+"75",4,"IV: 
+contacten_onderwerp_quickscan: 3
+",1268,10.0276789244761,"real_conditional"
+"76",4,"IV: 
+contacten_onderwerp_quickscan: 4
+",1268,10.0276789244761,"real_conditional"
+"77",4,"IV: 
+contacten_onderwerp_quickscan: 5
+",1268,10.0276789244761,"real_conditional"
+"78",4,"IV: 
+contacten_onderwerp_quickscan: 6
+",1269,10.0355871886121,"real_conditional"
+"79",5,"IV: 
+contacten_onderwerp_quickscan: 0
+",1265,10.003954132068,"real_conditional"
+"80",5,"IV: 
+contacten_onderwerp_quickscan: 1
+",1270,10.0434954527481,"real_conditional"
+"81",5,"IV: 
+contacten_onderwerp_quickscan: 2
+",1264,9.99604586793199,"real_conditional"
+"82",5,"IV: 
+contacten_onderwerp_quickscan: 3
+",1263,9.98813760379597,"real_conditional"
+"83",5,"IV: 
+contacten_onderwerp_quickscan: 4
+",1264,9.99604586793199,"real_conditional"
+"84",5,"IV: 
+contacten_onderwerp_quickscan: 5
+",1263,9.98813760379597,"real_conditional"
+"85",5,"IV: 
+contacten_onderwerp_quickscan: 6
+",1263,9.98813760379597,"real_conditional"
+"86",6,"IV: 
+contacten_onderwerp_quickscan: 0
+",1239,9.79833926453144,"real_conditional"
+"87",6,"IV: 
+contacten_onderwerp_quickscan: 1
+",1274,10.0751285092922,"real_conditional"
+"88",6,"IV: 
+contacten_onderwerp_quickscan: 2
+",1267,10.0197706603401,"real_conditional"
+"89",6,"IV: 
+contacten_onderwerp_quickscan: 3
+",1268,10.0276789244761,"real_conditional"
+"90",6,"IV: 
+contacten_onderwerp_quickscan: 4
+",1267,10.0197706603401,"real_conditional"
+"91",6,"IV: 
+contacten_onderwerp_quickscan: 5
+",1268,10.0276789244761,"real_conditional"
+"92",6,"IV: 
+contacten_onderwerp_quickscan: 6
+",1268,10.0276789244761,"real_conditional"
+"93",7,"IV: 
+contacten_onderwerp_quickscan: 0
+",1281,10.1304863582444,"real_conditional"
+"94",7,"IV: 
+contacten_onderwerp_quickscan: 1
+",1260,9.9644128113879,"real_conditional"
+"95",7,"IV: 
+contacten_onderwerp_quickscan: 2
+",1262,9.98022933965994,"real_conditional"
+"96",7,"IV: 
+contacten_onderwerp_quickscan: 3
+",1262,9.98022933965994,"real_conditional"
+"97",7,"IV: 
+contacten_onderwerp_quickscan: 4
+",1262,9.98022933965994,"real_conditional"
+"98",7,"IV: 
+contacten_onderwerp_quickscan: 5
+",1262,9.98022933965994,"real_conditional"
+"99",7,"IV: 
+contacten_onderwerp_quickscan: 6
+",1262,9.98022933965994,"real_conditional"
+"100",8,"IV: 
+contacten_onderwerp_quickscan: 0
+",1234,9.75879794385133,"real_conditional"
+"101",8,"IV: 
+contacten_onderwerp_quickscan: 1
+",1258,9.94859628311586,"real_conditional"
+"102",8,"IV: 
+contacten_onderwerp_quickscan: 2
+",1272,10.0593119810202,"real_conditional"
+"103",8,"IV: 
+contacten_onderwerp_quickscan: 3
+",1272,10.0593119810202,"real_conditional"
+"104",8,"IV: 
+contacten_onderwerp_quickscan: 4
+",1272,10.0593119810202,"real_conditional"
+"105",8,"IV: 
+contacten_onderwerp_quickscan: 5
+",1272,10.0593119810202,"real_conditional"
+"106",8,"IV: 
+contacten_onderwerp_quickscan: 6
+",1271,10.0514037168841,"real_conditional"
+"107",9,"IV: 
+contacten_onderwerp_quickscan: 0
+",1223,9.67180703835508,"real_conditional"
+"108",9,"IV: 
+contacten_onderwerp_quickscan: 1
+",1262,9.98022933965994,"real_conditional"
+"109",9,"IV: 
+contacten_onderwerp_quickscan: 2
+",1273,10.0672202451562,"real_conditional"
+"110",9,"IV: 
+contacten_onderwerp_quickscan: 3
+",1273,10.0672202451562,"real_conditional"
+"111",9,"IV: 
+contacten_onderwerp_quickscan: 4
+",1273,10.0672202451562,"real_conditional"
+"112",9,"IV: 
+contacten_onderwerp_quickscan: 5
+",1273,10.0672202451562,"real_conditional"
+"113",9,"IV: 
+contacten_onderwerp_quickscan: 6
+",1274,10.0751285092922,"real_conditional"
+"114",10,"IV: 
+contacten_onderwerp_quickscan: 0
+",1226,9.69553183076315,"real_conditional"
+"115",10,"IV: 
+contacten_onderwerp_quickscan: 1
+",1255,9.92487149070779,"real_conditional"
+"116",10,"IV: 
+contacten_onderwerp_quickscan: 2
+",1274,10.0751285092922,"real_conditional"
+"117",10,"IV: 
+contacten_onderwerp_quickscan: 3
+",1274,10.0751285092922,"real_conditional"
+"118",10,"IV: 
+contacten_onderwerp_quickscan: 4
+",1274,10.0751285092922,"real_conditional"
+"119",10,"IV: 
+contacten_onderwerp_quickscan: 5
+",1274,10.0751285092922,"real_conditional"
+"120",10,"IV: 
+contacten_onderwerp_quickscan: 6
+",1274,10.0751285092922,"real_conditional"
+"121",1,"IV: 
+contacten_onderwerp_quickscan: 0
+",1020,10.3986135181976,"synth"
+"122",1,"IV: 
+contacten_onderwerp_quickscan: 1
+",245,8.64502470007057,"synth"
+"123",2,"IV: 
+contacten_onderwerp_quickscan: 0
+",1013,10.3272504842492,"synth"
+"124",2,"IV: 
+contacten_onderwerp_quickscan: 1
+",252,8.89202540578687,"synth"
+"125",3,"IV: 
+contacten_onderwerp_quickscan: 0
+",1000,10.1947191354878,"synth"
+"126",3,"IV: 
+contacten_onderwerp_quickscan: 1
+",265,9.35074100211715,"synth"
+"127",4,"IV: 
+contacten_onderwerp_quickscan: 0
+",994,10.1335508206749,"synth"
+"128",4,"IV: 
+contacten_onderwerp_quickscan: 1
+",271,9.56245589273112,"synth"
+"129",5,"IV: 
+contacten_onderwerp_quickscan: 0
+",968,9.86848812315221,"synth"
+"130",5,"IV: 
+contacten_onderwerp_quickscan: 1
+",296,10.4446012702893,"synth"
+"131",5,"IV: 
+contacten_onderwerp_quickscan: 2
+",1,50,"synth"
+"132",6,"IV: 
+contacten_onderwerp_quickscan: 0
+",972,9.90926699969416,"synth"
+"133",6,"IV: 
+contacten_onderwerp_quickscan: 1
+",292,10.30345800988,"synth"
+"134",7,"IV: 
+contacten_onderwerp_quickscan: 0
+",978,9.97043531450709,"synth"
+"135",7,"IV: 
+contacten_onderwerp_quickscan: 1
+",286,10.0917431192661,"synth"
+"136",8,"IV: 
+contacten_onderwerp_quickscan: 0
+",985,10.0417983484555,"synth"
+"137",8,"IV: 
+contacten_onderwerp_quickscan: 1
+",278,9.80945659844742,"synth"
+"138",8,"IV: 
+contacten_onderwerp_quickscan: 2
+",1,50,"synth"
+"139",9,"IV: 
+contacten_onderwerp_quickscan: 0
+",937,9.55245182995209,"synth"
+"140",9,"IV: 
+contacten_onderwerp_quickscan: 1
+",327,11.5384615384615,"synth"
+"141",10,"IV: 
+contacten_onderwerp_quickscan: 0
+",942,9.60342542562952,"synth"
+"142",10,"IV: 
+contacten_onderwerp_quickscan: 1
+",322,11.3620324629499,"synth"
+"143",1,"IV: 
+contacten_onderwerp_quickscan: 0
+",1319,10.5452510393348,"synth_conditional"
+"144",1,"IV: 
+contacten_onderwerp_quickscan: 1
+",1265,10.1135273425008,"synth_conditional"
+"145",1,"IV: 
+contacten_onderwerp_quickscan: 2
+",1235,9.87368084425967,"synth_conditional"
+"146",1,"IV: 
+contacten_onderwerp_quickscan: 3
+",1234,9.86568596098497,"synth_conditional"
+"147",1,"IV: 
+contacten_onderwerp_quickscan: 4
+",1235,9.87368084425967,"synth_conditional"
+"148",1,"IV: 
+contacten_onderwerp_quickscan: 5
+",1234,9.86568596098497,"synth_conditional"
+"149",1,"IV: 
+contacten_onderwerp_quickscan: 6
+",1234,9.86568596098497,"synth_conditional"
+"150",2,"IV: 
+contacten_onderwerp_quickscan: 0
+",1273,10.1774864086984,"synth_conditional"
+"151",2,"IV: 
+contacten_onderwerp_quickscan: 1
+",1246,9.96162456028142,"synth_conditional"
+"152",2,"IV: 
+contacten_onderwerp_quickscan: 2
+",1247,9.96961944355612,"synth_conditional"
+"153",2,"IV: 
+contacten_onderwerp_quickscan: 3
+",1248,9.97761432683083,"synth_conditional"
+"154",2,"IV: 
+contacten_onderwerp_quickscan: 4
+",1247,9.96961944355612,"synth_conditional"
+"155",2,"IV: 
+contacten_onderwerp_quickscan: 5
+",1248,9.97761432683083,"synth_conditional"
+"156",2,"IV: 
+contacten_onderwerp_quickscan: 6
+",1247,9.96961944355612,"synth_conditional"
+"157",3,"IV: 
+contacten_onderwerp_quickscan: 0
+",1277,10.2094659417972,"synth_conditional"
+"158",3,"IV: 
+contacten_onderwerp_quickscan: 1
+",1258,10.0575631595779,"synth_conditional"
+"159",3,"IV: 
+contacten_onderwerp_quickscan: 2
+",1244,9.94563479373201,"synth_conditional"
+"160",3,"IV: 
+contacten_onderwerp_quickscan: 3
+",1244,9.94563479373201,"synth_conditional"
+"161",3,"IV: 
+contacten_onderwerp_quickscan: 4
+",1244,9.94563479373201,"synth_conditional"
+"162",3,"IV: 
+contacten_onderwerp_quickscan: 5
+",1244,9.94563479373201,"synth_conditional"
+"163",3,"IV: 
+contacten_onderwerp_quickscan: 6
+",1245,9.95362967700671,"synth_conditional"
+"164",4,"IV: 
+contacten_onderwerp_quickscan: 0
+",1262,10.0895426926767,"synth_conditional"
+"165",4,"IV: 
+contacten_onderwerp_quickscan: 1
+",1248,9.97761432683083,"synth_conditional"
+"166",4,"IV: 
+contacten_onderwerp_quickscan: 2
+",1250,9.99360409338024,"synth_conditional"
+"167",4,"IV: 
+contacten_onderwerp_quickscan: 3
+",1249,9.98560921010553,"synth_conditional"
+"168",4,"IV: 
+contacten_onderwerp_quickscan: 4
+",1249,9.98560921010553,"synth_conditional"
+"169",4,"IV: 
+contacten_onderwerp_quickscan: 5
+",1249,9.98560921010553,"synth_conditional"
+"170",4,"IV: 
+contacten_onderwerp_quickscan: 6
+",1249,9.98560921010553,"synth_conditional"
+"171",5,"IV: 
+contacten_onderwerp_quickscan: 0
+",1256,10.0415733930285,"synth_conditional"
+"172",5,"IV: 
+contacten_onderwerp_quickscan: 1
+",1276,10.2014710585225,"synth_conditional"
+"173",5,"IV: 
+contacten_onderwerp_quickscan: 2
+",1244,9.94563479373201,"synth_conditional"
+"174",5,"IV: 
+contacten_onderwerp_quickscan: 3
+",1245,9.95362967700671,"synth_conditional"
+"175",5,"IV: 
+contacten_onderwerp_quickscan: 4
+",1245,9.95362967700671,"synth_conditional"
+"176",5,"IV: 
+contacten_onderwerp_quickscan: 5
+",1245,9.95362967700671,"synth_conditional"
+"177",5,"IV: 
+contacten_onderwerp_quickscan: 6
+",1245,9.95362967700671,"synth_conditional"
+"178",6,"IV: 
+contacten_onderwerp_quickscan: 0
+",1231,9.84170131116086,"synth_conditional"
+"179",6,"IV: 
+contacten_onderwerp_quickscan: 1
+",1225,9.79373201151263,"synth_conditional"
+"180",6,"IV: 
+contacten_onderwerp_quickscan: 2
+",1260,10.0735529261273,"synth_conditional"
+"181",6,"IV: 
+contacten_onderwerp_quickscan: 3
+",1260,10.0735529261273,"synth_conditional"
+"182",6,"IV: 
+contacten_onderwerp_quickscan: 4
+",1260,10.0735529261273,"synth_conditional"
+"183",6,"IV: 
+contacten_onderwerp_quickscan: 5
+",1260,10.0735529261273,"synth_conditional"
+"184",6,"IV: 
+contacten_onderwerp_quickscan: 6
+",1260,10.0735529261273,"synth_conditional"
+"185",7,"IV: 
+contacten_onderwerp_quickscan: 0
+",1240,9.9136552606332,"synth_conditional"
+"186",7,"IV: 
+contacten_onderwerp_quickscan: 1
+",1255,10.0335785097538,"synth_conditional"
+"187",7,"IV: 
+contacten_onderwerp_quickscan: 2
+",1252,10.0095938599296,"synth_conditional"
+"188",7,"IV: 
+contacten_onderwerp_quickscan: 3
+",1252,10.0095938599296,"synth_conditional"
+"189",7,"IV: 
+contacten_onderwerp_quickscan: 4
+",1252,10.0095938599296,"synth_conditional"
+"190",7,"IV: 
+contacten_onderwerp_quickscan: 5
+",1252,10.0095938599296,"synth_conditional"
+"191",7,"IV: 
+contacten_onderwerp_quickscan: 6
+",1252,10.0095938599296,"synth_conditional"
+"192",8,"IV: 
+contacten_onderwerp_quickscan: 0
+",1241,9.9216501439079,"synth_conditional"
+"193",8,"IV: 
+contacten_onderwerp_quickscan: 1
+",1250,9.99360409338024,"synth_conditional"
+"194",8,"IV: 
+contacten_onderwerp_quickscan: 2
+",1253,10.0175887432043,"synth_conditional"
+"195",8,"IV: 
+contacten_onderwerp_quickscan: 3
+",1253,10.0175887432043,"synth_conditional"
+"196",8,"IV: 
+contacten_onderwerp_quickscan: 4
+",1253,10.0175887432043,"synth_conditional"
+"197",8,"IV: 
+contacten_onderwerp_quickscan: 5
+",1253,10.0175887432043,"synth_conditional"
+"198",8,"IV: 
+contacten_onderwerp_quickscan: 6
+",1252,10.0095938599296,"synth_conditional"
+"199",9,"IV: 
+contacten_onderwerp_quickscan: 0
+",1208,9.65781899584266,"synth_conditional"
+"200",9,"IV: 
+contacten_onderwerp_quickscan: 1
+",1237,9.88967061080908,"synth_conditional"
+"201",9,"IV: 
+contacten_onderwerp_quickscan: 2
+",1262,10.0895426926767,"synth_conditional"
+"202",9,"IV: 
+contacten_onderwerp_quickscan: 3
+",1262,10.0895426926767,"synth_conditional"
+"203",9,"IV: 
+contacten_onderwerp_quickscan: 4
+",1262,10.0895426926767,"synth_conditional"
+"204",9,"IV: 
+contacten_onderwerp_quickscan: 5
+",1262,10.0895426926767,"synth_conditional"
+"205",9,"IV: 
+contacten_onderwerp_quickscan: 6
+",1262,10.0895426926767,"synth_conditional"
+"206",10,"IV: 
+contacten_onderwerp_quickscan: 0
+",1201,9.60185481291973,"synth_conditional"
+"207",10,"IV: 
+contacten_onderwerp_quickscan: 1
+",1248,9.97761432683083,"synth_conditional"
+"208",10,"IV: 
+contacten_onderwerp_quickscan: 2
+",1261,10.081547809402,"synth_conditional"
+"209",10,"IV: 
+contacten_onderwerp_quickscan: 3
+",1261,10.081547809402,"synth_conditional"
+"210",10,"IV: 
+contacten_onderwerp_quickscan: 4
+",1261,10.081547809402,"synth_conditional"
+"211",10,"IV: 
+contacten_onderwerp_quickscan: 5
+",1261,10.081547809402,"synth_conditional"
+"212",10,"IV: 
+contacten_onderwerp_quickscan: 6
+",1262,10.0895426926767,"synth_conditional"

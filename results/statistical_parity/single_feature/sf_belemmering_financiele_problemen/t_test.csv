@@ -1,0 +1,21 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+belemmering_financiele_problemen: 0
+","IV: 
+belemmering_financiele_problemen: 1
+",10026,2619,1.02e-219,"****",1.02e-219,"****","real"
+"2","Ja","IV: 
+belemmering_financiele_problemen: 0
+","IV: 
+belemmering_financiele_problemen: 1
+",12645,12645,0.00754,"**",0.00754,"**","real_conditional"
+"3","Ja","IV: 
+belemmering_financiele_problemen: 0
+","IV: 
+belemmering_financiele_problemen: 1
+",8690,3955,2.13e-82,"****",2.13e-82,"****","synth"
+"4","Ja","IV: 
+belemmering_financiele_problemen: 0
+","IV: 
+belemmering_financiele_problemen: 1
+",12508,12508,0.00483,"**",0.00483,"**","synth_conditional"

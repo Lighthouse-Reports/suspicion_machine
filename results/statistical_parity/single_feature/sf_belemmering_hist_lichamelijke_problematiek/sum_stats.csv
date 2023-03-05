@@ -1,0 +1,58 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","Ja",8028,0.489,0.16,0.113602391629297,0.294095665171898,1.36023916292975,19.4095665171898,"real"
+"2","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+","Ja",4328,0.491,0.141,0.0778650646950092,0.263632162661738,-2.21349353049908,16.3632162661738,"real"
+"3","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+","Ja",271,0.468,0.141,0.0553505535055351,0.217712177121771,-4.46494464944649,11.7712177121771,"real"
+"4","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+","Ja",16,0.441,0.152,0.0625,0.3125,-3.75,21.25,"real"
+"5","IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+","Ja",2,0.431,0.109,0,0,-10,-10,"real"
+"6","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","Ja",12645,0.489,0.153,0.10003954132068,0.28200869909055,0.00395413206801115,18.200869909055,"real_conditional"
+"7","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+","Ja",12645,0.489,0.153,0.10003954132068,0.28200869909055,0.00395413206801115,18.200869909055,"real_conditional"
+"8","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+","Ja",12645,0.489,0.153,0.0994068801897983,0.281138790035587,-0.0593119810201673,18.1138790035587,"real_conditional"
+"9","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+","Ja",12645,0.489,0.153,0.0994068801897983,0.281138790035587,-0.0593119810201673,18.1138790035587,"real_conditional"
+"10","IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+","Ja",12645,0.489,0.153,0.0994068801897983,0.281138790035587,-0.0593119810201673,18.1138790035587,"real_conditional"
+"11","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","Ja",6281,0.613,0.087,0.107148543225601,0.641935997452635,0.714854322560102,54.1935997452635,"synth"
+"12","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+","Ja",5988,0.611,0.083,0.0943553774215097,0.642451569806279,-0.564462257849031,54.2451569806279,"synth"
+"13","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+","Ja",373,0.609,0.082,0.0723860589812333,0.616621983914209,-2.76139410187668,51.6621983914209,"synth"
+"14","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+","Ja",3,0.492,0.067,0,0,-10,-10,"synth"
+"15","IV: 
+belemmering_hist_lichamelijke_problematiek: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641189638631276,-0.0223856731691729,54.1189638631276,"synth_conditional"
+"16","IV: 
+belemmering_hist_lichamelijke_problematiek: 1
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641189638631276,-0.0223856731691729,54.1189638631276,"synth_conditional"
+"17","IV: 
+belemmering_hist_lichamelijke_problematiek: 2
+","Ja",12508,0.611,0.085,0.0985769107771026,0.638951071314359,-0.142308922289736,53.8951071314359,"synth_conditional"
+"18","IV: 
+belemmering_hist_lichamelijke_problematiek: 3
+","Ja",12508,0.611,0.085,0.0985769107771026,0.638951071314359,-0.142308922289736,53.8951071314359,"synth_conditional"
+"19","IV: 
+belemmering_hist_lichamelijke_problematiek: 4
+","Ja",12508,0.611,0.085,0.0985769107771026,0.638951071314359,-0.142308922289736,53.8951071314359,"synth_conditional"

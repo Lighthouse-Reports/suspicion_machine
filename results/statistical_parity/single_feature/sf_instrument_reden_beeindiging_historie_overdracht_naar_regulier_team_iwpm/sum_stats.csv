@@ -1,0 +1,34 @@
+"","IV","variable","n","mean","sd","share_above_td_threshold","share_above_rw_threshold","perc_misrep_td_threshold","perc_misrep_rw_threshold","data_type"
+"1","IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_regulier_team_iwpm: 0
+","Ja",12072,0.486,0.154,0.0979125248508946,0.277335984095427,-0.208747514910537,17.7335984095427,"real"
+"2","IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_regulier_team_iwpm: 1
+","Ja",571,0.546,0.131,0.145359019264448,0.381786339754816,4.53590192644483,28.1786339754816,"real"
+"3","IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_regulier_team_iwpm: 2
+","Ja",2,0.525,0.089,0,0,-10,-10,"real"
+"4","IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_regulier_team_iwpm: 0
+","Ja",12645,0.489,0.153,0.10011862396204,0.282404112297351,0.0118623962040335,18.2404112297351,"real_conditional"
+"5","IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_regulier_team_iwpm: 1
+","Ja",12645,0.488,0.153,0.0993277975484381,0.280980624752867,-0.0672202451561896,18.0980624752867,"real_conditional"
+"6","IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_regulier_team_iwpm: 2
+","Ja",12645,0.488,0.153,0.0993277975484381,0.280980624752867,-0.0672202451561896,18.0980624752867,"real_conditional"
+"7","IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_regulier_team_iwpm: 0
+","Ja",12368,0.612,0.085,0.0990459249676585,0.640362225097025,-0.0954075032341531,54.0362225097025,"synth"
+"8","IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_regulier_team_iwpm: 1
+","Ja",277,0.623,0.082,0.144404332129964,0.682310469314079,4.44043321299639,58.2310469314079,"synth"
+"9","IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_regulier_team_iwpm: 0
+","Ja",12508,0.612,0.085,0.0997761432683083,0.641029740965782,-0.0223856731691729,54.1029740965782,"synth_conditional"
+"10","IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_regulier_team_iwpm: 1
+","Ja",12508,0.611,0.085,0.0975375759513911,0.635593220338983,-0.24624240486089,53.5593220338983,"synth_conditional"
+"11","IV: 
+instrument_reden_beeindiging_historie_overdracht_naar_regulier_team_iwpm: 2
+","Ja",12508,0.611,0.085,0.0975375759513911,0.635593220338983,-0.24624240486089,53.5593220338983,"synth_conditional"

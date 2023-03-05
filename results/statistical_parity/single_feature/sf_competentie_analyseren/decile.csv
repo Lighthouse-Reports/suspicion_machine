@@ -1,0 +1,406 @@
+"","decile","IV","n","perc","data_type"
+"1",1,"IV: 
+competentie_analyseren: 0
+",1245,12.5961149332254,"real"
+"2",1,"IV: 
+competentie_analyseren: 1
+",20,0.735023888276369,"real"
+"3",2,"IV: 
+competentie_analyseren: 0
+",1177,11.9081343585593,"real"
+"4",2,"IV: 
+competentie_analyseren: 1
+",88,3.23410510841602,"real"
+"5",3,"IV: 
+competentie_analyseren: 0
+",1080,10.9267503035208,"real"
+"6",3,"IV: 
+competentie_analyseren: 1
+",184,6.76221977214259,"real"
+"7",3,"IV: 
+competentie_analyseren: 2
+",1,2.63157894736842,"real"
+"8",4,"IV: 
+competentie_analyseren: 0
+",999,10.1072440307568,"real"
+"9",4,"IV: 
+competentie_analyseren: 1
+",264,9.70231532524807,"real"
+"10",4,"IV: 
+competentie_analyseren: 2
+",2,5.26315789473684,"real"
+"11",5,"IV: 
+competentie_analyseren: 0
+",977,9.8846620801295,"real"
+"12",5,"IV: 
+competentie_analyseren: 1
+",286,10.5108416023521,"real"
+"13",5,"IV: 
+competentie_analyseren: 2
+",2,5.26315789473684,"real"
+"14",6,"IV: 
+competentie_analyseren: 0
+",931,9.41926345609065,"real"
+"15",6,"IV: 
+competentie_analyseren: 1
+",330,12.1278941565601,"real"
+"16",6,"IV: 
+competentie_analyseren: 2
+",3,7.89473684210526,"real"
+"17",7,"IV: 
+competentie_analyseren: 0
+",904,9.14609469850263,"real"
+"18",7,"IV: 
+competentie_analyseren: 1
+",353,12.9731716280779,"real"
+"19",7,"IV: 
+competentie_analyseren: 2
+",7,18.4210526315789,"real"
+"20",8,"IV: 
+competentie_analyseren: 0
+",928,9.3889113719142,"real"
+"21",8,"IV: 
+competentie_analyseren: 1
+",333,12.2381477398015,"real"
+"22",8,"IV: 
+competentie_analyseren: 2
+",3,7.89473684210526,"real"
+"23",9,"IV: 
+competentie_analyseren: 0
+",867,8.77175232699312,"real"
+"24",9,"IV: 
+competentie_analyseren: 1
+",391,14.369717015803,"real"
+"25",9,"IV: 
+competentie_analyseren: 2
+",6,15.7894736842105,"real"
+"26",10,"IV: 
+competentie_analyseren: 0
+",776,7.85107244030757,"real"
+"27",10,"IV: 
+competentie_analyseren: 1
+",472,17.3465637633223,"real"
+"28",10,"IV: 
+competentie_analyseren: 2
+",14,36.8421052631579,"real"
+"29",10,"IV: 
+competentie_analyseren: 3
+",2,100,"real"
+"30",1,"IV: 
+competentie_analyseren: 0
+",1359,10.7473309608541,"real_conditional"
+"31",1,"IV: 
+competentie_analyseren: 1
+",1233,9.7508896797153,"real_conditional"
+"32",1,"IV: 
+competentie_analyseren: 2
+",1233,9.7508896797153,"real_conditional"
+"33",1,"IV: 
+competentie_analyseren: 3
+",1233,9.7508896797153,"real_conditional"
+"34",2,"IV: 
+competentie_analyseren: 0
+",1266,10.011862396204,"real_conditional"
+"35",2,"IV: 
+competentie_analyseren: 1
+",1264,9.99604586793199,"real_conditional"
+"36",2,"IV: 
+competentie_analyseren: 2
+",1264,9.99604586793199,"real_conditional"
+"37",2,"IV: 
+competentie_analyseren: 3
+",1264,9.99604586793199,"real_conditional"
+"38",3,"IV: 
+competentie_analyseren: 0
+",1251,9.8932384341637,"real_conditional"
+"39",3,"IV: 
+competentie_analyseren: 1
+",1269,10.0355871886121,"real_conditional"
+"40",3,"IV: 
+competentie_analyseren: 2
+",1269,10.0355871886121,"real_conditional"
+"41",3,"IV: 
+competentie_analyseren: 3
+",1269,10.0355871886121,"real_conditional"
+"42",4,"IV: 
+competentie_analyseren: 0
+",1251,9.8932384341637,"real_conditional"
+"43",4,"IV: 
+competentie_analyseren: 1
+",1269,10.0355871886121,"real_conditional"
+"44",4,"IV: 
+competentie_analyseren: 2
+",1269,10.0355871886121,"real_conditional"
+"45",4,"IV: 
+competentie_analyseren: 3
+",1269,10.0355871886121,"real_conditional"
+"46",5,"IV: 
+competentie_analyseren: 0
+",1246,9.85369711348359,"real_conditional"
+"47",5,"IV: 
+competentie_analyseren: 1
+",1271,10.0514037168841,"real_conditional"
+"48",5,"IV: 
+competentie_analyseren: 2
+",1271,10.0514037168841,"real_conditional"
+"49",5,"IV: 
+competentie_analyseren: 3
+",1270,10.0434954527481,"real_conditional"
+"50",6,"IV: 
+competentie_analyseren: 0
+",1246,9.85369711348359,"real_conditional"
+"51",6,"IV: 
+competentie_analyseren: 1
+",1271,10.0514037168841,"real_conditional"
+"52",6,"IV: 
+competentie_analyseren: 2
+",1270,10.0434954527481,"real_conditional"
+"53",6,"IV: 
+competentie_analyseren: 3
+",1271,10.0514037168841,"real_conditional"
+"54",7,"IV: 
+competentie_analyseren: 0
+",1258,9.94859628311586,"real_conditional"
+"55",7,"IV: 
+competentie_analyseren: 1
+",1266,10.011862396204,"real_conditional"
+"56",7,"IV: 
+competentie_analyseren: 2
+",1267,10.0197706603401,"real_conditional"
+"57",7,"IV: 
+competentie_analyseren: 3
+",1267,10.0197706603401,"real_conditional"
+"58",8,"IV: 
+competentie_analyseren: 0
+",1251,9.8932384341637,"real_conditional"
+"59",8,"IV: 
+competentie_analyseren: 1
+",1269,10.0355871886121,"real_conditional"
+"60",8,"IV: 
+competentie_analyseren: 2
+",1269,10.0355871886121,"real_conditional"
+"61",8,"IV: 
+competentie_analyseren: 3
+",1269,10.0355871886121,"real_conditional"
+"62",9,"IV: 
+competentie_analyseren: 0
+",1257,9.94068801897983,"real_conditional"
+"63",9,"IV: 
+competentie_analyseren: 1
+",1267,10.0197706603401,"real_conditional"
+"64",9,"IV: 
+competentie_analyseren: 2
+",1267,10.0197706603401,"real_conditional"
+"65",9,"IV: 
+competentie_analyseren: 3
+",1267,10.0197706603401,"real_conditional"
+"66",10,"IV: 
+competentie_analyseren: 0
+",1260,9.9644128113879,"real_conditional"
+"67",10,"IV: 
+competentie_analyseren: 1
+",1266,10.011862396204,"real_conditional"
+"68",10,"IV: 
+competentie_analyseren: 2
+",1266,10.011862396204,"real_conditional"
+"69",10,"IV: 
+competentie_analyseren: 3
+",1266,10.011862396204,"real_conditional"
+"70",1,"IV: 
+competentie_analyseren: 0
+",1039,11.6978158072506,"synth"
+"71",1,"IV: 
+competentie_analyseren: 1
+",226,6.02345415778252,"synth"
+"72",2,"IV: 
+competentie_analyseren: 0
+",960,10.8083764917811,"synth"
+"73",2,"IV: 
+competentie_analyseren: 1
+",304,8.10234541577825,"synth"
+"74",2,"IV: 
+competentie_analyseren: 2
+",1,9.09090909090909,"synth"
+"75",3,"IV: 
+competentie_analyseren: 0
+",968,10.8984462958793,"synth"
+"76",3,"IV: 
+competentie_analyseren: 1
+",296,7.88912579957356,"synth"
+"77",3,"IV: 
+competentie_analyseren: 2
+",1,9.09090909090909,"synth"
+"78",4,"IV: 
+competentie_analyseren: 0
+",915,10.3017338437289,"synth"
+"79",4,"IV: 
+competentie_analyseren: 1
+",349,9.30170575692964,"synth"
+"80",4,"IV: 
+competentie_analyseren: 2
+",1,9.09090909090909,"synth"
+"81",5,"IV: 
+competentie_analyseren: 0
+",860,9.68250394055393,"synth"
+"82",5,"IV: 
+competentie_analyseren: 1
+",403,10.7409381663113,"synth"
+"83",5,"IV: 
+competentie_analyseren: 2
+",2,18.1818181818182,"synth"
+"84",6,"IV: 
+competentie_analyseren: 0
+",838,9.43481197928394,"synth"
+"85",6,"IV: 
+competentie_analyseren: 1
+",426,11.3539445628998,"synth"
+"86",7,"IV: 
+competentie_analyseren: 0
+",855,9.62621031299257,"synth"
+"87",7,"IV: 
+competentie_analyseren: 1
+",409,10.9008528784648,"synth"
+"88",8,"IV: 
+competentie_analyseren: 0
+",847,9.53614050889439,"synth"
+"89",8,"IV: 
+competentie_analyseren: 1
+",417,11.1140724946695,"synth"
+"90",9,"IV: 
+competentie_analyseren: 0
+",820,9.23215492006305,"synth"
+"91",9,"IV: 
+competentie_analyseren: 1
+",441,11.7537313432836,"synth"
+"92",9,"IV: 
+competentie_analyseren: 2
+",3,27.2727272727273,"synth"
+"93",10,"IV: 
+competentie_analyseren: 0
+",780,8.78180589957217,"synth"
+"94",10,"IV: 
+competentie_analyseren: 1
+",481,12.819829424307,"synth"
+"95",10,"IV: 
+competentie_analyseren: 2
+",3,27.2727272727273,"synth"
+"96",1,"IV: 
+competentie_analyseren: 0
+",1313,10.4972817396866,"synth_conditional"
+"97",1,"IV: 
+competentie_analyseren: 1
+",1231,9.84170131116086,"synth_conditional"
+"98",1,"IV: 
+competentie_analyseren: 2
+",1230,9.83370642788615,"synth_conditional"
+"99",1,"IV: 
+competentie_analyseren: 3
+",1230,9.83370642788615,"synth_conditional"
+"100",2,"IV: 
+competentie_analyseren: 0
+",1276,10.2014710585225,"synth_conditional"
+"101",2,"IV: 
+competentie_analyseren: 1
+",1242,9.9296450271826,"synth_conditional"
+"102",2,"IV: 
+competentie_analyseren: 2
+",1243,9.93763991045731,"synth_conditional"
+"103",2,"IV: 
+competentie_analyseren: 3
+",1243,9.93763991045731,"synth_conditional"
+"104",3,"IV: 
+competentie_analyseren: 0
+",1238,9.89766549408379,"synth_conditional"
+"105",3,"IV: 
+competentie_analyseren: 1
+",1255,10.0335785097538,"synth_conditional"
+"106",3,"IV: 
+competentie_analyseren: 2
+",1255,10.0335785097538,"synth_conditional"
+"107",3,"IV: 
+competentie_analyseren: 3
+",1255,10.0335785097538,"synth_conditional"
+"108",4,"IV: 
+competentie_analyseren: 0
+",1262,10.0895426926767,"synth_conditional"
+"109",4,"IV: 
+competentie_analyseren: 1
+",1247,9.96961944355612,"synth_conditional"
+"110",4,"IV: 
+competentie_analyseren: 2
+",1247,9.96961944355612,"synth_conditional"
+"111",4,"IV: 
+competentie_analyseren: 3
+",1247,9.96961944355612,"synth_conditional"
+"112",5,"IV: 
+competentie_analyseren: 0
+",1223,9.77774224496322,"synth_conditional"
+"113",5,"IV: 
+competentie_analyseren: 1
+",1260,10.0735529261273,"synth_conditional"
+"114",5,"IV: 
+competentie_analyseren: 2
+",1260,10.0735529261273,"synth_conditional"
+"115",5,"IV: 
+competentie_analyseren: 3
+",1260,10.0735529261273,"synth_conditional"
+"116",6,"IV: 
+competentie_analyseren: 0
+",1235,9.87368084425967,"synth_conditional"
+"117",6,"IV: 
+competentie_analyseren: 1
+",1256,10.0415733930285,"synth_conditional"
+"118",6,"IV: 
+competentie_analyseren: 2
+",1256,10.0415733930285,"synth_conditional"
+"119",6,"IV: 
+competentie_analyseren: 3
+",1256,10.0415733930285,"synth_conditional"
+"120",7,"IV: 
+competentie_analyseren: 0
+",1244,9.94563479373201,"synth_conditional"
+"121",7,"IV: 
+competentie_analyseren: 1
+",1253,10.0175887432043,"synth_conditional"
+"122",7,"IV: 
+competentie_analyseren: 2
+",1253,10.0175887432043,"synth_conditional"
+"123",7,"IV: 
+competentie_analyseren: 3
+",1253,10.0175887432043,"synth_conditional"
+"124",8,"IV: 
+competentie_analyseren: 0
+",1239,9.90566037735849,"synth_conditional"
+"125",8,"IV: 
+competentie_analyseren: 1
+",1255,10.0335785097538,"synth_conditional"
+"126",8,"IV: 
+competentie_analyseren: 2
+",1255,10.0335785097538,"synth_conditional"
+"127",8,"IV: 
+competentie_analyseren: 3
+",1254,10.0255836264791,"synth_conditional"
+"128",9,"IV: 
+competentie_analyseren: 0
+",1227,9.80972177806204,"synth_conditional"
+"129",9,"IV: 
+competentie_analyseren: 1
+",1259,10.0655580428526,"synth_conditional"
+"130",9,"IV: 
+competentie_analyseren: 2
+",1258,10.0575631595779,"synth_conditional"
+"131",9,"IV: 
+competentie_analyseren: 3
+",1259,10.0655580428526,"synth_conditional"
+"132",10,"IV: 
+competentie_analyseren: 0
+",1251,10.0015989766549,"synth_conditional"
+"133",10,"IV: 
+competentie_analyseren: 1
+",1250,9.99360409338024,"synth_conditional"
+"134",10,"IV: 
+competentie_analyseren: 2
+",1251,10.0015989766549,"synth_conditional"
+"135",10,"IV: 
+competentie_analyseren: 3
+",1251,10.0015989766549,"synth_conditional"

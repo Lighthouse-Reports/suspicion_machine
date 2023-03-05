@@ -1,0 +1,511 @@
+"",".y.","group1","group2","n1","n2","p","p.signif","p.adj","p.adj.signif","data_type"
+"1","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+",6657,2826,2.59e-28,"****",3.88e-27,"****","real"
+"2","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+",6657,1635,1.06e-26,"****",1.48e-25,"****","real"
+"3","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+",2826,1635,0.126,"ns",0.882,"ns","real"
+"4","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",6657,835,1.68e-08,"****",2.19e-07,"****","real"
+"5","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",2826,835,0.297,"ns",1,"ns","real"
+"6","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",1635,835,0.0371,"*",0.371,"ns","real"
+"7","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",6657,381,0.00116,"**",0.0139,"*","real"
+"8","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",2826,381,0.157,"ns",0.915,"ns","real"
+"9","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",1635,381,0.0284,"*",0.312,"ns","real"
+"10","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",835,381,0.56,"ns",1,"ns","real"
+"11","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",6657,195,0.0499,"*",0.4,"ns","real"
+"12","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",2826,195,0.153,"ns",0.915,"ns","real"
+"13","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",1635,195,0.0428,"*",0.385,"ns","real"
+"14","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",835,195,0.415,"ns",1,"ns","real"
+"15","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",381,195,0.744,"ns",1,"ns","real"
+"16","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+",12645,12645,2.41e-07,"****",6.99e-06,"****","real_conditional"
+"17","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 10
+",12645,12645,1.57e-21,"****",5.65e-20,"****","real_conditional"
+"18","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 10
+",12645,12645,1.26e-05,"****",0.000353,"***","real_conditional"
+"19","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 15
+",12645,12645,1.57e-21,"****",5.65e-20,"****","real_conditional"
+"20","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 15
+",12645,12645,1.26e-05,"****",0.000353,"***","real_conditional"
+"21","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 10
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 15
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"22","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+",12645,12645,9.86e-18,"****",3.06e-16,"****","real_conditional"
+"23","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+",12645,12645,0.000645,"***",0.0148,"*","real_conditional"
+"24","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 10
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+",12645,12645,0.34,"ns",1,"ns","real_conditional"
+"25","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 15
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+",12645,12645,0.34,"ns",1,"ns","real_conditional"
+"26","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 20
+",12645,12645,1.57e-21,"****",5.65e-20,"****","real_conditional"
+"27","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 20
+",12645,12645,1.26e-05,"****",0.000353,"***","real_conditional"
+"28","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 10
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 20
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"29","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 15
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 20
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"30","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 20
+",12645,12645,0.34,"ns",1,"ns","real_conditional"
+"31","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",12645,12645,9.86e-18,"****",3.06e-16,"****","real_conditional"
+"32","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",12645,12645,0.000645,"***",0.0148,"*","real_conditional"
+"33","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 10
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",12645,12645,0.34,"ns",1,"ns","real_conditional"
+"34","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 15
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",12645,12645,0.34,"ns",1,"ns","real_conditional"
+"35","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"36","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 20
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",12645,12645,0.34,"ns",1,"ns","real_conditional"
+"37","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",12645,12645,2.95e-19,"****",9.45e-18,"****","real_conditional"
+"38","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",12645,12645,0.000141,"***",0.00338,"**","real_conditional"
+"39","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 10
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",12645,12645,0.575,"ns",1,"ns","real_conditional"
+"40","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 15
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",12645,12645,0.575,"ns",1,"ns","real_conditional"
+"41","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",12645,12645,0.693,"ns",1,"ns","real_conditional"
+"42","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 20
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",12645,12645,0.575,"ns",1,"ns","real_conditional"
+"43","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",12645,12645,0.693,"ns",1,"ns","real_conditional"
+"44","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",12645,12645,1.57e-21,"****",5.65e-20,"****","real_conditional"
+"45","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",12645,12645,1.26e-05,"****",0.000353,"***","real_conditional"
+"46","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 10
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"47","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 15
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"48","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",12645,12645,0.34,"ns",1,"ns","real_conditional"
+"49","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 20
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",12645,12645,1,"ns",1,"ns","real_conditional"
+"50","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",12645,12645,0.34,"ns",1,"ns","real_conditional"
+"51","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",12645,12645,0.575,"ns",1,"ns","real_conditional"
+"52","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+",2334,4953,5.31e-20,"****",6.91e-19,"****","synth"
+"53","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+",2334,3385,5e-44,"****",7.49e-43,"****","synth"
+"54","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+",4953,3385,6.91e-11,"****",6.91e-10,"****","synth"
+"55","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",2334,1440,9.36e-38,"****",1.31e-36,"****","synth"
+"56","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",4953,1440,1.77e-11,"****",1.94e-10,"****","synth"
+"57","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",3385,1440,0.0756,"ns",0.529,"ns","synth"
+"58","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",2334,428,4.42e-18,"****",5.31e-17,"****","synth"
+"59","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",4953,428,7.24e-06,"****",6.51e-05,"****","synth"
+"60","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",3385,428,0.116,"ns",0.698,"ns","synth"
+"61","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",1440,428,0.655,"ns",1,"ns","synth"
+"62","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",2334,88,0.00769,"**",0.0616,"ns","synth"
+"63","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",4953,88,0.582,"ns",1,"ns","synth"
+"64","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",3385,88,0.424,"ns",1,"ns","synth"
+"65","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",1440,88,0.195,"ns",0.78,"ns","synth"
+"66","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",428,88,0.154,"ns",0.769,"ns","synth"
+"67","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+",12508,12508,5.37e-26,"****",1.56e-24,"****","synth_conditional"
+"68","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 10
+",12508,12508,1.65e-82,"****",5.92e-81,"****","synth_conditional"
+"69","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 10
+",12508,12508,3.06e-18,"****",8.58e-17,"****","synth_conditional"
+"70","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 15
+",12508,12508,1.65e-82,"****",5.92e-81,"****","synth_conditional"
+"71","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 15
+",12508,12508,3.06e-18,"****",8.58e-17,"****","synth_conditional"
+"72","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 10
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 15
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"73","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+",12508,12508,8.45e-68,"****",2.62e-66,"****","synth_conditional"
+"74","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+",12508,12508,6.78e-12,"****",1.56e-10,"****","synth_conditional"
+"75","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 10
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+",12508,12508,0.0647,"ns",1,"ns","synth_conditional"
+"76","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 15
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+",12508,12508,0.0647,"ns",1,"ns","synth_conditional"
+"77","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 20
+",12508,12508,1.65e-82,"****",5.92e-81,"****","synth_conditional"
+"78","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 20
+",12508,12508,3.06e-18,"****",8.58e-17,"****","synth_conditional"
+"79","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 10
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 20
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"80","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 15
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 20
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"81","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 20
+",12508,12508,0.0647,"ns",1,"ns","synth_conditional"
+"82","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",12508,12508,8.45e-68,"****",2.62e-66,"****","synth_conditional"
+"83","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",12508,12508,6.78e-12,"****",1.56e-10,"****","synth_conditional"
+"84","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 10
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",12508,12508,0.0647,"ns",1,"ns","synth_conditional"
+"85","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 15
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",12508,12508,0.0647,"ns",1,"ns","synth_conditional"
+"86","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"87","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 20
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+",12508,12508,0.0647,"ns",1,"ns","synth_conditional"
+"88","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",12508,12508,2.45e-76,"****",7.83e-75,"****","synth_conditional"
+"89","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",12508,12508,1.77e-15,"****",4.25e-14,"****","synth_conditional"
+"90","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 10
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",12508,12508,0.451,"ns",1,"ns","synth_conditional"
+"91","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 15
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",12508,12508,0.451,"ns",1,"ns","synth_conditional"
+"92","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",12508,12508,0.274,"ns",1,"ns","synth_conditional"
+"93","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 20
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",12508,12508,0.451,"ns",1,"ns","synth_conditional"
+"94","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+",12508,12508,0.274,"ns",1,"ns","synth_conditional"
+"95","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 0
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",12508,12508,1.65e-82,"****",5.92e-81,"****","synth_conditional"
+"96","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 1
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",12508,12508,3.06e-18,"****",8.58e-17,"****","synth_conditional"
+"97","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 10
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"98","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 15
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"99","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 2
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",12508,12508,0.0647,"ns",1,"ns","synth_conditional"
+"100","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 20
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",12508,12508,1,"ns",1,"ns","synth_conditional"
+"101","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 3
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",12508,12508,0.0647,"ns",1,"ns","synth_conditional"
+"102","Ja","IV: 
+instrument_reden_beeindiging_historie_succesvol: 4
+","IV: 
+instrument_reden_beeindiging_historie_succesvol: 5
+",12508,12508,0.451,"ns",1,"ns","synth_conditional"

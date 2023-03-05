@@ -1,42 +1,21 @@
-# History files
+.Rproj.user
 .Rhistory
-.Rapp.history
-
-# Session Data files
 .RData
-
-# User-specific files
 .Ruserdata
-
-# Example code in package build process
-*-Ex.R
-
-# Output files from R CMD build
-/*.tar.gz
-
-# Output files from R CMD check
-/*.Rcheck/
-
-# RStudio files
-.Rproj.user/
-
-# produced vignettes
-vignettes/*.html
-vignettes/*.pdf
-
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
-.httr-oauth
-
-# knitr and R markdown default cache directories
-*_cache/
-/cache/
-
-# Temporary files created by R markdown
-*.utf8.md
-*.knit.md
-
-# R Environment Variables
-.Renviron
-
-# Manual Adds
-*.Rproj
+.RDataTmp
+*/td_numeric*
+*/.DS_Store
+.vscode
+scratch_pad/
+notebooks/*.nb.html
+notebooks/.ipynb_checkpoints/
+notebooks/__pycache__/
+results/exp-test/
+results/statistical_parity/trial
+results/statistical_parity/multi_feature
+results/Proxy Experiment/ProxyExperiment.html
+results/Rotterdam Definition/20221129_jb_rotterdams_fairness_definition.html
+data/00_hidden/
+data/03_experiment_input
+data/04_experiment_output
+notebooks/hidden/

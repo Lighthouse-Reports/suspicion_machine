@@ -2,21 +2,21 @@
 
 To understand the methodology, purpose and typical outputs of an experiment, see the [full article](???LinkToMethodology).
 
-A typical experiment contains 4 stages. Detailed instructions are provided in the subsequent sections.
-1. Deciding the experiment focus. An experiment must have one or more focus features.
+An experiment contains 4 stages. Detailed instructions are provided in the subsequent sections.
+1. Deciding which features to test. An experiment must have one or more focus features.
 2. Setting up config files. Each experiment is precisely defined by a config file in `ini` format.
-3. Running the experiment. There are a few notebooks to run for data preparation, risk prediction and analysis.
+3. Running the experiment. There is one notebook to run for data preparation, and an R script for risk prediction and analysis.
 4. Finding the Results and Interpreting them. All results are stored within the project folder.
 
-## 1. Decide Features for the Experiment
+## 1. Decide which Features to Test
 
-Choose one feature or multiple related features for the experiment. See [full list and details of features](Link ToFeaturesHandbook???) utilised by the model.
+Choose one feature or multiple related features for the experiment. See [full list and details of features](https://github.com/Lighthouse-Reports/suspicion_machine/blob/main/data/06_feature_information/features.csv) utilised by the model.
 
-## 2. Creating `ini` Config File
+## 2. Create an `ini` Config File
 
 Each experiment must have a corresponding config file that defines the author, experiment name, features and their specific values, business rules, and bins.
 1. Decide single or multiple feature experiment
-2. Copy `conf/test_template.ini` to `conf/single_feature` or `conf/multi_feature` depending on the experiment type
+2. Adapt `conf/template.ini` to your needs and copy it to `conf/single_feature`, `conf/multi_feature`, or your own directory.
 3. Pay especially close attention to matching the pattern of `variable_list`: Each variable lives within a nested list. A variable itself is a dictionary with the variable name as the key and the values you want to compare as the value in list-form. Both the variable name and the individual values need to be in quotation marks. If you want to compare across all unique values, you can specify `"ALL"` in the values list.
 4. If you are interested in conditional statistical parity and you are looking at a variable with 100s of possible values. It is almost always better to specify a couple of values rather than using the binning list.
 
@@ -30,14 +30,12 @@ Each experiment must have a corresponding config file that defines the author, e
 
 1. One folder for each experiment is created, containing:
    1. pairwise t-tests for statistical significance,
-   2. summary stats for each level of the variables specified in `variable_list` in the config file, and
-   3. Decile line graphs and shift bar graphs for intuitive interpretation
+   2. summary stats for each level of the variables specified in `variable_list` in the config file, 
+   3. Decile counts: Number of observations in each risk score decile across all investigated characteristics and
+   4. Decile line graphs and shift bar graphs for intuitive interpretation
 2. Note that all the variables in `variable_list` are combined into a single variable in string format. For instance, if you are interested in the impact of `var1` and `var2`, we might end up with four levels:
    - `var1 = 0, var2 = 0`
    - `var1 = 0, var2 = 1`
    - `var1 = 1, var2 = 0`
    - `var1 = 1, var2 = 1`
 3. These variable combinations correspond to all possible value combinations of the variables in `variable_list`.
-
-# Other Scripts
-## [Htet] explain how tree scrip is used

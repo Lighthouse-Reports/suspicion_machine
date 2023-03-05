@@ -107,8 +107,4 @@ for (i.tree in seq(1:final_model$n.trees)) {
   plt <- plot(tr)
   html_path <- paste0(html_dir, file_name, '.html')
   saveWidget(plt, html_path)
-  
-  # Screenshot html output to png
-  png_path <- paste0(png_dir, file_name, '.png')
-  webshot(html_path, png_path, zoom = 2)
 }

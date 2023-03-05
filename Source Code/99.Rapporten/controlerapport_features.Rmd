@@ -1,0 +1,94 @@
+---
+title: "Controlerapport features"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+author: 'User: `r Sys.getenv("USERNAME")`'
+output: html_document
+params: 
+  #abtfile: "D:/DATA/SHARED/Analytics_Uitkeringsfraude/2.Data/25.ABT/abt_basis_newlist_p010.feather"
+  #featfile: "D:/DATA/SHARED/Analytics_Uitkeringsfraude/1.Code/99.Rapporten/newlist_p010/abt_feature_profiles.feather"
+  feat_range: c(7:18)
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(feather)
+library(knitr) # voor kable()
+library(plotly) # voor ggplotly()
+library(plotROC) # voor geom_ROC()
+library(DT) # voor datatable() editbare html tabel
+source("D:/DATA/SHARED/Analytics_Uitkeringsfraude/1.Code/10.Functies/init.R")
+abt <- read_feather(paste0(abtfolder, "abt_basis_", dtlaad, "_", label, ".feather"))
+abt_feature_profiles <- read_feather(paste0(rapportfolder, label, "/abt_feature_profiles.feather"))
+```
+
+### ABT:
+`r label`
+
+## Histogrammen
+De plots tonen de verdeling van featurewaarden voor de train/testset, de controleset en de scoringset. Verschillen tussen deze sets kunnen informatie bevatten over de toepasbaarheid en performance van de modellen.
+De <span style="color:tomato">rood</span> gedrukte features vallen weg in de nzv/mc-featureselectie (als die heeft plaatsgevonden).  
+
+```{r legenda, echo=FALSE, fig.height=2.5, fig.width=5, message=FALSE}
+# Eerst plotje met aantallen per type en legendakleuren
+plt <- abt %>% 
+  ggplot(aes(x = type)) + 
+  geom_bar(aes(fill = type)) + 
+  theme(axis.text = element_text(size = 7))
+print(plt)
+```
+
+
+```{r histogrammen, echo=FALSE, fig.height=2.5, fig.width=2.5, message=FALSE}
+# Dan plotjes voor features, zonder legenda
+for (feature_i in abt_feature_profiles$feature[params$feat_range]) {
+  # lettergrootte aanpassen aan beschikbare breedte (maar max 12 punts)
+  x_char_size <- pmin(100 * opts_current$get("fig.width") / nchar(feature_i), 12)
+  keep_nzv <- abt_feature_profiles %>% filter(feature == feature_i) %>% pull(keep_nzv)
+  keep_mc <- abt_feature_profiles %>% filter(feature == feature_i) %>% pull(keep_mc)
+  x_char_color <- if_else(keep_nzv == "drop_nzv" | keep_mc == "drop_mc", "tomato", "black")
+  plt <- abt %>% 
+    ggplot(aes_string(x = feature_i)) + 
+    geom_histogram(aes(fill = type), position = "dodge") +
+    theme(legend.position = "none",
+          axis.title.x = element_text(size = x_char_size, color = x_char_color),
+          axis.title.y = element_blank(),
+          axis.text = element_text(size = 7))
+  print(plt)
+}  
+  
+```
+
+## Density plots
+Deze plots tonen de relatieve verdeling binnen de train/testset, controleset en scoringset.  
+De <span style="color:tomato">rood</span> gedrukte features vallen weg in de nzv/mc-featureselectie (als die heeft plaatsgevonden).  
+
+```{r legenda_density, echo=FALSE, fig.height=2.5, fig.width=5, message=FALSE}
+# Eerst plotje met aantallen per type en legendakleuren
+plt <- abt %>% 
+  ggplot(aes(x = type)) + 
+  geom_bar(aes(fill = type)) + 
+  theme(axis.text = element_text(size = 7))
+print(plt)
+```
+
+```{r density, echo=FALSE, fig.height=2.5, fig.width=2.5, message=FALSE}
+# Dan plotjes voor features, zonder legenda
+for (feature_i in abt_feature_profiles$feature[params$feat_range]) {
+  # lettergrootte aanpassen aan beschikbare breedte (maar max 12 punts)
+  x_char_size <- pmin(100 * opts_current$get("fig.width") / nchar(feature_i), 12)
+  keep_nzv <- abt_feature_profiles %>% filter(feature == feature_i) %>% pull(keep_nzv)
+  keep_mc <- abt_feature_profiles %>% filter(feature == feature_i) %>% pull(keep_mc)
+  x_char_color <- if_else(keep_nzv == "drop_nzv" | keep_mc == "drop_mc", "tomato", "black")
+  plt <- abt %>% 
+    ggplot(aes_string(x = feature_i)) + 
+    geom_density(aes(fill = type, color = type), alpha = 0.3) +
+    theme(legend.position = "none",
+          axis.title.x = element_text(size = x_char_size, color = x_char_color),
+          axis.title.y = element_blank(),
+          axis.text = element_text(size = 7))
+  print(plt)
+}  
+  
+```
+

@@ -1,0 +1,114 @@
+---
+title: "Controlerapport ABT"
+author: "Pieter Koppelaar"
+output: html_document
+knit: (
+  function(inputFile, encoding) {
+  
+  out_dir <- "newlist_p010"
+  
+  rmarkdown::render(
+    input = inputFile,
+    encoding = encoding,
+    output_file = file.path(dirname(inputFile), out_dir, "Controlerapport_abt.html")) })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(feather)
+library(knitr)
+
+source("D:/DATA/SHARED/Analytics_Uitkeringsfraude/1.Code/10.Functies/init.R")
+abt_locatie <- paste0("abt_basis_", dtlaad, "_", label, ".feather")
+abt_oud_locatie <- "abt_basis_2020-07-23_fullrun_p010.feather" #AANPASSEN AAN ABT WAARMEE JE VERGELIJKT
+
+
+# welke grenswaarden hanteren bij verandering variatie
+modus_relatief <- 0.8
+modus_absoluut <- 0.02
+
+abt <- read_feather(paste0(abtfolder, abt_locatie))
+abt_oud <- read_feather(paste0(abtfolder, abt_oud_locatie)) 
+
+# creeren van folder waarheen we wegschrijven
+rapport_location <- paste0(rapportfolder, label)
+dir.create(rapport_location, showWarnings = FALSE)
+
+```
+
+## Inleiding
+
+In dit rapport worden een aantal eigenschappen van de ABT getoond. Op basis hiervan kan gecontroleerd worden of de verwerking van de databestanden probleemloos is verlopen. Achtereenvolgens wordt het volgende weergegeven:
+* De actualiteit van de diverse bronbestanden;
+* Ontbrekende en/of nieuwe features in vergelijking met vorige ABT;
+* Opvallende wijzigingen van de inhoud van de features.
+
+# Actualiteit
+
+Hieronder wordt de actualiteit van de tabellen weergegeven (de meest recente mutatiedatum) van de gebruikte tabellen. Wanneer een bepaalde tabel niet actueel is moet nagegaan worden of de update van de tabel wel goed verwerkt is. Een andere mogelijke verklaring kan zijn dat we wel een update krijgen, maar dat de tabel niet meer geactualiseerd wordt in het bronsysteem.
+
+```{r datum, echo=FALSE}
+abt %>%
+  slice(1) %>%
+  select(ends_with("_controledatum")) %>%
+  gather(key="tabel", value="datum") %>%
+  mutate(tabel = sub("_controledatum", "", .$tabel)) %>% 
+  arrange(datum) %>%
+  kable()
+```
+
+
+# Verdwenen features
+De volgende features die aanwezig waren in de vorige ABT komen nu niet meer voor. Wanneer dit enkele features per tabel zijn is dit te verklaren door verschuivingen in het maken van de rest categorie bij verdichtingen door categorize(). Wanneer dit er veel per tabel zijn is er wellicht iets anders aan de hand en moet dit nader bekeken worden.
+```{r verdwenen_features, echo=FALSE, warning=FALSE}
+abt_oud %>% 
+  select(-one_of(names(abt))) %>% 
+  names() %>% 
+  data.frame(featurenaam=.) %>% 
+  kable()
+```
+
+
+# Nieuwe features
+De volgende features zijn nieuw en kwamen niet voor in de vorige ABT. Wanneer dit enkele features per tabel zijn is dit te verklaren door verschuivingen in het maken van de rest categorie bij verdichtingen door categorize().
+```{r nieuwe_features, echo=FALSE, warning=FALSE}
+abt %>% 
+  select(-contains("_controledatum")) %>%
+  select(-one_of(names(abt_oud))) %>% 
+  names() %>% 
+  data.frame(featurenaam=.) %>% 
+  kable()
+```
+
+# Veranderingen in variatie binnen features
+In onderstaande tabel worden features gerapporteerd die in vergelijking met de vorige ABT veel aan variatie hebben ingeleverd. Variatie is hier geoperationaliseerd door de verhouding van de modus op het totaal aantal records. Features waar een daling van >2%-punt (absolute daling) of >20% (relatieve daling) is waargenomen worden gerapporteerd. 
+
+```{r daling_variatie, echo=FALSE, warning=FALSE}
+proportion_modus <- function(data){
+  result = data %>%
+    data.frame(data=.) %>%
+    group_by(data) %>%
+    summarize(n=n()) %>%
+    mutate(freq = n/sum(n)) %>% 
+    arrange(-freq) %>% 
+    slice(1) %>% 
+    pull(freq)
+  return(result)
+}
+
+
+prop_modus_oud <- abt_oud %>% 
+  summarize_all(proportion_modus) %>%
+  gather(key="featurenaam", value="prop_modus_oud")
+
+abt %>% 
+  summarize_all(proportion_modus) %>%
+  gather(key="featurenaam", value="prop_modus") %>%
+  inner_join(prop_modus_oud, by="featurenaam") %>%
+  filter((prop_modus_oud - prop_modus > modus_absoluut) | 
+         (prop_modus / prop_modus_oud < modus_relatief )) %>%
+  kable()
+
+```
+

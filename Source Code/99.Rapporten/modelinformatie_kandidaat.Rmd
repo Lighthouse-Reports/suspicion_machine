@@ -1,0 +1,117 @@
+---
+title: "Modelinformatie kandidaatmodellen"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+author: 'User: `r Sys.getenv("USERNAME")`'
+output: html_document
+params: 
+  modelfile: "D:/DATA/SHARED/Analytics_Uitkeringsfraude/1.Code/99.Rapporten/sample_data/kandidaat_modellen.rds"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(knitr) # voor kable()
+library(plotly) # voor ggplotly()
+library(plotROC) # voor geom_ROC()
+library(DT) # voor datatable() editbare html tabel
+source("D:/DATA/SHARED/Analytics_Uitkeringsfraude/1.Code/10.Functies/init.R")
+modellen <- read_rds(params$modelfile) %>% 
+  mutate(naam = paste(methode, metric, sep="-"))
+conclusie_file <- paste0(modelfolder, dtlaad, "_", label, "/conclusie_kandidaatmodellen.txt")
+```
+
+## Conclusie
+`r if (file.exists(conclusie_file)) {read_file(conclusie_file)} else {"Nog niet geformuleerd."}`  
+
+<i>Hieronder staan in meer detail de modelkarakteristieken waarop de conclusie gebaseerd is.</i>
+
+## Modellen
+In onderstaande tabel zien we een cijfermatige vergelijking van de modellen. In de kolom methode staat het toegepaste machine learning algoritme. De metric is de meetwaarde waarop het algoritme geoptimaliseerd is. Dat houdt in dat we variëren in de hyperparameters die voor een algoritme beschikbaar zijn ('tuning grid') en in een cross-validatie binnen de trainingsset te kijken met welke instelling van de hyperparameter(s) de metric maximaal of minimaal is. Vervolgens wordt met deze optimale instelling een predictie op de testset gedaan. De uitkomst daarvan staat in de kolommen Accuracy, Kappa en de diverse hitrates. Voordat het algoritme getraind werd, is een featureselectie toegepast. De naam hiervan staat in de 4e kolom en bevat een korte aanduiding van de toegepaste selectietechnieken.  
+
+```{r modellen_overview, echo=FALSE}
+modellen  %>%
+  mutate(train_n = map(model, function(x) nrow(x$trainingData))) %>%
+  mutate(test_n = map(prediction, nrow)) %>%
+  unnest(train_n, test_n) %>%
+  select(naam, methode, metric, featureselect, traindata, `N train` = train_n, testdata, `N test` = test_n, metrics) %>%
+  unnest(metrics) %>%
+  datatable()
+```
+
+## Hitrates
+De hitrates plot toont het cumulatieve aandeel juiste voorspellingen (hits) over de aflopend gesorteerde risicoscores. Het geeft een indicatie van de 'lift' die te verwachten is indien we de top-X hoogste scores aan een heronderzoek onderwerpen. De grafiek zal in het begin behoorlijk fluctueren, omdat de cumulatieve waarde bij kleine aantallen sterk kan variëren. Per definitie daalt de plot tot het aandeel hits in de gehele populatie (baseline); de 'gehele populatie' is hier de testset. De 'lift' is het verschil tussen de hitrate en de baseline. Is bijvoorbeeld in de eerste 500 van de totaal 2500 observaties de lift 0.2 op een baseline van 0.5, dan verwachten we op de uiteindelijke scoringspopulatie ook een lift van 0.2/0.5 ten opzichte van de baseline voor de eerste 500/2500 (=20%) personen.  
+
+```{r hitrates, echo=FALSE}
+temp <- modellen %>% 
+  select(naam, methode, metric, prediction) %>%
+  unnest() %>%
+  ggplot(aes(x = positie, y = hitrate, color = naam))+
+  geom_line()+
+  geom_hline(aes(yintercept = last(hitrate)), color = "red")
+  
+  ggplotly(temp)
+```
+
+## ROC
+De ROC curve laat zien hoe goed een model onderscheid kan maken tussen de klassen (fraude 'Ja' dan wel 'Nee'). Hij ontstaat door te variëren in de drempelwaarde waarboven we aan een observatie met een bepaalde risicoscore de klasse 'Ja' toekennen: van 0 (altijd 'Ja') tot 1 (altijd 'Nee'). Hoe meer de grafiek naar linksboven neigt (oftewel hoe groter het oppervlak onder de curve, de 'AUC'), hoe beter het model kan onderscheiden.
+NB: de plot zegt niets over de 'beste' drempelwaarde, want dat is een businessafweging: wil je een hoge sensitivity of een hoge specifictity? Anders gezegd: wil je zo veel mogelijk true positives, met meer false positives als keerzijde, of zo veel mogelijk true negatives, met meer false negatives als keerzijde?
+Voor het risicomodel van uitkeringsfraude is de drempelwaarde niet echt van belang, omdat we alleen naar de scores kijken.  
+
+```{r ROC, echo=FALSE}
+temp <- modellen %>% 
+  select(naam, methode, metric, prediction) %>%
+  unnest() %>%
+  mutate(class_actual_binary = if_else(class_actual %in% "Nee", 0, 1)) %>%
+  ggplot(aes(d = class_actual_binary, m = Ja, color = naam)) +
+  geom_roc()
+  
+  
+  print(temp)
+```
+
+## Relatieve belangrijkheid
+Hieronder staat een tabel met de relatieve belangrijkheid van features voor elk van de modellen. De relatieve belangrijkheid (variable importance) is een maat voor de rol die een feature speelt in het model. De maat is relatief: de hoogst scorende feature heeft altijd een waarde van 100, features die geen rol spelen de waarde 0. De wijze waarop het getal voor de belangrijkheid bepaald wordt, hangt af van de toegepaste modelleertechniek. Klik op de kolomkop om op belangrijkheid te sorteren voor het desbetreffende model.  
+
+```{r belangrijkheid, echo=FALSE}
+modellen %>% 
+  select(naam, varimp) %>% 
+  unnest() %>% 
+  spread(naam, relatieve_belangrijkheid) %>%
+  datatable()
+
+```
+
+## Calibratieplot
+De calibratieplot toont hoe evenwichtig een model over alle kansklassen presteert. Heeft bijvoorbeeld de groep van 10% laagst scorende observaties ook ongeveer 10% als targetwaarde 'Ja'? De groepen worden bepaald op basis van kwantielen, zodat in elke groep evenveel observaties zitten. Voor elke groep wordt vervolgens gekeken welk percentage target 'Ja' heeft. Een perfect gekalibreerd model laat een diagonale lijn onder een hoek van 45 graden zien. Een golvende lijn betekent dat een model in sommige kansklassen overschat en in andere onderschat.  
+
+```{r calibratie, echo=FALSE}
+tmp <- modellen %>% 
+  select(naam, prediction) %>% 
+  unnest() %>%
+  group_by(naam) %>%
+  arrange(Ja) %>%
+  mutate(bin = cut(Ja, 10, labels=1:10)) %>%
+  group_by(naam, bin) %>%
+  summarize(x = mean(Ja), y = mean(class_actual == "Ja")) %>%
+  ungroup()
+
+tmp_plot <- ggplot(tmp, aes(x,y, colour=naam)) +
+  geom_point() +
+  geom_line() 
+
+ggplotly(tmp_plot)
+
+```
+
+
+## Stabiliteit
+Bij Stabiliteit kijken we naar de spreiding van de performance metric waarden. Daarmee is te zien hoe stabiel het model presteert over alle iteraties heen.  
+
+```{r stabiliteit, echo=FALSE}
+tmp <- unique(modellen$metric)
+for(i in 1:length(tmp)){
+  print(paste("Permormance metric (objective) =", tmp[i]))
+  model_selectie <- modellen %>% filter(metric %in% tmp[i])
+  print(summary(caret::resamples(model_selectie %>% pull(model),  modelNames = model_selectie$naam)))
+}
+```

@@ -1,0 +1,215 @@
+---
+title: "Controlerapport model"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+author: 'User: `r Sys.getenv("USERNAME")`'
+output: html_document
+knit: (
+  function(inputFile, encoding) {
+  
+  out_dir <- "newlistrun_aug2019"
+  
+  rmarkdown::render(
+    input = inputFile,
+    encoding = encoding,
+    output_file = file.path(dirname(inputFile), out_dir, "Controlerapport_model.html")) })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(caret)
+library(gbm)
+library(plyr)
+library(tidyverse)
+library(feather)
+library(knitr)
+
+source("D:/DATA/SHARED/Analytics_Uitkeringsfraude/1.Code/10.Functies/init.R")
+
+# creeren van folder waarheen we wegschrijven
+rapport_location <- paste0(rapportfolder, label)
+dir.create(rapport_location, showWarnings = FALSE)
+
+# Inlezen modellen & abt's.
+abt_locatie <- paste0("abt_basis_", dtlaad, "_", label, ".feather")
+abt_oud_locatie <- "abt_basis_2018-08-14_fullrun1.feather"
+model_locatie <- "/finale_model.rds" #test
+
+
+model <- read_rds(paste0(modelfolder, dtlaad, "_", label, model_locatie))
+model_oud <- read_rds(paste0(modelfolder, "2018-08-14_fullrun1", model_locatie))
+
+abt <- read_feather(paste0(abtfolder, abt_locatie)) %>%
+  filter(type %in% c("scoring"))
+  
+abt_oud <- read_feather(paste0(abtfolder, abt_oud_locatie)) %>%
+  filter(type %in% c("scoring"))
+
+# Berekenen risicoscores model op abt
+
+scores <- model$model[[1]] %>% 
+  predict(newdata = abt, type = "prob")
+
+scores <- abt %>%
+  select(persoon_id) %>%
+  mutate(score = scores$Ja)
+
+# Berekenen risicoscores oude model op oude abt
+
+scores_oud <- model_oud %>% 
+  predict(newdata = abt_oud, type = "prob")
+
+scores_oud <- abt_oud %>%
+  select(persoon_id) %>%
+  mutate(scores_oud = scores_oud$Ja)
+
+#Afdwingen dat we naar dezelfde persoon_id's kijken en deze op de zelfde regel staan.
+
+vergelijking <- scores %>%
+  left_join(scores_oud) %>%
+  filter(!is.na(scores_oud)) %>%
+  arrange(desc(persoon_id))
+
+# scoringskolom aan de abt toevoegen
+
+abt <- abt %>%
+    mutate(score = scores$score,
+           top10 = score >= quantile(score, .9))
+
+# vervolgens modellen toepassen op ABT's 
+
+
+```
+
+## Inleiding
+
+In dit rapport worden een aantal eigenschappen van een model getoond. Op basis hiervan kan beoordeeld worden of er issues zijn met het model. Achtereenvolgens wordt het volgende weergegeven:
+* De correlatie van de risicoscores uit het model met de risicoscores van een ouder model;
+* De hoogte van de risicoscores per subgroep;
+* Lijst met belangrijkste indicatoren in vergelijking met vorig model.
+
+# Correlatie
+Hieronder wordt voor twee verschillende ABT's en/of modellen (afhankelijk van de gekozen input) de correlatie weergegeven tussen de risicoscores. Een hoge correlatie (> 0.9?) is verwacht. Een lage correlatie (< 0.9?) is aanleiding voor nader onderzoek. De berekende correlatie is `r cor(vergelijking$score, vergelijking$scores_oud)`.
+
+
+
+# Over-/ondervertegewoordiging per subgroep
+In onderstaande tabellen wordt de relatieve prevalentie van subgroepen getoond. Een prevalentie van 1,00 geeft aan dat in de totale top 10% van de risicoscores de groep proportioneel vertegenwoordigd is. Een prevalentie van 0,5 geeft aan dat de groep de helft minder voorkomt in de top 10% dan in de algehele populatie. een prevalentie van 2 geeft aan dat een groep dubbel zoveel voorkomt in de top 10% dan in de algehele populatie.
+
+```{r risicoscores_per_subgroep, echo=FALSE, warning=FALSE}
+# berekening lukt nu nog niet vanwege mismatch model en abt
+# idee is om per groep een factor te tonen dat aangeeft hoeveel een groep over- of ondervertegenwoordigd is in de top (10%?). Dus een factor van 2 betekent dubbel zo vaak.
+
+# ------------
+# geslacht  --
+# ------------
+geslacht <- abt %>%
+  select(persoon_id, vrouw = geslachtvrouw, onbekend = geslachtonbekend, top10) %>%
+  mutate(man = ifelse(vrouw == 0 & onbekend == 0, 1,0)) %>%
+  gather(geslacht, waarde, -c(persoon_id, top10)) %>%
+  filter(waarde != 0)
+
+geslacht %>%
+  group_by(geslacht) %>%
+  dplyr::summarise(`relatieve prevalantie` = mean(top10)/.1,
+            `n totaal` = n(),
+            `n in top 10%` = sum(top10)) %>%
+  kable()
+
+#-------
+# WIJK -
+#-------
+
+# Bepalen welke wijk mist door het dummyficeren. Welke wijken hebben en uit welke wijken kunnen we kiezen? (LET OP categorize veranderd misschien welke wijken onder overig vallen)
+wijken <- stringr::str_replace_all(names(abt), "adres_recenste_wijk", "")
+alle_wijken <- c("charlois", "delfshaven","feijenoord","hillegersbe","hoogvliet","ijsselmonde","kralingenc", "noord", "other", "prins_alexa")
+missende_wijk <- alle_wijken[!alle_wijken %in% wijken]
+
+# als alle recentewijken optellen tot 0 is de waarde 1 bij de missende wijk
+recenstewijk <- abt %>%
+  select(persoon_id, top10, matches("recenste_wijk")) 
+
+recenstewijk <- recenstewijk %>%
+  mutate(missend = ifelse(rowSums(recenstewijk %>% select(matches("recenste_wijk"))) == 0, 1, 0))
+
+# maak de kolomnamen kloppend voorin de tabel in markdown
+names(recenstewijk) <- stringr::str_replace(names(recenstewijk), "adres_recenste_wijk", "")
+names(recenstewijk)[max(length(recenstewijk))] <- missende_wijk
+
+# gather zodat we kunnen group_by
+recenstewijk <- recenstewijk %>%
+  gather(adres_recenste_wijk, waarde, -c(persoon_id, top10)) %>%
+  filter(waarde != 0)
+
+# woongebied/wijk
+recenstewijk %>%
+  group_by(adres_recenste_wijk) %>%
+  dplyr::summarize(`relatieve prevalantie` = mean(top10)/.1,
+            `n totaal` = n(),
+            `n in top 10%` = sum(top10)) %>%
+  arrange(desc(`relatieve prevalantie`)) %>%
+  kable()
+
+# ---------------
+# rotterdam zuid
+# ---------------
+abt %>%
+  group_by(adres_onderdeel_rdamzuid) %>%
+  summarize(`relatieve prevalantie` = mean(top10)/.1,
+            `n totaal` = n(),
+            `n in top 10%` = sum(top10)) %>%
+  arrange(desc(`relatieve prevalantie`)) %>%
+  kable()
+
+# --------
+# leeftijd
+# --------
+abt %>%
+  mutate(lft_cat = case_when(
+    leeftijd < 30 ~ "<30",
+    leeftijd < 40 ~ "30-40",
+    leeftijd < 50 ~ "40-50",
+    TRUE ~ "50+")) %>%
+  group_by(lft_cat) %>%
+  summarize(`relatieve prevalantie` = mean(top10)/.1,
+            `n totaal` = n(),
+            `n in top 10%` = sum(top10)) %>%
+  arrange(desc(`relatieve prevalantie`)) %>%
+  kable()
+
+# partner
+abt %>%
+  group_by(relatie_partner_huidige_relatie) %>%
+  summarize(`relatieve prevalantie` = mean(top10)/.1,
+            `n totaal` = n(),
+            `n in top 10%` = sum(top10)) %>%
+  arrange(desc(`relatieve prevalantie`)) %>%
+  kable()
+
+#bewindvoerder
+abt %>%
+  group_by(relatie_overig_bewindvoerder) %>%
+  summarize(`relatieve prevalantie` = mean(top10)/.1,
+            `n totaal` = n(),
+            `n in top 10%` = sum(top10)) %>%
+  arrange(desc(`relatieve prevalantie`)) %>%
+  kable()
+
+
+```
+
+
+# Belangrijkste indicatoren
+Hieronder worden de 20 belangrijkste indicatoren getoond van het model.
+
+```{r belangrijkste_indicatoren, echo=FALSE, warning=FALSE}
+model_varimp <- varImp(model$model[[1]])
+model_varimp$importance %>% 
+  as.data.frame() %>%
+  mutate(indicator=rownames(.)) %>% 
+  arrange(-Overall) %>% 
+  head(n=20) %>%
+  select(indicator, gewicht=Overall) %>%
+  kable()
+```
+
+

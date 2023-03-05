@@ -1,0 +1,135 @@
+---
+title: "Modelinformatie controlemodel"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+author: 'User: `r Sys.getenv("USERNAME")`'
+output: html_document
+params: 
+  modelfile: "D:/DATA/SHARED/Analytics_Uitkeringsfraude/2.Data/27.Model/2018-08-14_fullrun1/topkandidaat_modellen.rds"
+  n_bins_hist: 7
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(feather)
+library(knitr) # voor kable()
+library(plotly) # voor ggplotly()
+library(plotROC) # voor geom_ROC()
+library(DT) # voor datatable() editbare html tabel
+source("D:/DATA/SHARED/Analytics_Uitkeringsfraude/1.Code/10.Functies/init.R")
+modellen <- read_rds(params$modelfile) %>% 
+  mutate(naam = paste(methode, metric, sep="-"))
+conclusie_file <- paste0(modelfolder, dtlaad, "_", label, "/conclusie_controlemodel.txt")
+```
+
+## Conclusie
+`r if (file.exists(conclusie_file)) {read_file(conclusie_file)} else {"Nog niet geformuleerd."}`  
+
+<i>Hieronder staan in meer detail de modelkarakteristieken waarop de conclusie gebaseerd is.</i>
+
+
+## Modellen
+In onderstaande tabel zien we de uitkomsten van het controlemodel. Dit is een model dat we getraind hebben naast het reguliere proces. Het is bedoeld om een indicatie te krijgen van de modelprestaties op de scoringspopulatie. De resultaten op de reguliere testset geven daar geen goede indicatie van, omdat daarin de class prevalence (aandeel target=Ja) veel groter is. Daarom hebben we een controleset samengesteld van onderzoeken die (min of meer) aselect uitgevoerd zijn, onder de namen "HO2018_Aselect NPRZ" en "HO2018_Aselect_Noordoever". (NB.: deze onderzoeken zitten óók in de reguliere train/testset.)
+We gebruiken het type model en de modelparameters die als beste uit het reguliere train-testproces komen. Hiermee trainen we een nieuw model op data waar de controleset uitgehaald is en bepalen de accuracy en hitrates van dit model op de controleset. Niet ideaal, maar zo krijgen we toch een indicatie van de te verwachten resultaten in de praktijk.
+
+```{r modellen_overview, echo=FALSE}
+modellen  %>%
+  mutate(train_n = map(model, function(x) nrow(x$trainingData))) %>%
+  mutate(test_n = map(prediction, nrow)) %>%
+  unnest(train_n, test_n) %>%
+  select(naam, methode, metric, featureselect, traindata, `N train` = train_n, testdata, `N test` = test_n, metrics) %>%
+  unnest(metrics) %>%
+  datatable()
+```
+
+## Hitrates
+De hitrates plot toont het cumulatieve aandeel juiste voorspellingen (hits) over de aflopend gesorteerde risicoscores. De voorspellingen zijn nu geverifieerd tegen de controleset. De grafiek fluctueert in het begin, omdat de cumulatieve waarde bij kleine aantallen sterk kan variëren. Per definitie daalt de plot tot het aandeel hits in de gehele populatie (baseline); dat is hier de controleset. De 'lift' is het verschil tussen de hitrate en de baseline.   
+
+```{r hitrates, echo=FALSE}
+temp <- modellen %>% 
+  select(naam, methode, metric, prediction) %>%
+  unnest() %>%
+  ggplot(aes(x = positie, y = hitrate, color = naam))+
+  geom_line()+
+  geom_hline(aes(yintercept = last(hitrate)), color = "red")
+  
+  ggplotly(temp)
+```
+
+## Onderscheidingsvermogen
+De ROC curve laat zien hoe goed het controlemodel onderscheid kan maken tussen de klassen (onrechtmatigheid 'Ja' dan wel 'Nee'). Hoe meer de grafiek naar linksboven neigt (oftewel hoe groter het oppervlak onder de curve, de 'AUC'), hoe beter het model kan onderscheiden.  
+
+```{r ROC, echo=FALSE}
+temp <- modellen %>% 
+  select(naam, methode, metric, prediction) %>%
+  unnest() %>%
+  mutate(class_actual_binary = if_else(class_actual %in% "Nee", 0, 1)) %>%
+  ggplot(aes(d = class_actual_binary, m = Ja, color = naam)) +
+  geom_roc()
+  
+  
+  print(temp)
+```
+
+Nog 2 soorten plots om naar het onderscheidende vermogen te kijken:  
+- Een density plot laat zien hoe de klassen zijn verdeeld over de risicoscores. Je ziet de relatieve verdeling __binnen__ de klassen (zegt niets over de absolute aantallen in elke klasse.)  
+- Een histogram met het aandeel correct "Ja" voorspelde targets in "bins" van risicoscores die evenveel onderzoeken bevatten. Het aantal bins is arbitrair, nu ingesteld op: `r params$n_bins_hist`  
+
+```{r dens, echo=FALSE}
+
+for (i in 1:nrow(modellen)) {
+  
+  # scores op controleset ophalen
+  scores_val <- modellen$prediction[[i]]
+  nrow_val <- nrow(scores_val)
+  
+  plot_dens <- scores_val %>% 
+    ggplot(aes(x = Ja, fill = class_actual)) + 
+    geom_density(alpha = 0.5) +
+    ggtitle(paste0("Score vs Werkelijk, controleset (n=", nrow_val, "), model: ", modellen$naam[i], "")) +
+    xlab("Risicoscore") + 
+    ylab("Aantal onderzoeken") + 
+    guides(fill = guide_legend(title = "Target \nwerkelijk"))
+  
+  print(plot_dens) # binnen loops in knitr is een expliciete print nodig
+  
+  # scores verdelen in bins met gelijke aantallen onderzoeken
+  nbins <- params$n_bins_hist
+  qnt <- quantile(scores_val$Ja, seq(0, 1, 1/nbins))
+  qnt_l <- qnt[-length(qnt)]
+  qnt_r <- qnt[-1]
+  
+  scores_val_bins <- scores_val %>% 
+    mutate(bin = cut(.$Ja, breaks = quantile(.$Ja, seq(0, 1, 1/nbins)), include.lowest = TRUE)) %>% 
+    group_by(bin) %>% 
+    summarize(score = mean(class_actual == "Ja"), n = n()) %>% 
+    ungroup()
+  
+  scores_val_bins$qnt_l <- qnt_l
+  scores_val_bins$qnt_r <- qnt_r
+  scores_val_bins$qnt_m <- (qnt_l + qnt_r) / 2
+  scores_val_bins$binw <- qnt_r - qnt_l
+  
+  plot_hist <- scores_val_bins %>%   
+    ggplot(aes(x = qnt_m, y = score, width = binw, fill = bin)) + 
+    geom_col(color = "black") +
+    ggtitle(paste0("Score vs Werkelijk, controleset (n=", nrow_val, "), model: ", modellen$naam[i], ", aantal bins: ", nbins)) +
+    xlab("Risicoscore") + 
+    ylab("Fractie daadwerkelijk Target = Ja")
+  
+  print(plot_hist) # binnen loops in knitr is een expliciete print nodig
+}
+```
+
+
+## Relatieve belangrijkheid
+Hieronder staat een tabel met de relatieve belangrijkheid van features voor elk van de modellen. Klik op de kolomkop om op belangrijkheid te sorteren voor het desbetreffende model.  
+
+```{r belangrijkheid, echo=FALSE}
+modellen %>% 
+  select(naam, varimp) %>% 
+  unnest() %>% 
+  spread(naam, relatieve_belangrijkheid) %>%
+  datatable()
+
+```

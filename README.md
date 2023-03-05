@@ -5,7 +5,7 @@ This project is part of the [Surveillance Newsroom](https://www.lighthousereport
 ## Project Overview
 This project contains the source code for an investigation into the use of a welfare fraud prediction algorithm by the city of Rotterdam. The model used by Rotterdam is a [Gradient Boosting Machine (GBM)](https://deepai.org/machine-learning-glossary-and-terms/gradient-boosting) trained on a dataset of 12,707 past investigations into welfare fraud. This project contains source code for and results of the experiments conducted to explore and identify potential bias in the GBM model.
 
-### Partners
+### Reporting Partners
 - WIRED
 - Vers Beton 
 - Follow the Money
@@ -23,7 +23,7 @@ This project contains the source code for an investigation into the use of a wel
 
 ## Project Description
 This project explores the impact of beneficiaries' attributes on their risk scores. The GBM model evaluates the welfare beneficiaries based on 315 features and assigns each applicant a risk score from [0, 1], where higher risk score indicate greater risk of having committed some kind of 'illegality'. Illegality encompasses everything from simple mistakes on a form to serious fraud.
-This project uses data obtained, through press questions and FOIA from Rotterdam Municipality, and employs the following approaches:
+This project uses data obtained through press questions and public records requests from Rotterdam Municipality and employs the following approaches:
 - Testing whether the fraud prediction system violates Statistical Parity and Conditional Statistical Parity
 - Synthetic data generation for replication, since the original training data cannot be shared publicly due to GDPR concerns
 - Extraction of the model's decision trees
@@ -45,9 +45,9 @@ This project uses data obtained, through press questions and FOIA from Rotterdam
 
 ## Contributing Members
 
-**Htet Aung | https://github.com/NecklessCage | htet@ligthhousereports.com**
-
 **Justin-Casimir Braun | https://github.com/jusbraun | justin-casimir@lighthouseports.com**
+
+**Htet Aung | https://github.com/NecklessCage | htet@ligthhousereports.com**
 
 **Gabriel Geiger | https://github.com/gheghi18 | gabriel@lighthousereports.com**
 

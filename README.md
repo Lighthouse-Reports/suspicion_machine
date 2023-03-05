@@ -49,7 +49,7 @@ This project uses data obtained, through press questions and FOIA from Rotterdam
 
 **Justin-Casimir Braun | https://github.com/jusbraun | justin-casimir@lighthouseports.com**
 
-**Gabriel Geiger | https://github.com/gheghi18 | gabriel@lighthousereports.nl**
+**Gabriel Geiger | https://github.com/gheghi18 | gabriel@lighthousereports.com**
 
-**Eva Constantares | eva@lighthousereports.nl**
+**Eva Constantares | eva@lighthousereports.com**
 
